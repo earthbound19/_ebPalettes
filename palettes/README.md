@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![abstractBrowserAddon.png](abstractBrowserAddon.png) ](abstractBrowserAddon.png)
 
+### [collectedColors1](collectedColors1.hexplt)
+
+[ ![collectedColors1.png](collectedColors1.png) ](collectedColors1.png)
+
 ### [ColorSchemeHexBurntSandstone](ColorSchemeHexBurntSandstone.hexplt)
 
 [ ![ColorSchemeHexBurntSandstone.png](ColorSchemeHexBurntSandstone.png) ](ColorSchemeHexBurntSandstone.png)
@@ -213,9 +217,5 @@ Click any image to go to the source image; the text line above the image to go t
 ### [551_converted_from_HSL_simplified](551_converted_from_HSL_simplified.hexplt)
 
 [ ![551_converted_from_HSL_simplified.png](551_converted_from_HSL_simplified.png) ](551_converted_from_HSL_simplified.png)
-
-### [2019-11-20__08-48-42_PM_collected](2019-11-20__08-48-42_PM_collected.hexplt)
-
-[ ![2019-11-20__08-48-42_PM_collected.png](2019-11-20__08-48-42_PM_collected.png) ](2019-11-20__08-48-42_PM_collected.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
