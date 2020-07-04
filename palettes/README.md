@@ -34,6 +34,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyansForShimmeringSubtle.png](cyansForShimmeringSubtle.png) ](cyansForShimmeringSubtle.png)
 
+### [dark_fire_growth_water_light](dark_fire_growth_water_light.hexplt)
+
+[ ![dark_fire_growth_water_light.png](dark_fire_growth_water_light.png) ](dark_fire_growth_water_light.png)
+
 ### [darkBG](darkBG.hexplt)
 
 [ ![darkBG.png](darkBG.png) ](darkBG.png)
@@ -61,6 +65,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [fundamental_vivid_hues_lights](fundamental_vivid_hues_lights.hexplt)
 
 [ ![fundamental_vivid_hues_lights.png](fundamental_vivid_hues_lights.png) ](fundamental_vivid_hues_lights.png)
+
+### [fundamental_vivid_hues_lights_mod](fundamental_vivid_hues_lights_mod.hexplt)
+
+[ ![fundamental_vivid_hues_lights_mod.png](fundamental_vivid_hues_lights_mod.png) ](fundamental_vivid_hues_lights_mod.png)
 
 ### [fundamental_vivid_hues_v2](fundamental_vivid_hues_v2.hexplt)
 
@@ -153,6 +161,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [sparkleHeartHexColors](sparkleHeartHexColors.hexplt)
 
 [ ![sparkleHeartHexColors.png](sparkleHeartHexColors.png) ](sparkleHeartHexColors.png)
+
+### [tigerDogRabbit_13shadesEach](tigerDogRabbit_13shadesEach.hexplt)
+
+[ ![tigerDogRabbit_13shadesEach.png](tigerDogRabbit_13shadesEach.png) ](tigerDogRabbit_13shadesEach.png)
 
 ### [tigerDogRabbit_HexColors](tigerDogRabbit_HexColors.hexplt)
 
