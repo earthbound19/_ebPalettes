@@ -62,10 +62,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![fundamental_vivid_hues_darks.png](fundamental_vivid_hues_darks.png) ](fundamental_vivid_hues_darks.png)
 
-### [fundamental_vivid_hues_darks_and_lights_looped](fundamental_vivid_hues_darks_and_lights_looped.hexplt)
-
-[ ![fundamental_vivid_hues_darks_and_lights_looped.png](fundamental_vivid_hues_darks_and_lights_looped.png) ](fundamental_vivid_hues_darks_and_lights_looped.png)
-
 ### [fundamental_vivid_hues_lights](fundamental_vivid_hues_lights.hexplt)
 
 [ ![fundamental_vivid_hues_lights.png](fundamental_vivid_hues_lights.png) ](fundamental_vivid_hues_lights.png)
@@ -177,10 +173,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [turtleGreenTetradicEtcHex](turtleGreenTetradicEtcHex.hexplt)
 
 [ ![turtleGreenTetradicEtcHex.png](turtleGreenTetradicEtcHex.png) ](turtleGreenTetradicEtcHex.png)
-
-### [XKCDcolorSurvey](XKCDcolorSurvey.hexplt)
-
-[ ![XKCDcolorSurvey.png](XKCDcolorSurvey.png) ](XKCDcolorSurvey.png)
 
 ### [10shadesOfGrayCIECAM02](10shadesOfGrayCIECAM02.hexplt)
 
