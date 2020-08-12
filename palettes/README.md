@@ -174,6 +174,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtcHex.png](turtleGreenTetradicEtcHex.png) ](turtleGreenTetradicEtcHex.png)
 
+### [VB-RB-dark-cyan-to-butter](VB-RB-dark-cyan-to-butter.hexplt)
+
+[ ![VB-RB-dark-cyan-to-butter.png](VB-RB-dark-cyan-to-butter.png) ](VB-RB-dark-cyan-to-butter.png)
+
 ### [10shadesOfGrayCIECAM02](10shadesOfGrayCIECAM02.hexplt)
 
 [ ![10shadesOfGrayCIECAM02.png](10shadesOfGrayCIECAM02.png) ](10shadesOfGrayCIECAM02.png)
@@ -189,6 +193,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [18shadesOfGrayCIECAM02](18shadesOfGrayCIECAM02.hexplt)
 
 [ ![18shadesOfGrayCIECAM02.png](18shadesOfGrayCIECAM02.png) ](18shadesOfGrayCIECAM02.png)
+
+### [196_max_chroma_hues_CIECAM02](196_max_chroma_hues_CIECAM02.hexplt)
+
+[ ![196_max_chroma_hues_CIECAM02.png](196_max_chroma_hues_CIECAM02.png) ](196_max_chroma_hues_CIECAM02.png)
 
 ### [250_MMpMwpZQ_HexColors_CIECAM02_sorted](250_MMpMwpZQ_HexColors_CIECAM02_sorted.hexplt)
 
