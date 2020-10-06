@@ -2,22 +2,20 @@
 
 Collection of palettes in `.hexplt` format, which is a list of RGB colors in hex format, one per line, like this:
 
-```
-#002147
-#003153
-#333366
-#32127a
-#79443b
-#a45a52
-```
+    #002147
+    #003153
+    #333366
+    #32127a
+    #79443b
+    #a45a52
 
-I invented this format (I think, but I wouldn't be surprised if others have done the same) for scripting to make art with lists of colors.
+I invented this format, I think, but I wouldn't be surprised if others have done the same. It is for use in creative coding, for example in writing scripts or generative art that operates on or imports lists of colors.
 
 ## Markdown galleries
 
-Navigate the folders on GitHub to see previews of palettes (rendered as .png images) via `README.md` files in each folder, like this:
+If you're viewing this repository at a web site such as GitHub or other context that renders HTML from the README.md, you may navigate the folders to see previews of palettes (rendered as .png images) via that README. You'll find palettes displayed like the below:
 
-### [palettes/RAHfavoriteColorsHex](palettes/RAHfavoriteColorsHex.hexplt)
+### [`palettes/RAHfavoriteColorsHex`](palettes/RAHfavoriteColorsHex.hexplt)
 
 [ ![palettes/RAHfavoriteColorsHex.png](palettes/RAHfavoriteColorsHex.png) ](palettes/RAHfavoriteColorsHex.png)
 

@@ -2,3003 +2,3003 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26](colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26.hexplt)
+### [`colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26`](colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26.hexplt)
 
 [ ![colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26.png](colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26.png) ](colormind_dot_io__04171B_0D4957_617E74_F5D1AC_E16B26.png)
 
-### [colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90](colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90.hexplt)
+### [`colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90`](colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90.hexplt)
 
 [ ![colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90.png](colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90.png) ](colormind_dot_io__042569_0525A4_0F1B46_BD9C64_F5EB90.png)
 
-### [colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E](colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E.hexplt)
+### [`colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E`](colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E.hexplt)
 
 [ ![colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E.png](colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E.png) ](colormind_dot_io__06232A_646D11_F8AF0E_F1400C_A80F1E.png)
 
-### [colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042](colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042.hexplt)
+### [`colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042`](colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042.hexplt)
 
 [ ![colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042.png](colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042.png) ](colormind_dot_io__063B5B_239E87_D2DF79_F6E626_E9A042.png)
 
-### [colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A](colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A.hexplt)
+### [`colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A`](colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A.hexplt)
 
 [ ![colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A.png](colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A.png) ](colormind_dot_io__079899_53AAAD_C5D3CB_C0B5E3_D4A99A.png)
 
-### [colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26](colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26.hexplt)
+### [`colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26`](colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26.hexplt)
 
 [ ![colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26.png](colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26.png) ](colormind_dot_io__07D374_0D894B_1C541E_CC6B3A_6B1A26.png)
 
-### [colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69](colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69.hexplt)
+### [`colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69`](colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69.hexplt)
 
 [ ![colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69.png](colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69.png) ](colormind_dot_io__091836_15406E_139EBF_BFCDB0_EFBB69.png)
 
-### [colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183](colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183.hexplt)
+### [`colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183`](colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183.hexplt)
 
 [ ![colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183.png](colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183.png) ](colormind_dot_io__091C3C_5D1415_653625_D21B1C_FEF183.png)
 
-### [colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C](colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
+### [`colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C`](colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
 
 [ ![colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C.png](colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C.png) ](colormind_dot_io__091D41_3F7297_D7DAD2_07435A_82181C.png)
 
-### [colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB](colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB.hexplt)
+### [`colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB`](colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB.hexplt)
 
 [ ![colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB.png](colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB.png) ](colormind_dot_io__093560_0A5886_067A8C_ACD28D_F6E3AB.png)
 
-### [colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE](colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE.hexplt)
+### [`colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE`](colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE.hexplt)
 
 [ ![colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE.png](colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE.png) ](colormind_dot_io__093E52_2F8691_33AA98_B2D061_FAF5CE.png)
 
-### [colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247](colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247.hexplt)
+### [`colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247`](colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247.hexplt)
 
 [ ![colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247.png](colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247.png) ](colormind_dot_io__095760_089194_F3F2E2_EBAE6B_C25247.png)
 
-### [colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E](colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E.hexplt)
+### [`colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E`](colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E.hexplt)
 
 [ ![colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E.png](colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E.png) ](colormind_dot_io__098266_4AF657_E2EE55_F46B29_7A192E.png)
 
-### [colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637](colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637.hexplt)
+### [`colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637`](colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637.hexplt)
 
 [ ![colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637.png](colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637.png) ](colormind_dot_io__099DD0_23A4B4_C2AE3E_D07350_DB3637.png)
 
-### [colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75](colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75.hexplt)
+### [`colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75`](colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75.hexplt)
 
 [ ![colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75.png](colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75.png) ](colormind_dot_io__09A7AD_51CDB2_F6F6CF_FD7A6D_F34D75.png)
 
-### [colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D](colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D.hexplt)
+### [`colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D`](colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D.hexplt)
 
 [ ![colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D.png](colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D.png) ](colormind_dot_io__0C1C40_71657B_D4711D_F9AB1D_D6B50D.png)
 
-### [colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24](colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24.hexplt)
+### [`colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24`](colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24.hexplt)
 
 [ ![colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24.png](colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24.png) ](colormind_dot_io__0C2436_15494E_959E42_E9D866_ECBC24.png)
 
-### [colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF](colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF.hexplt)
+### [`colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF`](colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF.hexplt)
 
 [ ![colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF.png](colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF.png) ](colormind_dot_io__0C3154_1B6A85_07A5DC_46D9C0_DAE9CF.png)
 
-### [colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E](colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.hexplt)
+### [`colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E`](colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.hexplt)
 
 [ ![colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png](colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png) ](colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png)
 
-### [colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459](colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459.hexplt)
+### [`colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459`](colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459.hexplt)
 
 [ ![colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459.png](colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459.png) ](colormind_dot_io__0C8FAD_EFE7C5_DB5B7A_C13034_966459.png)
 
-### [colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4](colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4.hexplt)
+### [`colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4`](colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4.hexplt)
 
 [ ![colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4.png](colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4.png) ](colormind_dot_io__0D2C4C_1E5A56_608068_82BF90_E0F8A4.png)
 
-### [colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647](colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647.hexplt)
+### [`colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647`](colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647.hexplt)
 
 [ ![colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647.png](colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647.png) ](colormind_dot_io__0D3E66_3F8DA6_D1E3DA_89CACB_0E2647.png)
 
-### [colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911](colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911.hexplt)
+### [`colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911`](colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911.hexplt)
 
 [ ![colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911.png](colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911.png) ](colormind_dot_io__0D6C13_129568_D3C41B_FBE611_ED5911.png)
 
-### [colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F](colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F.hexplt)
+### [`colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F`](colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F.hexplt)
 
 [ ![colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F.png](colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F.png) ](colormind_dot_io__0E1D2F_2F7418_DDB80A_ABC108_D2A08F.png)
 
-### [colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07](colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07.hexplt)
+### [`colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07`](colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07.hexplt)
 
 [ ![colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07.png](colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07.png) ](colormind_dot_io__0E2725_4D7564_8AADA3_FEFEFD_F10E07.png)
 
-### [colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16](colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16.hexplt)
+### [`colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16`](colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16.hexplt)
 
 [ ![colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16.png](colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16.png) ](colormind_dot_io__0E4567_0CB2B4_E8E331_F4770E_E12F16.png)
 
-### [colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946](colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946.hexplt)
+### [`colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946`](colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946.hexplt)
 
 [ ![colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946.png](colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946.png) ](colormind_dot_io__0F1D2B_185A57_83BA99_F6D98C_F86946.png)
 
-### [colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC](colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC.hexplt)
+### [`colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC`](colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC.hexplt)
 
 [ ![colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC.png](colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC.png) ](colormind_dot_io__0F3147_204E69_80776E_C5BFB6_50A3AC.png)
 
-### [colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916](colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916.hexplt)
+### [`colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916`](colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916.hexplt)
 
 [ ![colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916.png](colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916.png) ](colormind_dot_io__0F565E_096B90_960D8B_BC2239_BB5916.png)
 
-### [colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD](colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD.hexplt)
+### [`colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD`](colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD.hexplt)
 
 [ ![colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD.png](colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD.png) ](colormind_dot_io__101511_2C2310_7E773C_C6D0A5_FDFDFD.png)
 
-### [colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E](colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E.hexplt)
+### [`colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E`](colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E.hexplt)
 
 [ ![colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E.png](colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E.png) ](colormind_dot_io__101E33_192D37_497279_C5A685_DC9F3E.png)
 
-### [colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10](colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10.hexplt)
+### [`colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10`](colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10.hexplt)
 
 [ ![colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10.png](colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10.png) ](colormind_dot_io__102542_125C5B_CE9952_E26A23_8E0F10.png)
 
-### [colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28](colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28.hexplt)
+### [`colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28`](colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28.hexplt)
 
 [ ![colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28.png](colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28.png) ](colormind_dot_io__102E3C_208C80_A9D0AD_767462_452C28.png)
 
-### [colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D](colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D.hexplt)
+### [`colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D`](colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D.hexplt)
 
 [ ![colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D.png](colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D.png) ](colormind_dot_io__103E53_0689A0_5CD8CF_EEF0EF_FB550D.png)
 
-### [colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144](colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144.hexplt)
+### [`colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144`](colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144.hexplt)
 
 [ ![colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144.png](colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144.png) ](colormind_dot_io__107893_1B8BA1_EDEABE_F4AB44_E63144.png)
 
-### [colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835](colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835.hexplt)
+### [`colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835`](colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835.hexplt)
 
 [ ![colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835.png](colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835.png) ](colormind_dot_io__10B8CB_9CC7C7_E7BE7A_DE5E4C_483835.png)
 
-### [colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333](colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333.hexplt)
+### [`colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333`](colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333.hexplt)
 
 [ ![colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333.png](colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333.png) ](colormind_dot_io__10B9E7_199298_104F68_31473C_DAB333.png)
 
-### [colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15](colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15.hexplt)
+### [`colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15`](colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15.hexplt)
 
 [ ![colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15.png](colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15.png) ](colormind_dot_io__111D3D_49124B_C01F7F_E94B63_F67F15.png)
 
-### [colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949](colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949.hexplt)
+### [`colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949`](colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949.hexplt)
 
 [ ![colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949.png](colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949.png) ](colormind_dot_io__111E2D_36403D_C16416_EA8C30_F6C949.png)
 
-### [colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2](colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2.hexplt)
+### [`colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2`](colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2.hexplt)
 
 [ ![colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2.png](colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2.png) ](colormind_dot_io__111F31_08335B_1890A5_A5D4D2_A5ACB2.png)
 
-### [colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F](colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F.hexplt)
+### [`colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F`](colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F.hexplt)
 
 [ ![colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F.png](colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F.png) ](colormind_dot_io__11223F_14648F_3498E2_91C7BD_ADDB8F.png)
 
-### [colormind_dot_io__112736_239464_9ECE92_808083_DD7745](colormind_dot_io__112736_239464_9ECE92_808083_DD7745.hexplt)
+### [`colormind_dot_io__112736_239464_9ECE92_808083_DD7745`](colormind_dot_io__112736_239464_9ECE92_808083_DD7745.hexplt)
 
 [ ![colormind_dot_io__112736_239464_9ECE92_808083_DD7745.png](colormind_dot_io__112736_239464_9ECE92_808083_DD7745.png) ](colormind_dot_io__112736_239464_9ECE92_808083_DD7745.png)
 
-### [colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008](colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008.hexplt)
+### [`colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008`](colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008.hexplt)
 
 [ ![colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008.png](colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008.png) ](colormind_dot_io__113246_1C9BC3_B0F0F6_FBF3E1_F18008.png)
 
-### [colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434](colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434.hexplt)
+### [`colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434`](colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434.hexplt)
 
 [ ![colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434.png](colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434.png) ](colormind_dot_io__115173_3A93C6_DFE0DF_6E8B64_283434.png)
 
-### [colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C](colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C.hexplt)
+### [`colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C`](colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C.hexplt)
 
 [ ![colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C.png](colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C.png) ](colormind_dot_io__115254_508684_F5E3CA_D34C11_902C0C.png)
 
-### [colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A](colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A.hexplt)
+### [`colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A`](colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A.hexplt)
 
 [ ![colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A.png](colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A.png) ](colormind_dot_io__117966_9ECB31_FAF011_D60F6B_9B1D2A.png)
 
-### [colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E](colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E.hexplt)
+### [`colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E`](colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E.hexplt)
 
 [ ![colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E.png](colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E.png) ](colormind_dot_io__121B2C_11445B_196F8F_72B4C8_E5C06E.png)
 
-### [colormind_dot_io__122022_153138_146276_13728F_E6D98B](colormind_dot_io__122022_153138_146276_13728F_E6D98B.hexplt)
+### [`colormind_dot_io__122022_153138_146276_13728F_E6D98B`](colormind_dot_io__122022_153138_146276_13728F_E6D98B.hexplt)
 
 [ ![colormind_dot_io__122022_153138_146276_13728F_E6D98B.png](colormind_dot_io__122022_153138_146276_13728F_E6D98B.png) ](colormind_dot_io__122022_153138_146276_13728F_E6D98B.png)
 
-### [colormind_dot_io__122318_245440_ADA62E_B89A19_D87818](colormind_dot_io__122318_245440_ADA62E_B89A19_D87818.hexplt)
+### [`colormind_dot_io__122318_245440_ADA62E_B89A19_D87818`](colormind_dot_io__122318_245440_ADA62E_B89A19_D87818.hexplt)
 
 [ ![colormind_dot_io__122318_245440_ADA62E_B89A19_D87818.png](colormind_dot_io__122318_245440_ADA62E_B89A19_D87818.png) ](colormind_dot_io__122318_245440_ADA62E_B89A19_D87818.png)
 
-### [colormind_dot_io__122544_195659_9D9522_ED9735_EA601D](colormind_dot_io__122544_195659_9D9522_ED9735_EA601D.hexplt)
+### [`colormind_dot_io__122544_195659_9D9522_ED9735_EA601D`](colormind_dot_io__122544_195659_9D9522_ED9735_EA601D.hexplt)
 
 [ ![colormind_dot_io__122544_195659_9D9522_ED9735_EA601D.png](colormind_dot_io__122544_195659_9D9522_ED9735_EA601D.png) ](colormind_dot_io__122544_195659_9D9522_ED9735_EA601D.png)
 
-### [colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848](colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848.hexplt)
+### [`colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848`](colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848.hexplt)
 
 [ ![colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848.png](colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848.png) ](colormind_dot_io__124957_11AA58_C1B058_E6B048_F45848.png)
 
-### [colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329](colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329.hexplt)
+### [`colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329`](colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329.hexplt)
 
 [ ![colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329.png](colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329.png) ](colormind_dot_io__128C61_B5C669_E7D556_EE7137_D74329.png)
 
-### [colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478](colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478.hexplt)
+### [`colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478`](colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478.hexplt)
 
 [ ![colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478.png](colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478.png) ](colormind_dot_io__13142D_6A4D69_F4AC7C_ECA370_D9B478.png)
 
-### [colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F](colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F.hexplt)
+### [`colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F`](colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F.hexplt)
 
 [ ![colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F.png](colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F.png) ](colormind_dot_io__131534_26485D_067D86_E9DFC0_ED420F.png)
 
-### [colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522](colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522.hexplt)
+### [`colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522`](colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522.hexplt)
 
 [ ![colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522.png](colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522.png) ](colormind_dot_io__131921_2C1031_70392B_DE9B49_D84522.png)
 
-### [colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5](colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5.hexplt)
+### [`colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5`](colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5.hexplt)
 
 [ ![colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5.png](colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5.png) ](colormind_dot_io__131E32_284955_6E7660_B2CF62_E7D9A5.png)
 
-### [colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE](colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE.hexplt)
+### [`colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE`](colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE.hexplt)
 
 [ ![colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE.png](colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE.png) ](colormind_dot_io__134144_2D192D_5A9A9B_FAD272_FEF2AE.png)
 
-### [colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0](colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0.hexplt)
+### [`colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0`](colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0.hexplt)
 
 [ ![colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0.png](colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0.png) ](colormind_dot_io__134A57_379D8A_37BDA6_DAEBB1_C6C6A0.png)
 
-### [colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36](colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36.hexplt)
+### [`colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36`](colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36.hexplt)
 
 [ ![colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36.png](colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36.png) ](colormind_dot_io__141615_433533_767385_EDEBE6_CD8C36.png)
 
-### [colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D](colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D.hexplt)
+### [`colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D`](colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D.hexplt)
 
 [ ![colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D.png](colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D.png) ](colormind_dot_io__141B22_363832_CCCFCD_FCFBF9_C7363D.png)
 
-### [colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50](colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50.hexplt)
+### [`colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50`](colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50.hexplt)
 
 [ ![colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50.png](colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50.png) ](colormind_dot_io__142426_212741_689F5C_F8F5D2_DB9E50.png)
 
-### [colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7](colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7.hexplt)
+### [`colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7`](colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7.hexplt)
 
 [ ![colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7.png](colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7.png) ](colormind_dot_io__142C5A_0C2E73_1B71C0_49B2E7_54C3E7.png)
 
-### [colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A](colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A.hexplt)
+### [`colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A`](colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A.hexplt)
 
 [ ![colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A.png](colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A.png) ](colormind_dot_io__142E3C_3D625B_40A8B1_F2F3EE_D96A6A.png)
 
-### [colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09](colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09.hexplt)
+### [`colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09`](colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09.hexplt)
 
 [ ![colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09.png](colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09.png) ](colormind_dot_io__143642_2F7585_A1CDD4_FCFCFA_FC5B09.png)
 
-### [colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0](colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0.hexplt)
+### [`colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0`](colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0.hexplt)
 
 [ ![colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0.png](colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0.png) ](colormind_dot_io__15182A_EE5111_F5AA13_FEF517_30CAC0.png)
 
-### [colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39](colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39.hexplt)
+### [`colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39`](colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39.hexplt)
 
 [ ![colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39.png](colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39.png) ](colormind_dot_io__151A21_393539_BFA47A_CAB492_6E3B39.png)
 
-### [colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB](colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB.hexplt)
+### [`colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB`](colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB.hexplt)
 
 [ ![colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB.png](colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB.png) ](colormind_dot_io__152947_297571_E8563B_52473E_FFFEFB.png)
 
-### [colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005](colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005.hexplt)
+### [`colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005`](colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005.hexplt)
 
 [ ![colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005.png](colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005.png) ](colormind_dot_io__153B4D_399C74_BADB6F_FAE01B_FD7005.png)
 
-### [colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181](colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181.hexplt)
+### [`colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181`](colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181.hexplt)
 
 [ ![colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181.png](colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181.png) ](colormind_dot_io__153D33_458B73_72C272_CCDF69_D8F181.png)
 
-### [colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64](colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64.hexplt)
+### [`colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64`](colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64.hexplt)
 
 [ ![colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64.png](colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64.png) ](colormind_dot_io__154C56_539B58_FEEAC3_D7D8C3_595E64.png)
 
-### [colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441](colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441.hexplt)
+### [`colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441`](colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441.hexplt)
 
 [ ![colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441.png](colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441.png) ](colormind_dot_io__156F70_34A661_CFC24B_F8F5C1_DF4441.png)
 
-### [colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D](colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D.hexplt)
+### [`colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D`](colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D.hexplt)
 
 [ ![colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D.png](colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D.png) ](colormind_dot_io__161819_3C3E38_A2916A_D6B282_7C5D3D.png)
 
-### [colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0](colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0.hexplt)
+### [`colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0`](colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0.hexplt)
 
 [ ![colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0.png](colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0.png) ](colormind_dot_io__161930_662D12_CD5811_F1BB22_FDF6B0.png)
 
-### [colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C](colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C.hexplt)
+### [`colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C`](colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C.hexplt)
 
 [ ![colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C.png](colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C.png) ](colormind_dot_io__161A2E_0E5F6E_0C6B79_7C813D_CF8E1C.png)
 
-### [colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757](colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757.hexplt)
+### [`colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757`](colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757.hexplt)
 
 [ ![colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757.png](colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757.png) ](colormind_dot_io__161D28_48161C_C4CDCB_F8F0E2_695757.png)
 
-### [colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B](colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B.hexplt)
+### [`colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B`](colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B.hexplt)
 
 [ ![colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B.png](colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B.png) ](colormind_dot_io__161E29_3C0F22_661D1F_744325_AE6F2B.png)
 
-### [colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C](colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C.hexplt)
+### [`colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C`](colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C.hexplt)
 
 [ ![colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C.png](colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C.png) ](colormind_dot_io__162024_2D434D_6F6343_B6995B_F5CC7C.png)
 
-### [colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29](colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29.hexplt)
+### [`colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29`](colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29.hexplt)
 
 [ ![colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29.png](colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29.png) ](colormind_dot_io__162225_DBE0CF_CFD1B8_A78A54_963C29.png)
 
-### [colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D](colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D.hexplt)
+### [`colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D`](colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D.hexplt)
 
 [ ![colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D.png](colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D.png) ](colormind_dot_io__162D3D_107890_FEEFC3_E27A3F_B0262D.png)
 
-### [colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361](colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361.hexplt)
+### [`colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361`](colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361.hexplt)
 
 [ ![colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361.png](colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361.png) ](colormind_dot_io__162E3A_15565E_68E2BF_F2E2A1_EA7361.png)
 
-### [colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174](colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174.hexplt)
+### [`colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174`](colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174.hexplt)
 
 [ ![colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174.png](colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174.png) ](colormind_dot_io__163132_4A7724_B2A540_B9B133_D5C174.png)
 
-### [colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47](colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47.hexplt)
+### [`colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47`](colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47.hexplt)
 
 [ ![colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47.png](colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47.png) ](colormind_dot_io__163C2F_1A6B74_5EC05B_A5C333_D3DE47.png)
 
-### [colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24](colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24.hexplt)
+### [`colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24`](colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24.hexplt)
 
 [ ![colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24.png](colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24.png) ](colormind_dot_io__166169_3595A3_EAC198_F0B06C_DF2B24.png)
 
-### [colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E](colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E.hexplt)
+### [`colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E`](colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E.hexplt)
 
 [ ![colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E.png](colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E.png) ](colormind_dot_io__171F27_2C4349_298C8B_319893_F1E78E.png)
 
-### [colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61](colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61.hexplt)
+### [`colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61`](colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61.hexplt)
 
 [ ![colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61.png](colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61.png) ](colormind_dot_io__17212C_355772_6E6F76_CBBBAC_D2AF61.png)
 
-### [colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C](colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C.hexplt)
+### [`colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C`](colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C.hexplt)
 
 [ ![colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C.png](colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C.png) ](colormind_dot_io__172232_1B2D39_2D4151_499FAB_D9D16C.png)
 
-### [colormind_dot_io__172359_253563_41677F_4AB096_34E0A8](colormind_dot_io__172359_253563_41677F_4AB096_34E0A8.hexplt)
+### [`colormind_dot_io__172359_253563_41677F_4AB096_34E0A8`](colormind_dot_io__172359_253563_41677F_4AB096_34E0A8.hexplt)
 
 [ ![colormind_dot_io__172359_253563_41677F_4AB096_34E0A8.png](colormind_dot_io__172359_253563_41677F_4AB096_34E0A8.png) ](colormind_dot_io__172359_253563_41677F_4AB096_34E0A8.png)
 
-### [colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11](colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11.hexplt)
+### [`colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11`](colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11.hexplt)
 
 [ ![colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11.png](colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11.png) ](colormind_dot_io__172F46_30866E_F0B52D_FD8C07_E03B11.png)
 
-### [colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F](colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F.hexplt)
+### [`colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F`](colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F.hexplt)
 
 [ ![colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F.png](colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F.png) ](colormind_dot_io__175567_4D969C_F3EFE8_D8897A_AE261F.png)
 
-### [colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34](colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34.hexplt)
+### [`colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34`](colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34.hexplt)
 
 [ ![colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34.png](colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34.png) ](colormind_dot_io__176051_2CB78A_D9B44F_E29D31_F95C34.png)
 
-### [colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E](colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E.hexplt)
+### [`colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E`](colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E.hexplt)
 
 [ ![colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E.png](colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E.png) ](colormind_dot_io__181533_CA0F37_FE4C33_E8AF62_C3D98E.png)
 
-### [colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F](colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F.hexplt)
+### [`colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F`](colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F.hexplt)
 
 [ ![colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F.png](colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F.png) ](colormind_dot_io__18181A_9B793B_FCF2E7_ADD8D3_4D605F.png)
 
-### [colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4](colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4.hexplt)
+### [`colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4`](colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4.hexplt)
 
 [ ![colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4.png](colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4.png) ](colormind_dot_io__181E1E_2D443B_5F5D4E_A3B164_E6E8A4.png)
 
-### [colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5](colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5.hexplt)
+### [`colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5`](colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5.hexplt)
 
 [ ![colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5.png](colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5.png) ](colormind_dot_io__181F2D_1A4F57_235C6F_BAD6BC_EAEDC5.png)
 
-### [colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80](colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80.hexplt)
+### [`colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80`](colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80.hexplt)
 
 [ ![colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80.png](colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80.png) ](colormind_dot_io__182028_375F63_7C9198_D7D2B0_DFBD80.png)
 
-### [colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841](colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841.hexplt)
+### [`colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841`](colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841.hexplt)
 
 [ ![colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841.png](colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841.png) ](colormind_dot_io__182D26_4E6F48_89A548_EEEEE7_D98841.png)
 
-### [colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9](colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9.hexplt)
+### [`colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9`](colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9.hexplt)
 
 [ ![colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9.png](colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9.png) ](colormind_dot_io__18394F_2C8792_68AF9E_C1C583_F8F2C9.png)
 
-### [colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819](colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819.hexplt)
+### [`colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819`](colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819.hexplt)
 
 [ ![colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819.png](colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819.png) ](colormind_dot_io__191818_191A1A_FEFCF9_1C3242_191819.png)
 
-### [colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1](colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1.hexplt)
+### [`colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1`](colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1.hexplt)
 
 [ ![colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1.png](colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1.png) ](colormind_dot_io__192A4E_1E5F77_2B7F96_89B4C7_D1D3D1.png)
 
-### [colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09](colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09.hexplt)
+### [`colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09`](colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09.hexplt)
 
 [ ![colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09.png](colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09.png) ](colormind_dot_io__193233_617A78_ABB2B3_FEFEFD_D01F09.png)
 
-### [colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54](colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54.hexplt)
+### [`colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54`](colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54.hexplt)
 
 [ ![colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54.png](colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54.png) ](colormind_dot_io__19343D_193C43_81C1DB_CEE1C9_D2AE54.png)
 
-### [colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55](colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55.hexplt)
+### [`colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55`](colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55.hexplt)
 
 [ ![colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55.png](colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55.png) ](colormind_dot_io__193541_61A692_F0DDB7_D5C589_B26F55.png)
 
-### [colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54](colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54.hexplt)
+### [`colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54`](colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54.hexplt)
 
 [ ![colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54.png](colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54.png) ](colormind_dot_io__193949_364A9A_4E76CF_CFE2D1_DCBD54.png)
 
-### [colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192](colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192.hexplt)
+### [`colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192`](colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192.hexplt)
 
 [ ![colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192.png](colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192.png) ](colormind_dot_io__193D1B_334211_708638_CFCA4D_EFE192.png)
 
-### [colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E](colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E.hexplt)
+### [`colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E`](colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E.hexplt)
 
 [ ![colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E.png](colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E.png) ](colormind_dot_io__194838_31BE85_F4E9CA_F48232_D54E3E.png)
 
-### [colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F](colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F.hexplt)
+### [`colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F`](colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F.hexplt)
 
 [ ![colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F.png](colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F.png) ](colormind_dot_io__19A3B4_80C8AD_F9F1CA_E98E56_FB3C7F.png)
 
-### [colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6](colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6.hexplt)
+### [`colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6`](colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6.hexplt)
 
 [ ![colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6.png](colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6.png) ](colormind_dot_io__1A211D_3F6C61_96AD86_DADEBB_F6F3F6.png)
 
-### [colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C](colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C.hexplt)
+### [`colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C`](colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C.hexplt)
 
 [ ![colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C.png](colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C.png) ](colormind_dot_io__1A212D_3A3A45_967167_E0BD90_B4964C.png)
 
-### [colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D](colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D.hexplt)
+### [`colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D`](colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D.hexplt)
 
 [ ![colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D.png](colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D.png) ](colormind_dot_io__1A232E_D5F361_FFFDFC_B7C382_E15F3D.png)
 
-### [colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C](colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C.hexplt)
+### [`colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C`](colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C.hexplt)
 
 [ ![colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C.png](colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C.png) ](colormind_dot_io__1A262A_4C3725_C95021_DA9714_D7B80C.png)
 
-### [colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320](colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320.hexplt)
+### [`colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320`](colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320.hexplt)
 
 [ ![colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320.png](colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320.png) ](colormind_dot_io__1B0925_251D38_C46830_A83D32_D74320.png)
 
-### [colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4](colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4.hexplt)
+### [`colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4`](colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4.hexplt)
 
 [ ![colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4.png](colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4.png) ](colormind_dot_io__1B1F27_A92C3E_EE3642_DF8262_D0D7A4.png)
 
-### [colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B](colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B.hexplt)
+### [`colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B`](colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B.hexplt)
 
 [ ![colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B.png](colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B.png) ](colormind_dot_io__1B2335_1D3B4C_1A353F_966B34_E7C00B.png)
 
-### [colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677](colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677.hexplt)
+### [`colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677`](colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677.hexplt)
 
 [ ![colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677.png](colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677.png) ](colormind_dot_io__1B6E7D_99BA61_DEDE9F_FFFDF3_6B7677.png)
 
-### [colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189](colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189.hexplt)
+### [`colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189`](colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189.hexplt)
 
 [ ![colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189.png](colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189.png) ](colormind_dot_io__1C1A23_35294C_5E4485_5D7D89_DFD189.png)
 
-### [colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8](colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8.hexplt)
+### [`colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8`](colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8.hexplt)
 
 [ ![colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8.png](colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8.png) ](colormind_dot_io__1C1E2E_3E4D54_868F6C_C8D3A8_EACCA8.png)
 
-### [colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33](colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33.hexplt)
+### [`colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33`](colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33.hexplt)
 
 [ ![colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33.png](colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33.png) ](colormind_dot_io__1C2225_FBF2EF_FD266C_474048_242A33.png)
 
-### [colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23](colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23.hexplt)
+### [`colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23`](colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23.hexplt)
 
 [ ![colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23.png](colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23.png) ](colormind_dot_io__1C242F_76747A_C86349_ED8B4E_DE5D23.png)
 
-### [colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81](colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81.hexplt)
+### [`colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81`](colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81.hexplt)
 
 [ ![colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81.png](colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81.png) ](colormind_dot_io__1C4B97_0A78AD_BDC09D_F9EDD0_EFBF81.png)
 
-### [colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD](colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD.hexplt)
+### [`colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD`](colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD.hexplt)
 
 [ ![colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD.png](colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD.png) ](colormind_dot_io__1D1510_39251A_792F24_BFA53E_DFEBBD.png)
 
-### [colormind_dot_io__1D2439_305369_536783_D9964A_F89431](colormind_dot_io__1D2439_305369_536783_D9964A_F89431.hexplt)
+### [`colormind_dot_io__1D2439_305369_536783_D9964A_F89431`](colormind_dot_io__1D2439_305369_536783_D9964A_F89431.hexplt)
 
 [ ![colormind_dot_io__1D2439_305369_536783_D9964A_F89431.png](colormind_dot_io__1D2439_305369_536783_D9964A_F89431.png) ](colormind_dot_io__1D2439_305369_536783_D9964A_F89431.png)
 
-### [colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69](colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69.hexplt)
+### [`colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69`](colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69.hexplt)
 
 [ ![colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69.png](colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69.png) ](colormind_dot_io__1D272C_484859_F7F3EF_D7A19E_B66E69.png)
 
-### [colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78](colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78.hexplt)
+### [`colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78`](colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78.hexplt)
 
 [ ![colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78.png](colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78.png) ](colormind_dot_io__1E132D_261D40_351F53_475F67_E1CE78.png)
 
-### [colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9](colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9.hexplt)
+### [`colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9`](colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9.hexplt)
 
 [ ![colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9.png](colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9.png) ](colormind_dot_io__1E1B25_272B55_66636D_7F7E85_CFC4C9.png)
 
-### [colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46](colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46.hexplt)
+### [`colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46`](colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46.hexplt)
 
 [ ![colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46.png](colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46.png) ](colormind_dot_io__1E2225_48504D_BEB07A_DAB876_6A5D46.png)
 
-### [colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027](colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027.hexplt)
+### [`colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027`](colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027.hexplt)
 
 [ ![colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027.png](colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027.png) ](colormind_dot_io__1E4D47_2676A6_81C0DD_EAF2DD_C98027.png)
 
-### [colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A](colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A.hexplt)
+### [`colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A`](colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A.hexplt)
 
 [ ![colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A.png](colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A.png) ](colormind_dot_io__1EA396_A4CD3B_F7D21D_F66B1D_DD312A.png)
 
-### [colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2](colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2.hexplt)
+### [`colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2`](colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2.hexplt)
 
 [ ![colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2.png](colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2.png) ](colormind_dot_io__1F2431_1E3841_2F5C58_869993_F9EFB2.png)
 
-### [colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9](colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9.hexplt)
+### [`colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9`](colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9.hexplt)
 
 [ ![colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9.png](colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9.png) ](colormind_dot_io__201C28_46515A_595E84_B6ABBB_939DA9.png)
 
-### [colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92](colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92.hexplt)
+### [`colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92`](colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92.hexplt)
 
 [ ![colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92.png](colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92.png) ](colormind_dot_io__201F34_5F1C4B_E0225E_E35B50_DFCF92.png)
 
-### [colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573](colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573.hexplt)
+### [`colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573`](colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573.hexplt)
 
 [ ![colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573.png](colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573.png) ](colormind_dot_io__202128_2A3C3B_7CD951_E8EE88_F84573.png)
 
-### [colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131](colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131.hexplt)
+### [`colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131`](colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131.hexplt)
 
 [ ![colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131.png](colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131.png) ](colormind_dot_io__202229_4E363C_8A998B_D5CEB1_DA7131.png)
 
-### [colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1](colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1.hexplt)
+### [`colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1`](colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1.hexplt)
 
 [ ![colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1.png](colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1.png) ](colormind_dot_io__211F20_2C2B2B_4C8784_474746_F8EAC1.png)
 
-### [colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF](colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF.hexplt)
+### [`colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF`](colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF.hexplt)
 
 [ ![colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF.png](colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF.png) ](colormind_dot_io__21252B_09797A_279A80_ABD5B8_D9E7CF.png)
 
-### [colormind_dot_io__212629_202330_293B51_4C6869_69B28E](colormind_dot_io__212629_202330_293B51_4C6869_69B28E.hexplt)
+### [`colormind_dot_io__212629_202330_293B51_4C6869_69B28E`](colormind_dot_io__212629_202330_293B51_4C6869_69B28E.hexplt)
 
 [ ![colormind_dot_io__212629_202330_293B51_4C6869_69B28E.png](colormind_dot_io__212629_202330_293B51_4C6869_69B28E.png) ](colormind_dot_io__212629_202330_293B51_4C6869_69B28E.png)
 
-### [colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9](colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9.hexplt)
+### [`colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9`](colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9.hexplt)
 
 [ ![colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9.png](colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9.png) ](colormind_dot_io__212F40_5B7E90_75A887_BBC97C_EDEAB9.png)
 
-### [colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B](colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B.hexplt)
+### [`colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B`](colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B.hexplt)
 
 [ ![colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B.png](colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B.png) ](colormind_dot_io__213541_4F7662_676546_C5AF36_9C330B.png)
 
-### [colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35](colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35.hexplt)
+### [`colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35`](colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35.hexplt)
 
 [ ![colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35.png](colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35.png) ](colormind_dot_io__21595A_76A77D_C3DD82_F3933E_F45D35.png)
 
-### [colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C](colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C.hexplt)
+### [`colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C`](colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C.hexplt)
 
 [ ![colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C.png](colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C.png) ](colormind_dot_io__22251D_227E9C_C5EBEA_FBF9ED_ED400C.png)
 
-### [colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8](colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8.hexplt)
+### [`colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8`](colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8.hexplt)
 
 [ ![colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8.png](colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8.png) ](colormind_dot_io__22282A_1C7F82_56AB6A_CBBB43_F9F0B8.png)
 
-### [colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992](colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992.hexplt)
+### [`colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992`](colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992.hexplt)
 
 [ ![colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992.png](colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992.png) ](colormind_dot_io__222F23_56732A_8CB72C_B8DA42_C2D992.png)
 
-### [colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E](colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E.hexplt)
+### [`colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E`](colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E.hexplt)
 
 [ ![colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E.png](colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E.png) ](colormind_dot_io__224B52_53B080_F8C640_F36F28_E2432E.png)
 
-### [colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D](colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D.hexplt)
+### [`colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D`](colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D.hexplt)
 
 [ ![colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D.png](colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D.png) ](colormind_dot_io__225193_3ABE79_F5E443_E5A833_D2393D.png)
 
-### [colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F](colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F.hexplt)
+### [`colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F`](colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F.hexplt)
 
 [ ![colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F.png](colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F.png) ](colormind_dot_io__231822_36729A_BFB6CC_E9D8D3_BD4F4F.png)
 
-### [colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7](colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7.hexplt)
+### [`colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7`](colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7.hexplt)
 
 [ ![colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7.png](colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7.png) ](colormind_dot_io__232839_39858C_8FA5B7_C5DAC1_F4D8B7.png)
 
-### [colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125](colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125.hexplt)
+### [`colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125`](colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125.hexplt)
 
 [ ![colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125.png](colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125.png) ](colormind_dot_io__232D30_0A613C_1D808E_EAE3B6_EF6125.png)
 
-### [colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B](colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B.hexplt)
+### [`colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B`](colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B.hexplt)
 
 [ ![colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B.png](colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B.png) ](colormind_dot_io__233439_539D9C_C4C3B4_F5D7B7_EB626B.png)
 
-### [colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06](colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06.hexplt)
+### [`colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06`](colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06.hexplt)
 
 [ ![colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06.png](colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06.png) ](colormind_dot_io__233F3D_B7A357_D3823C_922817_400B06.png)
 
-### [colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5](colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5.hexplt)
+### [`colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5`](colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5.hexplt)
 
 [ ![colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5.png](colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5.png) ](colormind_dot_io__23404A_595E63_9EA780_D5D5AE_E1F5D5.png)
 
-### [colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593](colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593.hexplt)
+### [`colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593`](colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593.hexplt)
 
 [ ![colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593.png](colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593.png) ](colormind_dot_io__234136_7B7A73_AF906D_BEA57D_EEE593.png)
 
-### [colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252](colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252.hexplt)
+### [`colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252`](colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252.hexplt)
 
 [ ![colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252.png](colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252.png) ](colormind_dot_io__23485E_74B08A_EDD77C_FCA085_F45252.png)
 
-### [colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30](colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30.hexplt)
+### [`colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30`](colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30.hexplt)
 
 [ ![colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30.png](colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30.png) ](colormind_dot_io__238263_EFC598_F8A84F_F47023_D95D30.png)
 
-### [colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57](colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57.hexplt)
+### [`colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57`](colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57.hexplt)
 
 [ ![colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57.png](colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57.png) ](colormind_dot_io__24191E_851213_ABA995_F3E8CF_BB7F57.png)
 
-### [colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED](colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED.hexplt)
+### [`colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED`](colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED.hexplt)
 
 [ ![colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED.png](colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED.png) ](colormind_dot_io__242F39_508188_7F9882_CECBAE_F1F3ED.png)
 
-### [colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43](colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43.hexplt)
+### [`colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43`](colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43.hexplt)
 
 [ ![colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43.png](colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43.png) ](colormind_dot_io__243333_353938_D2D6D2_D8DCB0_AF7D43.png)
 
-### [colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7](colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7.hexplt)
+### [`colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7`](colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7.hexplt)
 
 [ ![colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7.png](colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7.png) ](colormind_dot_io__243852_3D596D_70B5C6_C9F7BC_FEF9B7.png)
 
-### [colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458](colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458.hexplt)
+### [`colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458`](colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458.hexplt)
 
 [ ![colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458.png](colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458.png) ](colormind_dot_io__243B43_5A8A68_A6B55F_C5B559_F3C458.png)
 
-### [colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89](colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89.hexplt)
+### [`colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89`](colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89.hexplt)
 
 [ ![colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89.png](colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89.png) ](colormind_dot_io__243D43_507E40_D2BC4A_F7EA71_B2AD89.png)
 
-### [colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B](colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B.hexplt)
+### [`colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B`](colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B.hexplt)
 
 [ ![colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B.png](colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B.png) ](colormind_dot_io__244065_208061_F0BE1F_F67409_E65E1B.png)
 
-### [colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839](colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839.hexplt)
+### [`colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839`](colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839.hexplt)
 
 [ ![colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839.png](colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839.png) ](colormind_dot_io__244158_23AD9F_E2DEA3_EEB12E_D64839.png)
 
-### [colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46](colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46.hexplt)
+### [`colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46`](colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46.hexplt)
 
 [ ![colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46.png](colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46.png) ](colormind_dot_io__244456_5688A5_F2F4F4_EAAC9F_D25B46.png)
 
-### [colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721](colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721.hexplt)
+### [`colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721`](colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721.hexplt)
 
 [ ![colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721.png](colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721.png) ](colormind_dot_io__244D31_2B5E4E_7D9166_F8C67D_3E1721.png)
 
-### [colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F](colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F.hexplt)
+### [`colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F`](colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F.hexplt)
 
 [ ![colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F.png](colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F.png) ](colormind_dot_io__245568_699167_D9CA7A_F7CE9F_DA7D7F.png)
 
-### [colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F](colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F.hexplt)
+### [`colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F`](colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F.hexplt)
 
 [ ![colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F.png](colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F.png) ](colormind_dot_io__24977D_23BE90_1FA27C_468636_85541F.png)
 
-### [colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D](colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D.hexplt)
+### [`colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D`](colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D.hexplt)
 
 [ ![colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D.png](colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D.png) ](colormind_dot_io__25192E_3C2730_B9A071_D6C78F_79694D.png)
 
-### [colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A](colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A.hexplt)
+### [`colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A`](colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A.hexplt)
 
 [ ![colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A.png](colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A.png) ](colormind_dot_io__252525_742F42_B67D33_C9BC4E_F2C09A.png)
 
-### [colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619](colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619.hexplt)
+### [`colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619`](colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619.hexplt)
 
 [ ![colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619.png](colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619.png) ](colormind_dot_io__252628_75867F_CACAC9_F7F9F8_9E5619.png)
 
-### [colormind_dot_io__25280A_50580A_759620_E68F31_5C2727](colormind_dot_io__25280A_50580A_759620_E68F31_5C2727.hexplt)
+### [`colormind_dot_io__25280A_50580A_759620_E68F31_5C2727`](colormind_dot_io__25280A_50580A_759620_E68F31_5C2727.hexplt)
 
 [ ![colormind_dot_io__25280A_50580A_759620_E68F31_5C2727.png](colormind_dot_io__25280A_50580A_759620_E68F31_5C2727.png) ](colormind_dot_io__25280A_50580A_759620_E68F31_5C2727.png)
 
-### [colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF](colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF.hexplt)
+### [`colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF`](colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF.hexplt)
 
 [ ![colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF.png](colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF.png) ](colormind_dot_io__25282C_48624F_6B9283_C9CBB5_E2E3AF.png)
 
-### [colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B](colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B.hexplt)
+### [`colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B`](colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B.hexplt)
 
 [ ![colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B.png](colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B.png) ](colormind_dot_io__25282E_2F3F4D_569043_99C84B_F3F02B.png)
 
-### [colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9](colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9.hexplt)
+### [`colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9`](colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9.hexplt)
 
 [ ![colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9.png](colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9.png) ](colormind_dot_io__252A2F_414B4F_7A5D58_AEADAE_F6F8F9.png)
 
-### [colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA](colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA.hexplt)
+### [`colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA`](colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA.hexplt)
 
 [ ![colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA.png](colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA.png) ](colormind_dot_io__252B2B_506968_A79485_DCD4CD_DAE5DA.png)
 
-### [colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2](colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2.hexplt)
+### [`colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2`](colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2.hexplt)
 
 [ ![colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2.png](colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2.png) ](colormind_dot_io__254874_31607D_98B7C2_7CA2CC_C4DDE2.png)
 
-### [colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E](colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E.hexplt)
+### [`colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E`](colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E.hexplt)
 
 [ ![colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E.png](colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E.png) ](colormind_dot_io__255163_70B184_D9E0AB_FDC086_FD915E.png)
 
-### [colormind_dot_io__261922_583945_93805D_E2B466_F7CE49](colormind_dot_io__261922_583945_93805D_E2B466_F7CE49.hexplt)
+### [`colormind_dot_io__261922_583945_93805D_E2B466_F7CE49`](colormind_dot_io__261922_583945_93805D_E2B466_F7CE49.hexplt)
 
 [ ![colormind_dot_io__261922_583945_93805D_E2B466_F7CE49.png](colormind_dot_io__261922_583945_93805D_E2B466_F7CE49.png) ](colormind_dot_io__261922_583945_93805D_E2B466_F7CE49.png)
 
-### [colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E](colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E.hexplt)
+### [`colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E`](colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E.hexplt)
 
 [ ![colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E.png](colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E.png) ](colormind_dot_io__261D2C_39283F_7A7A7B_E6BC65_B9582E.png)
 
-### [colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB](colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB.hexplt)
+### [`colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB`](colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB.hexplt)
 
 [ ![colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB.png](colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB.png) ](colormind_dot_io__26240C_253625_717324_ABB974_DEE7EB.png)
 
-### [colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23](colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23.hexplt)
+### [`colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23`](colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23.hexplt)
 
 [ ![colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23.png](colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23.png) ](colormind_dot_io__262722_4D4D37_E0C36F_C77B4D_733C23.png)
 
-### [colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979](colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979.hexplt)
+### [`colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979`](colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979.hexplt)
 
 [ ![colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979.png](colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979.png) ](colormind_dot_io__26282B_5B7247_B7BA66_C0BB93_E2C979.png)
 
-### [colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7](colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7.hexplt)
+### [`colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7`](colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7.hexplt)
 
 [ ![colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7.png](colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7.png) ](colormind_dot_io__26292A_343537_5D4D4F_856679_E7DAA7.png)
 
-### [colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18](colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18.hexplt)
+### [`colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18`](colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18.hexplt)
 
 [ ![colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18.png](colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18.png) ](colormind_dot_io__262F40_607A84_CDAD9B_F6EDD3_A31B18.png)
 
-### [colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50](colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50.hexplt)
+### [`colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50`](colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50.hexplt)
 
 [ ![colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50.png](colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50.png) ](colormind_dot_io__26474B_417D6F_CEE6AE_FCD19A_F54F50.png)
 
-### [colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557](colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557.hexplt)
+### [`colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557`](colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557.hexplt)
 
 [ ![colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557.png](colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557.png) ](colormind_dot_io__26604D_478463_DCBD9A_E49C44_F43557.png)
 
-### [colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955](colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955.hexplt)
+### [`colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955`](colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955.hexplt)
 
 [ ![colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955.png](colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955.png) ](colormind_dot_io__27182C_495768_42A092_B7CCC0_D8A955.png)
 
-### [colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836](colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836.hexplt)
+### [`colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836`](colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836.hexplt)
 
 [ ![colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836.png](colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836.png) ](colormind_dot_io__271F1B_FEF4DB_A9C3AE_64928E_483836.png)
 
-### [colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59](colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59.hexplt)
+### [`colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59`](colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59.hexplt)
 
 [ ![colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59.png](colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59.png) ](colormind_dot_io__271F2F_433555_816E87_DBACAE_DEAF59.png)
 
-### [colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36](colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36.hexplt)
+### [`colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36`](colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36.hexplt)
 
 [ ![colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36.png](colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36.png) ](colormind_dot_io__27242D_482332_24979B_C0DA8D_FE6A36.png)
 
-### [colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8](colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8.hexplt)
+### [`colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8`](colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8.hexplt)
 
 [ ![colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8.png](colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8.png) ](colormind_dot_io__272528_515C4E_AECAD6_3290BE_2A82A8.png)
 
-### [colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4](colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4.hexplt)
+### [`colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4`](colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4.hexplt)
 
 [ ![colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4.png](colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4.png) ](colormind_dot_io__272919_5B6526_CDDCB8_5DB9AD_5AA2A4.png)
 
-### [colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158](colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158.hexplt)
+### [`colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158`](colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158.hexplt)
 
 [ ![colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158.png](colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158.png) ](colormind_dot_io__272C33_6C8786_8DAEAB_4A5E67_2F5158.png)
 
-### [colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25](colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25.hexplt)
+### [`colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25`](colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25.hexplt)
 
 [ ![colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25.png](colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25.png) ](colormind_dot_io__273442_FAF3EE_C2CAC2_8D7772_5E2C25.png)
 
-### [colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF](colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF.hexplt)
+### [`colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF`](colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF.hexplt)
 
 [ ![colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF.png](colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF.png) ](colormind_dot_io__273B48_5F8E8C_96B3A2_F6E5B5_E5B8AF.png)
 
-### [colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944](colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944.hexplt)
+### [`colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944`](colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944.hexplt)
 
 [ ![colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944.png](colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944.png) ](colormind_dot_io__273B4D_3D9565_D1A422_E18617_E54944.png)
 
-### [colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616](colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616.hexplt)
+### [`colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616`](colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616.hexplt)
 
 [ ![colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616.png](colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616.png) ](colormind_dot_io__273E49_325F6C_A7DBB1_FEEFC9_351616.png)
 
-### [colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0](colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0.hexplt)
+### [`colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0`](colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0.hexplt)
 
 [ ![colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0.png](colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0.png) ](colormind_dot_io__274547_2C5F6B_71A8A3_CAD6D0_EEF2D0.png)
 
-### [colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4](colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4.hexplt)
+### [`colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4`](colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4.hexplt)
 
 [ ![colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4.png](colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4.png) ](colormind_dot_io__28272D_1E2125_465B5F_547275_A1C2A4.png)
 
-### [colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B](colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B.hexplt)
+### [`colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B`](colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B.hexplt)
 
 [ ![colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B.png](colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B.png) ](colormind_dot_io__282928_B1BE59_F2E483_A5C79B_5A5C5B.png)
 
-### [colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31](colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31.hexplt)
+### [`colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31`](colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31.hexplt)
 
 [ ![colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31.png](colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31.png) ](colormind_dot_io__28292E_55989B_ECDEC1_E8AC4D_4A2A31.png)
 
-### [colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB](colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB.hexplt)
+### [`colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB`](colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB.hexplt)
 
 [ ![colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB.png](colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB.png) ](colormind_dot_io__282B27_4A4A49_86675C_B59D70_E9DCAB.png)
 
-### [colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3](colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3.hexplt)
+### [`colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3`](colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3.hexplt)
 
 [ ![colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3.png](colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3.png) ](colormind_dot_io__283236_6A6B6A_998B8F_949594_DEE0D3.png)
 
-### [colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F](colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F.hexplt)
+### [`colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F`](colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F.hexplt)
 
 [ ![colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F.png](colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F.png) ](colormind_dot_io__283742_83898D_FAA3AE_F1C9B6_9D847F.png)
 
-### [colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168](colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168.hexplt)
+### [`colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168`](colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168.hexplt)
 
 [ ![colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168.png](colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168.png) ](colormind_dot_io__283E52_557C80_B6B7A2_BDB695_C09168.png)
 
-### [colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F](colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F.hexplt)
+### [`colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F`](colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F.hexplt)
 
 [ ![colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F.png](colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F.png) ](colormind_dot_io__284856_638C70_DDB661_EE9C7B_DD404F.png)
 
-### [colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47](colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47.hexplt)
+### [`colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47`](colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47.hexplt)
 
 [ ![colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47.png](colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47.png) ](colormind_dot_io__291B4A_752E3F_EF9425_EE682F_ED4B47.png)
 
-### [colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899](colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899.hexplt)
+### [`colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899`](colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899.hexplt)
 
 [ ![colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899.png](colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899.png) ](colormind_dot_io__29264F_58536B_7B8A9F_785E80_A6A899.png)
 
-### [colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176](colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176.hexplt)
+### [`colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176`](colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176.hexplt)
 
 [ ![colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176.png](colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176.png) ](colormind_dot_io__292A30_313240_F5E8DA_DDB690_A68176.png)
 
-### [colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A](colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A.hexplt)
+### [`colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A`](colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A.hexplt)
 
 [ ![colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A.png](colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A.png) ](colormind_dot_io__292A31_516262_A6BAB0_DEDCDE_D4AE9A.png)
 
-### [colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB](colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB.hexplt)
+### [`colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB`](colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB.hexplt)
 
 [ ![colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB.png](colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB.png) ](colormind_dot_io__292F33_384043_483C3A_334617_F1F1EB.png)
 
-### [colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961](colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961.hexplt)
+### [`colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961`](colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961.hexplt)
 
 [ ![colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961.png](colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961.png) ](colormind_dot_io__293229_3AA878_8EADAA_E0F4A1_E59961.png)
 
-### [colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5](colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5.hexplt)
+### [`colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5`](colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5.hexplt)
 
 [ ![colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5.png](colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5.png) ](colormind_dot_io__29383C_385F6F_4A99AC_83C5B8_F0EDD5.png)
 
-### [colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577](colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577.hexplt)
+### [`colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577`](colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577.hexplt)
 
 [ ![colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577.png](colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577.png) ](colormind_dot_io__295B49_389B87_55C1B3_D7E6D0_FE9577.png)
 
-### [colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C](colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C.hexplt)
+### [`colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C`](colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C.hexplt)
 
 [ ![colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C.png](colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C.png) ](colormind_dot_io__2A131B_C83922_F8D296_D3A770_54563C.png)
 
-### [colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5](colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5.hexplt)
+### [`colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5`](colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5.hexplt)
 
 [ ![colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5.png](colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5.png) ](colormind_dot_io__2A1A29_4E4642_877362_C5A393_F0E3D5.png)
 
-### [colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2](colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2.hexplt)
+### [`colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2`](colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2.hexplt)
 
 [ ![colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2.png](colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2.png) ](colormind_dot_io__2A222E_684E53_8D7656_B6B982_F6EDD2.png)
 
-### [colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4](colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4.hexplt)
+### [`colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4`](colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4.hexplt)
 
 [ ![colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4.png](colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4.png) ](colormind_dot_io__2A2838_2C3553_449388_CCD191_FCD9C4.png)
 
-### [colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1](colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1.hexplt)
+### [`colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1`](colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1.hexplt)
 
 [ ![colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1.png](colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1.png) ](colormind_dot_io__2A2839_262729_4A6E82_4A83A8_8BC5C1.png)
 
-### [colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1](colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1.hexplt)
+### [`colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1`](colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1.hexplt)
 
 [ ![colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1.png](colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1.png) ](colormind_dot_io__2A2F29_40241B_7A6251_B79D75_D4BCB1.png)
 
-### [colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA](colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA.hexplt)
+### [`colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA`](colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA.hexplt)
 
 [ ![colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA.png](colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA.png) ](colormind_dot_io__2A3034_6594A1_B6A9B4_CDCBBC_E3E4DA.png)
 
-### [colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875](colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875.hexplt)
+### [`colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875`](colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875.hexplt)
 
 [ ![colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875.png](colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875.png) ](colormind_dot_io__2A303E_5A7877_C6B680_F4E6B7_AE9875.png)
 
-### [colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5](colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5.hexplt)
+### [`colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5`](colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5.hexplt)
 
 [ ![colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5.png](colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5.png) ](colormind_dot_io__2A3B44_371F36_4F1E30_C1362E_E9E9C5.png)
 
-### [colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE](colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE.hexplt)
+### [`colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE`](colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE.hexplt)
 
 [ ![colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE.png](colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE.png) ](colormind_dot_io__2A3E57_425067_868496_71A4C1_E9D5CE.png)
 
-### [colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30](colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30.hexplt)
+### [`colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30`](colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30.hexplt)
 
 [ ![colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30.png](colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30.png) ](colormind_dot_io__2B2626_6AAB4F_F5C071_E5BF43_AB4A30.png)
 
-### [colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7](colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7.hexplt)
+### [`colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7`](colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7.hexplt)
 
 [ ![colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7.png](colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7.png) ](colormind_dot_io__2B2633_282422_505939_97B57D_ECEBD7.png)
 
-### [colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20](colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20.hexplt)
+### [`colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20`](colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20.hexplt)
 
 [ ![colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20.png](colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20.png) ](colormind_dot_io__2B2713_454614_CC9D24_C9B937_8C3F20.png)
 
-### [colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F](colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F.hexplt)
+### [`colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F`](colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F.hexplt)
 
 [ ![colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F.png](colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F.png) ](colormind_dot_io__2B2B38_778496_B3C0CA_EEE4DD_E3B24F.png)
 
-### [colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424](colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424.hexplt)
+### [`colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424`](colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424.hexplt)
 
 [ ![colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424.png](colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424.png) ](colormind_dot_io__2B3B49_577E78_78BDCC_FEFDFE_C11424.png)
 
-### [colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B](colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B.hexplt)
+### [`colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B`](colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B.hexplt)
 
 [ ![colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B.png](colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B.png) ](colormind_dot_io__2B6C82_6DD7E7_F7F8F2_DAAE9B_CE5A5B.png)
 
-### [colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1](colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1.hexplt)
+### [`colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1`](colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1.hexplt)
 
 [ ![colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1.png](colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1.png) ](colormind_dot_io__2B7474_3C7E80_C0B58A_D4C798_9BAAA1.png)
 
-### [colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8](colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8.hexplt)
+### [`colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8`](colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8.hexplt)
 
 [ ![colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8.png](colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8.png) ](colormind_dot_io__2C3844_416F79_DBE1DD_B1D7EF_89A3B8.png)
 
-### [colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C](colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C.hexplt)
+### [`colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C`](colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C.hexplt)
 
 [ ![colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C.png](colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C.png) ](colormind_dot_io__2C3D60_3EA1B0_AAE7E9_E8DBD8_4A464C.png)
 
-### [colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614](colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614.hexplt)
+### [`colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614`](colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614.hexplt)
 
 [ ![colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614.png](colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614.png) ](colormind_dot_io__2C4536_E9CB5E_C47C2F_78401F_431614.png)
 
-### [colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31](colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31.hexplt)
+### [`colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31`](colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31.hexplt)
 
 [ ![colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31.png](colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31.png) ](colormind_dot_io__2C4E43_3CB489_DDDE8F_EBCD69_F77C31.png)
 
-### [colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46](colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46.hexplt)
+### [`colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46`](colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46.hexplt)
 
 [ ![colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46.png](colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46.png) ](colormind_dot_io__2C575E_46838C_FEFCFA_EC4D48_D1DB46.png)
 
-### [colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438](colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438.hexplt)
+### [`colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438`](colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438.hexplt)
 
 [ ![colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438.png](colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438.png) ](colormind_dot_io__2C5E56_308876_8DC8B5_FCE6AB_E24438.png)
 
-### [colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D](colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D.hexplt)
+### [`colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D`](colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D.hexplt)
 
 [ ![colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D.png](colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D.png) ](colormind_dot_io__2CCB6F_87BF95_CDB165_E98054_EC4D3D.png)
 
-### [colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D](colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D.hexplt)
+### [`colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D`](colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D.hexplt)
 
 [ ![colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D.png](colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D.png) ](colormind_dot_io__2D2140_2F3041_36685B_91A67B_CFE38D.png)
 
-### [colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267](colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267.hexplt)
+### [`colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267`](colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267.hexplt)
 
 [ ![colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267.png](colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267.png) ](colormind_dot_io__2D2228_675040_BC7A76_E3A992_D4B267.png)
 
-### [colormind_dot_io__2D2425_43473E_EEC255_B54124_711615](colormind_dot_io__2D2425_43473E_EEC255_B54124_711615.hexplt)
+### [`colormind_dot_io__2D2425_43473E_EEC255_B54124_711615`](colormind_dot_io__2D2425_43473E_EEC255_B54124_711615.hexplt)
 
 [ ![colormind_dot_io__2D2425_43473E_EEC255_B54124_711615.png](colormind_dot_io__2D2425_43473E_EEC255_B54124_711615.png) ](colormind_dot_io__2D2425_43473E_EEC255_B54124_711615.png)
 
-### [colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0](colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0.hexplt)
+### [`colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0`](colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0.hexplt)
 
 [ ![colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0.png](colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0.png) ](colormind_dot_io__2D283F_5E8A74_778290_A0B18A_ECE6A0.png)
 
-### [colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28](colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28.hexplt)
+### [`colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28`](colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28.hexplt)
 
 [ ![colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28.png](colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28.png) ](colormind_dot_io__2D2B2E_597879_E2D7BC_D69466_442E28.png)
 
-### [colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921](colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921.hexplt)
+### [`colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921`](colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921.hexplt)
 
 [ ![colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921.png](colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921.png) ](colormind_dot_io__2D3038_913F0C_D65B08_F56911_861921.png)
 
-### [colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E](colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E.hexplt)
+### [`colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E`](colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E.hexplt)
 
 [ ![colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E.png](colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E.png) ](colormind_dot_io__2D333E_E4C89B_DC9D5D_BB4423_5B2D1E.png)
 
-### [colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B](colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B.hexplt)
+### [`colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B`](colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B.hexplt)
 
 [ ![colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B.png](colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B.png) ](colormind_dot_io__2D374A_5D837C_C4B483_F0E777_F3B33B.png)
 
-### [colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E](colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E.hexplt)
+### [`colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E`](colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E.hexplt)
 
 [ ![colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E.png](colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E.png) ](colormind_dot_io__2D3A44_5BA97A_A3C370_C7F166_71BD7E.png)
 
-### [colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B](colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B.hexplt)
+### [`colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B`](colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B.hexplt)
 
 [ ![colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B.png](colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B.png) ](colormind_dot_io__2D3E38_6AB096_F7F5E1_D6CCC3_BA636B.png)
 
-### [colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F](colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F.hexplt)
+### [`colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F`](colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F.hexplt)
 
 [ ![colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F.png](colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F.png) ](colormind_dot_io__2D485C_C1BCB7_E7584A_F3945F_E6A64F.png)
 
-### [colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814](colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814.hexplt)
+### [`colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814`](colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814.hexplt)
 
 [ ![colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814.png](colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814.png) ](colormind_dot_io__2D5F3D_A0AA3F_E1B34B_B72915_4A2814.png)
 
-### [colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D](colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D.hexplt)
+### [`colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D`](colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D.hexplt)
 
 [ ![colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D.png](colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D.png) ](colormind_dot_io__2D6453_4E9E67_EBBD4C_F54506_D73B2D.png)
 
-### [colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2](colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2.hexplt)
+### [`colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2`](colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2.hexplt)
 
 [ ![colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2.png](colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2.png) ](colormind_dot_io__2E292D_392A4A_5C2C57_7F6696_9EA6D2.png)
 
-### [colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B](colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B.hexplt)
+### [`colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B`](colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B.hexplt)
 
 [ ![colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B.png](colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B.png) ](colormind_dot_io__2E2A52_612A4C_52EAB9_EDF2C3_A0AE9B.png)
 
-### [colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761](colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761.hexplt)
+### [`colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761`](colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761.hexplt)
 
 [ ![colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761.png](colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761.png) ](colormind_dot_io__2E2F3B_76869A_34B7C3_FCF8F2_D97761.png)
 
-### [colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C](colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C.hexplt)
+### [`colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C`](colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C.hexplt)
 
 [ ![colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C.png](colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C.png) ](colormind_dot_io__2E3535_297975_9DD178_FBCF6C_EA806C.png)
 
-### [colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F](colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F.hexplt)
+### [`colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F`](colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F.hexplt)
 
 [ ![colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F.png](colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F.png) ](colormind_dot_io__2E3D30_98BD83_FAD64C_D99E36_8D472F.png)
 
-### [colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB](colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB.hexplt)
+### [`colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB`](colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB.hexplt)
 
 [ ![colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB.png](colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB.png) ](colormind_dot_io__2F2926_A86F89_F0E8DC_9AD2D6_95A1BB.png)
 
-### [colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B](colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B.hexplt)
+### [`colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B`](colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B.hexplt)
 
 [ ![colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B.png](colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B.png) ](colormind_dot_io__2F2A34_87867A_FAF7F2_B0CA40_90977B.png)
 
-### [colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D](colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D.hexplt)
+### [`colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D`](colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D.hexplt)
 
 [ ![colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D.png](colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D.png) ](colormind_dot_io__2F2B3F_446454_CD711B_E39412_D0E48D.png)
 
-### [colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4](colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4.hexplt)
+### [`colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4`](colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4.hexplt)
 
 [ ![colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4.png](colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4.png) ](colormind_dot_io__2F313F_61778D_AAACB6_C0B090_F1E9C4.png)
 
-### [colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707](colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707.hexplt)
+### [`colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707`](colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707.hexplt)
 
 [ ![colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707.png](colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707.png) ](colormind_dot_io__2F3733_507373_90AC88_E47D0E_EA8707.png)
 
-### [colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C](colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C.hexplt)
+### [`colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C`](colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C.hexplt)
 
 [ ![colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C.png](colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C.png) ](colormind_dot_io__2F3C60_53887F_B3BC8C_EFBD90_9E343C.png)
 
-### [colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B](colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B.hexplt)
+### [`colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B`](colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B.hexplt)
 
 [ ![colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B.png](colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B.png) ](colormind_dot_io__30141A_711B14_C47748_6F7262_8D8D8B.png)
 
-### [colormind_dot_io__30161F_221921_752738_4B374C_D7A481](colormind_dot_io__30161F_221921_752738_4B374C_D7A481.hexplt)
+### [`colormind_dot_io__30161F_221921_752738_4B374C_D7A481`](colormind_dot_io__30161F_221921_752738_4B374C_D7A481.hexplt)
 
 [ ![colormind_dot_io__30161F_221921_752738_4B374C_D7A481.png](colormind_dot_io__30161F_221921_752738_4B374C_D7A481.png) ](colormind_dot_io__30161F_221921_752738_4B374C_D7A481.png)
 
-### [colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21](colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21.hexplt)
+### [`colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21`](colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21.hexplt)
 
 [ ![colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21.png](colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21.png) ](colormind_dot_io__302434_512D3D_846362_D9A95E_E05E21.png)
 
-### [colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD](colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD.hexplt)
+### [`colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD`](colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD.hexplt)
 
 [ ![colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD.png](colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD.png) ](colormind_dot_io__303121_36452E_78989B_F4E2C1_C5E8DD.png)
 
-### [colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9](colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9.hexplt)
+### [`colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9`](colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9.hexplt)
 
 [ ![colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9.png](colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9.png) ](colormind_dot_io__30322C_4D5570_B45C63_D6938A_F4DFB9.png)
 
-### [colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35](colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35.hexplt)
+### [`colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35`](colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35.hexplt)
 
 [ ![colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35.png](colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35.png) ](colormind_dot_io__303939_4B6F6E_A5CCB9_F6F6EC_C73D35.png)
 
-### [colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142](colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142.hexplt)
+### [`colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142`](colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142.hexplt)
 
 [ ![colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142.png](colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142.png) ](colormind_dot_io__303E41_779E94_E3D3A3_DCB379_786142.png)
 
-### [colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9](colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9.hexplt)
+### [`colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9`](colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9.hexplt)
 
 [ ![colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9.png](colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9.png) ](colormind_dot_io__303E4C_5C9393_BDC0A2_D3C8BB_F6F9E9.png)
 
-### [colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5](colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5.hexplt)
+### [`colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5`](colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5.hexplt)
 
 [ ![colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5.png](colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5.png) ](colormind_dot_io__304251_D0BF8F_F1E0BD_4DAADD_4766B5.png)
 
-### [colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0](colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0.hexplt)
+### [`colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0`](colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0.hexplt)
 
 [ ![colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0.png](colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0.png) ](colormind_dot_io__304662_294670_4A6295_83A5CC_CDE5F0.png)
 
-### [colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89](colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89.hexplt)
+### [`colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89`](colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89.hexplt)
 
 [ ![colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89.png](colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89.png) ](colormind_dot_io__305153_647249_83BD7E_62C6A1_ADDD89.png)
 
-### [colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47](colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47.hexplt)
+### [`colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47`](colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47.hexplt)
 
 [ ![colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47.png](colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47.png) ](colormind_dot_io__307677_4CBBAB_C2AE74_B67661_CD4F47.png)
 
-### [colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758](colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758.hexplt)
+### [`colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758`](colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758.hexplt)
 
 [ ![colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758.png](colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758.png) ](colormind_dot_io__308579_74A48D_B5DFAC_EFA27A_EC6758.png)
 
-### [colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F](colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F.hexplt)
+### [`colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F`](colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F.hexplt)
 
 [ ![colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F.png](colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F.png) ](colormind_dot_io__309F60_94C047_D5BE4C_C07039_B14B3F.png)
 
-### [colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B](colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B.hexplt)
+### [`colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B`](colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B.hexplt)
 
 [ ![colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B.png](colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B.png) ](colormind_dot_io__31161A_2E0D1D_922521_C47D5B_D5C16B.png)
 
-### [colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA](colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA.hexplt)
+### [`colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA`](colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA.hexplt)
 
 [ ![colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA.png](colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA.png) ](colormind_dot_io__31242F_686766_9A9999_E7DFDD_DCCCAA.png)
 
-### [colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9](colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9.hexplt)
+### [`colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9`](colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9.hexplt)
 
 [ ![colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9.png](colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9.png) ](colormind_dot_io__312C28_3F496D_4B5F75_70A9B1_BFDDC9.png)
 
-### [colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534](colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534.hexplt)
+### [`colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534`](colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534.hexplt)
 
 [ ![colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534.png](colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534.png) ](colormind_dot_io__312D32_929275_F7FBFB_C3B69E_514534.png)
 
-### [colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A](colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A.hexplt)
+### [`colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A`](colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A.hexplt)
 
 [ ![colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A.png](colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A.png) ](colormind_dot_io__313E50_EEEEEA_C0C9BF_7C807B_504D4A.png)
 
-### [colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA](colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA.hexplt)
+### [`colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA`](colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA.hexplt)
 
 [ ![colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA.png](colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA.png) ](colormind_dot_io__322B2C_565960_5EA2A6_D4D9D9_FEFDFA.png)
 
-### [colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58](colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58.hexplt)
+### [`colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58`](colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58.hexplt)
 
 [ ![colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58.png](colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58.png) ](colormind_dot_io__32362A_0D5667_078B75_F0D5AF_F6AD58.png)
 
-### [colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262](colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262.hexplt)
+### [`colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262`](colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262.hexplt)
 
 [ ![colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262.png](colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262.png) ](colormind_dot_io__324C5B_9BCF78_F3CA4C_DE723A_C96262.png)
 
-### [colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27](colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27.hexplt)
+### [`colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27`](colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27.hexplt)
 
 [ ![colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27.png](colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27.png) ](colormind_dot_io__327161_7A6E54_4F8564_8FA456_A16D27.png)
 
-### [colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F](colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F.hexplt)
+### [`colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F`](colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F.hexplt)
 
 [ ![colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F.png](colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F.png) ](colormind_dot_io__327582_EBE9B6_D59376_C13D28_7C3C2F.png)
 
-### [colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC](colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC.hexplt)
+### [`colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC`](colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC.hexplt)
 
 [ ![colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC.png](colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC.png) ](colormind_dot_io__33232A_473452_7E7C80_6A9AAA_AEDEDC.png)
 
-### [colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44](colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44.hexplt)
+### [`colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44`](colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44.hexplt)
 
 [ ![colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44.png](colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44.png) ](colormind_dot_io__332933_7C9C87_CEC180_BAB030_C94D44.png)
 
-### [colormind_dot_io__332D35_474969_696569_B098A9_E7C481](colormind_dot_io__332D35_474969_696569_B098A9_E7C481.hexplt)
+### [`colormind_dot_io__332D35_474969_696569_B098A9_E7C481`](colormind_dot_io__332D35_474969_696569_B098A9_E7C481.hexplt)
 
 [ ![colormind_dot_io__332D35_474969_696569_B098A9_E7C481.png](colormind_dot_io__332D35_474969_696569_B098A9_E7C481.png) ](colormind_dot_io__332D35_474969_696569_B098A9_E7C481.png)
 
-### [colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91](colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91.hexplt)
+### [`colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91`](colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91.hexplt)
 
 [ ![colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91.png](colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91.png) ](colormind_dot_io__333527_553528_B07F36_D6B050_F2EA91.png)
 
-### [colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740](colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740.hexplt)
+### [`colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740`](colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740.hexplt)
 
 [ ![colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740.png](colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740.png) ](colormind_dot_io__33353F_5DC06F_E4CA4C_F2744D_E24740.png)
 
-### [colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2](colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2.hexplt)
+### [`colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2`](colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2.hexplt)
 
 [ ![colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2.png](colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2.png) ](colormind_dot_io__33374E_674F83_B2A88E_CAD0AE_CAD6C2.png)
 
-### [colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747](colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747.hexplt)
+### [`colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747`](colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747.hexplt)
 
 [ ![colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747.png](colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747.png) ](colormind_dot_io__334235_B7C52E_DDDF8C_ABB467_6C6747.png)
 
-### [colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40](colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40.hexplt)
+### [`colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40`](colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40.hexplt)
 
 [ ![colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40.png](colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40.png) ](colormind_dot_io__334236_B8C52E_DCDE89_A7B467_6B5A40.png)
 
-### [colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741](colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741.hexplt)
+### [`colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741`](colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741.hexplt)
 
 [ ![colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741.png](colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741.png) ](colormind_dot_io__334E5B_7CB3AC_E7D9B0_E4B675_936741.png)
 
-### [colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B](colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B.hexplt)
+### [`colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B`](colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B.hexplt)
 
 [ ![colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B.png](colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B.png) ](colormind_dot_io__335354_69937C_E6BB3C_F39B3F_D7473B.png)
 
-### [colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045](colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045.hexplt)
+### [`colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045`](colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045.hexplt)
 
 [ ![colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045.png](colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045.png) ](colormind_dot_io__33545B_79A185_BBCE85_FAC782_F67045.png)
 
-### [colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58](colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58.hexplt)
+### [`colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58`](colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58.hexplt)
 
 [ ![colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58.png](colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58.png) ](colormind_dot_io__335F73_4FCAB0_E2F1C1_E6B469_E04A58.png)
 
-### [colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4](colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4.hexplt)
+### [`colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4`](colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4.hexplt)
 
 [ ![colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4.png](colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4.png) ](colormind_dot_io__341826_C41E3B_FBF9EC_8C7363_B8B6A4.png)
 
-### [colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F](colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F.hexplt)
+### [`colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F`](colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F.hexplt)
 
 [ ![colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F.png](colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F.png) ](colormind_dot_io__342E2E_F2F4EE_CAC7B9_877A60_46392F.png)
 
-### [colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92](colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92.hexplt)
+### [`colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92`](colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92.hexplt)
 
 [ ![colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92.png](colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92.png) ](colormind_dot_io__343646_6FA27D_C5D4A3_F4F2BD_DEAB92.png)
 
-### [colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712](colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712.hexplt)
+### [`colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712`](colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712.hexplt)
 
 [ ![colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712.png](colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712.png) ](colormind_dot_io__343C56_AC9664_E69B16_CC680B_953712.png)
 
-### [colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9](colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9.hexplt)
+### [`colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9`](colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9.hexplt)
 
 [ ![colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9.png](colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9.png) ](colormind_dot_io__343E39_456C73_62BB9C_B7D5A5_E7E6C9.png)
 
-### [colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40](colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40.hexplt)
+### [`colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40`](colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40.hexplt)
 
 [ ![colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40.png](colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40.png) ](colormind_dot_io__344B35_6DB059_EABD5A_E2A946_B04F40.png)
 
-### [colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F](colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F.hexplt)
+### [`colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F`](colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F.hexplt)
 
 [ ![colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F.png](colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F.png) ](colormind_dot_io__344D49_E9C989_FCB03A_B52F1A_58220F.png)
 
-### [colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71](colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71.hexplt)
+### [`colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71`](colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71.hexplt)
 
 [ ![colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71.png](colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71.png) ](colormind_dot_io__344F4D_4EC3B7_9CC492_EBE27C_887E71.png)
 
-### [colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE](colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE.hexplt)
+### [`colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE`](colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE.hexplt)
 
 [ ![colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE.png](colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE.png) ](colormind_dot_io__346156_94C82D_FCB915_D75353_3980AE.png)
 
-### [colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62](colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62.hexplt)
+### [`colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62`](colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62.hexplt)
 
 [ ![colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62.png](colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62.png) ](colormind_dot_io__34ADF6_1D8AA1_645DBA_EA8B6C_622E62.png)
 
-### [colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858](colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858.hexplt)
+### [`colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858`](colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858.hexplt)
 
 [ ![colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858.png](colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858.png) ](colormind_dot_io__353A41_729B9D_B2D1E0_D7D9D0_CD7858.png)
 
-### [colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD](colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD.hexplt)
+### [`colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD`](colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD.hexplt)
 
 [ ![colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD.png](colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD.png) ](colormind_dot_io__354340_5D8E6A_BCBB8F_FBCD55_45D0AD.png)
 
-### [colormind_dot_io__35484A_547068_B79272_EDA452_F2620F](colormind_dot_io__35484A_547068_B79272_EDA452_F2620F.hexplt)
+### [`colormind_dot_io__35484A_547068_B79272_EDA452_F2620F`](colormind_dot_io__35484A_547068_B79272_EDA452_F2620F.hexplt)
 
 [ ![colormind_dot_io__35484A_547068_B79272_EDA452_F2620F.png](colormind_dot_io__35484A_547068_B79272_EDA452_F2620F.png) ](colormind_dot_io__35484A_547068_B79272_EDA452_F2620F.png)
 
-### [colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372](colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372.hexplt)
+### [`colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372`](colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372.hexplt)
 
 [ ![colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372.png](colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372.png) ](colormind_dot_io__356665_6D9481_CDD6B1_E5B78C_AE5372.png)
 
-### [colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356](colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356.hexplt)
+### [`colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356`](colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356.hexplt)
 
 [ ![colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356.png](colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356.png) ](colormind_dot_io__362A32_49415B_887177_D2BDB8_5C5356.png)
 
-### [colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32](colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32.hexplt)
+### [`colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32`](colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32.hexplt)
 
 [ ![colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32.png](colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32.png) ](colormind_dot_io__36341D_E7B71F_E14A10_8F0908_1D0F32.png)
 
-### [colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D](colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D.hexplt)
+### [`colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D`](colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D.hexplt)
 
 [ ![colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D.png](colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D.png) ](colormind_dot_io__363839_4D5651_6D7662_A4BB8D_D9DD9D.png)
 
-### [colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B](colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B.hexplt)
+### [`colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B`](colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B.hexplt)
 
 [ ![colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B.png](colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B.png) ](colormind_dot_io__36412A_46A176_BACB6F_E4E7A4_D55C3B.png)
 
-### [colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09](colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09.hexplt)
+### [`colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09`](colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09.hexplt)
 
 [ ![colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09.png](colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09.png) ](colormind_dot_io__36766F_317788_3C5B87_E2C46C_FC9A09.png)
 
-### [colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E](colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E.hexplt)
+### [`colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E`](colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E.hexplt)
 
 [ ![colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E.png](colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E.png) ](colormind_dot_io__372427_403829_A58D39_F4E6BB_9CA59E.png)
 
-### [colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14](colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14.hexplt)
+### [`colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14`](colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14.hexplt)
 
 [ ![colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14.png](colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14.png) ](colormind_dot_io__37262F_7F4C3A_B79F2F_DAC52F_989E14.png)
 
-### [colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB](colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB.hexplt)
+### [`colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB`](colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB.hexplt)
 
 [ ![colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB.png](colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB.png) ](colormind_dot_io__372B3B_813055_E7445C_E48879_EBD0AB.png)
 
-### [colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76](colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76.hexplt)
+### [`colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76`](colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76.hexplt)
 
 [ ![colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76.png](colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76.png) ](colormind_dot_io__372F5A_5A869F_66BEBE_F4EDA8_E17F76.png)
 
-### [colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4](colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4.hexplt)
+### [`colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4`](colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4.hexplt)
 
 [ ![colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4.png](colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4.png) ](colormind_dot_io__37303C_8B316B_CE5C59_E6A773_D1E1B4.png)
 
-### [colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF](colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF.hexplt)
+### [`colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF`](colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF.hexplt)
 
 [ ![colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF.png](colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF.png) ](colormind_dot_io__374A53_19242C_A0865D_CACB77_EDDFBF.png)
 
-### [colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B](colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B.hexplt)
+### [`colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B`](colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B.hexplt)
 
 [ ![colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B.png](colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B.png) ](colormind_dot_io__375056_EFEED9_E5CEB1_A7937F_5B4F3B.png)
 
-### [colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5](colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5.hexplt)
+### [`colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5`](colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5.hexplt)
 
 [ ![colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5.png](colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5.png) ](colormind_dot_io__376587_57B4A3_84BEA2_D9D095_FCF8B5.png)
 
-### [colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39](colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39.hexplt)
+### [`colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39`](colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39.hexplt)
 
 [ ![colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39.png](colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39.png) ](colormind_dot_io__376C92_3D96A0_95CFC5_DFDDCB_CC7B39.png)
 
-### [colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3](colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3.hexplt)
+### [`colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3`](colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3.hexplt)
 
 [ ![colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3.png](colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3.png) ](colormind_dot_io__382C3C_80548E_CC7EA4_D6B493_E9ECB3.png)
 
-### [colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD](colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD.hexplt)
+### [`colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD`](colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD.hexplt)
 
 [ ![colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD.png](colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD.png) ](colormind_dot_io__383D3C_58AEBF_E9EFEA_D4CEC4_FAEDDD.png)
 
-### [colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D](colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D.hexplt)
+### [`colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D`](colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D.hexplt)
 
 [ ![colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D.png](colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D.png) ](colormind_dot_io__383E3E_849687_CABFAC_ECEFEF_E1CD8D.png)
 
-### [colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A](colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A.hexplt)
+### [`colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A`](colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A.hexplt)
 
 [ ![colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A.png](colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A.png) ](colormind_dot_io__383F4F_455872_66B5AD_F7DC81_5D503A.png)
 
-### [colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B](colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B.hexplt)
+### [`colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B`](colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B.hexplt)
 
 [ ![colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B.png](colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B.png) ](colormind_dot_io__38454B_75A197_C5D3CE_F1D6B0_CB252B.png)
 
-### [colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4](colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4.hexplt)
+### [`colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4`](colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4.hexplt)
 
 [ ![colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4.png](colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4.png) ](colormind_dot_io__38514F_49726C_75B2AB_ADD7C9_E7F6F4.png)
 
-### [colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88](colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88.hexplt)
+### [`colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88`](colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88.hexplt)
 
 [ ![colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88.png](colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88.png) ](colormind_dot_io__385450_74ADA8_E7F6F7_B1CAB7_B1AD88.png)
 
-### [colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B](colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B.hexplt)
+### [`colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B`](colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B.hexplt)
 
 [ ![colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B.png](colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B.png) ](colormind_dot_io__38733F_A63A35_CF5919_DF471B_98B12B.png)
 
-### [colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243](colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243.hexplt)
+### [`colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243`](colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243.hexplt)
 
 [ ![colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243.png](colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243.png) ](colormind_dot_io__393724_A49D5E_FBFAF5_5A979E_283243.png)
 
-### [colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57](colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57.hexplt)
+### [`colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57`](colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57.hexplt)
 
 [ ![colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57.png](colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57.png) ](colormind_dot_io__393D3C_5C7970_B5C391_E1D6C3_D25D57.png)
 
-### [colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC](colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC.hexplt)
+### [`colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC`](colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC.hexplt)
 
 [ ![colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC.png](colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC.png) ](colormind_dot_io__395D51_312F2A_728978_E9DEA6_F6E3AC.png)
 
-### [colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36](colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36.hexplt)
+### [`colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36`](colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36.hexplt)
 
 [ ![colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36.png](colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36.png) ](colormind_dot_io__39AC78_959883_E9CE58_906E4E_C23E36.png)
 
-### [colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4](colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4.hexplt)
+### [`colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4`](colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4.hexplt)
 
 [ ![colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4.png](colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4.png) ](colormind_dot_io__3A3128_195A79_1AAA8E_6BBD97_FBF9F4.png)
 
-### [colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57](colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57.hexplt)
+### [`colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57`](colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57.hexplt)
 
 [ ![colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57.png](colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57.png) ](colormind_dot_io__3A3D40_6AAC95_DDCEAC_E49168_BD0B57.png)
 
-### [colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41](colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41.hexplt)
+### [`colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41`](colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41.hexplt)
 
 [ ![colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41.png](colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41.png) ](colormind_dot_io__3A565C_80917C_E59A3F_F27326_D23B41.png)
 
-### [colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63](colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63.hexplt)
+### [`colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63`](colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63.hexplt)
 
 [ ![colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63.png](colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63.png) ](colormind_dot_io__3B2B1D_975E2E_CF8323_D9B150_D18B63.png)
 
-### [colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12](colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12.hexplt)
+### [`colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12`](colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12.hexplt)
 
 [ ![colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12.png](colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12.png) ](colormind_dot_io__3B3435_4D4E4B_AFA891_E9D046_ED5C12.png)
 
-### [colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0](colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0.hexplt)
+### [`colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0`](colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0.hexplt)
 
 [ ![colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0.png](colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0.png) ](colormind_dot_io__3B3B53_B1616C_FB5D4E_EFB88F_E8DFC0.png)
 
-### [colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40](colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40.hexplt)
+### [`colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40`](colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40.hexplt)
 
 [ ![colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40.png](colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40.png) ](colormind_dot_io__3B424E_719988_DBB188_E46C3B_D40F40.png)
 
-### [colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0](colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0.hexplt)
+### [`colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0`](colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0.hexplt)
 
 [ ![colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0.png](colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0.png) ](colormind_dot_io__3B4450_B2977F_EBB595_E6E2BF_D8D0B0.png)
 
-### [colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF](colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF.hexplt)
+### [`colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF`](colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF.hexplt)
 
 [ ![colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF.png](colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF.png) ](colormind_dot_io__3C1946_104370_427DAC_71A631_0AF5AF.png)
 
-### [colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67](colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67.hexplt)
+### [`colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67`](colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67.hexplt)
 
 [ ![colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67.png](colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67.png) ](colormind_dot_io__3C1B0E_88392D_B9BBA6_ABB987_896F67.png)
 
-### [colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84](colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84.hexplt)
+### [`colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84`](colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84.hexplt)
 
 [ ![colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84.png](colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84.png) ](colormind_dot_io__3C3B35_6C6C4C_A69650_DEC05D_DBCE84.png)
 
-### [colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D](colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D.hexplt)
+### [`colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D`](colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D.hexplt)
 
 [ ![colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D.png](colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D.png) ](colormind_dot_io__3C3C3D_A8857E_ECBC6D_F4DEC3_FC496D.png)
 
-### [colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826](colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826.hexplt)
+### [`colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826`](colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826.hexplt)
 
 [ ![colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826.png](colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826.png) ](colormind_dot_io__3D3132_766878_B5837E_E2B8AD_C24826.png)
 
-### [colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C](colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C.hexplt)
+### [`colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C`](colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C.hexplt)
 
 [ ![colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C.png](colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C.png) ](colormind_dot_io__3D3B37_767052_AD9956_DDC46D_C7D89C.png)
 
-### [colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A](colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A.hexplt)
+### [`colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A`](colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A.hexplt)
 
 [ ![colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A.png](colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A.png) ](colormind_dot_io__3D3B3E_A8913B_DCAA44_A72417_3A200A.png)
 
-### [colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74](colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74.hexplt)
+### [`colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74`](colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74.hexplt)
 
 [ ![colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74.png](colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74.png) ](colormind_dot_io__3D3D3B_A37A59_BC976B_C19967_CEAD74.png)
 
-### [colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8](colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8.hexplt)
+### [`colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8`](colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8.hexplt)
 
 [ ![colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8.png](colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8.png) ](colormind_dot_io__3D493A_7B7267_DCC74E_F3E6C2_B3C3D8.png)
 
-### [colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627](colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627.hexplt)
+### [`colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627`](colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627.hexplt)
 
 [ ![colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627.png](colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627.png) ](colormind_dot_io__3D493C_808D60_CCC394_F0D88F_A13627.png)
 
-### [colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095](colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095.hexplt)
+### [`colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095`](colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095.hexplt)
 
 [ ![colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095.png](colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095.png) ](colormind_dot_io__3D6A73_EB5E51_DCCA9D_FCECCC_FCC095.png)
 
-### [colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856](colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856.hexplt)
+### [`colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856`](colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856.hexplt)
 
 [ ![colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856.png](colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856.png) ](colormind_dot_io__3E1319_2C2116_982D20_CA8D5E_CEB856.png)
 
-### [colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E](colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E.hexplt)
+### [`colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E`](colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E.hexplt)
 
 [ ![colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E.png](colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E.png) ](colormind_dot_io__3E181B_C50E09_CD7927_DE9727_F3140E.png)
 
-### [colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE](colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE.hexplt)
+### [`colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE`](colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE.hexplt)
 
 [ ![colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE.png](colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE.png) ](colormind_dot_io__3E262A_775E64_AB7E77_AF9776_E7C5AE.png)
 
-### [colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA](colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA.hexplt)
+### [`colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA`](colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA.hexplt)
 
 [ ![colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA.png](colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA.png) ](colormind_dot_io__3E3530_2B6964_41727A_7AB774_F6F4DA.png)
 
-### [colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE](colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE.hexplt)
+### [`colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE`](colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE.hexplt)
 
 [ ![colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE.png](colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE.png) ](colormind_dot_io__3E3C36_797462_B3A694_BFBAA2_F0F0DE.png)
 
-### [colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529](colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529.hexplt)
+### [`colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529`](colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529.hexplt)
 
 [ ![colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529.png](colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529.png) ](colormind_dot_io__3E3F42_63906A_DCC272_E2A84A_AB7529.png)
 
-### [colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452](colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452.hexplt)
+### [`colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452`](colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452.hexplt)
 
 [ ![colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452.png](colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452.png) ](colormind_dot_io__3E4158_4D204E_F81A71_FBC50D_C2E452.png)
 
-### [colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674](colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674.hexplt)
+### [`colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674`](colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674.hexplt)
 
 [ ![colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674.png](colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674.png) ](colormind_dot_io__3E8978_3CA38D_F5A0C2_FDE3D2_D07674.png)
 
-### [colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C](colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C.hexplt)
+### [`colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C`](colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C.hexplt)
 
 [ ![colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C.png](colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C.png) ](colormind_dot_io__3F1835_72888D_D8C5A8_EFCFB6_C9314C.png)
 
-### [colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7](colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7.hexplt)
+### [`colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7`](colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7.hexplt)
 
 [ ![colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7.png](colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7.png) ](colormind_dot_io__3F2B26_0A555F_06AD82_F4D54D_FBF9F7.png)
 
-### [colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83](colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83.hexplt)
+### [`colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83`](colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83.hexplt)
 
 [ ![colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83.png](colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83.png) ](colormind_dot_io__3F3232_965D2E_B27F35_E7BD3F_FCEA83.png)
 
-### [colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C](colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C.hexplt)
+### [`colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C`](colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C.hexplt)
 
 [ ![colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C.png](colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C.png) ](colormind_dot_io__3F393F_8D7C7C_EDD6CD_C0C3C8_808B8C.png)
 
-### [colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092](colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092.hexplt)
+### [`colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092`](colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092.hexplt)
 
 [ ![colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092.png](colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092.png) ](colormind_dot_io__3F3A47_A0AE9B_FBFAF4_DDDDDC_738092.png)
 
-### [colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97](colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97.hexplt)
+### [`colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97`](colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97.hexplt)
 
 [ ![colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97.png](colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97.png) ](colormind_dot_io__3F5340_93AF64_B6D6B0_E2EFD9_92BD97.png)
 
-### [colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39](colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39.hexplt)
+### [`colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39`](colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39.hexplt)
 
 [ ![colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39.png](colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39.png) ](colormind_dot_io__3F8856_886E51_DDC55A_C7853D_9C3D39.png)
 
-### [colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA](colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA.hexplt)
+### [`colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA`](colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA.hexplt)
 
 [ ![colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA.png](colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA.png) ](colormind_dot_io__400B17_813022_F05D49_FCB46E_EBECBA.png)
 
-### [colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E](colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E.hexplt)
+### [`colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E`](colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E.hexplt)
 
 [ ![colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E.png](colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E.png) ](colormind_dot_io__403635_556863_9D9072_D4AA81_DE684E.png)
 
-### [colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16](colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16.hexplt)
+### [`colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16`](colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16.hexplt)
 
 [ ![colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16.png](colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16.png) ](colormind_dot_io__403C33_2BA87A_8EC547_F3BF13_EF5E16.png)
 
-### [colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27](colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27.hexplt)
+### [`colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27`](colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27.hexplt)
 
 [ ![colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27.png](colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27.png) ](colormind_dot_io__404141_77B16E_D7A149_9E0B08_8E2C27.png)
 
-### [colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736](colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736.hexplt)
+### [`colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736`](colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736.hexplt)
 
 [ ![colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736.png](colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736.png) ](colormind_dot_io__41142B_981A24_AE8472_C5AD86_A87736.png)
 
-### [colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1](colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1.hexplt)
+### [`colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1`](colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1.hexplt)
 
 [ ![colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1.png](colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1.png) ](colormind_dot_io__41181F_C13D65_BA7E94_B4A0A5_D8C9C1.png)
 
-### [colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534](colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534.hexplt)
+### [`colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534`](colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534.hexplt)
 
 [ ![colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534.png](colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534.png) ](colormind_dot_io__413151_40BAB9_D3DDAC_F1CC26_F04534.png)
 
-### [colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360](colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360.hexplt)
+### [`colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360`](colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360.hexplt)
 
 [ ![colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360.png](colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360.png) ](colormind_dot_io__413B42_927E6F_D0C6AF_B2B7A2_4A5360.png)
 
-### [colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28](colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28.hexplt)
+### [`colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28`](colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28.hexplt)
 
 [ ![colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28.png](colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28.png) ](colormind_dot_io__414140_8EAD90_EDDEAF_F3C238_F34B28.png)
 
-### [colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47](colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47.hexplt)
+### [`colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47`](colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47.hexplt)
 
 [ ![colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47.png](colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47.png) ](colormind_dot_io__41494A_5A7370_BEE0C9_FDF5DB_313F47.png)
 
-### [colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91](colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91.hexplt)
+### [`colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91`](colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91.hexplt)
 
 [ ![colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91.png](colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91.png) ](colormind_dot_io__41623E_88B227_81A357_B0CD81_C0BE91.png)
 
-### [colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58](colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58.hexplt)
+### [`colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58`](colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58.hexplt)
 
 [ ![colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58.png](colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58.png) ](colormind_dot_io__420D36_740A2C_BE362F_E0A816_9BDC58.png)
 
-### [colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735](colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735.hexplt)
+### [`colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735`](colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735.hexplt)
 
 [ ![colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735.png](colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735.png) ](colormind_dot_io__422E3D_7E8D89_D9CDA8_F5C770_F46735.png)
 
-### [colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E](colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E.hexplt)
+### [`colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E`](colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E.hexplt)
 
 [ ![colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E.png](colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E.png) ](colormind_dot_io__423327_716241_C0B895_FDFAD7_7A6C4E.png)
 
-### [colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032](colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032.hexplt)
+### [`colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032`](colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032.hexplt)
 
 [ ![colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032.png](colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032.png) ](colormind_dot_io__42344E_9D3A59_E73B47_D96940_E4B032.png)
 
-### [colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49](colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49.hexplt)
+### [`colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49`](colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49.hexplt)
 
 [ ![colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49.png](colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49.png) ](colormind_dot_io__423A4C_797C70_CD9862_F3E49C_DA6B49.png)
 
-### [colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3](colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3.hexplt)
+### [`colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3`](colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3.hexplt)
 
 [ ![colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3.png](colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3.png) ](colormind_dot_io__424258_D15060_F3994C_F4CB7B_E3D4A3.png)
 
-### [colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E](colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E.hexplt)
+### [`colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E`](colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E.hexplt)
 
 [ ![colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E.png](colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E.png) ](colormind_dot_io__42454A_8CA26D_CBC387_F4F2E6_D6896E.png)
 
-### [colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E](colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E.hexplt)
+### [`colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E`](colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E.hexplt)
 
 [ ![colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E.png](colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E.png) ](colormind_dot_io__424C3A_85AD6C_E8B6A2_DDB76E_97493E.png)
 
-### [colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684](colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684.hexplt)
+### [`colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684`](colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684.hexplt)
 
 [ ![colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684.png](colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684.png) ](colormind_dot_io__425457_875C6E_FDFBFC_D5F842_54D684.png)
 
-### [colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32](colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32.hexplt)
+### [`colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32`](colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32.hexplt)
 
 [ ![colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32.png](colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32.png) ](colormind_dot_io__425756_A0BE7A_F5E6A3_DA9B72_CA4A32.png)
 
-### [colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6](colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6.hexplt)
+### [`colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6`](colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6.hexplt)
 
 [ ![colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6.png](colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6.png) ](colormind_dot_io__433233_4D5059_A5ADA9_77BEE7_D9DFD6.png)
 
-### [colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1](colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1.hexplt)
+### [`colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1`](colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1.hexplt)
 
 [ ![colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1.png](colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1.png) ](colormind_dot_io__436C73_AC9141_C1D0B4_4AD5DA_B0DFC1.png)
 
-### [colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949](colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949.hexplt)
+### [`colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949`](colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949.hexplt)
 
 [ ![colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949.png](colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949.png) ](colormind_dot_io__44363C_A47B78_F8F4E2_CBB49C_AC4949.png)
 
-### [colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843](colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843.hexplt)
+### [`colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843`](colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843.hexplt)
 
 [ ![colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843.png](colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843.png) ](colormind_dot_io__444040_709083_73A988_B6CCB5_CF6843.png)
 
-### [colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33](colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33.hexplt)
+### [`colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33`](colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33.hexplt)
 
 [ ![colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33.png](colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33.png) ](colormind_dot_io__444A54_5EA68C_B8D265_EEC971_F85B33.png)
 
-### [colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1](colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1.hexplt)
+### [`colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1`](colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1.hexplt)
 
 [ ![colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1.png](colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1.png) ](colormind_dot_io__44836F_89C33D_CDC445_DBC469_F8F5F1.png)
 
-### [colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026](colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026.hexplt)
+### [`colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026`](colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026.hexplt)
 
 [ ![colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026.png](colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026.png) ](colormind_dot_io__44938A_A0BFA5_FAEAC4_C63E3C_4A3026.png)
 
-### [colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997](colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997.hexplt)
+### [`colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997`](colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997.hexplt)
 
 [ ![colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997.png](colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997.png) ](colormind_dot_io__453824_866555_615F3B_AC9F3C_DDD997.png)
 
-### [colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E](colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E.hexplt)
+### [`colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E`](colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E.hexplt)
 
 [ ![colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E.png](colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E.png) ](colormind_dot_io__453E20_796A26_B29B3B_EBA934_3E1F1E.png)
 
-### [colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E](colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E.hexplt)
+### [`colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E`](colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E.hexplt)
 
 [ ![colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E.png](colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E.png) ](colormind_dot_io__454049_828284_CAA99F_F4EBD3_CF4B3E.png)
 
-### [colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418](colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418.hexplt)
+### [`colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418`](colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418.hexplt)
 
 [ ![colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418.png](colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418.png) ](colormind_dot_io__455636_A06942_FEFEFE_4C8666_1A1418.png)
 
-### [colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3](colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3.hexplt)
+### [`colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3`](colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3.hexplt)
 
 [ ![colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3.png](colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3.png) ](colormind_dot_io__462928_7A595E_AF8A93_C4C5C5_EBCCC3.png)
 
-### [colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB](colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB.hexplt)
+### [`colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB`](colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB.hexplt)
 
 [ ![colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB.png](colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB.png) ](colormind_dot_io__462E29_CD1728_776685_9EB9B3_B1F5EB.png)
 
-### [colormind_dot_io__463C29_D28F32_EBDF95_508279_182628](colormind_dot_io__463C29_D28F32_EBDF95_508279_182628.hexplt)
+### [`colormind_dot_io__463C29_D28F32_EBDF95_508279_182628`](colormind_dot_io__463C29_D28F32_EBDF95_508279_182628.hexplt)
 
 [ ![colormind_dot_io__463C29_D28F32_EBDF95_508279_182628.png](colormind_dot_io__463C29_D28F32_EBDF95_508279_182628.png) ](colormind_dot_io__463C29_D28F32_EBDF95_508279_182628.png)
 
-### [colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A](colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A.hexplt)
+### [`colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A`](colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A.hexplt)
 
 [ ![colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A.png](colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A.png) ](colormind_dot_io__464044_687967_B5BD95_D9CD93_C3BE8A.png)
 
-### [colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796](colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796.hexplt)
+### [`colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796`](colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796.hexplt)
 
 [ ![colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796.png](colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796.png) ](colormind_dot_io__464A3F_7B6F6E_C2B3B4_F2F1EE_B8A796.png)
 
-### [colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4](colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4.hexplt)
+### [`colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4`](colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4.hexplt)
 
 [ ![colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4.png](colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4.png) ](colormind_dot_io__464C48_566560_799181_BAC4B6_F4F5F4.png)
 
-### [colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A](colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A.hexplt)
+### [`colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A`](colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A.hexplt)
 
 [ ![colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A.png](colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A.png) ](colormind_dot_io__473249_F19FC0_FFFEFD_607A65_3F6D6A.png)
 
-### [colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922](colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922.hexplt)
+### [`colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922`](colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922.hexplt)
 
 [ ![colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922.png](colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922.png) ](colormind_dot_io__47363A_967F74_F1EDE4_B9AA9B_A73922.png)
 
-### [colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E](colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E.hexplt)
+### [`colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E`](colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E.hexplt)
 
 [ ![colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E.png](colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E.png) ](colormind_dot_io__476053_ADC030_F0EB35_D87F84_565A7E.png)
 
-### [colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451](colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451.hexplt)
+### [`colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451`](colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451.hexplt)
 
 [ ![colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451.png](colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451.png) ](colormind_dot_io__483338_6F6A64_AB9279_DEC29A_826451.png)
 
-### [colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65](colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65.hexplt)
+### [`colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65`](colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65.hexplt)
 
 [ ![colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65.png](colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65.png) ](colormind_dot_io__485055_4AA78A_38D78F_A7D4A3_C48B65.png)
 
-### [colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831](colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831.hexplt)
+### [`colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831`](colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831.hexplt)
 
 [ ![colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831.png](colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831.png) ](colormind_dot_io__488C66_CFAD84_DD662A_AD3C1F_BB1831.png)
 
-### [colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43](colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43.hexplt)
+### [`colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43`](colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43.hexplt)
 
 [ ![colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43.png](colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43.png) ](colormind_dot_io__494340_7C9A87_94B592_C7CFB9_C15D43.png)
 
-### [colormind_dot_io__494950_618377_858483_D1BAB0_C37F81](colormind_dot_io__494950_618377_858483_D1BAB0_C37F81.hexplt)
+### [`colormind_dot_io__494950_618377_858483_D1BAB0_C37F81`](colormind_dot_io__494950_618377_858483_D1BAB0_C37F81.hexplt)
 
 [ ![colormind_dot_io__494950_618377_858483_D1BAB0_C37F81.png](colormind_dot_io__494950_618377_858483_D1BAB0_C37F81.png) ](colormind_dot_io__494950_618377_858483_D1BAB0_C37F81.png)
 
-### [colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836](colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836.hexplt)
+### [`colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836`](colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836.hexplt)
 
 [ ![colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836.png](colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836.png) ](colormind_dot_io__494A44_46A5AC_F5EADF_E8D86B_F36836.png)
 
-### [colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A](colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A.hexplt)
+### [`colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A`](colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A.hexplt)
 
 [ ![colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A.png](colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A.png) ](colormind_dot_io__49535A_A0B876_C1B08A_E1C595_C1C89A.png)
 
-### [colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41](colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41.hexplt)
+### [`colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41`](colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41.hexplt)
 
 [ ![colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41.png](colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41.png) ](colormind_dot_io__49A376_C7DAB8_DCC380_B76947_964E41.png)
 
-### [colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340](colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340.hexplt)
+### [`colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340`](colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340.hexplt)
 
 [ ![colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340.png](colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340.png) ](colormind_dot_io__4A2031_22555D_105961_3C7376_E0B340.png)
 
-### [colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459](colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459.hexplt)
+### [`colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459`](colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459.hexplt)
 
 [ ![colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459.png](colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459.png) ](colormind_dot_io__4A2B43_9D6F6C_CBD5C7_D9E7E3_CE9459.png)
 
-### [colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5](colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5.hexplt)
+### [`colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5`](colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5.hexplt)
 
 [ ![colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5.png](colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5.png) ](colormind_dot_io__4A3030_824D4F_597A6B_8BC9B9_F7F9F5.png)
 
-### [colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6](colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6.hexplt)
+### [`colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6`](colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6.hexplt)
 
 [ ![colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6.png](colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6.png) ](colormind_dot_io__4A4847_5C859E_50ADCB_D1E3D9_FDFAA6.png)
 
-### [colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC](colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC.hexplt)
+### [`colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC`](colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC.hexplt)
 
 [ ![colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC.png](colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC.png) ](colormind_dot_io__4A5D66_CF6B46_9BA571_DBE2C5_86CCCC.png)
 
-### [colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B](colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B.hexplt)
+### [`colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B`](colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B.hexplt)
 
 [ ![colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B.png](colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B.png) ](colormind_dot_io__4B261C_F25C29_EDC538_3AB54B_279D7B.png)
 
-### [colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1](colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1.hexplt)
+### [`colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1`](colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1.hexplt)
 
 [ ![colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1.png](colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1.png) ](colormind_dot_io__4B3D3E_513242_7F118A_C3BDE3_DED5D1.png)
 
-### [colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834](colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834.hexplt)
+### [`colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834`](colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834.hexplt)
 
 [ ![colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834.png](colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834.png) ](colormind_dot_io__4B5757_979681_C1B997_F2F3D9_B6B834.png)
 
-### [colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175](colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175.hexplt)
+### [`colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175`](colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175.hexplt)
 
 [ ![colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175.png](colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175.png) ](colormind_dot_io__4C2591_6831AF_9756A9_CD987A_DBD175.png)
 
-### [colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55](colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55.hexplt)
+### [`colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55`](colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55.hexplt)
 
 [ ![colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55.png](colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55.png) ](colormind_dot_io__4C2717_A47345_FCAF3F_EDA664_735E55.png)
 
-### [colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658](colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658.hexplt)
+### [`colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658`](colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658.hexplt)
 
 [ ![colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658.png](colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658.png) ](colormind_dot_io__4C3146_517D80_FCDAB1_BEBBA3_765658.png)
 
-### [colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A](colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A.hexplt)
+### [`colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A`](colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A.hexplt)
 
 [ ![colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A.png](colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A.png) ](colormind_dot_io__4C676B_97C3AC_EBE598_F5A385_EA5C5A.png)
 
-### [colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252](colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252.hexplt)
+### [`colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252`](colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252.hexplt)
 
 [ ![colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252.png](colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252.png) ](colormind_dot_io__4C878F_3AC3B4_E9D2B6_EDAC79_F15252.png)
 
-### [colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B](colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B.hexplt)
+### [`colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B`](colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B.hexplt)
 
 [ ![colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B.png](colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B.png) ](colormind_dot_io__4D3146_94A289_F4E3BC_A7907A_4F483B.png)
 
-### [colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455](colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455.hexplt)
+### [`colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455`](colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455.hexplt)
 
 [ ![colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455.png](colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455.png) ](colormind_dot_io__4D3E4B_BBAB70_E0C096_B49A7C_8A6455.png)
 
-### [colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853](colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853.hexplt)
+### [`colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853`](colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853.hexplt)
 
 [ ![colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853.png](colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853.png) ](colormind_dot_io__4D4C4C_B5BA89_CFB77D_C0AF78_8D6853.png)
 
-### [colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375](colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375.hexplt)
+### [`colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375`](colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375.hexplt)
 
 [ ![colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375.png](colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375.png) ](colormind_dot_io__4E1B2F_442D30_AD434A_DB8C78_D2B375.png)
 
-### [colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE](colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE.hexplt)
+### [`colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE`](colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE.hexplt)
 
 [ ![colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE.png](colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE.png) ](colormind_dot_io__4E2B1C_AD6A20_FB5719_DBAA7E_1EACBE.png)
 
-### [colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82](colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82.hexplt)
+### [`colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82`](colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82.hexplt)
 
 [ ![colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82.png](colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82.png) ](colormind_dot_io__4E3638_583A39_917B69_B5AE88_BEAE82.png)
 
-### [colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E](colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E.hexplt)
+### [`colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E`](colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E.hexplt)
 
 [ ![colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E.png](colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E.png) ](colormind_dot_io__4E4B3A_7DB17B_96ADA0_DFCE8F_AF4C3E.png)
 
-### [colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31](colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31.hexplt)
+### [`colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31`](colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31.hexplt)
 
 [ ![colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31.png](colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31.png) ](colormind_dot_io__4F404D_CDA557_BE8641_CE803D_9D4E31.png)
 
-### [colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47](colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47.hexplt)
+### [`colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47`](colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47.hexplt)
 
 [ ![colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47.png](colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47.png) ](colormind_dot_io__4F514A_5C7176_DAD6A8_F9FAE2_D78D47.png)
 
-### [colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD](colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD.hexplt)
+### [`colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD`](colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD.hexplt)
 
 [ ![colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD.png](colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD.png) ](colormind_dot_io__4F734E_698E77_9C8E69_CDB66F_F7DEAD.png)
 
-### [colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79](colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79.hexplt)
+### [`colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79`](colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79.hexplt)
 
 [ ![colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79.png](colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79.png) ](colormind_dot_io__503B34_44392E_8E8D64_B6B686_B3AC79.png)
 
-### [colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054](colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054.hexplt)
+### [`colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054`](colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054.hexplt)
 
 [ ![colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054.png](colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054.png) ](colormind_dot_io__503C3F_4A8978_FBF99B_C4C961_C54054.png)
 
-### [colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80](colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80.hexplt)
+### [`colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80`](colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80.hexplt)
 
 [ ![colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80.png](colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80.png) ](colormind_dot_io__504181_886B9C_CDA0B7_E7ABAF_CDAE80.png)
 
-### [colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0](colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0.hexplt)
+### [`colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0`](colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0.hexplt)
 
 [ ![colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0.png](colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0.png) ](colormind_dot_io__504338_76614A_49AA85_9FC593_C4E0A0.png)
 
-### [colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B](colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B.hexplt)
+### [`colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B`](colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B.hexplt)
 
 [ ![colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B.png](colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B.png) ](colormind_dot_io__50495E_447B81_C9D9A2_E1DC94_F2EA4B.png)
 
-### [colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455](colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455.hexplt)
+### [`colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455`](colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455.hexplt)
 
 [ ![colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455.png](colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455.png) ](colormind_dot_io__504A63_5E7596_BEAEB6_7B848D_DF6455.png)
 
-### [colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58](colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58.hexplt)
+### [`colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58`](colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58.hexplt)
 
 [ ![colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58.png](colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58.png) ](colormind_dot_io__50642D_1E3337_726965_EBF1B2_E49D58.png)
 
-### [colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA](colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA.hexplt)
+### [`colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA`](colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA.hexplt)
 
 [ ![colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA.png](colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA.png) ](colormind_dot_io__511A30_FE0FB8_9DC0D1_A8C6A7_F7FCFA.png)
 
-### [colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252](colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252.hexplt)
+### [`colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252`](colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252.hexplt)
 
 [ ![colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252.png](colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252.png) ](colormind_dot_io__51373C_699778_8AA84E_CFA657_DD6252.png)
 
-### [colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B](colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B.hexplt)
+### [`colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B`](colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B.hexplt)
 
 [ ![colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B.png](colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B.png) ](colormind_dot_io__51464E_A4B686_E7D471_E78A29_DA583B.png)
 
-### [colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B](colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B.hexplt)
+### [`colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B`](colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B.hexplt)
 
 [ ![colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B.png](colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B.png) ](colormind_dot_io__516951_B0C78C_F1D274_C8A867_57523B.png)
 
-### [colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140](colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140.hexplt)
+### [`colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140`](colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140.hexplt)
 
 [ ![colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140.png](colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140.png) ](colormind_dot_io__518B43_F3F0A1_AAD439_A66A43_533140.png)
 
-### [colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060](colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060.hexplt)
+### [`colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060`](colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060.hexplt)
 
 [ ![colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060.png](colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060.png) ](colormind_dot_io__521C20_874C41_AF9B7A_B0A47A_979060.png)
 
-### [colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2](colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2.hexplt)
+### [`colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2`](colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2.hexplt)
 
 [ ![colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2.png](colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2.png) ](colormind_dot_io__522923_2D3231_40557A_65A1AF_AECED2.png)
 
-### [colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574](colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574.hexplt)
+### [`colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574`](colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574.hexplt)
 
 [ ![colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574.png](colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574.png) ](colormind_dot_io__522F64_ECB9A4_EF474D_DC8F88_757574.png)
 
-### [colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7](colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7.hexplt)
+### [`colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7`](colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7.hexplt)
 
 [ ![colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7.png](colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7.png) ](colormind_dot_io__523151_3E4758_566573_76838C_B6BDC7.png)
 
-### [colormind_dot_io__523430_564D67_39353E_5B456D_DCB562](colormind_dot_io__523430_564D67_39353E_5B456D_DCB562.hexplt)
+### [`colormind_dot_io__523430_564D67_39353E_5B456D_DCB562`](colormind_dot_io__523430_564D67_39353E_5B456D_DCB562.hexplt)
 
 [ ![colormind_dot_io__523430_564D67_39353E_5B456D_DCB562.png](colormind_dot_io__523430_564D67_39353E_5B456D_DCB562.png) ](colormind_dot_io__523430_564D67_39353E_5B456D_DCB562.png)
 
-### [colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46](colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46.hexplt)
+### [`colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46`](colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46.hexplt)
 
 [ ![colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46.png](colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46.png) ](colormind_dot_io__523634_918E90_A5A58F_DDC4BC_C94F46.png)
 
-### [colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964](colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964.hexplt)
+### [`colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964`](colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964.hexplt)
 
 [ ![colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964.png](colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964.png) ](colormind_dot_io__523832_9B894F_C8B361_F4E8BD_A68964.png)
 
-### [colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F](colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F.hexplt)
+### [`colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F`](colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F.hexplt)
 
 [ ![colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F.png](colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F.png) ](colormind_dot_io__52443A_3D9B82_65BEC6_D2DC9B_E1C88F.png)
 
-### [colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76](colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76.hexplt)
+### [`colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76`](colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76.hexplt)
 
 [ ![colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76.png](colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76.png) ](colormind_dot_io__527A73_99C171_DCDFA9_ECC886_EB8F76.png)
 
-### [colormind_dot_io__534242_689591_43BABA_77BEAE_D67448](colormind_dot_io__534242_689591_43BABA_77BEAE_D67448.hexplt)
+### [`colormind_dot_io__534242_689591_43BABA_77BEAE_D67448`](colormind_dot_io__534242_689591_43BABA_77BEAE_D67448.hexplt)
 
 [ ![colormind_dot_io__534242_689591_43BABA_77BEAE_D67448.png](colormind_dot_io__534242_689591_43BABA_77BEAE_D67448.png) ](colormind_dot_io__534242_689591_43BABA_77BEAE_D67448.png)
 
-### [colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74](colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74.hexplt)
+### [`colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74`](colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74.hexplt)
 
 [ ![colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74.png](colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74.png) ](colormind_dot_io__546A64_D59E63_F69D37_E2AF67_739C74.png)
 
-### [colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F](colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F.hexplt)
+### [`colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F`](colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F.hexplt)
 
 [ ![colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F.png](colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F.png) ](colormind_dot_io__547A43_3D2F50_941643_CF4930_EE803F.png)
 
-### [colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928](colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928.hexplt)
+### [`colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928`](colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928.hexplt)
 
 [ ![colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928.png](colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928.png) ](colormind_dot_io__553924_886E47_A99672_C7DFA5_99B928.png)
 
-### [colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C](colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C.hexplt)
+### [`colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C`](colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C.hexplt)
 
 [ ![colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C.png](colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C.png) ](colormind_dot_io__554B29_C3C246_EFDEA0_7F5F4A_47312C.png)
 
-### [colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E](colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E.hexplt)
+### [`colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E`](colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E.hexplt)
 
 [ ![colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E.png](colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E.png) ](colormind_dot_io__555D4A_DAC976_DBE4D2_28B9A7_0C405E.png)
 
-### [colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D](colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D.hexplt)
+### [`colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D`](colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D.hexplt)
 
 [ ![colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D.png](colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D.png) ](colormind_dot_io__556171_90C377_C8EF64_EAE998_C0965D.png)
 
-### [colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130](colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130.hexplt)
+### [`colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130`](colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130.hexplt)
 
 [ ![colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130.png](colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130.png) ](colormind_dot_io__55998A_B8C323_E4D137_DE7A24_BF4130.png)
 
-### [colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A](colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A.hexplt)
+### [`colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A`](colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A.hexplt)
 
 [ ![colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A.png](colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A.png) ](colormind_dot_io__562D56_D84681_D29E98_EEB18B_F4AE2A.png)
 
-### [colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE](colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE.hexplt)
+### [`colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE`](colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE.hexplt)
 
 [ ![colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE.png](colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE.png) ](colormind_dot_io__563A59_9C7D8D_C29386_B7C08F_FAEDBE.png)
 
-### [colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD](colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD.hexplt)
+### [`colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD`](colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD.hexplt)
 
 [ ![colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD.png](colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD.png) ](colormind_dot_io__565657_AA9487_BEA99A_DDDCC2_8BECBD.png)
 
-### [colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5](colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5.hexplt)
+### [`colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5`](colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5.hexplt)
 
 [ ![colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5.png](colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5.png) ](colormind_dot_io__575630_334361_626468_A3A0A7_E8E1D5.png)
 
-### [colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344](colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344.hexplt)
+### [`colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344`](colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344.hexplt)
 
 [ ![colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344.png](colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344.png) ](colormind_dot_io__578C74_8EBB8B_EEC77B_DA663A_8C4344.png)
 
-### [colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3](colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3.hexplt)
+### [`colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3`](colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3.hexplt)
 
 [ ![colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3.png](colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3.png) ](colormind_dot_io__58484C_875C5D_D3B87F_CFC56B_D9C6C3.png)
 
-### [colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447](colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447.hexplt)
+### [`colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447`](colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447.hexplt)
 
 [ ![colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447.png](colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447.png) ](colormind_dot_io__58525E_E5D8B5_C5C09A_CC925D_3B2447.png)
 
-### [colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE](colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE.hexplt)
+### [`colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE`](colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE.hexplt)
 
 [ ![colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE.png](colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE.png) ](colormind_dot_io__586456_637264_747475_B3CBBE_EDF6EE.png)
 
-### [colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332](colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332.hexplt)
+### [`colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332`](colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332.hexplt)
 
 [ ![colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332.png](colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332.png) ](colormind_dot_io__59362F_D2D43C_8AA125_468D27_133332.png)
 
-### [colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51](colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51.hexplt)
+### [`colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51`](colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51.hexplt)
 
 [ ![colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51.png](colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51.png) ](colormind_dot_io__59403B_E29A89_BE5A48_E14A37_B77C51.png)
 
-### [colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477](colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477.hexplt)
+### [`colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477`](colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477.hexplt)
 
 [ ![colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477.png](colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477.png) ](colormind_dot_io__59636B_BAB095_F7F0BC_EBA76C_B04477.png)
 
-### [colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687](colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687.hexplt)
+### [`colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687`](colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687.hexplt)
 
 [ ![colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687.png](colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687.png) ](colormind_dot_io__5A4544_95A581_EBDAED_E8DBB5_B3B687.png)
 
-### [colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042](colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042.hexplt)
+### [`colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042`](colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042.hexplt)
 
 [ ![colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042.png](colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042.png) ](colormind_dot_io__5B574B_5D725C_75A371_9FC771_75C042.png)
 
-### [colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A](colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A.hexplt)
+### [`colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A`](colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A.hexplt)
 
 [ ![colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A.png](colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A.png) ](colormind_dot_io__5BB982_FBBD2D_F13E59_B5313B_664A5A.png)
 
-### [colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B](colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B.hexplt)
+### [`colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B`](colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B.hexplt)
 
 [ ![colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B.png](colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B.png) ](colormind_dot_io__5C0C21_930F0E_C9421B_AC9D1A_FBAD0B.png)
 
-### [colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6](colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6.hexplt)
+### [`colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6`](colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6.hexplt)
 
 [ ![colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6.png](colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6.png) ](colormind_dot_io__5C5A65_778FA7_A0B2B6_D9DDBC_DAD4C6.png)
 
-### [colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937](colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937.hexplt)
+### [`colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937`](colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937.hexplt)
 
 [ ![colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937.png](colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937.png) ](colormind_dot_io__5D3E44_B4A585_CCB5A4_D7BFA8_864937.png)
 
-### [colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12](colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12.hexplt)
+### [`colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12`](colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12.hexplt)
 
 [ ![colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12.png](colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12.png) ](colormind_dot_io__5D4D30_B9D0A5_BDBF8A_759D71_261A12.png)
 
-### [colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1](colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1.hexplt)
+### [`colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1`](colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1.hexplt)
 
 [ ![colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1.png](colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1.png) ](colormind_dot_io__5E2D2B_8F5D5D_B49293_9AD6B8_E3CCC1.png)
 
-### [colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4](colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4.hexplt)
+### [`colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4`](colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4.hexplt)
 
 [ ![colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4.png](colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4.png) ](colormind_dot_io__5E4A40_96A488_D7DBC2_E3DDC1_C2B9B4.png)
 
-### [colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87](colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87.hexplt)
+### [`colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87`](colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87.hexplt)
 
 [ ![colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87.png](colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87.png) ](colormind_dot_io__5E90C3_1A574A_0D262A_746626_EECE87.png)
 
-### [colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C](colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C.hexplt)
+### [`colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C`](colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C.hexplt)
 
 [ ![colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C.png](colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C.png) ](colormind_dot_io__5EA180_57A661_B77C47_A93651_F06C6C.png)
 
-### [colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710](colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710.hexplt)
+### [`colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710`](colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710.hexplt)
 
 [ ![colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710.png](colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710.png) ](colormind_dot_io__5F5619_6FA8B0_D2CDBD_E1701E_781710.png)
 
-### [colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185](colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185.hexplt)
+### [`colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185`](colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185.hexplt)
 
 [ ![colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185.png](colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185.png) ](colormind_dot_io__5F5850_A4B5BF_E5D4F4_D8D0B9_ACB185.png)
 
-### [colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D](colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D.hexplt)
+### [`colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D`](colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D.hexplt)
 
 [ ![colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D.png](colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D.png) ](colormind_dot_io__60121E_352222_A42C2D_B87864_A3A34D.png)
 
-### [colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A](colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A.hexplt)
+### [`colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A`](colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A.hexplt)
 
 [ ![colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A.png](colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A.png) ](colormind_dot_io__602537_2E3131_A9A79C_B49D83_D4943A.png)
 
-### [colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90](colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90.hexplt)
+### [`colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90`](colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90.hexplt)
 
 [ ![colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90.png](colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90.png) ](colormind_dot_io__60380C_9B6A49_C5B7AC_FBF7DC_95BC90.png)
 
-### [colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33](colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33.hexplt)
+### [`colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33`](colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33.hexplt)
 
 [ ![colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33.png](colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33.png) ](colormind_dot_io__60946D_FAF7DC_CBAB71_9E5C45_423A33.png)
 
-### [colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945](colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945.hexplt)
+### [`colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945`](colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945.hexplt)
 
 [ ![colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945.png](colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945.png) ](colormind_dot_io__613941_75A38C_57A8A9_E7DCB6_E68945.png)
 
-### [colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88](colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88.hexplt)
+### [`colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88`](colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88.hexplt)
 
 [ ![colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88.png](colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88.png) ](colormind_dot_io__624231_8F7035_E4C26A_E8C2AD_DC8D88.png)
 
-### [colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82](colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82.hexplt)
+### [`colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82`](colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82.hexplt)
 
 [ ![colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82.png](colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82.png) ](colormind_dot_io__62544C_816355_CD8758_DBA86F_E4CA82.png)
 
-### [colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643](colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643.hexplt)
+### [`colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643`](colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643.hexplt)
 
 [ ![colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643.png](colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643.png) ](colormind_dot_io__626B71_DCA36E_C57D4D_CC533D_8E6643.png)
 
-### [colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F](colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F.hexplt)
+### [`colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F`](colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F.hexplt)
 
 [ ![colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F.png](colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F.png) ](colormind_dot_io__627E75_3F3A39_8D3B3B_EB7F25_F8D49F.png)
 
-### [colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C](colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C.hexplt)
+### [`colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C`](colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C.hexplt)
 
 [ ![colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C.png](colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C.png) ](colormind_dot_io__63302F_9A9F5A_FBF9F1_AEDA6D_24705C.png)
 
-### [colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6](colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6.hexplt)
+### [`colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6`](colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6.hexplt)
 
 [ ![colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6.png](colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6.png) ](colormind_dot_io__634C42_82664F_3AAC9E_94CCA9_CEF1B6.png)
 
-### [colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53](colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53.hexplt)
+### [`colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53`](colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53.hexplt)
 
 [ ![colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53.png](colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53.png) ](colormind_dot_io__642E24_A36218_DAA030_DAA334_ADAE53.png)
 
-### [colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84](colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84.hexplt)
+### [`colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84`](colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84.hexplt)
 
 [ ![colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84.png](colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84.png) ](colormind_dot_io__643632_A08655_CAB26E_D8C8B7_AFAE84.png)
 
-### [colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D](colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D.hexplt)
+### [`colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D`](colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D.hexplt)
 
 [ ![colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D.png](colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D.png) ](colormind_dot_io__65222D_682231_AA6E42_C79D63_EFD77D.png)
 
-### [colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49](colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49.hexplt)
+### [`colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49`](colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49.hexplt)
 
 [ ![colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49.png](colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49.png) ](colormind_dot_io__652E50_DA6F27_F9DC18_C4B631_1EED49.png)
 
-### [colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2](colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2.hexplt)
+### [`colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2`](colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2.hexplt)
 
 [ ![colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2.png](colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2.png) ](colormind_dot_io__65364B_E77E76_EFD9A6_B1CDA5_9DBBB2.png)
 
-### [colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137](colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137.hexplt)
+### [`colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137`](colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137.hexplt)
 
 [ ![colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137.png](colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137.png) ](colormind_dot_io__65364C_598391_F5F3F3_A7A6A8_533137.png)
 
-### [colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1](colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1.hexplt)
+### [`colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1`](colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1.hexplt)
 
 [ ![colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1.png](colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1.png) ](colormind_dot_io__663042_D27583_F9F6F2_DDCCC8_8BC3B1.png)
 
-### [colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38](colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38.hexplt)
+### [`colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38`](colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38.hexplt)
 
 [ ![colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38.png](colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38.png) ](colormind_dot_io__672231_FAF9F6_C4C08D_818967_404F38.png)
 
-### [colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D](colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D.hexplt)
+### [`colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D`](colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D.hexplt)
 
 [ ![colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D.png](colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D.png) ](colormind_dot_io__67565E_54876D_CAD4B4_A88C6A_CC573D.png)
 
-### [colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E](colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E.hexplt)
+### [`colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E`](colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E.hexplt)
 
 [ ![colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E.png](colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E.png) ](colormind_dot_io__69273B_CE4942_C9C79D_99C567_C8D29E.png)
 
-### [colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57](colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57.hexplt)
+### [`colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57`](colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57.hexplt)
 
 [ ![colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57.png](colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57.png) ](colormind_dot_io__694740_C9C594_C4B188_8F8672_414D57.png)
 
-### [colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C](colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C.hexplt)
+### [`colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C`](colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C.hexplt)
 
 [ ![colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C.png](colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C.png) ](colormind_dot_io__695A56_7A9B66_D4B558_E5B841_F38D4C.png)
 
-### [colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592](colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592.hexplt)
+### [`colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592`](colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592.hexplt)
 
 [ ![colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592.png](colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592.png) ](colormind_dot_io__6A2634_B05D28_DB662A_C2BF83_6BB592.png)
 
-### [colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA](colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA.hexplt)
+### [`colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA`](colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA.hexplt)
 
 [ ![colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA.png](colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA.png) ](colormind_dot_io__6A3A43_8A706F_ACBA82_D3C9B6_E9EFDA.png)
 
-### [colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B](colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B.hexplt)
+### [`colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B`](colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B.hexplt)
 
 [ ![colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B.png](colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B.png) ](colormind_dot_io__6B2F3A_C86C3C_DDCA7C_AB9581_ADC68B.png)
 
-### [colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944](colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944.hexplt)
+### [`colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944`](colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944.hexplt)
 
 [ ![colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944.png](colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944.png) ](colormind_dot_io__6B9771_989F45_D0A44A_D2624C_B13944.png)
 
-### [colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A](colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A.hexplt)
+### [`colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A`](colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A.hexplt)
 
 [ ![colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A.png](colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A.png) ](colormind_dot_io__6C0B0A_F9DDC2_B5BA8C_4A7161_2E383A.png)
 
-### [colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20](colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20.hexplt)
+### [`colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20`](colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20.hexplt)
 
 [ ![colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20.png](colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20.png) ](colormind_dot_io__6C1C6A_627398_C0C292_C4745C_8E0C20.png)
 
-### [colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B](colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B.hexplt)
+### [`colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B`](colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B.hexplt)
 
 [ ![colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B.png](colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B.png) ](colormind_dot_io__6C1D37_77403A_CA5D4A_DF9576_AB9D6B.png)
 
-### [colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364](colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364.hexplt)
+### [`colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364`](colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364.hexplt)
 
 [ ![colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364.png](colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364.png) ](colormind_dot_io__6CC9C8_C0C189_DA2B28_C65148_747364.png)
 
-### [colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C](colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C.hexplt)
+### [`colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C`](colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C.hexplt)
 
 [ ![colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C.png](colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C.png) ](colormind_dot_io__6D4A5C_C07873_B1717B_DB8162_98B78C.png)
 
-### [colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637](colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637.hexplt)
+### [`colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637`](colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637.hexplt)
 
 [ ![colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637.png](colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637.png) ](colormind_dot_io__6D7356_D4D0BE_899A86_B8857E_432637.png)
 
-### [colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C](colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C.hexplt)
+### [`colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C`](colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C.hexplt)
 
 [ ![colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C.png](colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C.png) ](colormind_dot_io__6D7C5B_A67766_DFB485_CC9E4B_598F2C.png)
 
-### [colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960](colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960.hexplt)
+### [`colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960`](colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960.hexplt)
 
 [ ![colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960.png](colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960.png) ](colormind_dot_io__6E715D_B76F55_FDFBF8_65676D_323960.png)
 
-### [colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596](colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596.hexplt)
+### [`colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596`](colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596.hexplt)
 
 [ ![colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596.png](colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596.png) ](colormind_dot_io__6E7164_C19B62_F4E3B3_D6D9C8_889596.png)
 
-### [colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D](colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D.hexplt)
+### [`colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D`](colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D.hexplt)
 
 [ ![colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D.png](colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D.png) ](colormind_dot_io__6E756D_A19E8D_EAD8BA_E5A08E_A0533D.png)
 
-### [colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819](colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819.hexplt)
+### [`colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819`](colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819.hexplt)
 
 [ ![colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819.png](colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819.png) ](colormind_dot_io__6E7A59_D5D9BB_D1BAAB_6C584D_271819.png)
 
-### [colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D](colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D.hexplt)
+### [`colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D`](colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D.hexplt)
 
 [ ![colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D.png](colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D.png) ](colormind_dot_io__6F5444_7C9581_9AAD94_CDB28E_EFC98D.png)
 
-### [colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C](colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C.hexplt)
+### [`colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C`](colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C.hexplt)
 
 [ ![colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C.png](colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C.png) ](colormind_dot_io__6F812D_F5F4C6_DEC7A7_847B73_46514C.png)
 
-### [colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32](colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32.hexplt)
+### [`colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32`](colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32.hexplt)
 
 [ ![colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32.png](colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32.png) ](colormind_dot_io__6F9177_FCD19B_ED6A4A_CC3231_3E2F32.png)
 
-### [colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26](colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26.hexplt)
+### [`colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26`](colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26.hexplt)
 
 [ ![colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26.png](colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26.png) ](colormind_dot_io__706E55_AFB368_ECC449_817A37_8A2E26.png)
 
-### [colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69](colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69.hexplt)
+### [`colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69`](colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69.hexplt)
 
 [ ![colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69.png](colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69.png) ](colormind_dot_io__70887C_9FAE7B_F5E99F_C7B572_908C69.png)
 
-### [colormind_dot_io__715527_F3B365_E2A245_AE6950_484850](colormind_dot_io__715527_F3B365_E2A245_AE6950_484850.hexplt)
+### [`colormind_dot_io__715527_F3B365_E2A245_AE6950_484850`](colormind_dot_io__715527_F3B365_E2A245_AE6950_484850.hexplt)
 
 [ ![colormind_dot_io__715527_F3B365_E2A245_AE6950_484850.png](colormind_dot_io__715527_F3B365_E2A245_AE6950_484850.png) ](colormind_dot_io__715527_F3B365_E2A245_AE6950_484850.png)
 
-### [colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53](colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53.hexplt)
+### [`colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53`](colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53.hexplt)
 
 [ ![colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53.png](colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53.png) ](colormind_dot_io__717E7D_66ADA8_A4F581_71D14A_5CBB53.png)
 
-### [colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53](colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53.hexplt)
+### [`colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53`](colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53.hexplt)
 
 [ ![colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53.png](colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53.png) ](colormind_dot_io__717F80_9CAB9A_F5E0D5_D2BA4C_B26D53.png)
 
-### [colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E](colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E.hexplt)
+### [`colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E`](colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E.hexplt)
 
 [ ![colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E.png](colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E.png) ](colormind_dot_io__722C34_855A55_AA8B60_CAB57A_CCCD3E.png)
 
-### [colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549](colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549.hexplt)
+### [`colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549`](colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549.hexplt)
 
 [ ![colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549.png](colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549.png) ](colormind_dot_io__734353_B0CE85_E4E1CA_AB9783_9C6549.png)
 
-### [colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336](colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336.hexplt)
+### [`colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336`](colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336.hexplt)
 
 [ ![colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336.png](colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336.png) ](colormind_dot_io__736076_F7F3AF_D0B26B_7F6E4A_414336.png)
 
-### [colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131](colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131.hexplt)
+### [`colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131`](colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131.hexplt)
 
 [ ![colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131.png](colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131.png) ](colormind_dot_io__73754F_FAF3B7_C2AA7C_3A4945_252131.png)
 
-### [colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD](colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD.hexplt)
+### [`colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD`](colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD.hexplt)
 
 [ ![colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD.png](colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD.png) ](colormind_dot_io__73BB9B_B6BC66_F03E64_EA969A_5FACDD.png)
 
-### [colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537](colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537.hexplt)
+### [`colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537`](colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537.hexplt)
 
 [ ![colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537.png](colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537.png) ](colormind_dot_io__73C5AA_BEA86D_BD752A_A62738_AF2537.png)
 
-### [colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB](colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB.hexplt)
+### [`colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB`](colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB.hexplt)
 
 [ ![colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB.png](colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB.png) ](colormind_dot_io__75766A_BAAA82_FAEDA2_CAD7B7_CDDDEB.png)
 
-### [colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2](colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2.hexplt)
+### [`colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2`](colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2.hexplt)
 
 [ ![colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2.png](colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2.png) ](colormind_dot_io__763E44_5E1636_D41B21_D7C25C_DAF6E2.png)
 
-### [colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59](colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59.hexplt)
+### [`colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59`](colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59.hexplt)
 
 [ ![colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59.png](colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59.png) ](colormind_dot_io__775D32_91B074_D1D9C4_E8E4DC_CE6D59.png)
 
-### [colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A](colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A.hexplt)
+### [`colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A`](colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A.hexplt)
 
 [ ![colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A.png](colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A.png) ](colormind_dot_io__785F57_F3B847_E5DEAD_88AAA0_333F4A.png)
 
-### [colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E](colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E.hexplt)
+### [`colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E`](colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E.hexplt)
 
 [ ![colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E.png](colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E.png) ](colormind_dot_io__786259_B8A6AA_D9C3B2_D6805D_47785E.png)
 
-### [colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F](colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F.hexplt)
+### [`colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F`](colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F.hexplt)
 
 [ ![colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F.png](colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F.png) ](colormind_dot_io__786732_C7BB87_DBD3B5_96977D_3C362F.png)
 
-### [colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C](colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C.hexplt)
+### [`colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C`](colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C.hexplt)
 
 [ ![colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C.png](colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C.png) ](colormind_dot_io__78BFA4_F5E5B2_EC9350_A4552A_5A502C.png)
 
-### [colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B](colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B.hexplt)
+### [`colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B`](colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B.hexplt)
 
 [ ![colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B.png](colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B.png) ](colormind_dot_io__797C8A_1E3E57_363E52_4E5667_DDB58B.png)
 
-### [colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E](colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E.hexplt)
+### [`colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E`](colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E.hexplt)
 
 [ ![colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E.png](colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E.png) ](colormind_dot_io__7A7672_F5F5EF_C4CCA5_7B6955_38403E.png)
 
-### [colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6](colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6.hexplt)
+### [`colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6`](colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6.hexplt)
 
 [ ![colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6.png](colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6.png) ](colormind_dot_io__7B6656_8F7B75_FAECB5_A4B6C1_4797A6.png)
 
-### [colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8](colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8.hexplt)
+### [`colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8`](colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8.hexplt)
 
 [ ![colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8.png](colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8.png) ](colormind_dot_io__7B694F_8EA977_A9BDA3_DDE1D4_DBABA8.png)
 
-### [colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A](colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A.hexplt)
+### [`colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A`](colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A.hexplt)
 
 [ ![colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A.png](colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A.png) ](colormind_dot_io__7D8667_814C6B_5A5249_6F584C_D0B45A.png)
 
-### [colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C](colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C.hexplt)
+### [`colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C`](colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C.hexplt)
 
 [ ![colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C.png](colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C.png) ](colormind_dot_io__7E2A43_FDFAD2_C9BE7A_7D8369_37433C.png)
 
-### [colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67](colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67.hexplt)
+### [`colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67`](colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67.hexplt)
 
 [ ![colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67.png](colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67.png) ](colormind_dot_io__7E7F60_A3D0A0_C9F3C1_ACCFA1_808D67.png)
 
-### [colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13](colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13.hexplt)
+### [`colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13`](colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13.hexplt)
 
 [ ![colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13.png](colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13.png) ](colormind_dot_io__7E802E_B3C299_9C9463_943A0E_881D13.png)
 
-### [colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B](colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B.hexplt)
+### [`colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B`](colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B.hexplt)
 
 [ ![colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B.png](colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B.png) ](colormind_dot_io__7E8D36_E1B661_BCA146_E78A39_90221B.png)
 
-### [colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F](colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F.hexplt)
+### [`colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F`](colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F.hexplt)
 
 [ ![colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F.png](colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F.png) ](colormind_dot_io__7EBEB5_F2E7BF_D99670_74645E_98294F.png)
 
-### [colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933](colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933.hexplt)
+### [`colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933`](colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933.hexplt)
 
 [ ![colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933.png](colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933.png) ](colormind_dot_io__7F593A_EDA245_E5DBC4_90D8D5_5F5933.png)
 
-### [colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8](colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8.hexplt)
+### [`colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8`](colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8.hexplt)
 
 [ ![colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8.png](colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8.png) ](colormind_dot_io__7F809E_B3D6D8_EFE595_6A98C7_3D74A8.png)
 
-### [colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53](colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53.hexplt)
+### [`colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53`](colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53.hexplt)
 
 [ ![colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53.png](colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53.png) ](colormind_dot_io__7F8B74_B75C71_A2636F_B64C4B_BE9E53.png)
 
-### [colormind_dot_io__807760_54618D_655E58_A57051_E44350](colormind_dot_io__807760_54618D_655E58_A57051_E44350.hexplt)
+### [`colormind_dot_io__807760_54618D_655E58_A57051_E44350`](colormind_dot_io__807760_54618D_655E58_A57051_E44350.hexplt)
 
 [ ![colormind_dot_io__807760_54618D_655E58_A57051_E44350.png](colormind_dot_io__807760_54618D_655E58_A57051_E44350.png) ](colormind_dot_io__807760_54618D_655E58_A57051_E44350.png)
 
-### [colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C](colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C.hexplt)
+### [`colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C`](colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C.hexplt)
 
 [ ![colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C.png](colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C.png) ](colormind_dot_io__812831_CF5C4B_E1A74B_F7DA95_62866C.png)
 
-### [colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160](colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160.hexplt)
+### [`colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160`](colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160.hexplt)
 
 [ ![colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160.png](colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160.png) ](colormind_dot_io__81948B_E4D28B_DA945F_AD644D_7C4160.png)
 
-### [colormind_dot_io__823030_938761_B9AF96_435D54_648F8E](colormind_dot_io__823030_938761_B9AF96_435D54_648F8E.hexplt)
+### [`colormind_dot_io__823030_938761_B9AF96_435D54_648F8E`](colormind_dot_io__823030_938761_B9AF96_435D54_648F8E.hexplt)
 
 [ ![colormind_dot_io__823030_938761_B9AF96_435D54_648F8E.png](colormind_dot_io__823030_938761_B9AF96_435D54_648F8E.png) ](colormind_dot_io__823030_938761_B9AF96_435D54_648F8E.png)
 
-### [colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F](colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F.hexplt)
+### [`colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F`](colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F.hexplt)
 
 [ ![colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F.png](colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F.png) ](colormind_dot_io__825739_DF9C4E_EBCF7C_B4A474_66745F.png)
 
-### [colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845](colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845.hexplt)
+### [`colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845`](colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845.hexplt)
 
 [ ![colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845.png](colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845.png) ](colormind_dot_io__826E59_AA9A7A_E9CD8E_F1A274_FA5845.png)
 
-### [colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD](colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD.hexplt)
+### [`colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD`](colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD.hexplt)
 
 [ ![colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD.png](colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD.png) ](colormind_dot_io__833682_E34D79_FD63F2_B53C74_E357DD.png)
 
-### [colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F](colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F.hexplt)
+### [`colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F`](colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F.hexplt)
 
 [ ![colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F.png](colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F.png) ](colormind_dot_io__836A41_D0A031_D77B2D_9E683F_654E3F.png)
 
-### [colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8](colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8.hexplt)
+### [`colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8`](colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8.hexplt)
 
 [ ![colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8.png](colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8.png) ](colormind_dot_io__842330_F6223C_CEB995_F7F7ED_64ADA8.png)
 
-### [colormind_dot_io__849166_9A847C_905048_764B30_F15B36](colormind_dot_io__849166_9A847C_905048_764B30_F15B36.hexplt)
+### [`colormind_dot_io__849166_9A847C_905048_764B30_F15B36`](colormind_dot_io__849166_9A847C_905048_764B30_F15B36.hexplt)
 
 [ ![colormind_dot_io__849166_9A847C_905048_764B30_F15B36.png](colormind_dot_io__849166_9A847C_905048_764B30_F15B36.png) ](colormind_dot_io__849166_9A847C_905048_764B30_F15B36.png)
 
-### [colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60](colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60.hexplt)
+### [`colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60`](colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60.hexplt)
 
 [ ![colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60.png](colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60.png) ](colormind_dot_io__849862_B4AA48_D6C7B3_D16E81_906D60.png)
 
-### [colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F](colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F.hexplt)
+### [`colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F`](colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F.hexplt)
 
 [ ![colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F.png](colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F.png) ](colormind_dot_io__853A4C_DA5665_F3BEC1_DCDEAA_8A6C7F.png)
 
-### [colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5](colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5.hexplt)
+### [`colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5`](colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5.hexplt)
 
 [ ![colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5.png](colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5.png) ](colormind_dot_io__86A7E2_AD9D9C_EFE0CA_99A99D_795FA5.png)
 
-### [colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B](colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B.hexplt)
+### [`colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B`](colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B.hexplt)
 
 [ ![colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B.png](colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B.png) ](colormind_dot_io__86C06D_D7B17C_C5495B_73365C_4F234B.png)
 
-### [colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39](colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39.hexplt)
+### [`colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39`](colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39.hexplt)
 
 [ ![colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39.png](colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39.png) ](colormind_dot_io__86C7DD_3397DD_36465A_D93E2B_EB4E39.png)
 
-### [colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430](colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430.hexplt)
+### [`colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430`](colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430.hexplt)
 
 [ ![colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430.png](colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430.png) ](colormind_dot_io__882232_CBBB9D_DACE9B_B5A471_904430.png)
 
-### [colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD](colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD.hexplt)
+### [`colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD`](colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD.hexplt)
 
 [ ![colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD.png](colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD.png) ](colormind_dot_io__885B44_988C52_C2B971_ACCE98_93B6AD.png)
 
-### [colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD](colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD.hexplt)
+### [`colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD`](colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD.hexplt)
 
 [ ![colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD.png](colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD.png) ](colormind_dot_io__893760_6F7C73_66D695_A0D5E0_B4DDCD.png)
 
-### [colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60](colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60.hexplt)
+### [`colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60`](colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60.hexplt)
 
 [ ![colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60.png](colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60.png) ](colormind_dot_io__894650_D7C26C_F1F0BF_66C0A1_625B60.png)
 
-### [colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631](colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631.hexplt)
+### [`colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631`](colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631.hexplt)
 
 [ ![colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631.png](colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631.png) ](colormind_dot_io__894A3F_DD8A7A_6F4A57_322327_271631.png)
 
-### [colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C](colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C.hexplt)
+### [`colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C`](colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C.hexplt)
 
 [ ![colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C.png](colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C.png) ](colormind_dot_io__897D6E_2E2B37_543E48_D3C6B8_D5AF6C.png)
 
-### [colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758](colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758.hexplt)
+### [`colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758`](colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758.hexplt)
 
 [ ![colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758.png](colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758.png) ](colormind_dot_io__8A4148_CE3640_ECD3A2_8CBD9C_555758.png)
 
-### [colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41](colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41.hexplt)
+### [`colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41`](colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41.hexplt)
 
 [ ![colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41.png](colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41.png) ](colormind_dot_io__8B4A39_E49A3F_E89040_D4D186_C08D41.png)
 
-### [colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410](colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410.hexplt)
+### [`colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410`](colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410.hexplt)
 
 [ ![colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410.png](colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410.png) ](colormind_dot_io__8CA74E_476039_1A5E31_4E692A_B34410.png)
 
-### [colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97](colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97.hexplt)
+### [`colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97`](colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97.hexplt)
 
 [ ![colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97.png](colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97.png) ](colormind_dot_io__8D5638_423E3F_B24534_E45C3C_D7CA97.png)
 
-### [colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53](colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53.hexplt)
+### [`colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53`](colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53.hexplt)
 
 [ ![colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53.png](colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53.png) ](colormind_dot_io__8E706E_F1EAC6_A3ACA5_715665_333F53.png)
 
-### [colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E](colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E.hexplt)
+### [`colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E`](colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E.hexplt)
 
 [ ![colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E.png](colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E.png) ](colormind_dot_io__8E9489_264A51_242F33_464F5C_E08A4E.png)
 
-### [colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B](colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B.hexplt)
+### [`colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B`](colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B.hexplt)
 
 [ ![colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B.png](colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B.png) ](colormind_dot_io__8EB27C_C1AC6F_AE8E5B_8E8E72_CE474B.png)
 
-### [colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481](colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481.hexplt)
+### [`colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481`](colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481.hexplt)
 
 [ ![colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481.png](colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481.png) ](colormind_dot_io__8F3E38_AD844F_D0BA6E_B3C099_86B481.png)
 
-### [colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846](colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846.hexplt)
+### [`colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846`](colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846.hexplt)
 
 [ ![colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846.png](colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846.png) ](colormind_dot_io__8F4039_A7937F_CFAB61_D5B85D_E4A846.png)
 
-### [colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D](colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D.hexplt)
+### [`colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D`](colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D.hexplt)
 
 [ ![colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D.png](colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D.png) ](colormind_dot_io__8FAC9A_40232D_D02825_DA7138_F6D94D.png)
 
-### [colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25](colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25.hexplt)
+### [`colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25`](colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25.hexplt)
 
 [ ![colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25.png](colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25.png) ](colormind_dot_io__902C35_A15F3A_E2C792_B2AA6B_5B2C25.png)
 
-### [colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34](colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34.hexplt)
+### [`colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34`](colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34.hexplt)
 
 [ ![colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34.png](colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34.png) ](colormind_dot_io__904911_C3AC47_F5EB95_99A551_323F34.png)
 
-### [colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC](colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC.hexplt)
+### [`colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC`](colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC.hexplt)
 
 [ ![colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC.png](colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC.png) ](colormind_dot_io__904E5A_DE4D43_F3119C_848085_9BCCBC.png)
 
-### [colormind_dot_io__916340_DD914A_F56152_AA2541_60174C](colormind_dot_io__916340_DD914A_F56152_AA2541_60174C.hexplt)
+### [`colormind_dot_io__916340_DD914A_F56152_AA2541_60174C`](colormind_dot_io__916340_DD914A_F56152_AA2541_60174C.hexplt)
 
 [ ![colormind_dot_io__916340_DD914A_F56152_AA2541_60174C.png](colormind_dot_io__916340_DD914A_F56152_AA2541_60174C.png) ](colormind_dot_io__916340_DD914A_F56152_AA2541_60174C.png)
 
-### [colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124](colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124.hexplt)
+### [`colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124`](colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124.hexplt)
 
 [ ![colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124.png](colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124.png) ](colormind_dot_io__919140_E7D47F_CA9B42_E99645_812124.png)
 
-### [colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561](colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561.hexplt)
+### [`colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561`](colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561.hexplt)
 
 [ ![colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561.png](colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561.png) ](colormind_dot_io__929E7C_EABA81_F4A899_725C50_5B4561.png)
 
-### [colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88](colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88.hexplt)
+### [`colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88`](colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88.hexplt)
 
 [ ![colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88.png](colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88.png) ](colormind_dot_io__93AB68_946F43_988D3C_AD394A_DBCA88.png)
 
-### [colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E](colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E.hexplt)
+### [`colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E`](colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E.hexplt)
 
 [ ![colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E.png](colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E.png) ](colormind_dot_io__94986B_B3AE8D_B5A98A_926D54_45332E.png)
 
-### [colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399](colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399.hexplt)
+### [`colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399`](colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399.hexplt)
 
 [ ![colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399.png](colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399.png) ](colormind_dot_io__952321_CD3D4C_45887E_34908B_EDE399.png)
 
-### [colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347](colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347.hexplt)
+### [`colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347`](colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347.hexplt)
 
 [ ![colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347.png](colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347.png) ](colormind_dot_io__96754F_ABC073_89A950_7B995F_5F5347.png)
 
-### [colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166](colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166.hexplt)
+### [`colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166`](colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166.hexplt)
 
 [ ![colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166.png](colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166.png) ](colormind_dot_io__97132C_321834_4D3F4D_E1EEDC_C7D166.png)
 
-### [colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72](colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72.hexplt)
+### [`colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72`](colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72.hexplt)
 
 [ ![colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72.png](colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72.png) ](colormind_dot_io__97444F_658182_B0A435_DBD160_DE9C72.png)
 
-### [colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4](colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4.hexplt)
+### [`colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4`](colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4.hexplt)
 
 [ ![colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4.png](colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4.png) ](colormind_dot_io__989153_DEC26C_F3E9BB_B4E5F7_A5BEC4.png)
 
-### [colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54](colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54.hexplt)
+### [`colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54`](colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54.hexplt)
 
 [ ![colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54.png](colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54.png) ](colormind_dot_io__9AA37B_B4AA8E_CC7174_AD3379_742E54.png)
 
-### [colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B](colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B.hexplt)
+### [`colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B`](colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B.hexplt)
 
 [ ![colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B.png](colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B.png) ](colormind_dot_io__9B2C1E_F7A228_E6DBBA_3CAEB5_282B2B.png)
 
-### [colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4](colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4.hexplt)
+### [`colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4`](colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4.hexplt)
 
 [ ![colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4.png](colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4.png) ](colormind_dot_io__9B9153_F0A75A_FDFBF6_91A6B0_A6BFC4.png)
 
-### [colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987](colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987.hexplt)
+### [`colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987`](colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987.hexplt)
 
 [ ![colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987.png](colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987.png) ](colormind_dot_io__9C3132_A16C63_AF8B76_C1B8AB_B7B987.png)
 
-### [colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449](colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449.hexplt)
+### [`colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449`](colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449.hexplt)
 
 [ ![colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449.png](colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449.png) ](colormind_dot_io__9D352A_DFAA51_D6CB78_487465_254449.png)
 
-### [colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7](colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7.hexplt)
+### [`colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7`](colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7.hexplt)
 
 [ ![colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7.png](colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7.png) ](colormind_dot_io__9E2C37_B79B7C_F6D8BC_CAB3AB_8A92B7.png)
 
-### [colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249](colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249.hexplt)
+### [`colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249`](colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249.hexplt)
 
 [ ![colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249.png](colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249.png) ](colormind_dot_io__9EAF69_19648F_2DA9B4_9BC637_F48249.png)
 
-### [colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330](colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330.hexplt)
+### [`colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330`](colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330.hexplt)
 
 [ ![colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330.png](colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330.png) ](colormind_dot_io__9F2F49_FAF8F5_B8B885_73805E_344330.png)
 
-### [colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142](colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142.hexplt)
+### [`colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142`](colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142.hexplt)
 
 [ ![colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142.png](colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142.png) ](colormind_dot_io__9F352C_F3A654_DABF7D_477466_1F4142.png)
 
-### [colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F](colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F.hexplt)
+### [`colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F`](colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F.hexplt)
 
 [ ![colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F.png](colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F.png) ](colormind_dot_io__A08B85_EDCC84_E3484A_DA1F39_AD272F.png)
 
-### [colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65](colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65.hexplt)
+### [`colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65`](colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65.hexplt)
 
 [ ![colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65.png](colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65.png) ](colormind_dot_io__A09FA1_D09794_DE3A3A_D13730_AD8C65.png)
 
-### [colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31](colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31.hexplt)
+### [`colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31`](colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31.hexplt)
 
 [ ![colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31.png](colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31.png) ](colormind_dot_io__A0A55B_C38D73_733848_2E1A20_C43D31.png)
 
-### [colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A](colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A.hexplt)
+### [`colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A`](colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A.hexplt)
 
 [ ![colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A.png](colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A.png) ](colormind_dot_io__A19F9A_E7B996_DA9AA3_A59E5D_D5C28A.png)
 
-### [colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244](colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244.hexplt)
+### [`colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244`](colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244.hexplt)
 
 [ ![colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244.png](colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244.png) ](colormind_dot_io__A1D8B8_84ACA0_565D54_413B2B_735244.png)
 
-### [colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830](colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830.hexplt)
+### [`colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830`](colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830.hexplt)
 
 [ ![colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830.png](colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830.png) ](colormind_dot_io__A35037_BFB56B_D3B672_708C68_3B3830.png)
 
-### [colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA](colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA.hexplt)
+### [`colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA`](colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA.hexplt)
 
 [ ![colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA.png](colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA.png) ](colormind_dot_io__A3806E_CF6760_EE7147_EBD878_D3CABA.png)
 
-### [colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F](colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F.hexplt)
+### [`colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F`](colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F.hexplt)
 
 [ ![colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F.png](colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F.png) ](colormind_dot_io__A5332D_CE9E4E_DFBD70_E1DBB6_BAAC8F.png)
 
-### [colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2](colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2.hexplt)
+### [`colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2`](colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2.hexplt)
 
 [ ![colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2.png](colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2.png) ](colormind_dot_io__A53D36_8E6653_B6B6A5_69C6D7_80C0B2.png)
 
-### [colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46](colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46.hexplt)
+### [`colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46`](colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46.hexplt)
 
 [ ![colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46.png](colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46.png) ](colormind_dot_io__A58B4C_CABE95_BFC3C2_4F716C_103A46.png)
 
-### [colormind_dot_io__A59739_B8BE89_A08158_978558_752E26](colormind_dot_io__A59739_B8BE89_A08158_978558_752E26.hexplt)
+### [`colormind_dot_io__A59739_B8BE89_A08158_978558_752E26`](colormind_dot_io__A59739_B8BE89_A08158_978558_752E26.hexplt)
 
 [ ![colormind_dot_io__A59739_B8BE89_A08158_978558_752E26.png](colormind_dot_io__A59739_B8BE89_A08158_978558_752E26.png) ](colormind_dot_io__A59739_B8BE89_A08158_978558_752E26.png)
 
-### [colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C](colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C.hexplt)
+### [`colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C`](colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C.hexplt)
 
 [ ![colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C.png](colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C.png) ](colormind_dot_io__A5BA40_FEF779_88784A_3B4944_241D1C.png)
 
-### [colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042](colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042.hexplt)
+### [`colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042`](colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042.hexplt)
 
 [ ![colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042.png](colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042.png) ](colormind_dot_io__A62B40_FFFDF2_B08B8B_2CA4B1_1D3042.png)
 
-### [colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F](colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F.hexplt)
+### [`colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F`](colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F.hexplt)
 
 [ ![colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F.png](colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F.png) ](colormind_dot_io__A62C43_F19F8E_AB8788_A0B382_50352F.png)
 
-### [colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1](colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1.hexplt)
+### [`colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1`](colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1.hexplt)
 
 [ ![colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1.png](colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1.png) ](colormind_dot_io__A6464F_F54245_D89447_94C49B_F8F9F1.png)
 
-### [colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432](colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432.hexplt)
+### [`colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432`](colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432.hexplt)
 
 [ ![colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432.png](colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432.png) ](colormind_dot_io__A6A155_D1BE6E_9B7043_65593B_4C4432.png)
 
-### [colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F](colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F.hexplt)
+### [`colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F`](colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F.hexplt)
 
 [ ![colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F.png](colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F.png) ](colormind_dot_io__A7311E_F45309_F4BE35_937947_3E425F.png)
 
-### [colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F](colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F.hexplt)
+### [`colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F`](colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F.hexplt)
 
 [ ![colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F.png](colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F.png) ](colormind_dot_io__A8C391_EECB97_F95F47_A2223E_3B142F.png)
 
-### [colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6](colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6.hexplt)
+### [`colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6`](colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6.hexplt)
 
 [ ![colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6.png](colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6.png) ](colormind_dot_io__A91418_A8272B_63653E_B8B16C_E2E5C6.png)
 
-### [colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241](colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241.hexplt)
+### [`colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241`](colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241.hexplt)
 
 [ ![colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241.png](colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241.png) ](colormind_dot_io__A9424D_A58D81_8CD1C8_CCD9CC_AA8241.png)
 
-### [colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B](colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B.hexplt)
+### [`colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B`](colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B.hexplt)
 
 [ ![colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B.png](colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B.png) ](colormind_dot_io__A9B08B_DFD4B9_99A891_5E4742_37181B.png)
 
-### [colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754](colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754.hexplt)
+### [`colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754`](colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754.hexplt)
 
 [ ![colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754.png](colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754.png) ](colormind_dot_io__A9BDAB_DBDBC2_F2AA6F_DE914B_816754.png)
 
-### [colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092](colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092.hexplt)
+### [`colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092`](colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092.hexplt)
 
 [ ![colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092.png](colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092.png) ](colormind_dot_io__AAB368_875B4A_646247_A6424A_DDD092.png)
 
-### [colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F](colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F.hexplt)
+### [`colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F`](colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F.hexplt)
 
 [ ![colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F.png](colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F.png) ](colormind_dot_io__AAC181_649569_3E7D6F_2B675D_195C5F.png)
 
-### [colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A](colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A.hexplt)
+### [`colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A`](colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A.hexplt)
 
 [ ![colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A.png](colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A.png) ](colormind_dot_io__AD1F32_A9A797_C7D171_BBD229_AE872A.png)
 
-### [colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B](colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B.hexplt)
+### [`colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B`](colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B.hexplt)
 
 [ ![colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B.png](colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B.png) ](colormind_dot_io__AD4047_E1A93D_DEED94_40CD8F_05492B.png)
 
-### [colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74](colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74.hexplt)
+### [`colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74`](colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74.hexplt)
 
 [ ![colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74.png](colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74.png) ](colormind_dot_io__ADE7BA_827041_B64D52_C3B796_CCAE74.png)
 
-### [colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E](colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E.hexplt)
+### [`colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E`](colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E.hexplt)
 
 [ ![colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E.png](colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E.png) ](colormind_dot_io__AED274_F9925E_CE534C_BC412F_31643E.png)
 
-### [colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8](colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8.hexplt)
+### [`colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8`](colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8.hexplt)
 
 [ ![colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8.png](colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8.png) ](colormind_dot_io__AF7C3A_2C4250_133249_3763A3_C1EAC8.png)
 
-### [colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22](colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22.hexplt)
+### [`colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22`](colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22.hexplt)
 
 [ ![colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22.png](colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22.png) ](colormind_dot_io__AFA244_D3D263_C3C363_3D2E30_462D22.png)
 
-### [colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209](colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209.hexplt)
+### [`colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209`](colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209.hexplt)
 
 [ ![colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209.png](colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209.png) ](colormind_dot_io__AFE0F8_69BBBB_5F9065_524937_FBA209.png)
 
-### [colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267](colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267.hexplt)
+### [`colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267`](colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267.hexplt)
 
 [ ![colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267.png](colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267.png) ](colormind_dot_io__B06537_F7B627_F1F1E6_2E89BD_463267.png)
 
-### [colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F](colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F.hexplt)
+### [`colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F`](colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F.hexplt)
 
 [ ![colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F.png](colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F.png) ](colormind_dot_io__B0CBDB_4A626E_C0CC57_ECD995_EB8B4F.png)
 
-### [colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A](colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A.hexplt)
+### [`colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A`](colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A.hexplt)
 
 [ ![colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A.png](colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A.png) ](colormind_dot_io__B1CA9A_E6EC95_B7C879_BCBB58_39332A.png)
 
-### [colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157](colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157.hexplt)
+### [`colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157`](colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157.hexplt)
 
 [ ![colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157.png](colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157.png) ](colormind_dot_io__B2371C_B07346_CACB82_E5D085_7D7157.png)
 
-### [colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42](colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42.hexplt)
+### [`colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42`](colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42.hexplt)
 
 [ ![colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42.png](colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42.png) ](colormind_dot_io__B32943_FC570B_FDF7D3_8ECBEA_2A3C42.png)
 
-### [colormind_dot_io__B3B98B_88AA95_42646B_263748_425563](colormind_dot_io__B3B98B_88AA95_42646B_263748_425563.hexplt)
+### [`colormind_dot_io__B3B98B_88AA95_42646B_263748_425563`](colormind_dot_io__B3B98B_88AA95_42646B_263748_425563.hexplt)
 
 [ ![colormind_dot_io__B3B98B_88AA95_42646B_263748_425563.png](colormind_dot_io__B3B98B_88AA95_42646B_263748_425563.png) ](colormind_dot_io__B3B98B_88AA95_42646B_263748_425563.png)
 
-### [colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51](colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51.hexplt)
+### [`colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51`](colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51.hexplt)
 
 [ ![colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51.png](colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51.png) ](colormind_dot_io__B3E85C_9BD444_7D8965_667060_784A51.png)
 
-### [colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46](colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46.hexplt)
+### [`colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46`](colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46.hexplt)
 
 [ ![colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46.png](colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46.png) ](colormind_dot_io__B43D36_E96832_FBD780_95CC5E_3B6D46.png)
 
-### [colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429](colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429.hexplt)
+### [`colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429`](colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429.hexplt)
 
 [ ![colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429.png](colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429.png) ](colormind_dot_io__B4532F_F9EB6B_D2B45D_4E672B_203429.png)
 
-### [colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807](colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807.hexplt)
+### [`colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807`](colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807.hexplt)
 
 [ ![colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807.png](colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807.png) ](colormind_dot_io__B4824C_F8A315_E2751C_B04414_8C2807.png)
 
-### [colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2](colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2.hexplt)
+### [`colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2`](colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2.hexplt)
 
 [ ![colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2.png](colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2.png) ](colormind_dot_io__B5221A_3E3F3E_EAE5DF_08C1EC_8897B2.png)
 
-### [colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA](colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA.hexplt)
+### [`colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA`](colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA.hexplt)
 
 [ ![colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA.png](colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA.png) ](colormind_dot_io__B6B5A3_C2BEBC_666F84_413D3F_E9E1DA.png)
 
-### [colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B](colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B.hexplt)
+### [`colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B`](colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B.hexplt)
 
 [ ![colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B.png](colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B.png) ](colormind_dot_io__B74C4F_DF5B44_E6C292_76AD90_5B947B.png)
 
-### [colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F](colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F.hexplt)
+### [`colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F`](colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F.hexplt)
 
 [ ![colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F.png](colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F.png) ](colormind_dot_io__B74D43_645B37_A6382D_BD4339_E6633F.png)
 
-### [colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546](colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546.hexplt)
+### [`colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546`](colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546.hexplt)
 
 [ ![colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546.png](colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546.png) ](colormind_dot_io__B7BCA2_C3B49F_814D4B_5A4146_464546.png)
 
-### [colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6](colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6.hexplt)
+### [`colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6`](colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6.hexplt)
 
 [ ![colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6.png](colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6.png) ](colormind_dot_io__B7E4E1_5D9494_81384B_C8DBD0_F7F8E6.png)
 
-### [colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356](colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356.hexplt)
+### [`colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356`](colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356.hexplt)
 
 [ ![colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356.png](colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356.png) ](colormind_dot_io__B80C33_F3926F_FCD37E_44B7BC_0B5356.png)
 
-### [colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146](colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146.hexplt)
+### [`colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146`](colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146.hexplt)
 
 [ ![colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146.png](colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146.png) ](colormind_dot_io__B81D12_6F9595_D6D454_E5A93F_D65146.png)
 
-### [colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD](colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD.hexplt)
+### [`colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD`](colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD.hexplt)
 
 [ ![colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD.png](colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD.png) ](colormind_dot_io__B88841_808D68_2C5D84_21646E_1BBFBD.png)
 
-### [colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D](colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D.hexplt)
+### [`colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D`](colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D.hexplt)
 
 [ ![colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D.png](colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D.png) ](colormind_dot_io__B8AF53_D4CD87_D0AE81_704B5D_3F263D.png)
 
-### [colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269](colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269.hexplt)
+### [`colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269`](colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269.hexplt)
 
 [ ![colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269.png](colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269.png) ](colormind_dot_io__B8BAC0_69738A_374663_C6799B_B99269.png)
 
-### [colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929](colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929.hexplt)
+### [`colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929`](colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929.hexplt)
 
 [ ![colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929.png](colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929.png) ](colormind_dot_io__B8CE4A_F8925C_D8682E_8E2B4D_312929.png)
 
-### [colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640](colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640.hexplt)
+### [`colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640`](colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640.hexplt)
 
 [ ![colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640.png](colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640.png) ](colormind_dot_io__B9B6AC_F0EADC_C0C798_78785E_394640.png)
 
-### [colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933](colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933.hexplt)
+### [`colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933`](colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933.hexplt)
 
 [ ![colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933.png](colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933.png) ](colormind_dot_io__B9E8A4_5DC293_2C797F_365C42_C46933.png)
 
-### [colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352](colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352.hexplt)
+### [`colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352`](colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352.hexplt)
 
 [ ![colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352.png](colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352.png) ](colormind_dot_io__BB98EF_8CB5B7_CA848D_BF336D_933352.png)
 
-### [colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7](colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7.hexplt)
+### [`colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7`](colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7.hexplt)
 
 [ ![colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7.png](colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7.png) ](colormind_dot_io__BBB179_B24653_3C4A49_6AC6CD_E5E5C7.png)
 
-### [colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319](colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319.hexplt)
+### [`colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319`](colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319.hexplt)
 
 [ ![colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319.png](colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319.png) ](colormind_dot_io__BBBE4E_D18409_9F0D11_9B1317_591319.png)
 
-### [colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033](colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033.hexplt)
+### [`colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033`](colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033.hexplt)
 
 [ ![colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033.png](colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033.png) ](colormind_dot_io__BC1117_FBF6E2_DFBC62_595B29_1E5033.png)
 
-### [colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2](colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2.hexplt)
+### [`colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2`](colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2.hexplt)
 
 [ ![colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2.png](colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2.png) ](colormind_dot_io__BC3334_322636_0B5A6A_20818E_F7EBA2.png)
 
-### [colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723](colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723.hexplt)
+### [`colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723`](colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723.hexplt)
 
 [ ![colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723.png](colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723.png) ](colormind_dot_io__BCB67B_C4B791_C48168_7B3339_2B1723.png)
 
-### [colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3](colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3.hexplt)
+### [`colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3`](colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3.hexplt)
 
 [ ![colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3.png](colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3.png) ](colormind_dot_io__BCD1C4_D0AD92_CC6832_3C1A17_83C2C3.png)
 
-### [colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88](colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88.hexplt)
+### [`colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88`](colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88.hexplt)
 
 [ ![colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88.png](colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88.png) ](colormind_dot_io__BD2952_F2414E_DD9E99_D9BFB9_D68F88.png)
 
-### [colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786](colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786.hexplt)
+### [`colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786`](colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786.hexplt)
 
 [ ![colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786.png](colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786.png) ](colormind_dot_io__BD5460_697173_E0786F_DAC59F_E6B786.png)
 
-### [colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E](colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E.hexplt)
+### [`colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E`](colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E.hexplt)
 
 [ ![colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E.png](colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E.png) ](colormind_dot_io__BFAC4A_CB6224_64360E_7D1711_3D200E.png)
 
-### [colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C](colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C.hexplt)
+### [`colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C`](colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C.hexplt)
 
 [ ![colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C.png](colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C.png) ](colormind_dot_io__BFBA6D_865450_4B696E_77424A_E5D38C.png)
 
-### [colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553](colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553.hexplt)
+### [`colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553`](colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553.hexplt)
 
 [ ![colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553.png](colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553.png) ](colormind_dot_io__BFC934_F7CE14_E98511_B7211C_254553.png)
 
-### [colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE](colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE.hexplt)
+### [`colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE`](colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE.hexplt)
 
 [ ![colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE.png](colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE.png) ](colormind_dot_io__C03237_BE776B_CEA28F_8AADBE_488EAE.png)
 
-### [colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74](colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74.hexplt)
+### [`colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74`](colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74.hexplt)
 
 [ ![colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74.png](colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74.png) ](colormind_dot_io__C04938_F2B16E_FCB158_9C9C7F_375F74.png)
 
-### [colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326](colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326.hexplt)
+### [`colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326`](colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326.hexplt)
 
 [ ![colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326.png](colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326.png) ](colormind_dot_io__C1495E_3CA795_9ABCAE_E8D07C_DE6326.png)
 
-### [colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055](colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055.hexplt)
+### [`colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055`](colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055.hexplt)
 
 [ ![colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055.png](colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055.png) ](colormind_dot_io__C22E19_E95E0A_FCE4DC_328FBE_173055.png)
 
-### [colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342](colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342.hexplt)
+### [`colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342`](colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342.hexplt)
 
 [ ![colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342.png](colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342.png) ](colormind_dot_io__C2494E_F8F1EA_C1A59F_927E7A_494342.png)
 
-### [colormind_dot_io__C3C282_D1A65F_796642_664624_81300F](colormind_dot_io__C3C282_D1A65F_796642_664624_81300F.hexplt)
+### [`colormind_dot_io__C3C282_D1A65F_796642_664624_81300F`](colormind_dot_io__C3C282_D1A65F_796642_664624_81300F.hexplt)
 
 [ ![colormind_dot_io__C3C282_D1A65F_796642_664624_81300F.png](colormind_dot_io__C3C282_D1A65F_796642_664624_81300F.png) ](colormind_dot_io__C3C282_D1A65F_796642_664624_81300F.png)
 
-### [colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83](colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83.hexplt)
+### [`colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83`](colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83.hexplt)
 
 [ ![colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83.png](colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83.png) ](colormind_dot_io__C3D0B2_D1AC84_C56F41_634434_B3BB83.png)
 
-### [colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E](colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E.hexplt)
+### [`colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E`](colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E.hexplt)
 
 [ ![colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E.png](colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E.png) ](colormind_dot_io__C4AD85_B6B19B_999F8F_5B6569_2E313E.png)
 
-### [colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512](colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512.hexplt)
+### [`colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512`](colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512.hexplt)
 
 [ ![colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512.png](colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512.png) ](colormind_dot_io__C4FBF4_BDBC97_B07254_562320_151512.png)
 
-### [colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32](colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32.hexplt)
+### [`colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32`](colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32.hexplt)
 
 [ ![colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32.png](colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32.png) ](colormind_dot_io__C51B10_E3512F_E9AD7C_928C81_493B32.png)
 
-### [colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879](colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879.hexplt)
+### [`colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879`](colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879.hexplt)
 
 [ ![colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879.png](colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879.png) ](colormind_dot_io__C53F46_D1573E_BFB94C_37CB74_0CA879.png)
 
-### [colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B](colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B.hexplt)
+### [`colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B`](colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B.hexplt)
 
 [ ![colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B.png](colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B.png) ](colormind_dot_io__C55449_C69B51_DCD871_C2C2A1_6D817B.png)
 
-### [colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B](colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B.hexplt)
+### [`colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B`](colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B.hexplt)
 
 [ ![colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B.png](colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B.png) ](colormind_dot_io__C55A5E_FCCD61_B8DAA5_69A468_BA2F4B.png)
 
-### [colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B](colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B.hexplt)
+### [`colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B`](colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B.hexplt)
 
 [ ![colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B.png](colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B.png) ](colormind_dot_io__C5CA77_C36952_3A302F_844832_BF623B.png)
 
-### [colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D](colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D.hexplt)
+### [`colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D`](colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D.hexplt)
 
 [ ![colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D.png](colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D.png) ](colormind_dot_io__C63A36_CF9872_C4A887_2C8F96_16445D.png)
 
-### [colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B](colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B.hexplt)
+### [`colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B`](colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B.hexplt)
 
 [ ![colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B.png](colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B.png) ](colormind_dot_io__C64925_FBA40A_B0D851_2B2825_302B3B.png)
 
-### [colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53](colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53.hexplt)
+### [`colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53`](colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53.hexplt)
 
 [ ![colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53.png](colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53.png) ](colormind_dot_io__C6B992_918E7C_6B5D63_6A696A_765F53.png)
 
-### [colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F](colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F.hexplt)
+### [`colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F`](colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F.hexplt)
 
 [ ![colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F.png](colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F.png) ](colormind_dot_io__C77240_BAB260_CAD2AF_354442_333A3F.png)
 
-### [colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691](colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691.hexplt)
+### [`colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691`](colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691.hexplt)
 
 [ ![colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691.png](colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691.png) ](colormind_dot_io__C9B974_F2D97C_E8F3F0_B2C2B3_768691.png)
 
-### [colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840](colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840.hexplt)
+### [`colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840`](colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840.hexplt)
 
 [ ![colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840.png](colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840.png) ](colormind_dot_io__CA3833_C9916F_CDAC89_418F95_263840.png)
 
-### [colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E](colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E.hexplt)
+### [`colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E`](colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E.hexplt)
 
 [ ![colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E.png](colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E.png) ](colormind_dot_io__CA414A_FA9E17_B0CC66_3D1C7F_10314E.png)
 
-### [colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E](colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E.hexplt)
+### [`colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E`](colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E.hexplt)
 
 [ ![colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E.png](colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E.png) ](colormind_dot_io__CA5242_BEBC6A_DFDDBA_9CC288_42555E.png)
 
-### [colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030](colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030.hexplt)
+### [`colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030`](colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030.hexplt)
 
 [ ![colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030.png](colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030.png) ](colormind_dot_io__CA5A40_EAE7D1_B5B1A3_354259_2A3030.png)
 
-### [colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E](colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E.hexplt)
+### [`colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E`](colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E.hexplt)
 
 [ ![colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E.png](colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E.png) ](colormind_dot_io__CA7540_C8CA98_A8CAC9_3C858B_0E496E.png)
 
-### [colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931](colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931.hexplt)
+### [`colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931`](colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931.hexplt)
 
 [ ![colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931.png](colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931.png) ](colormind_dot_io__CAB956_EBEF99_B8C57C_5E656B_3B3931.png)
 
-### [colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D](colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D.hexplt)
+### [`colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D`](colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D.hexplt)
 
 [ ![colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D.png](colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D.png) ](colormind_dot_io__CBD196_A2B395_9EB5C4_E7827F_3C586D.png)
 
-### [colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446](colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446.hexplt)
+### [`colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446`](colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446.hexplt)
 
 [ ![colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446.png](colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446.png) ](colormind_dot_io__CC4E42_72625E_2A5251_33A383_C0D446.png)
 
-### [colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41](colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41.hexplt)
+### [`colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41`](colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41.hexplt)
 
 [ ![colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41.png](colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41.png) ](colormind_dot_io__CC4F4B_608126_A9C198_E0D897_2D3F41.png)
 
-### [colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1](colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1.hexplt)
+### [`colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1`](colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1.hexplt)
 
 [ ![colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1.png](colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1.png) ](colormind_dot_io__CC8D34_805E38_384A4A_59D2D1_7EE9E1.png)
 
-### [colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650](colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650.hexplt)
+### [`colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650`](colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650.hexplt)
 
 [ ![colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650.png](colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650.png) ](colormind_dot_io__CCC095_8D9883_60666B_62706E_6B5650.png)
 
-### [colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24](colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24.hexplt)
+### [`colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24`](colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24.hexplt)
 
 [ ![colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24.png](colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24.png) ](colormind_dot_io__CCE37D_D6BE28_816444_494232_2D2C24.png)
 
-### [colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843](colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843.hexplt)
+### [`colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843`](colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843.hexplt)
 
 [ ![colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843.png](colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843.png) ](colormind_dot_io__CD3434_F0814A_FAF8F0_A29F83_283843.png)
 
-### [colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545](colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545.hexplt)
+### [`colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545`](colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545.hexplt)
 
 [ ![colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545.png](colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545.png) ](colormind_dot_io__CD4C48_FAF9F3_9FCE31_798B5C_314545.png)
 
-### [colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22](colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22.hexplt)
+### [`colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22`](colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22.hexplt)
 
 [ ![colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22.png](colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22.png) ](colormind_dot_io__CDB9A4_F7E0B5_75886C_4F3830_201C22.png)
 
-### [colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A](colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A.hexplt)
+### [`colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A`](colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A.hexplt)
 
 [ ![colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A.png](colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A.png) ](colormind_dot_io__CDF6F5_9DE8EB_77ACB9_865B2B_6A712A.png)
 
-### [colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B](colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B.hexplt)
+### [`colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B`](colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B.hexplt)
 
 [ ![colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B.png](colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B.png) ](colormind_dot_io__CE4630_FCBE1D_F0D21E_5B4436_29212B.png)
 
-### [colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958](colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958.hexplt)
+### [`colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958`](colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958.hexplt)
 
 [ ![colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958.png](colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958.png) ](colormind_dot_io__CE4757_F5C0B3_CAA59C_A28B83_555958.png)
 
-### [colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B](colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B.hexplt)
+### [`colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B`](colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B.hexplt)
 
 [ ![colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B.png](colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B.png) ](colormind_dot_io__CE5838_B2AD76_88A7A4_3A5C87_21647B.png)
 
-### [colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31](colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31.hexplt)
+### [`colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31`](colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31.hexplt)
 
 [ ![colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31.png](colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31.png) ](colormind_dot_io__CED34B_89A845_4D8363_465F61_612C31.png)
 
-### [colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859](colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859.hexplt)
+### [`colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859`](colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859.hexplt)
 
 [ ![colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859.png](colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859.png) ](colormind_dot_io__CF523E_FAA849_ECBD76_6BBE9B_295859.png)
 
-### [colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F](colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F.hexplt)
+### [`colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F`](colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F.hexplt)
 
 [ ![colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F.png](colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F.png) ](colormind_dot_io__CFB673_D39C3A_866A3B_503E28_3B2C1F.png)
 
-### [colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44](colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44.hexplt)
+### [`colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44`](colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44.hexplt)
 
 [ ![colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44.png](colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44.png) ](colormind_dot_io__CFC591_D5E1B9_FCC366_FA722C_685D44.png)
 
-### [colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999](colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999.hexplt)
+### [`colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999`](colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999.hexplt)
 
 [ ![colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999.png](colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999.png) ](colormind_dot_io__D02837_FBA723_F8EC39_B5D95A_31B999.png)
 
-### [colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF](colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF.hexplt)
+### [`colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF`](colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF.hexplt)
 
 [ ![colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF.png](colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF.png) ](colormind_dot_io__D05E37_FD660A_E3942F_214F48_EBEEEF.png)
 
-### [colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C](colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C.hexplt)
+### [`colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C`](colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C.hexplt)
 
 [ ![colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C.png](colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C.png) ](colormind_dot_io__D13A53_FAD157_D7E699_37A860_044D5C.png)
 
-### [colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725](colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725.hexplt)
+### [`colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725`](colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725.hexplt)
 
 [ ![colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725.png](colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725.png) ](colormind_dot_io__D1C08E_E5B099_DF515C_743247_1F2725.png)
 
-### [colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90](colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90.hexplt)
+### [`colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90`](colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90.hexplt)
 
 [ ![colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90.png](colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90.png) ](colormind_dot_io__D1C8CF_0A315B_236B85_B2B474_F9CF90.png)
 
-### [colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27](colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27.hexplt)
+### [`colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27`](colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27.hexplt)
 
 [ ![colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27.png](colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27.png) ](colormind_dot_io__D2C081_C0A0A0_536D82_373D4C_EA3F27.png)
 
-### [colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46](colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46.hexplt)
+### [`colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46`](colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46.hexplt)
 
 [ ![colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46.png](colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46.png) ](colormind_dot_io__D2C591_B0BE94_9B815F_A76852_695E46.png)
 
-### [colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C](colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C.hexplt)
+### [`colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C`](colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C.hexplt)
 
 [ ![colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C.png](colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C.png) ](colormind_dot_io__D3E7AF_A4A28E_473833_67482D_94847C.png)
 
-### [colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941](colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941.hexplt)
+### [`colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941`](colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941.hexplt)
 
 [ ![colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941.png](colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941.png) ](colormind_dot_io__D3F35B_A4CF56_09A473_146B63_284941.png)
 
-### [colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42](colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42.hexplt)
+### [`colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42`](colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42.hexplt)
 
 [ ![colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42.png](colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42.png) ](colormind_dot_io__D4490E_DD8010_DCB270_64835E_394C42.png)
 
-### [colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153](colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153.hexplt)
+### [`colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153`](colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153.hexplt)
 
 [ ![colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153.png](colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153.png) ](colormind_dot_io__D44950_F1A53E_D4A85B_A78A5E_495153.png)
 
-### [colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29](colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29.hexplt)
+### [`colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29`](colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29.hexplt)
 
 [ ![colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29.png](colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29.png) ](colormind_dot_io__D4F3E7_B6BA9D_9E6449_732C23_392C29.png)
 
-### [colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533](colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533.hexplt)
+### [`colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533`](colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533.hexplt)
 
 [ ![colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533.png](colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533.png) ](colormind_dot_io__D57F6F_F1CF6C_D2A656_7D6D3B_354533.png)
 
-### [colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718](colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718.hexplt)
+### [`colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718`](colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718.hexplt)
 
 [ ![colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718.png](colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718.png) ](colormind_dot_io__D5CAB3_B2A86B_A23A21_793117_5B1718.png)
 
-### [colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F](colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F.hexplt)
+### [`colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F`](colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F.hexplt)
 
 [ ![colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F.png](colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F.png) ](colormind_dot_io__D62A15_D85722_DFAC6E_66786E_2E645F.png)
 
-### [colormind_dot_io__D63711_842728_667453_C0B633_FBAF12](colormind_dot_io__D63711_842728_667453_C0B633_FBAF12.hexplt)
+### [`colormind_dot_io__D63711_842728_667453_C0B633_FBAF12`](colormind_dot_io__D63711_842728_667453_C0B633_FBAF12.hexplt)
 
 [ ![colormind_dot_io__D63711_842728_667453_C0B633_FBAF12.png](colormind_dot_io__D63711_842728_667453_C0B633_FBAF12.png) ](colormind_dot_io__D63711_842728_667453_C0B633_FBAF12.png)
 
-### [colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185](colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185.hexplt)
+### [`colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185`](colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185.hexplt)
 
 [ ![colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185.png](colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185.png) ](colormind_dot_io__D6493E_FEF8AC_9DD8AF_228992_0AA185.png)
 
-### [colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A](colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A.hexplt)
+### [`colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A`](colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A.hexplt)
 
 [ ![colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A.png](colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A.png) ](colormind_dot_io__D6C384_CF8D40_994C37_7E3C23_401D1A.png)
 
-### [colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A](colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A.hexplt)
+### [`colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A`](colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A.hexplt)
 
 [ ![colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A.png](colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A.png) ](colormind_dot_io__D6C467_CFDD9A_C4D290_798B89_4D483A.png)
 
-### [colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932](colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932.hexplt)
+### [`colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932`](colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932.hexplt)
 
 [ ![colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932.png](colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932.png) ](colormind_dot_io__D76A57_FBF6B2_75D7BC_314646_252932.png)
 
-### [colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356](colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356.hexplt)
+### [`colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356`](colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356.hexplt)
 
 [ ![colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356.png](colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356.png) ](colormind_dot_io__D8D69A_A5A487_323E4B_25272D_3D5356.png)
 
-### [colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.hexplt)
+### [`colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390`](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.hexplt)
 
 [ ![colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png) ](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png)
 
