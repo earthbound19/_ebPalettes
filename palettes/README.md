@@ -50,10 +50,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
 
-### [`fiveGrays`](fiveGrays.hexplt)
-
-[ ![fiveGrays.png](fiveGrays.png) ](fiveGrays.png)
-
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
 [ ![fundamental_vivid_hues.png](fundamental_vivid_hues.png) ](fundamental_vivid_hues.png)
@@ -178,18 +174,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![VB-RB-dark-cyan-to-butter.png](VB-RB-dark-cyan-to-butter.png) ](VB-RB-dark-cyan-to-butter.png)
 
-### [`4shadesOfGrayCIECAM02`](4shadesOfGrayCIECAM02.hexplt)
-
-[ ![4shadesOfGrayCIECAM02.png](4shadesOfGrayCIECAM02.png) ](4shadesOfGrayCIECAM02.png)
-
-### [`5shadesOfGrayCIECAM02`](5shadesOfGrayCIECAM02.hexplt)
-
-[ ![5shadesOfGrayCIECAM02.png](5shadesOfGrayCIECAM02.png) ](5shadesOfGrayCIECAM02.png)
-
-### [`10shadesOfGrayCIECAM02`](10shadesOfGrayCIECAM02.hexplt)
-
-[ ![10shadesOfGrayCIECAM02.png](10shadesOfGrayCIECAM02.png) ](10shadesOfGrayCIECAM02.png)
-
 ### [`12_MaxChroma_hues_fromCIECAM02`](12_MaxChroma_hues_fromCIECAM02.hexplt)
 
 [ ![12_MaxChroma_hues_fromCIECAM02.png](12_MaxChroma_hues_fromCIECAM02.png) ](12_MaxChroma_hues_fromCIECAM02.png)
@@ -197,10 +181,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`16_MaxChroma_hues`](16_MaxChroma_hues.hexplt)
 
 [ ![16_MaxChroma_hues.png](16_MaxChroma_hues.png) ](16_MaxChroma_hues.png)
-
-### [`18shadesOfGrayCIECAM02`](18shadesOfGrayCIECAM02.hexplt)
-
-[ ![18shadesOfGrayCIECAM02.png](18shadesOfGrayCIECAM02.png) ](18shadesOfGrayCIECAM02.png)
 
 ### [`196_max_chroma_hues_CIECAM02`](196_max_chroma_hues_CIECAM02.hexplt)
 
