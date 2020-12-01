@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![collectedColors1.png](collectedColors1.png) ](collectedColors1.png)
 
+### [`collectedColors1_ciecam_sat_mod`](collectedColors1_ciecam_sat_mod.hexplt)
+
+[ ![collectedColors1_ciecam_sat_mod.png](collectedColors1_ciecam_sat_mod.png) ](collectedColors1_ciecam_sat_mod.png)
+
 ### [`ColorSchemeHexBurntSandstone`](ColorSchemeHexBurntSandstone.hexplt)
 
 [ ![ColorSchemeHexBurntSandstone.png](ColorSchemeHexBurntSandstone.png) ](ColorSchemeHexBurntSandstone.png)
@@ -98,6 +102,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![near_to_far_vivid.png](near_to_far_vivid.png) ](near_to_far_vivid.png)
 
+### [`perplexing_colors_001`](perplexing_colors_001.hexplt)
+
+[ ![perplexing_colors_001.png](perplexing_colors_001.png) ](perplexing_colors_001.png)
+
 ### [`PrismacolorMarkers_CIECAM02_sort`](PrismacolorMarkers_CIECAM02_sort.hexplt)
 
 [ ![PrismacolorMarkers_CIECAM02_sort.png](PrismacolorMarkers_CIECAM02_sort.png) ](PrismacolorMarkers_CIECAM02_sort.png)
@@ -174,17 +182,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![VB-RB-dark-cyan-to-butter.png](VB-RB-dark-cyan-to-butter.png) ](VB-RB-dark-cyan-to-butter.png)
 
-### [`12_MaxChroma_hues_fromCIECAM02`](12_MaxChroma_hues_fromCIECAM02.hexplt)
+### [`16_max_chroma_med_light_hues_regular_hue_interval_perceptual`](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.hexplt)
 
-[ ![12_MaxChroma_hues_fromCIECAM02.png](12_MaxChroma_hues_fromCIECAM02.png) ](12_MaxChroma_hues_fromCIECAM02.png)
-
-### [`16_MaxChroma_hues`](16_MaxChroma_hues.hexplt)
-
-[ ![16_MaxChroma_hues.png](16_MaxChroma_hues.png) ](16_MaxChroma_hues.png)
-
-### [`196_max_chroma_hues_CIECAM02`](196_max_chroma_hues_CIECAM02.hexplt)
-
-[ ![196_max_chroma_hues_CIECAM02.png](196_max_chroma_hues_CIECAM02.png) ](196_max_chroma_hues_CIECAM02.png)
+[ ![16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png) ](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png)
 
 ### [`250_MMpMwpZQ_HexColors_CIECAM02_sorted`](250_MMpMwpZQ_HexColors_CIECAM02_sorted.hexplt)
 
