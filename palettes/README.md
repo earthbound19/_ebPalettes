@@ -158,6 +158,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RWB_hexColors.png](RWB_hexColors.png) ](RWB_hexColors.png)
 
+### [`shades_of_cyan`](shades_of_cyan.hexplt)
+
+[ ![shades_of_cyan.png](shades_of_cyan.png) ](shades_of_cyan.png)
+
 ### [`shadesOfBrownHexColors`](shadesOfBrownHexColors.hexplt)
 
 [ ![shadesOfBrownHexColors.png](shadesOfBrownHexColors.png) ](shadesOfBrownHexColors.png)
