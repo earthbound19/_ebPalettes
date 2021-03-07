@@ -23,7 +23,7 @@ If you're viewing this repository at a web site such as GitHub or other context 
 
 ## Scripts that render palettes and galleries
 
-Some scripts I have developed that created the palette renders and markdown galleries in this repository are [renderAllHexPalettes-gm.sh]( https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes-gm.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
+Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are [renderAllHexPalettes.sh]( https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
 
 ## Sources of Maths
 
