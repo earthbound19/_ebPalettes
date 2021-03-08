@@ -30,3 +30,7 @@ Some scripts I have developed that created the palettes, palette renders and mar
 Palettes in this collection are generated randomly and/or made by me, or may be collected from elsewhere.
 
 Where they are collected from elsewhere, I'm careful to avoid intellectual property concerns by referring only to public domain information (such as sources or times), without using any copyrightable or trademarkeable etc. information. The public domain information I use includes the math of what numbers are concerned with what palettes. You can't exert intellectual property control on numbers.
+
+## LICENSE
+
+As you may infer from "Sources of Maths," since these palettes are collections of numbers, and you can't copyright numbers, the palettes in this repository are outside of any possible licensing constraints: these palletes are in the Public Domain. But unique _names_ of palettes which I have given to any of them, I reserve all copyright control of. If the palette name is random characters and/or numbers and/or dates, that goes back to the name being arguably a number or something random or which has little or no unique intellectual property attributes, which makes those names also arguably Public Domain.
