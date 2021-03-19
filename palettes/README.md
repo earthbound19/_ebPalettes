@@ -206,6 +206,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png](32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png) ](32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png)
 
+### [`32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens`](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.hexplt)
+
+[ ![32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png)
+
 ### [`250_MMpMwpZQ_HexColors_CIECAM02_sorted`](250_MMpMwpZQ_HexColors_CIECAM02_sorted.hexplt)
 
 [ ![250_MMpMwpZQ_HexColors_CIECAM02_sorted.png](250_MMpMwpZQ_HexColors_CIECAM02_sorted.png) ](250_MMpMwpZQ_HexColors_CIECAM02_sorted.png)
