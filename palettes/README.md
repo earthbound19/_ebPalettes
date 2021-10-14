@@ -10,9 +10,21 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![ColorSchemeHexBurntSandstoneNarrower.png](ColorSchemeHexBurntSandstoneNarrower.png) ](ColorSchemeHexBurntSandstoneNarrower.png)
 
-### [`LakeBonnevileDesertHexColors`](LakeBonnevileDesertHexColors.hexplt)
+### [`Dark_Wizard`](Dark_Wizard.hexplt)
 
-[ ![LakeBonnevileDesertHexColors.png](LakeBonnevileDesertHexColors.png) ](LakeBonnevileDesertHexColors.png)
+[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
+
+### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
+
+[ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
+
+### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
+
+[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
+
+### [`LakeBonnevilleDesertHexColors`](LakeBonnevilleDesertHexColors.hexplt)
+
+[ ![LakeBonnevilleDesertHexColors.png](LakeBonnevilleDesertHexColors.png) ](LakeBonnevilleDesertHexColors.png)
 
 ### [`PrismacolorMarkersDarksNextNearestSort`](PrismacolorMarkersDarksNextNearestSort.hexplt)
 
@@ -42,13 +54,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RWB_hexColors.png](RWB_hexColors.png) ](RWB_hexColors.png)
 
-### [`VB-RB-dark-cyan-to-butter`](VB-RB-dark-cyan-to-butter.hexplt)
-
-[ ![VB-RB-dark-cyan-to-butter.png](VB-RB-dark-cyan-to-butter.png) ](VB-RB-dark-cyan-to-butter.png)
-
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
 [ ![abstractBrowserAddon.png](abstractBrowserAddon.png) ](abstractBrowserAddon.png)
+
+### [`banana_split`](banana_split.hexplt)
+
+[ ![banana_split.png](banana_split.png) ](banana_split.png)
 
 ### [`collectedColors1`](collectedColors1.hexplt)
 
@@ -66,6 +78,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![commodore_vic.png](commodore_vic.png) ](commodore_vic.png)
 
+### [`cool_cats`](cool_cats.hexplt)
+
+[ ![cool_cats.png](cool_cats.png) ](cool_cats.png)
+
 ### [`cyanOceanicWithDirty`](cyanOceanicWithDirty.hexplt)
 
 [ ![cyanOceanicWithDirty.png](cyanOceanicWithDirty.png) ](cyanOceanicWithDirty.png)
@@ -81,10 +97,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`darkBG`](darkBG.hexplt)
 
 [ ![darkBG.png](darkBG.png) ](darkBG.png)
-
-### [`dark_fire_growth_water_light`](dark_fire_growth_water_light.hexplt)
-
-[ ![dark_fire_growth_water_light.png](dark_fire_growth_water_light.png) ](dark_fire_growth_water_light.png)
 
 ### [`datavis0001`](datavis0001.hexplt)
 
@@ -109,6 +121,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`fundamental_vivid_hues_v2`](fundamental_vivid_hues_v2.hexplt)
 
 [ ![fundamental_vivid_hues_v2.png](fundamental_vivid_hues_v2.png) ](fundamental_vivid_hues_v2.png)
+
+### [`magenta_red_zinnia`](magenta_red_zinnia.hexplt)
+
+[ ![magenta_red_zinnia.png](magenta_red_zinnia.png) ](magenta_red_zinnia.png)
+
+### [`magenta_rose_zinnia_deadhead`](magenta_rose_zinnia_deadhead.hexplt)
+
+[ ![magenta_rose_zinnia_deadhead.png](magenta_rose_zinnia_deadhead.png) ](magenta_rose_zinnia_deadhead.png)
 
 ### [`markerLikeBackgroundColors`](markerLikeBackgroundColors.hexplt)
 
@@ -181,6 +201,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`subset_of_palette_collections01-03_for_art_projects`](subset_of_palette_collections01-03_for_art_projects.hexplt)
 
 [ ![subset_of_palette_collections01-03_for_art_projects.png](subset_of_palette_collections01-03_for_art_projects.png) ](subset_of_palette_collections01-03_for_art_projects.png)
+
+### [`terraformed`](terraformed.hexplt)
+
+[ ![terraformed.png](terraformed.png) ](terraformed.png)
 
 ### [`tigerDogRabbit_13shadesEach`](tigerDogRabbit_13shadesEach.hexplt)
 
