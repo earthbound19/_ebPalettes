@@ -122,9 +122,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![fundamental_vivid_hues_v2.png](fundamental_vivid_hues_v2.png) ](fundamental_vivid_hues_v2.png)
 
-### [`magenta_red_zinnia`](magenta_red_zinnia.hexplt)
+### [`magenta_rose_zinnia`](magenta_rose_zinnia.hexplt)
 
-[ ![magenta_red_zinnia.png](magenta_red_zinnia.png) ](magenta_red_zinnia.png)
+[ ![magenta_rose_zinnia.png](magenta_rose_zinnia.png) ](magenta_rose_zinnia.png)
 
 ### [`magenta_rose_zinnia_deadhead`](magenta_rose_zinnia_deadhead.hexplt)
 
