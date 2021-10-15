@@ -126,10 +126,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![magenta_rose_zinnia.png](magenta_rose_zinnia.png) ](magenta_rose_zinnia.png)
 
-### [`magenta_rose_zinnia_deadhead`](magenta_rose_zinnia_deadhead.hexplt)
-
-[ ![magenta_rose_zinnia_deadhead.png](magenta_rose_zinnia_deadhead.png) ](magenta_rose_zinnia_deadhead.png)
-
 ### [`magenta_rose_zinnia_deadhead_bg`](magenta_rose_zinnia_deadhead_bg.hexplt)
 
 [ ![magenta_rose_zinnia_deadhead_bg.png](magenta_rose_zinnia_deadhead_bg.png) ](magenta_rose_zinnia_deadhead_bg.png)
