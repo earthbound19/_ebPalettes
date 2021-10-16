@@ -102,6 +102,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
 
+### [`dead_maple`](dead_maple.hexplt)
+
+[ ![dead_maple.png](dead_maple.png) ](dead_maple.png)
+
+### [`dead_maple_extended`](dead_maple_extended.hexplt)
+
+[ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
+
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
 [ ![fundamental_vivid_hues.png](fundamental_vivid_hues.png) ](fundamental_vivid_hues.png)
