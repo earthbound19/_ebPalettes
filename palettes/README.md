@@ -106,6 +106,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dead_maple.png](dead_maple.png) ](dead_maple.png)
 
+### [`dead_maple_bg`](dead_maple_bg.hexplt)
+
+[ ![dead_maple_bg.png](dead_maple_bg.png) ](dead_maple_bg.png)
+
 ### [`dead_maple_extended`](dead_maple_extended.hexplt)
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
