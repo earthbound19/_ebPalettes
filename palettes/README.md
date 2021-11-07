@@ -2,29 +2,21 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`ColorSchemeHexBurntSandstone`](ColorSchemeHexBurntSandstone.hexplt)
+### [`ColorSchemeBurntSandstone`](ColorSchemeBurntSandstone.hexplt)
 
-[ ![ColorSchemeHexBurntSandstone.png](ColorSchemeHexBurntSandstone.png) ](ColorSchemeHexBurntSandstone.png)
+[ ![ColorSchemeBurntSandstone.png](ColorSchemeBurntSandstone.png) ](ColorSchemeBurntSandstone.png)
 
-### [`ColorSchemeHexBurntSandstoneNarrower`](ColorSchemeHexBurntSandstoneNarrower.hexplt)
+### [`ColorSchemeBurntSandstoneNarrower`](ColorSchemeBurntSandstoneNarrower.hexplt)
 
-[ ![ColorSchemeHexBurntSandstoneNarrower.png](ColorSchemeHexBurntSandstoneNarrower.png) ](ColorSchemeHexBurntSandstoneNarrower.png)
-
-### [`Dark_Wizard`](Dark_Wizard.hexplt)
-
-[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
+[ ![ColorSchemeBurntSandstoneNarrower.png](ColorSchemeBurntSandstoneNarrower.png) ](ColorSchemeBurntSandstoneNarrower.png)
 
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
 
-### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
+### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
-[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
-
-### [`LakeBonnevilleDesertHexColors`](LakeBonnevilleDesertHexColors.hexplt)
-
-[ ![LakeBonnevilleDesertHexColors.png](LakeBonnevilleDesertHexColors.png) ](LakeBonnevilleDesertHexColors.png)
+[ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)
 
 ### [`PrismacolorMarkersDarksNextNearestSort`](PrismacolorMarkersDarksNextNearestSort.hexplt)
 
@@ -42,21 +34,21 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![PrismacolorMarkers_RND_sort.png](PrismacolorMarkers_RND_sort.png) ](PrismacolorMarkers_RND_sort.png)
 
-### [`RAHfavoriteColorsHex_v1`](RAHfavoriteColorsHex_v1.hexplt)
+### [`RAHfavoritecolors_v1`](RAHfavoritecolors_v1.hexplt)
 
-[ ![RAHfavoriteColorsHex_v1.png](RAHfavoriteColorsHex_v1.png) ](RAHfavoriteColorsHex_v1.png)
+[ ![RAHfavoritecolors_v1.png](RAHfavoritecolors_v1.png) ](RAHfavoritecolors_v1.png)
 
-### [`RAHfavoriteColorsHex_v2`](RAHfavoriteColorsHex_v2.hexplt)
+### [`RAHfavoritecolors_v2`](RAHfavoritecolors_v2.hexplt)
 
-[ ![RAHfavoriteColorsHex_v2.png](RAHfavoriteColorsHex_v2.png) ](RAHfavoriteColorsHex_v2.png)
+[ ![RAHfavoritecolors_v2.png](RAHfavoritecolors_v2.png) ](RAHfavoritecolors_v2.png)
 
 ### [`RGB_combos_of_255_127_and_0_repetition_allowed`](RGB_combos_of_255_127_and_0_repetition_allowed.hexplt)
 
 [ ![RGB_combos_of_255_127_and_0_repetition_allowed.png](RGB_combos_of_255_127_and_0_repetition_allowed.png) ](RGB_combos_of_255_127_and_0_repetition_allowed.png)
 
-### [`RWB_hexColors`](RWB_hexColors.hexplt)
+### [`RWB_colors`](RWB_colors.hexplt)
 
-[ ![RWB_hexColors.png](RWB_hexColors.png) ](RWB_hexColors.png)
+[ ![RWB_colors.png](RWB_colors.png) ](RWB_colors.png)
 
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
@@ -102,6 +94,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![darkBG.png](darkBG.png) ](darkBG.png)
 
+### [`dark_wizard`](dark_wizard.hexplt)
+
+[ ![dark_wizard.png](dark_wizard.png) ](dark_wizard.png)
+
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -117,6 +113,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`dead_maple_extended`](dead_maple_extended.hexplt)
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
+
+### [`fire_on_the_water`](fire_on_the_water.hexplt)
+
+[ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
 
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
@@ -182,41 +182,41 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![perplexing_colors_001.png](perplexing_colors_001.png) ](perplexing_colors_001.png)
 
-### [`rainbowHexColorsByMyEye`](rainbowHexColorsByMyEye.hexplt)
+### [`rainbowColorsByMyEye`](rainbowColorsByMyEye.hexplt)
 
-[ ![rainbowHexColorsByMyEye.png](rainbowHexColorsByMyEye.png) ](rainbowHexColorsByMyEye.png)
+[ ![rainbowColorsByMyEye.png](rainbowColorsByMyEye.png) ](rainbowColorsByMyEye.png)
 
-### [`rainbowHexColorsByMyEyeDarkShades`](rainbowHexColorsByMyEyeDarkShades.hexplt)
+### [`rainbowColorsByMyEyeDarkShades`](rainbowColorsByMyEyeDarkShades.hexplt)
 
-[ ![rainbowHexColorsByMyEyeDarkShades.png](rainbowHexColorsByMyEyeDarkShades.png) ](rainbowHexColorsByMyEyeDarkShades.png)
+[ ![rainbowColorsByMyEyeDarkShades.png](rainbowColorsByMyEyeDarkShades.png) ](rainbowColorsByMyEyeDarkShades.png)
 
-### [`rainbowHexColorsByMyEyeLightShades`](rainbowHexColorsByMyEyeLightShades.hexplt)
+### [`rainbowColorsByMyEyeLightShades`](rainbowColorsByMyEyeLightShades.hexplt)
 
-[ ![rainbowHexColorsByMyEyeLightShades.png](rainbowHexColorsByMyEyeLightShades.png) ](rainbowHexColorsByMyEyeLightShades.png)
+[ ![rainbowColorsByMyEyeLightShades.png](rainbowColorsByMyEyeLightShades.png) ](rainbowColorsByMyEyeLightShades.png)
 
-### [`rainbowHexColorsByMyEyeManyShadesLoop`](rainbowHexColorsByMyEyeManyShadesLoop.hexplt)
+### [`rainbowColorsByMyEyeManyShadesLoop`](rainbowColorsByMyEyeManyShadesLoop.hexplt)
 
-[ ![rainbowHexColorsByMyEyeManyShadesLoop.png](rainbowHexColorsByMyEyeManyShadesLoop.png) ](rainbowHexColorsByMyEyeManyShadesLoop.png)
+[ ![rainbowColorsByMyEyeManyShadesLoop.png](rainbowColorsByMyEyeManyShadesLoop.png) ](rainbowColorsByMyEyeManyShadesLoop.png)
 
-### [`rainbowHexColorsTooSimpleTooDark`](rainbowHexColorsTooSimpleTooDark.hexplt)
+### [`rainbowColorsTooSimpleTooDark`](rainbowColorsTooSimpleTooDark.hexplt)
 
-[ ![rainbowHexColorsTooSimpleTooDark.png](rainbowHexColorsTooSimpleTooDark.png) ](rainbowHexColorsTooSimpleTooDark.png)
+[ ![rainbowColorsTooSimpleTooDark.png](rainbowColorsTooSimpleTooDark.png) ](rainbowColorsTooSimpleTooDark.png)
 
 ### [`recreated_palette_00001_narmth`](recreated_palette_00001_narmth.hexplt)
 
 [ ![recreated_palette_00001_narmth.png](recreated_palette_00001_narmth.png) ](recreated_palette_00001_narmth.png)
 
-### [`shadesOfBrownHexColors`](shadesOfBrownHexColors.hexplt)
+### [`shadesOfBrownColors`](shadesOfBrownColors.hexplt)
 
-[ ![shadesOfBrownHexColors.png](shadesOfBrownHexColors.png) ](shadesOfBrownHexColors.png)
+[ ![shadesOfBrownColors.png](shadesOfBrownColors.png) ](shadesOfBrownColors.png)
 
 ### [`shades_of_cyan`](shades_of_cyan.hexplt)
 
 [ ![shades_of_cyan.png](shades_of_cyan.png) ](shades_of_cyan.png)
 
-### [`sparkleHeartHexColors`](sparkleHeartHexColors.hexplt)
+### [`sparkleHeartColors`](sparkleHeartColors.hexplt)
 
-[ ![sparkleHeartHexColors.png](sparkleHeartHexColors.png) ](sparkleHeartHexColors.png)
+[ ![sparkleHeartColors.png](sparkleHeartColors.png) ](sparkleHeartColors.png)
 
 ### [`subset_of_palette_collections01-03_for_art_projects`](subset_of_palette_collections01-03_for_art_projects.hexplt)
 
@@ -230,13 +230,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![tigerDogRabbit_13shadesEach.png](tigerDogRabbit_13shadesEach.png) ](tigerDogRabbit_13shadesEach.png)
 
-### [`tigerDogRabbit_HexColors`](tigerDogRabbit_HexColors.hexplt)
+### [`tigerDogRabbit_colors`](tigerDogRabbit_colors.hexplt)
 
-[ ![tigerDogRabbit_HexColors.png](tigerDogRabbit_HexColors.png) ](tigerDogRabbit_HexColors.png)
+[ ![tigerDogRabbit_colors.png](tigerDogRabbit_colors.png) ](tigerDogRabbit_colors.png)
 
-### [`turtleGreenTetradicEtcHex`](turtleGreenTetradicEtcHex.hexplt)
+### [`turtleGreenTetradicEtc`](turtleGreenTetradicEtc.hexplt)
 
-[ ![turtleGreenTetradicEtcHex.png](turtleGreenTetradicEtcHex.png) ](turtleGreenTetradicEtcHex.png)
+[ ![turtleGreenTetradicEtc.png](turtleGreenTetradicEtc.png) ](turtleGreenTetradicEtc.png)
 
 ### [`16_max_chroma_med_light_hues_regular_hue_interval`](16_max_chroma_med_light_hues_regular_hue_interval.hexplt)
 
@@ -254,17 +254,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
 
-### [`250_MMpMwpZQ_HexColors_CIECAM02_sorted`](250_MMpMwpZQ_HexColors_CIECAM02_sorted.hexplt)
+### [`250_MMpMwpZQ_colors_CIECAM02_sorted`](250_MMpMwpZQ_colors_CIECAM02_sorted.hexplt)
 
-[ ![250_MMpMwpZQ_HexColors_CIECAM02_sorted.png](250_MMpMwpZQ_HexColors_CIECAM02_sorted.png) ](250_MMpMwpZQ_HexColors_CIECAM02_sorted.png)
+[ ![250_MMpMwpZQ_colors_CIECAM02_sorted.png](250_MMpMwpZQ_colors_CIECAM02_sorted.png) ](250_MMpMwpZQ_colors_CIECAM02_sorted.png)
 
-### [`250_MMpMwpZQ_HexColors_HEX_RNDsort`](250_MMpMwpZQ_HexColors_HEX_RNDsort.hexplt)
+### [`250_MMpMwpZQ_colors_RNDsort`](250_MMpMwpZQ_colors_RNDsort.hexplt)
 
-[ ![250_MMpMwpZQ_HexColors_HEX_RNDsort.png](250_MMpMwpZQ_HexColors_HEX_RNDsort.png) ](250_MMpMwpZQ_HexColors_HEX_RNDsort.png)
+[ ![250_MMpMwpZQ_colors_RNDsort.png](250_MMpMwpZQ_colors_RNDsort.png) ](250_MMpMwpZQ_colors_RNDsort.png)
 
-### [`256terminalColorsHEX`](256terminalColorsHEX.hexplt)
+### [`256terminalColors`](256terminalColors.hexplt)
 
-[ ![256terminalColorsHEX.png](256terminalColorsHEX.png) ](256terminalColorsHEX.png)
+[ ![256terminalColors.png](256terminalColors.png) ](256terminalColors.png)
 
 ### [`517_converted_from_Lab_simplified`](517_converted_from_Lab_simplified.hexplt)
 

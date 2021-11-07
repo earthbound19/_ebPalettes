@@ -10,17 +10,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dN6rvnSQCFas.png](dN6rvnSQCFas.png) ](dN6rvnSQCFas.png)
 
-### [`004_AthAupDI_HexColors-tweaked`](004_AthAupDI_HexColors-tweaked.hexplt)
+### [`004_AthAupDI_colors-tweaked`](004_AthAupDI_colors-tweaked.hexplt)
 
-[ ![004_AthAupDI_HexColors-tweaked.png](004_AthAupDI_HexColors-tweaked.png) ](004_AthAupDI_HexColors-tweaked.png)
+[ ![004_AthAupDI_colors-tweaked.png](004_AthAupDI_colors-tweaked.png) ](004_AthAupDI_colors-tweaked.png)
 
-### [`004_xpgDjzaj_HexColors`](004_xpgDjzaj_HexColors.hexplt)
+### [`004_xpgDjzaj_colors`](004_xpgDjzaj_colors.hexplt)
 
-[ ![004_xpgDjzaj_HexColors.png](004_xpgDjzaj_HexColors.png) ](004_xpgDjzaj_HexColors.png)
+[ ![004_xpgDjzaj_colors.png](004_xpgDjzaj_colors.png) ](004_xpgDjzaj_colors.png)
 
-### [`004_ytYrZsWM_HexColors`](004_ytYrZsWM_HexColors.hexplt)
+### [`004_ytYrZsWM_colors`](004_ytYrZsWM_colors.hexplt)
 
-[ ![004_ytYrZsWM_HexColors.png](004_ytYrZsWM_HexColors.png) ](004_ytYrZsWM_HexColors.png)
+[ ![004_ytYrZsWM_colors.png](004_ytYrZsWM_colors.png) ](004_ytYrZsWM_colors.png)
 
 ### [`05_znQYp9hZKSKvaB`](05_znQYp9hZKSKvaB.hexplt)
 
