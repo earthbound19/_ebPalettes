@@ -42,9 +42,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![PrismacolorMarkers_RND_sort.png](PrismacolorMarkers_RND_sort.png) ](PrismacolorMarkers_RND_sort.png)
 
-### [`RAHfavoriteColorsHex`](RAHfavoriteColorsHex.hexplt)
+### [`RAHfavoriteColorsHex_v1`](RAHfavoriteColorsHex_v1.hexplt)
 
-[ ![RAHfavoriteColorsHex.png](RAHfavoriteColorsHex.png) ](RAHfavoriteColorsHex.png)
+[ ![RAHfavoriteColorsHex_v1.png](RAHfavoriteColorsHex_v1.png) ](RAHfavoriteColorsHex_v1.png)
+
+### [`RAHfavoriteColorsHex_v2`](RAHfavoriteColorsHex_v2.hexplt)
+
+[ ![RAHfavoriteColorsHex_v2.png](RAHfavoriteColorsHex_v2.png) ](RAHfavoriteColorsHex_v2.png)
 
 ### [`RGB_combos_of_255_127_and_0_repetition_allowed`](RGB_combos_of_255_127_and_0_repetition_allowed.hexplt)
 
@@ -234,21 +238,21 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtcHex.png](turtleGreenTetradicEtcHex.png) ](turtleGreenTetradicEtcHex.png)
 
-### [`16_max_chroma_med_light_hues_regular_hue_interval_perceptual`](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.hexplt)
+### [`16_max_chroma_med_light_hues_regular_hue_interval`](16_max_chroma_med_light_hues_regular_hue_interval.hexplt)
 
-[ ![16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png) ](16_max_chroma_med_light_hues_regular_hue_interval_perceptual.png)
+[ ![16_max_chroma_med_light_hues_regular_hue_interval.png](16_max_chroma_med_light_hues_regular_hue_interval.png) ](16_max_chroma_med_light_hues_regular_hue_interval.png)
 
-### [`16_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens`](16_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.hexplt)
+### [`16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens`](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.hexplt)
 
-[ ![16_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png](16_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png) ](16_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png)
+[ ![16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
 
-### [`32_max_chroma_med_light_hues_regular_hue_interval_perceptual`](32_max_chroma_med_light_hues_regular_hue_interval_perceptual.hexplt)
+### [`32_max_chroma_med_light_hues_regular_hue_interval`](32_max_chroma_med_light_hues_regular_hue_interval.hexplt)
 
-[ ![32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png](32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png) ](32_max_chroma_med_light_hues_regular_hue_interval_perceptual.png)
+[ ![32_max_chroma_med_light_hues_regular_hue_interval.png](32_max_chroma_med_light_hues_regular_hue_interval.png) ](32_max_chroma_med_light_hues_regular_hue_interval.png)
 
-### [`32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens`](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.hexplt)
+### [`32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens`](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.hexplt)
 
-[ ![32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_perceptual_more_lively_greens.png)
+[ ![32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
 
 ### [`250_MMpMwpZQ_HexColors_CIECAM02_sorted`](250_MMpMwpZQ_HexColors_CIECAM02_sorted.hexplt)
 

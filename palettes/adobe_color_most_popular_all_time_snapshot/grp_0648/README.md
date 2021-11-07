@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BIBCmTwq.png](BIBCmTwq.png) ](BIBCmTwq.png)
 
+### [`Blue_Fire`](Blue_Fire.hexplt)
+
+[ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
+
 ### [`CGCpJUme`](CGCpJUme.hexplt)
 
 [ ![CGCpJUme.png](CGCpJUme.png) ](CGCpJUme.png)
@@ -186,6 +190,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![MtdrwJJD.png](MtdrwJJD.png) ](MtdrwJJD.png)
 
+### [`Murky_Forest`](Murky_Forest.hexplt)
+
+[ ![Murky_Forest.png](Murky_Forest.png) ](Murky_Forest.png)
+
 ### [`NEV85UHj`](NEV85UHj.hexplt)
 
 [ ![NEV85UHj.png](NEV85UHj.png) ](NEV85UHj.png)
@@ -290,6 +298,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![VY9zypN3.png](VY9zypN3.png) ](VY9zypN3.png)
 
+### [`Vampire`](Vampire.hexplt)
+
+[ ![Vampire.png](Vampire.png) ](Vampire.png)
+
 ### [`VqIcSwQj`](VqIcSwQj.hexplt)
 
 [ ![VqIcSwQj.png](VqIcSwQj.png) ](VqIcSwQj.png)
@@ -362,10 +374,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dGN72VFR.png](dGN72VFR.png) ](dGN72VFR.png)
 
-### [`dGSUyfhH`](dGSUyfhH.hexplt)
-
-[ ![dGSUyfhH.png](dGSUyfhH.png) ](dGSUyfhH.png)
-
 ### [`dXSxumSm`](dXSxumSm.hexplt)
 
 [ ![dXSxumSm.png](dXSxumSm.png) ](dXSxumSm.png)
@@ -377,10 +385,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`e5zeWf8s`](e5zeWf8s.hexplt)
 
 [ ![e5zeWf8s.png](e5zeWf8s.png) ](e5zeWf8s.png)
-
-### [`e7wXtCsi`](e7wXtCsi.hexplt)
-
-[ ![e7wXtCsi.png](e7wXtCsi.png) ](e7wXtCsi.png)
 
 ### [`eWcbP4Cm`](eWcbP4Cm.hexplt)
 
@@ -769,10 +773,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`6adW52QK`](6adW52QK.hexplt)
 
 [ ![6adW52QK.png](6adW52QK.png) ](6adW52QK.png)
-
-### [`6s4zmz9f`](6s4zmz9f.hexplt)
-
-[ ![6s4zmz9f.png](6s4zmz9f.png) ](6s4zmz9f.png)
 
 ### [`7BcKnSdd`](7BcKnSdd.hexplt)
 
