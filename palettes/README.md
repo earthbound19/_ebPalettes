@@ -14,10 +14,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
 
-### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
-
-[ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
-
 ### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
 
 [ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
@@ -25,6 +21,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
 [ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)
+
+### [`Murky_Forest`](Murky_Forest.hexplt)
+
+[ ![Murky_Forest.png](Murky_Forest.png) ](Murky_Forest.png)
 
 ### [`PrismacolorMarkersDarksNextNearestSort`](PrismacolorMarkersDarksNextNearestSort.hexplt)
 
@@ -57,6 +57,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`RWB_colors`](RWB_colors.hexplt)
 
 [ ![RWB_colors.png](RWB_colors.png) ](RWB_colors.png)
+
+### [`Summer_of_Vampires`](Summer_of_Vampires.hexplt)
+
+[ ![Summer_of_Vampires.png](Summer_of_Vampires.png) ](Summer_of_Vampires.png)
 
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
