@@ -426,10 +426,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![gr9uXzkX.png](gr9uXzkX.png) ](gr9uXzkX.png)
 
-### [`gw6RBRCD`](gw6RBRCD.hexplt)
-
-[ ![gw6RBRCD.png](gw6RBRCD.png) ](gw6RBRCD.png)
-
 ### [`h2hrHvcW`](h2hrHvcW.hexplt)
 
 [ ![h2hrHvcW.png](h2hrHvcW.png) ](h2hrHvcW.png)

@@ -2,17 +2,25 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`ColorSchemeBurntSandstone`](ColorSchemeBurntSandstone.hexplt)
+### [`BurntSandstone`](BurntSandstone.hexplt)
 
-[ ![ColorSchemeBurntSandstone.png](ColorSchemeBurntSandstone.png) ](ColorSchemeBurntSandstone.png)
+[ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
 
-### [`ColorSchemeBurntSandstoneNarrower`](ColorSchemeBurntSandstoneNarrower.hexplt)
+### [`BurntSandstoneNarrower`](BurntSandstoneNarrower.hexplt)
 
-[ ![ColorSchemeBurntSandstoneNarrower.png](ColorSchemeBurntSandstoneNarrower.png) ](ColorSchemeBurntSandstoneNarrower.png)
+[ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
+
+### [`Dark_Wizard`](Dark_Wizard.hexplt)
+
+[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
 
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
+
+### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
+
+[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
 
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
@@ -34,13 +42,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![PrismacolorMarkers_RND_sort.png](PrismacolorMarkers_RND_sort.png) ](PrismacolorMarkers_RND_sort.png)
 
-### [`RAHfavoritecolors_v1`](RAHfavoritecolors_v1.hexplt)
+### [`RAHfavoriteColors_v1`](RAHfavoriteColors_v1.hexplt)
 
-[ ![RAHfavoritecolors_v1.png](RAHfavoritecolors_v1.png) ](RAHfavoritecolors_v1.png)
+[ ![RAHfavoriteColors_v1.png](RAHfavoriteColors_v1.png) ](RAHfavoriteColors_v1.png)
 
-### [`RAHfavoritecolors_v2`](RAHfavoritecolors_v2.hexplt)
+### [`RAHfavoriteColors_v2`](RAHfavoriteColors_v2.hexplt)
 
-[ ![RAHfavoritecolors_v2.png](RAHfavoritecolors_v2.png) ](RAHfavoritecolors_v2.png)
+[ ![RAHfavoriteColors_v2.png](RAHfavoriteColors_v2.png) ](RAHfavoriteColors_v2.png)
 
 ### [`RGB_combos_of_255_127_and_0_repetition_allowed`](RGB_combos_of_255_127_and_0_repetition_allowed.hexplt)
 
@@ -94,10 +102,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![darkBG.png](darkBG.png) ](darkBG.png)
 
-### [`dark_wizard`](dark_wizard.hexplt)
-
-[ ![dark_wizard.png](dark_wizard.png) ](dark_wizard.png)
-
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -113,10 +117,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`dead_maple_extended`](dead_maple_extended.hexplt)
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
-
-### [`fire_on_the_water`](fire_on_the_water.hexplt)
-
-[ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
 
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
@@ -253,6 +253,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens`](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.hexplt)
 
 [ ![32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
+
+### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
+
+[ ![50s_Machine_Shop.png](50s_Machine_Shop.png) ](50s_Machine_Shop.png)
 
 ### [`250_MMpMwpZQ_colors_CIECAM02_sorted`](250_MMpMwpZQ_colors_CIECAM02_sorted.hexplt)
 
