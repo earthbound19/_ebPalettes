@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Blue_Fire`](Blue_Fire.hexplt)
+
+[ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
+
 ### [`BurntSandstone`](BurntSandstone.hexplt)
 
 [ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
@@ -14,13 +18,33 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
 
+### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
+
+[ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
+
+### [`Elements_and_Tea`](Elements_and_Tea.hexplt)
+
+[ ![Elements_and_Tea.png](Elements_and_Tea.png) ](Elements_and_Tea.png)
+
+### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
+
+[ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
+
 ### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
 
 [ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
 
+### [`Firebird`](Firebird.hexplt)
+
+[ ![Firebird.png](Firebird.png) ](Firebird.png)
+
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
 [ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)
+
+### [`Lumos`](Lumos.hexplt)
+
+[ ![Lumos.png](Lumos.png) ](Lumos.png)
 
 ### [`Murky_Forest`](Murky_Forest.hexplt)
 
@@ -61,6 +85,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Summer_of_Vampires`](Summer_of_Vampires.hexplt)
 
 [ ![Summer_of_Vampires.png](Summer_of_Vampires.png) ](Summer_of_Vampires.png)
+
+### [`Sunflower`](Sunflower.hexplt)
+
+[ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
+
+### [`Vampire`](Vampire.hexplt)
+
+[ ![Vampire.png](Vampire.png) ](Vampire.png)
 
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
