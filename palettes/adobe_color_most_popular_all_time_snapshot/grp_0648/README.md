@@ -10,10 +10,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BIBCmTwq.png](BIBCmTwq.png) ](BIBCmTwq.png)
 
-### [`Blue_Fire`](Blue_Fire.hexplt)
-
-[ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
-
 ### [`CGCpJUme`](CGCpJUme.hexplt)
 
 [ ![CGCpJUme.png](CGCpJUme.png) ](CGCpJUme.png)
@@ -61,10 +57,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`EQq6j9sx`](EQq6j9sx.hexplt)
 
 [ ![EQq6j9sx.png](EQq6j9sx.png) ](EQq6j9sx.png)
-
-### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
-
-[ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
 
 ### [`FPdGV6ge`](FPdGV6ge.hexplt)
 
