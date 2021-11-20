@@ -134,10 +134,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyansForShimmeringSubtle.png](cyansForShimmeringSubtle.png) ](cyansForShimmeringSubtle.png)
 
-### [`darkBG`](darkBG.hexplt)
-
-[ ![darkBG.png](darkBG.png) ](darkBG.png)
-
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -145,10 +141,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`dead_maple`](dead_maple.hexplt)
 
 [ ![dead_maple.png](dead_maple.png) ](dead_maple.png)
-
-### [`dead_maple_bg`](dead_maple_bg.hexplt)
-
-[ ![dead_maple_bg.png](dead_maple_bg.png) ](dead_maple_bg.png)
 
 ### [`dead_maple_extended`](dead_maple_extended.hexplt)
 
@@ -177,10 +169,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`magenta_rose_zinnia`](magenta_rose_zinnia.hexplt)
 
 [ ![magenta_rose_zinnia.png](magenta_rose_zinnia.png) ](magenta_rose_zinnia.png)
-
-### [`magenta_rose_zinnia_deadhead_bg`](magenta_rose_zinnia_deadhead_bg.hexplt)
-
-[ ![magenta_rose_zinnia_deadhead_bg.png](magenta_rose_zinnia_deadhead_bg.png) ](magenta_rose_zinnia_deadhead_bg.png)
 
 ### [`magenta_rose_zinnia_deadhead_fg`](magenta_rose_zinnia_deadhead_fg.hexplt)
 
