@@ -14,10 +14,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
-### [`Dark_Wizard`](Dark_Wizard.hexplt)
-
-[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
-
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
@@ -29,10 +25,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
-
-### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
-
-[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
 
 ### [`Firebird`](Firebird.hexplt)
 
@@ -66,13 +58,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![PrismacolorMarkers_RND_sort.png](PrismacolorMarkers_RND_sort.png) ](PrismacolorMarkers_RND_sort.png)
 
-### [`RAHfavoriteColors_v1`](RAHfavoriteColors_v1.hexplt)
+### [`RAHfavoritecolors_v1`](RAHfavoritecolors_v1.hexplt)
 
-[ ![RAHfavoriteColors_v1.png](RAHfavoriteColors_v1.png) ](RAHfavoriteColors_v1.png)
+[ ![RAHfavoritecolors_v1.png](RAHfavoritecolors_v1.png) ](RAHfavoritecolors_v1.png)
 
-### [`RAHfavoriteColors_v2`](RAHfavoriteColors_v2.hexplt)
+### [`RAHfavoritecolors_v2`](RAHfavoritecolors_v2.hexplt)
 
-[ ![RAHfavoriteColors_v2.png](RAHfavoriteColors_v2.png) ](RAHfavoriteColors_v2.png)
+[ ![RAHfavoritecolors_v2.png](RAHfavoritecolors_v2.png) ](RAHfavoritecolors_v2.png)
 
 ### [`RGB_combos_of_255_127_and_0_repetition_allowed`](RGB_combos_of_255_127_and_0_repetition_allowed.hexplt)
 
@@ -134,6 +126,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyansForShimmeringSubtle.png](cyansForShimmeringSubtle.png) ](cyansForShimmeringSubtle.png)
 
+### [`dark_wizard`](dark_wizard.hexplt)
+
+[ ![dark_wizard.png](dark_wizard.png) ](dark_wizard.png)
+
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -145,6 +141,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`dead_maple_extended`](dead_maple_extended.hexplt)
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
+
+### [`fire_on_the_water`](fire_on_the_water.hexplt)
+
+[ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
 
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
@@ -241,6 +241,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`sparkleHeartColors`](sparkleHeartColors.hexplt)
 
 [ ![sparkleHeartColors.png](sparkleHeartColors.png) ](sparkleHeartColors.png)
+
+### [`still_life_apron`](still_life_apron.hexplt)
+
+[ ![still_life_apron.png](still_life_apron.png) ](still_life_apron.png)
 
 ### [`subset_of_palette_collections01-03_for_art_projects`](subset_of_palette_collections01-03_for_art_projects.hexplt)
 
