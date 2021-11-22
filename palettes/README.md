@@ -170,9 +170,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![magenta_rose_zinnia.png](magenta_rose_zinnia.png) ](magenta_rose_zinnia.png)
 
-### [`magenta_rose_zinnia_deadhead_fg`](magenta_rose_zinnia_deadhead_fg.hexplt)
+### [`magenta_rose_zinnia_deadhead`](magenta_rose_zinnia_deadhead.hexplt)
 
-[ ![magenta_rose_zinnia_deadhead_fg.png](magenta_rose_zinnia_deadhead_fg.png) ](magenta_rose_zinnia_deadhead_fg.png)
+[ ![magenta_rose_zinnia_deadhead.png](magenta_rose_zinnia_deadhead.png) ](magenta_rose_zinnia_deadhead.png)
 
 ### [`markerLikeBackgroundColors`](markerLikeBackgroundColors.hexplt)
 
