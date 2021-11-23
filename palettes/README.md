@@ -14,6 +14,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
+### [`Dark_Wizard`](Dark_Wizard.hexplt)
+
+[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
+
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
@@ -25,6 +29,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
+
+### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
+
+[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
 
 ### [`Firebird`](Firebird.hexplt)
 
@@ -57,14 +65,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`PrismacolorMarkers_RND_sort`](PrismacolorMarkers_RND_sort.hexplt)
 
 [ ![PrismacolorMarkers_RND_sort.png](PrismacolorMarkers_RND_sort.png) ](PrismacolorMarkers_RND_sort.png)
-
-### [`RAHfavoritecolors_v1`](RAHfavoritecolors_v1.hexplt)
-
-[ ![RAHfavoritecolors_v1.png](RAHfavoritecolors_v1.png) ](RAHfavoritecolors_v1.png)
-
-### [`RAHfavoritecolors_v2`](RAHfavoritecolors_v2.hexplt)
-
-[ ![RAHfavoritecolors_v2.png](RAHfavoritecolors_v2.png) ](RAHfavoritecolors_v2.png)
 
 ### [`RGB_combos_of_255_127_and_0_repetition_allowed`](RGB_combos_of_255_127_and_0_repetition_allowed.hexplt)
 
@@ -126,10 +126,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyansForShimmeringSubtle.png](cyansForShimmeringSubtle.png) ](cyansForShimmeringSubtle.png)
 
-### [`dark_wizard`](dark_wizard.hexplt)
-
-[ ![dark_wizard.png](dark_wizard.png) ](dark_wizard.png)
-
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -142,9 +138,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
 
-### [`fire_on_the_water`](fire_on_the_water.hexplt)
+### [`eb_favorites_v1`](eb_favorites_v1.hexplt)
 
-[ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
+[ ![eb_favorites_v1.png](eb_favorites_v1.png) ](eb_favorites_v1.png)
+
+### [`eb_favorites_v2`](eb_favorites_v2.hexplt)
+
+[ ![eb_favorites_v2.png](eb_favorites_v2.png) ](eb_favorites_v2.png)
 
 ### [`floral_print_00001`](floral_print_00001.hexplt)
 
