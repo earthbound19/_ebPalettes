@@ -150,25 +150,25 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![floral_print_00001.png](floral_print_00001.png) ](floral_print_00001.png)
 
-### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
+### [`fundamental_vivid`](fundamental_vivid.hexplt)
 
-[ ![fundamental_vivid_hues.png](fundamental_vivid_hues.png) ](fundamental_vivid_hues.png)
+[ ![fundamental_vivid.png](fundamental_vivid.png) ](fundamental_vivid.png)
 
-### [`fundamental_vivid_hues_darks`](fundamental_vivid_hues_darks.hexplt)
+### [`fundamental_vivid_darks`](fundamental_vivid_darks.hexplt)
 
-[ ![fundamental_vivid_hues_darks.png](fundamental_vivid_hues_darks.png) ](fundamental_vivid_hues_darks.png)
+[ ![fundamental_vivid_darks.png](fundamental_vivid_darks.png) ](fundamental_vivid_darks.png)
 
-### [`fundamental_vivid_hues_lights`](fundamental_vivid_hues_lights.hexplt)
+### [`fundamental_vivid_lights`](fundamental_vivid_lights.hexplt)
 
-[ ![fundamental_vivid_hues_lights.png](fundamental_vivid_hues_lights.png) ](fundamental_vivid_hues_lights.png)
+[ ![fundamental_vivid_lights.png](fundamental_vivid_lights.png) ](fundamental_vivid_lights.png)
 
-### [`fundamental_vivid_hues_lights_mod`](fundamental_vivid_hues_lights_mod.hexplt)
+### [`fundamental_vivid_lights_mod`](fundamental_vivid_lights_mod.hexplt)
 
-[ ![fundamental_vivid_hues_lights_mod.png](fundamental_vivid_hues_lights_mod.png) ](fundamental_vivid_hues_lights_mod.png)
+[ ![fundamental_vivid_lights_mod.png](fundamental_vivid_lights_mod.png) ](fundamental_vivid_lights_mod.png)
 
-### [`fundamental_vivid_hues_v2`](fundamental_vivid_hues_v2.hexplt)
+### [`fundamental_vivid_v2`](fundamental_vivid_v2.hexplt)
 
-[ ![fundamental_vivid_hues_v2.png](fundamental_vivid_hues_v2.png) ](fundamental_vivid_hues_v2.png)
+[ ![fundamental_vivid_v2.png](fundamental_vivid_v2.png) ](fundamental_vivid_v2.png)
 
 ### [`magenta_rose_zinnia`](magenta_rose_zinnia.hexplt)
 
@@ -274,9 +274,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtc.png](turtleGreenTetradicEtc.png) ](turtleGreenTetradicEtc.png)
 
-### [`16_max_chroma_med_light_hues_regular_hue_interval`](16_max_chroma_med_light_hues_regular_hue_interval.hexplt)
+### [`16_max_chroma_med_light`](16_max_chroma_med_light.hexplt)
 
-[ ![16_max_chroma_med_light_hues_regular_hue_interval.png](16_max_chroma_med_light_hues_regular_hue_interval.png) ](16_max_chroma_med_light_hues_regular_hue_interval.png)
+[ ![16_max_chroma_med_light.png](16_max_chroma_med_light.png) ](16_max_chroma_med_light.png)
 
 ### [`16_max_chroma_med_light_more_lively_greens`](16_max_chroma_med_light_more_lively_greens.hexplt)
 
