@@ -278,17 +278,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![16_max_chroma_med_light_hues_regular_hue_interval.png](16_max_chroma_med_light_hues_regular_hue_interval.png) ](16_max_chroma_med_light_hues_regular_hue_interval.png)
 
-### [`16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens`](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.hexplt)
+### [`16_max_chroma_med_light_more_lively_greens`](16_max_chroma_med_light_more_lively_greens.hexplt)
 
-[ ![16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](16_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
+[ ![16_max_chroma_med_light_more_lively_greens.png](16_max_chroma_med_light_more_lively_greens.png) ](16_max_chroma_med_light_more_lively_greens.png)
 
-### [`32_max_chroma_med_light_hues_regular_hue_interval`](32_max_chroma_med_light_hues_regular_hue_interval.hexplt)
+### [`32_max_chroma_med_light`](32_max_chroma_med_light.hexplt)
 
-[ ![32_max_chroma_med_light_hues_regular_hue_interval.png](32_max_chroma_med_light_hues_regular_hue_interval.png) ](32_max_chroma_med_light_hues_regular_hue_interval.png)
+[ ![32_max_chroma_med_light.png](32_max_chroma_med_light.png) ](32_max_chroma_med_light.png)
 
-### [`32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens`](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.hexplt)
+### [`32_max_chroma_med_light_more_lively_greens`](32_max_chroma_med_light_more_lively_greens.hexplt)
 
-[ ![32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png) ](32_max_chroma_med_light_hues_regular_hue_interval_more_lively_greens.png)
+[ ![32_max_chroma_med_light_more_lively_greens.png](32_max_chroma_med_light_more_lively_greens.png) ](32_max_chroma_med_light_more_lively_greens.png)
 
 ### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
 
