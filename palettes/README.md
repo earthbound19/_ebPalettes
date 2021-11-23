@@ -238,6 +238,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![shades_of_cyan.png](shades_of_cyan.png) ](shades_of_cyan.png)
 
+### [`sipee`](sipee.hexplt)
+
+[ ![sipee.png](sipee.png) ](sipee.png)
+
 ### [`sparkleHeartColors`](sparkleHeartColors.hexplt)
 
 [ ![sparkleHeartColors.png](sparkleHeartColors.png) ](sparkleHeartColors.png)
