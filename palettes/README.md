@@ -146,6 +146,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
 
+### [`floral_print_00001`](floral_print_00001.hexplt)
+
+[ ![floral_print_00001.png](floral_print_00001.png) ](floral_print_00001.png)
+
 ### [`fundamental_vivid_hues`](fundamental_vivid_hues.hexplt)
 
 [ ![fundamental_vivid_hues.png](fundamental_vivid_hues.png) ](fundamental_vivid_hues.png)
