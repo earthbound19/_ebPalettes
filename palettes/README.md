@@ -174,6 +174,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![fundamental_vivid_v2.png](fundamental_vivid_v2.png) ](fundamental_vivid_v2.png)
 
+### [`lively_moss_and_buttery_orange_yellow`](lively_moss_and_buttery_orange_yellow.hexplt)
+
+[ ![lively_moss_and_buttery_orange_yellow.png](lively_moss_and_buttery_orange_yellow.png) ](lively_moss_and_buttery_orange_yellow.png)
+
 ### [`magenta_rose_zinnia`](magenta_rose_zinnia.hexplt)
 
 [ ![magenta_rose_zinnia.png](magenta_rose_zinnia.png) ](magenta_rose_zinnia.png)
