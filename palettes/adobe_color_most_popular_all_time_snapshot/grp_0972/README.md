@@ -522,10 +522,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cb2ZUMQ3.png](cb2ZUMQ3.png) ](cb2ZUMQ3.png)
 
-### [`cbZ7dwJK`](cbZ7dwJK.hexplt)
-
-[ ![cbZ7dwJK.png](cbZ7dwJK.png) ](cbZ7dwJK.png)
-
 ### [`ckhb7fDq`](ckhb7fDq.hexplt)
 
 [ ![ckhb7fDq.png](ckhb7fDq.png) ](ckhb7fDq.png)

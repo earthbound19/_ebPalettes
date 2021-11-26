@@ -74,6 +74,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
 
+### [`Tyre`](Tyre.hexplt)
+
+[ ![Tyre.png](Tyre.png) ](Tyre.png)
+
 ### [`Vampire`](Vampire.hexplt)
 
 [ ![Vampire.png](Vampire.png) ](Vampire.png)
@@ -141,6 +145,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`eb_favorites_v2`](eb_favorites_v2.hexplt)
 
 [ ![eb_favorites_v2.png](eb_favorites_v2.png) ](eb_favorites_v2.png)
+
+### [`faded_Tyre`](faded_Tyre.hexplt)
+
+[ ![faded_Tyre.png](faded_Tyre.png) ](faded_Tyre.png)
 
 ### [`fire_on_the_water`](fire_on_the_water.hexplt)
 
