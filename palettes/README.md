@@ -14,10 +14,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
-### [`Dark_Wizard`](Dark_Wizard.hexplt)
-
-[ ![Dark_Wizard.png](Dark_Wizard.png) ](Dark_Wizard.png)
-
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
@@ -29,10 +25,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
-
-### [`Fire_on_the_Water`](Fire_on_the_Water.hexplt)
-
-[ ![Fire_on_the_Water.png](Fire_on_the_Water.png) ](Fire_on_the_Water.png)
 
 ### [`Firebird`](Firebird.hexplt)
 
@@ -130,6 +122,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyansForShimmeringSubtle.png](cyansForShimmeringSubtle.png) ](cyansForShimmeringSubtle.png)
 
+### [`dark_wizard`](dark_wizard.hexplt)
+
+[ ![dark_wizard.png](dark_wizard.png) ](dark_wizard.png)
+
 ### [`datavis0001`](datavis0001.hexplt)
 
 [ ![datavis0001.png](datavis0001.png) ](datavis0001.png)
@@ -153,6 +149,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`faded_Tyre`](faded_Tyre.hexplt)
 
 [ ![faded_Tyre.png](faded_Tyre.png) ](faded_Tyre.png)
+
+### [`fire_on_the_water`](fire_on_the_water.hexplt)
+
+[ ![fire_on_the_water.png](fire_on_the_water.png) ](fire_on_the_water.png)
 
 ### [`floral_00001`](floral_00001.hexplt)
 
