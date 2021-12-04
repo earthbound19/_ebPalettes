@@ -78,6 +78,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Tyre.png](Tyre.png) ](Tyre.png)
 
+### [`USA_soil_colors`](USA_soil_colors.hexplt)
+
+[ ![USA_soil_colors.png](USA_soil_colors.png) ](USA_soil_colors.png)
+
 ### [`Vampire`](Vampire.hexplt)
 
 [ ![Vampire.png](Vampire.png) ](Vampire.png)
