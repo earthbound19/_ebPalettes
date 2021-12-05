@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Adobe_swatch_pure_colors_16`](Adobe_swatch_pure_colors_16.hexplt)
+
+[ ![Adobe_swatch_pure_colors_16.png](Adobe_swatch_pure_colors_16.png) ](Adobe_swatch_pure_colors_16.png)
+
 ### [`Blue_Fire`](Blue_Fire.hexplt)
 
 [ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
