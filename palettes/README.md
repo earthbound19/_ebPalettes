@@ -142,6 +142,18 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Murky_Forest.png](Murky_Forest.png) ](Murky_Forest.png)
 
+### [`Pantone_2015_womens_spring_colors_more_vivid`](Pantone_2015_womens_spring_colors_more_vivid.hexplt)
+
+[ ![Pantone_2015_womens_spring_colors_more_vivid.png](Pantone_2015_womens_spring_colors_more_vivid.png) ](Pantone_2015_womens_spring_colors_more_vivid.png)
+
+### [`Pantone_2015_womens_spring_colors_more_vivid_alt`](Pantone_2015_womens_spring_colors_more_vivid_alt.hexplt)
+
+[ ![Pantone_2015_womens_spring_colors_more_vivid_alt.png](Pantone_2015_womens_spring_colors_more_vivid_alt.png) ](Pantone_2015_womens_spring_colors_more_vivid_alt.png)
+
+### [`Pantone_2015_womens_spring_colors_twoVeryVividVariants`](Pantone_2015_womens_spring_colors_twoVeryVividVariants.hexplt)
+
+[ ![Pantone_2015_womens_spring_colors_twoVeryVividVariants.png](Pantone_2015_womens_spring_colors_twoVeryVividVariants.png) ](Pantone_2015_womens_spring_colors_twoVeryVividVariants.png)
+
 ### [`PrismacolorMarkersDarksNextNearestSort`](PrismacolorMarkersDarksNextNearestSort.hexplt)
 
 [ ![PrismacolorMarkersDarksNextNearestSort.png](PrismacolorMarkersDarksNextNearestSort.png) ](PrismacolorMarkersDarksNextNearestSort.png)
