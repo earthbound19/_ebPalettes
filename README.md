@@ -15,9 +15,9 @@ I invented this format, I think, but I wouldn't be surprised if others have done
 
 If you're viewing this repository at a web site such as GitHub or other context that renders HTML from the README.md, you may navigate the folders to see previews of palettes (rendered as .png images) via that README. You'll find palettes displayed like the below:
 
-### [`palettes/RAHfavoriteColorsHex_v2`](palettes/RAHfavoriteColorsHex_v2.hexplt)
+### [`palettes/eb_favorites_v2`](palettes/eb_favorites_v2.hexplt)
 
-[ ![palettes/RAHfavoriteColorsHex_v2.png](palettes/RAHfavoriteColorsHex_v2.png) ](palettes/RAHfavoriteColorsHex_v2.png)
+[ ![palettes/eb_favorites_v2.png](palettes/eb_favorites_v2.png) ](palettes/eb_favorites_v2.png)
 
 -- where the title over the image links to the source `.hexplt` file, and the rendered image links to the image file.
 
