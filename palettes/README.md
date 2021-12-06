@@ -18,6 +18,26 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
+### [`Craft_Paper_00038`](Craft_Paper_00038.hexplt)
+
+[ ![Craft_Paper_00038.png](Craft_Paper_00038.png) ](Craft_Paper_00038.png)
+
+### [`Craft_Paper_00039`](Craft_Paper_00039.hexplt)
+
+[ ![Craft_Paper_00039.png](Craft_Paper_00039.png) ](Craft_Paper_00039.png)
+
+### [`Craft_Paper_00040`](Craft_Paper_00040.hexplt)
+
+[ ![Craft_Paper_00040.png](Craft_Paper_00040.png) ](Craft_Paper_00040.png)
+
+### [`Craft_Paper_00041`](Craft_Paper_00041.hexplt)
+
+[ ![Craft_Paper_00041.png](Craft_Paper_00041.png) ](Craft_Paper_00041.png)
+
+### [`Craft_Paper_00042`](Craft_Paper_00042.hexplt)
+
+[ ![Craft_Paper_00042.png](Craft_Paper_00042.png) ](Craft_Paper_00042.png)
+
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
 [ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
@@ -33,6 +53,22 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Firebird`](Firebird.hexplt)
 
 [ ![Firebird.png](Firebird.png) ](Firebird.png)
+
+### [`Floral_00003`](Floral_00003.hexplt)
+
+[ ![Floral_00003.png](Floral_00003.png) ](Floral_00003.png)
+
+### [`Floral_00004`](Floral_00004.hexplt)
+
+[ ![Floral_00004.png](Floral_00004.png) ](Floral_00004.png)
+
+### [`Floral_00005`](Floral_00005.hexplt)
+
+[ ![Floral_00005.png](Floral_00005.png) ](Floral_00005.png)
+
+### [`Floral_00006`](Floral_00006.hexplt)
+
+[ ![Floral_00006.png](Floral_00006.png) ](Floral_00006.png)
 
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
@@ -69,6 +105,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`RWB_colors`](RWB_colors.hexplt)
 
 [ ![RWB_colors.png](RWB_colors.png) ](RWB_colors.png)
+
+### [`Stickers_00001`](Stickers_00001.hexplt)
+
+[ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
 
 ### [`Summer_of_Vampires`](Summer_of_Vampires.hexplt)
 
