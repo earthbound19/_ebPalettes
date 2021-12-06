@@ -18,6 +18,58 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
+### [`Craft_Paper_00002`](Craft_Paper_00002.hexplt)
+
+[ ![Craft_Paper_00002.png](Craft_Paper_00002.png) ](Craft_Paper_00002.png)
+
+### [`Craft_Paper_00005`](Craft_Paper_00005.hexplt)
+
+[ ![Craft_Paper_00005.png](Craft_Paper_00005.png) ](Craft_Paper_00005.png)
+
+### [`Craft_Paper_00007`](Craft_Paper_00007.hexplt)
+
+[ ![Craft_Paper_00007.png](Craft_Paper_00007.png) ](Craft_Paper_00007.png)
+
+### [`Craft_Paper_00018`](Craft_Paper_00018.hexplt)
+
+[ ![Craft_Paper_00018.png](Craft_Paper_00018.png) ](Craft_Paper_00018.png)
+
+### [`Craft_Paper_00019`](Craft_Paper_00019.hexplt)
+
+[ ![Craft_Paper_00019.png](Craft_Paper_00019.png) ](Craft_Paper_00019.png)
+
+### [`Craft_Paper_00020`](Craft_Paper_00020.hexplt)
+
+[ ![Craft_Paper_00020.png](Craft_Paper_00020.png) ](Craft_Paper_00020.png)
+
+### [`Craft_Paper_00021`](Craft_Paper_00021.hexplt)
+
+[ ![Craft_Paper_00021.png](Craft_Paper_00021.png) ](Craft_Paper_00021.png)
+
+### [`Craft_Paper_00022`](Craft_Paper_00022.hexplt)
+
+[ ![Craft_Paper_00022.png](Craft_Paper_00022.png) ](Craft_Paper_00022.png)
+
+### [`Craft_Paper_00023`](Craft_Paper_00023.hexplt)
+
+[ ![Craft_Paper_00023.png](Craft_Paper_00023.png) ](Craft_Paper_00023.png)
+
+### [`Craft_Paper_00024`](Craft_Paper_00024.hexplt)
+
+[ ![Craft_Paper_00024.png](Craft_Paper_00024.png) ](Craft_Paper_00024.png)
+
+### [`Craft_Paper_00032`](Craft_Paper_00032.hexplt)
+
+[ ![Craft_Paper_00032.png](Craft_Paper_00032.png) ](Craft_Paper_00032.png)
+
+### [`Craft_Paper_00036`](Craft_Paper_00036.hexplt)
+
+[ ![Craft_Paper_00036.png](Craft_Paper_00036.png) ](Craft_Paper_00036.png)
+
+### [`Craft_Paper_00037`](Craft_Paper_00037.hexplt)
+
+[ ![Craft_Paper_00037.png](Craft_Paper_00037.png) ](Craft_Paper_00037.png)
+
 ### [`Craft_Paper_00038`](Craft_Paper_00038.hexplt)
 
 [ ![Craft_Paper_00038.png](Craft_Paper_00038.png) ](Craft_Paper_00038.png)
@@ -37,6 +89,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Craft_Paper_00042`](Craft_Paper_00042.hexplt)
 
 [ ![Craft_Paper_00042.png](Craft_Paper_00042.png) ](Craft_Paper_00042.png)
+
+### [`Craft_Paper_00043`](Craft_Paper_00043.hexplt)
+
+[ ![Craft_Paper_00043.png](Craft_Paper_00043.png) ](Craft_Paper_00043.png)
+
+### [`Craft_Paper_00044`](Craft_Paper_00044.hexplt)
+
+[ ![Craft_Paper_00044.png](Craft_Paper_00044.png) ](Craft_Paper_00044.png)
 
 ### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
 
