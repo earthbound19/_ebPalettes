@@ -18,17 +18,41 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
+### [`Craft_Paper_00001`](Craft_Paper_00001.hexplt)
+
+[ ![Craft_Paper_00001.png](Craft_Paper_00001.png) ](Craft_Paper_00001.png)
+
 ### [`Craft_Paper_00002`](Craft_Paper_00002.hexplt)
 
 [ ![Craft_Paper_00002.png](Craft_Paper_00002.png) ](Craft_Paper_00002.png)
+
+### [`Craft_Paper_00004`](Craft_Paper_00004.hexplt)
+
+[ ![Craft_Paper_00004.png](Craft_Paper_00004.png) ](Craft_Paper_00004.png)
 
 ### [`Craft_Paper_00005`](Craft_Paper_00005.hexplt)
 
 [ ![Craft_Paper_00005.png](Craft_Paper_00005.png) ](Craft_Paper_00005.png)
 
+### [`Craft_Paper_00006`](Craft_Paper_00006.hexplt)
+
+[ ![Craft_Paper_00006.png](Craft_Paper_00006.png) ](Craft_Paper_00006.png)
+
 ### [`Craft_Paper_00007`](Craft_Paper_00007.hexplt)
 
 [ ![Craft_Paper_00007.png](Craft_Paper_00007.png) ](Craft_Paper_00007.png)
+
+### [`Craft_Paper_00013`](Craft_Paper_00013.hexplt)
+
+[ ![Craft_Paper_00013.png](Craft_Paper_00013.png) ](Craft_Paper_00013.png)
+
+### [`Craft_Paper_00015`](Craft_Paper_00015.hexplt)
+
+[ ![Craft_Paper_00015.png](Craft_Paper_00015.png) ](Craft_Paper_00015.png)
+
+### [`Craft_Paper_00017`](Craft_Paper_00017.hexplt)
+
+[ ![Craft_Paper_00017.png](Craft_Paper_00017.png) ](Craft_Paper_00017.png)
 
 ### [`Craft_Paper_00018`](Craft_Paper_00018.hexplt)
 
@@ -58,9 +82,41 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Craft_Paper_00024.png](Craft_Paper_00024.png) ](Craft_Paper_00024.png)
 
+### [`Craft_Paper_00026`](Craft_Paper_00026.hexplt)
+
+[ ![Craft_Paper_00026.png](Craft_Paper_00026.png) ](Craft_Paper_00026.png)
+
+### [`Craft_Paper_00027`](Craft_Paper_00027.hexplt)
+
+[ ![Craft_Paper_00027.png](Craft_Paper_00027.png) ](Craft_Paper_00027.png)
+
+### [`Craft_Paper_00028`](Craft_Paper_00028.hexplt)
+
+[ ![Craft_Paper_00028.png](Craft_Paper_00028.png) ](Craft_Paper_00028.png)
+
+### [`Craft_Paper_00029`](Craft_Paper_00029.hexplt)
+
+[ ![Craft_Paper_00029.png](Craft_Paper_00029.png) ](Craft_Paper_00029.png)
+
+### [`Craft_Paper_00030`](Craft_Paper_00030.hexplt)
+
+[ ![Craft_Paper_00030.png](Craft_Paper_00030.png) ](Craft_Paper_00030.png)
+
+### [`Craft_Paper_00031`](Craft_Paper_00031.hexplt)
+
+[ ![Craft_Paper_00031.png](Craft_Paper_00031.png) ](Craft_Paper_00031.png)
+
 ### [`Craft_Paper_00032`](Craft_Paper_00032.hexplt)
 
 [ ![Craft_Paper_00032.png](Craft_Paper_00032.png) ](Craft_Paper_00032.png)
+
+### [`Craft_Paper_00034`](Craft_Paper_00034.hexplt)
+
+[ ![Craft_Paper_00034.png](Craft_Paper_00034.png) ](Craft_Paper_00034.png)
+
+### [`Craft_Paper_00035`](Craft_Paper_00035.hexplt)
+
+[ ![Craft_Paper_00035.png](Craft_Paper_00035.png) ](Craft_Paper_00035.png)
 
 ### [`Craft_Paper_00036`](Craft_Paper_00036.hexplt)
 
@@ -129,6 +185,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Floral_00006`](Floral_00006.hexplt)
 
 [ ![Floral_00006.png](Floral_00006.png) ](Floral_00006.png)
+
+### [`Floral_00008`](Floral_00008.hexplt)
+
+[ ![Floral_00008.png](Floral_00008.png) ](Floral_00008.png)
 
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 

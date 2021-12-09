@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![blue_and_green_water.png](blue_and_green_water.png) ](blue_and_green_water.png)
 
+### [`lively_green_to_mint_green`](lively_green_to_mint_green.hexplt)
+
+[ ![lively_green_to_mint_green.png](lively_green_to_mint_green.png) ](lively_green_to_mint_green.png)
+
 ### [`lively_moss_to_buttery_orange_yellow`](lively_moss_to_buttery_orange_yellow.hexplt)
 
 [ ![lively_moss_to_buttery_orange_yellow.png](lively_moss_to_buttery_orange_yellow.png) ](lively_moss_to_buttery_orange_yellow.png)
