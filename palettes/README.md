@@ -326,6 +326,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![eb_favorites_v2.png](eb_favorites_v2.png) ](eb_favorites_v2.png)
 
+### [`eb_favorites_v2_fewer_very_dark_alts`](eb_favorites_v2_fewer_very_dark_alts.hexplt)
+
+[ ![eb_favorites_v2_fewer_very_dark_alts.png](eb_favorites_v2_fewer_very_dark_alts.png) ](eb_favorites_v2_fewer_very_dark_alts.png)
+
+### [`eb_favorites_v2_var_fewer_alt2_preferred`](eb_favorites_v2_var_fewer_alt2_preferred.hexplt)
+
+[ ![eb_favorites_v2_var_fewer_alt2_preferred.png](eb_favorites_v2_var_fewer_alt2_preferred.png) ](eb_favorites_v2_var_fewer_alt2_preferred.png)
+
 ### [`faded_Tyre`](faded_Tyre.hexplt)
 
 [ ![faded_Tyre.png](faded_Tyre.png) ](faded_Tyre.png)
