@@ -190,6 +190,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Floral_00008.png](Floral_00008.png) ](Floral_00008.png)
 
+### [`Huntington_Library_Botanical_Garden_01`](Huntington_Library_Botanical_Garden_01.hexplt)
+
+[ ![Huntington_Library_Botanical_Garden_01.png](Huntington_Library_Botanical_Garden_01.png) ](Huntington_Library_Botanical_Garden_01.png)
+
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
 [ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)
