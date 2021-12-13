@@ -414,6 +414,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![near_to_far_vivid.png](near_to_far_vivid.png) ](near_to_far_vivid.png)
 
+### [`organic_byproduct_dyes`](organic_byproduct_dyes.hexplt)
+
+[ ![organic_byproduct_dyes.png](organic_byproduct_dyes.png) ](organic_byproduct_dyes.png)
+
 ### [`perplexing_colors_001`](perplexing_colors_001.hexplt)
 
 [ ![perplexing_colors_001.png](perplexing_colors_001.png) ](perplexing_colors_001.png)
