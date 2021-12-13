@@ -1,21 +1,20 @@
-source: https://ncss-tech.github.io/AQP/presentations/beaudette-soil-color-2019-www.pdf
-#382F2A humus
-#382F2A todorokite
-#382F2A pyrite
-#382F2A iron sulfide
-#8E5237 lepidocrocite-fine
-#9B4831 hematite-fine
-#673D2E maghemite
-#713820 ferrihydrite
-#763436 hematite-coarse
-#9E9287 quartz
-#A39461 jarosite
-#BD8A58 akaganeite
-#CD844B lepidocrocite-coarse
-#7E7A6D glauconite
-#A26F3E goethite-fine
-#DCA651 schwertmannite
-#DEC6A6 gypsum
-#D7C7B0 dolomite
-#D7C7B0 calcite
-#EEC382 goethite-coarse
+#382F2A humus -- SOURCE: ncss-tech.github.io -> beaudette-soil-color-2019-www.pdf, orig. sort 01
+#382F2A iron sulfide, orig. sort 04
+#382F2A pyrite, orig. sort 03
+#382F2A todorokite, orig. sort 02
+#673D2E maghemite, orig. sort 07
+#713820 ferrihydrite, orig. sort 08
+#763436 hematite-coarse, orig. sort 09
+#9B4831 hematite-fine, orig. sort 06
+#8E5237 lepidocrocite-fine, orig. sort 05
+#A26F3E goethite-fine, orig. sort 15
+#BD8A58 akaganeite, orig. sort 12
+#CD844B lepidocrocite-coarse, orig. sort 13
+#DCA651 schwertmannite, orig. sort 16
+#EEC382 goethite-coarse, orig. sort 20
+#DEC6A6 gypsum, orig. sort 17
+#D7C7B0 calcite, orig. sort 19
+#D7C7B0 dolomite, orig. sort 18
+#9E9287 quartz, orig. sort 10
+#7E7A6D glauconite, orig. sort 14
+#A39461 jarosite, orig. sort 11
