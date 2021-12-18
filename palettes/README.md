@@ -498,6 +498,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtc.png](turtleGreenTetradicEtc.png) ](turtleGreenTetradicEtc.png)
 
+### [`winter_sunrise`](winter_sunrise.hexplt)
+
+[ ![winter_sunrise.png](winter_sunrise.png) ](winter_sunrise.png)
+
 ### [`16_max_chroma_med_light`](16_max_chroma_med_light.hexplt)
 
 [ ![16_max_chroma_med_light.png](16_max_chroma_med_light.png) ](16_max_chroma_med_light.png)
