@@ -586,10 +586,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![5xMBQNBq.png](5xMBQNBq.png) ](5xMBQNBq.png)
 
-### [`7EnnSpFS`](7EnnSpFS.hexplt)
-
-[ ![7EnnSpFS.png](7EnnSpFS.png) ](7EnnSpFS.png)
-
 ### [`7RKYmG8g`](7RKYmG8g.hexplt)
 
 [ ![7RKYmG8g.png](7RKYmG8g.png) ](7RKYmG8g.png)
@@ -601,10 +597,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`8BiIzhHU`](8BiIzhHU.hexplt)
 
 [ ![8BiIzhHU.png](8BiIzhHU.png) ](8BiIzhHU.png)
-
-### [`8tgjaRNN`](8tgjaRNN.hexplt)
-
-[ ![8tgjaRNN.png](8tgjaRNN.png) ](8tgjaRNN.png)
 
 ### [`9JdmZTRE`](9JdmZTRE.hexplt)
 
