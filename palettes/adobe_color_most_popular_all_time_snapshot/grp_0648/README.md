@@ -694,10 +694,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![zsngygDb.png](zsngygDb.png) ](zsngygDb.png)
 
-### [`2GG9ESzU`](2GG9ESzU.hexplt)
-
-[ ![2GG9ESzU.png](2GG9ESzU.png) ](2GG9ESzU.png)
-
 ### [`3De4ZisS`](3De4ZisS.hexplt)
 
 [ ![3De4ZisS.png](3De4ZisS.png) ](3De4ZisS.png)

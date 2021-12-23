@@ -938,10 +938,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![zqHI2WRf.png](zqHI2WRf.png) ](zqHI2WRf.png)
 
-### [`2d7hCwtv`](2d7hCwtv.hexplt)
-
-[ ![2d7hCwtv.png](2d7hCwtv.png) ](2d7hCwtv.png)
-
 ### [`2xS5BxRm`](2xS5BxRm.hexplt)
 
 [ ![2xS5BxRm.png](2xS5BxRm.png) ](2xS5BxRm.png)

@@ -558,10 +558,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![2A9M7HK8.png](2A9M7HK8.png) ](2A9M7HK8.png)
 
-### [`2eeJtFXn`](2eeJtFXn.hexplt)
-
-[ ![2eeJtFXn.png](2eeJtFXn.png) ](2eeJtFXn.png)
-
 ### [`2wCVt48J`](2wCVt48J.hexplt)
 
 [ ![2wCVt48J.png](2wCVt48J.png) ](2wCVt48J.png)
