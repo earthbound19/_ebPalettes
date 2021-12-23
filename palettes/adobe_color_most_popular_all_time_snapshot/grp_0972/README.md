@@ -982,10 +982,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![6amaZMNf.png](6amaZMNf.png) ](6amaZMNf.png)
 
-### [`6dDRrDmj`](6dDRrDmj.hexplt)
-
-[ ![6dDRrDmj.png](6dDRrDmj.png) ](6dDRrDmj.png)
-
 ### [`6kBpseXP`](6kBpseXP.hexplt)
 
 [ ![6kBpseXP.png](6kBpseXP.png) ](6kBpseXP.png)

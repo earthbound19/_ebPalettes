@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![5RVdrNxZ.png](5RVdrNxZ.png) ](5RVdrNxZ.png)
 
+### [`6dDRrDmj`](6dDRrDmj.hexplt)
+
+[ ![6dDRrDmj.png](6dDRrDmj.png) ](6dDRrDmj.png)
+
 ### [`6rTdqjMS`](6rTdqjMS.hexplt)
 
 [ ![6rTdqjMS.png](6rTdqjMS.png) ](6rTdqjMS.png)
