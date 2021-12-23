@@ -990,10 +990,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![6n54wCvD.png](6n54wCvD.png) ](6n54wCvD.png)
 
-### [`7f8GSVkr`](7f8GSVkr.hexplt)
-
-[ ![7f8GSVkr.png](7f8GSVkr.png) ](7f8GSVkr.png)
-
 ### [`7fASAavc`](7fASAavc.hexplt)
 
 [ ![7fASAavc.png](7fASAavc.png) ](7fASAavc.png)

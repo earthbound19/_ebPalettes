@@ -770,10 +770,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![8NuQGVMW.png](8NuQGVMW.png) ](8NuQGVMW.png)
 
-### [`8i4TI6tQ`](8i4TI6tQ.hexplt)
-
-[ ![8i4TI6tQ.png](8i4TI6tQ.png) ](8i4TI6tQ.png)
-
 ### [`9Gcttj6X`](9Gcttj6X.hexplt)
 
 [ ![9Gcttj6X.png](9Gcttj6X.png) ](9Gcttj6X.png)
