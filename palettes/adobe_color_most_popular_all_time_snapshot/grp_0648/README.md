@@ -730,10 +730,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![5HIIcj9u.png](5HIIcj9u.png) ](5HIIcj9u.png)
 
-### [`5RVdrNxZ`](5RVdrNxZ.hexplt)
-
-[ ![5RVdrNxZ.png](5RVdrNxZ.png) ](5RVdrNxZ.png)
-
 ### [`5WAJkerg`](5WAJkerg.hexplt)
 
 [ ![5WAJkerg.png](5WAJkerg.png) ](5WAJkerg.png)

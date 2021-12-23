@@ -586,10 +586,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![5xMBQNBq.png](5xMBQNBq.png) ](5xMBQNBq.png)
 
-### [`6rTdqjMS`](6rTdqjMS.hexplt)
-
-[ ![6rTdqjMS.png](6rTdqjMS.png) ](6rTdqjMS.png)
-
 ### [`7EnnSpFS`](7EnnSpFS.hexplt)
 
 [ ![7EnnSpFS.png](7EnnSpFS.png) ](7EnnSpFS.png)
