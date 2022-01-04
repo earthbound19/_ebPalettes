@@ -14,6 +14,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![uWbMFu84.png](uWbMFu84.png) ](uWbMFu84.png)
 
+### [`7qknUHkT`](7qknUHkT.hexplt)
+
+[ ![7qknUHkT.png](7qknUHkT.png) ](7qknUHkT.png)
+
 ### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
 
 [ ![50s_Machine_Shop.png](50s_Machine_Shop.png) ](50s_Machine_Shop.png)

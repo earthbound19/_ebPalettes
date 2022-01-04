@@ -822,10 +822,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![7kY5Ke9t.png](7kY5Ke9t.png) ](7kY5Ke9t.png)
 
-### [`7qknUHkT`](7qknUHkT.hexplt)
-
-[ ![7qknUHkT.png](7qknUHkT.png) ](7qknUHkT.png)
-
 ### [`8R7XtM8K`](8R7XtM8K.hexplt)
 
 [ ![8R7XtM8K.png](8R7XtM8K.png) ](8R7XtM8K.png)

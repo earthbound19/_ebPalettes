@@ -206,10 +206,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![VPFB7jnM.png](VPFB7jnM.png) ](VPFB7jnM.png)
 
-### [`VY9zypN3`](VY9zypN3.hexplt)
-
-[ ![VY9zypN3.png](VY9zypN3.png) ](VY9zypN3.png)
-
 ### [`Vampire`](Vampire.hexplt)
 
 [ ![Vampire.png](Vampire.png) ](Vampire.png)
