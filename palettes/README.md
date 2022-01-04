@@ -166,10 +166,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
 
-### [`Firebird`](Firebird.hexplt)
-
-[ ![Firebird.png](Firebird.png) ](Firebird.png)
-
 ### [`Floral_00003`](Floral_00003.hexplt)
 
 [ ![Floral_00003.png](Floral_00003.png) ](Floral_00003.png)

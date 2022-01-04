@@ -34,6 +34,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Erb8M4uS.png](Erb8M4uS.png) ](Erb8M4uS.png)
 
+### [`Firebird`](Firebird.hexplt)
+
+[ ![Firebird.png](Firebird.png) ](Firebird.png)
+
 ### [`FtAAXDZA`](FtAAXDZA.hexplt)
 
 [ ![FtAAXDZA.png](FtAAXDZA.png) ](FtAAXDZA.png)
@@ -545,6 +549,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`8BiIzhHU`](8BiIzhHU.hexplt)
 
 [ ![8BiIzhHU.png](8BiIzhHU.png) ](8BiIzhHU.png)
+
+### [`8Cbvx5tM`](8Cbvx5tM.hexplt)
+
+[ ![8Cbvx5tM.png](8Cbvx5tM.png) ](8Cbvx5tM.png)
 
 ### [`9JdmZTRE`](9JdmZTRE.hexplt)
 
