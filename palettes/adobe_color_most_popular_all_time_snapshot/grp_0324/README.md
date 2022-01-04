@@ -382,10 +382,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![iiTzgxKm__modded.png](iiTzgxKm__modded.png) ](iiTzgxKm__modded.png)
 
-### [`jKyhiG9B`](jKyhiG9B.hexplt)
-
-[ ![jKyhiG9B.png](jKyhiG9B.png) ](jKyhiG9B.png)
-
 ### [`kXnNRxWr`](kXnNRxWr.hexplt)
 
 [ ![kXnNRxWr.png](kXnNRxWr.png) ](kXnNRxWr.png)
@@ -549,10 +545,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`5xMBQNBq`](5xMBQNBq.hexplt)
 
 [ ![5xMBQNBq.png](5xMBQNBq.png) ](5xMBQNBq.png)
-
-### [`7RKYmG8g`](7RKYmG8g.hexplt)
-
-[ ![7RKYmG8g.png](7RKYmG8g.png) ](7RKYmG8g.png)
 
 ### [`8BiIzhHU`](8BiIzhHU.hexplt)
 
