@@ -102,10 +102,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![PRTyVC5Y.png](PRTyVC5Y.png) ](PRTyVC5Y.png)
 
-### [`PRVDSvu3`](PRVDSvu3.hexplt)
-
-[ ![PRVDSvu3.png](PRVDSvu3.png) ](PRVDSvu3.png)
-
 ### [`PUwqgbgP`](PUwqgbgP.hexplt)
 
 [ ![PUwqgbgP.png](PUwqgbgP.png) ](PUwqgbgP.png)
