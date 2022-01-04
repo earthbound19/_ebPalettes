@@ -194,6 +194,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Huntington_Library_Botanical_Garden_01.png](Huntington_Library_Botanical_Garden_01.png) ](Huntington_Library_Botanical_Garden_01.png)
 
+### [`Juniper_bark_and_desert_soil`](Juniper_bark_and_desert_soil.hexplt)
+
+[ ![Juniper_bark_and_desert_soil.png](Juniper_bark_and_desert_soil.png) ](Juniper_bark_and_desert_soil.png)
+
 ### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
 
 [ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)

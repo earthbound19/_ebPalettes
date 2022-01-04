@@ -38,10 +38,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![QjxRknqx.png](QjxRknqx.png) ](QjxRknqx.png)
 
-### [`TP7gy9Cu`](TP7gy9Cu.hexplt)
-
-[ ![TP7gy9Cu.png](TP7gy9Cu.png) ](TP7gy9Cu.png)
-
 ### [`VRp9tEeQ`](VRp9tEeQ.hexplt)
 
 [ ![VRp9tEeQ.png](VRp9tEeQ.png) ](VRp9tEeQ.png)
