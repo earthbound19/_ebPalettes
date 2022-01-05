@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![WvM3j8Vz.png](WvM3j8Vz.png) ](WvM3j8Vz.png)
 
+### [`gc4qBrNR`](gc4qBrNR.hexplt)
+
+[ ![gc4qBrNR.png](gc4qBrNR.png) ](gc4qBrNR.png)
+
 ### [`mQyKEcwK`](mQyKEcwK.hexplt)
 
 [ ![mQyKEcwK.png](mQyKEcwK.png) ](mQyKEcwK.png)

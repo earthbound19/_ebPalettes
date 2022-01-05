@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`AbR524BZ`](AbR524BZ.hexplt)
-
-[ ![AbR524BZ.png](AbR524BZ.png) ](AbR524BZ.png)
-
 ### [`AsbQ5qI2`](AsbQ5qI2.hexplt)
 
 [ ![AsbQ5qI2.png](AsbQ5qI2.png) ](AsbQ5qI2.png)
@@ -13,10 +9,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`D5J6TggD`](D5J6TggD.hexplt)
 
 [ ![D5J6TggD.png](D5J6TggD.png) ](D5J6TggD.png)
-
-### [`Gn2jwa34`](Gn2jwa34.hexplt)
-
-[ ![Gn2jwa34.png](Gn2jwa34.png) ](Gn2jwa34.png)
 
 ### [`IIyWEhUN`](IIyWEhUN.hexplt)
 
@@ -37,10 +29,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`QjxRknqx`](QjxRknqx.hexplt)
 
 [ ![QjxRknqx.png](QjxRknqx.png) ](QjxRknqx.png)
-
-### [`VRp9tEeQ`](VRp9tEeQ.hexplt)
-
-[ ![VRp9tEeQ.png](VRp9tEeQ.png) ](VRp9tEeQ.png)
 
 ### [`YNmy9JGZ`](YNmy9JGZ.hexplt)
 

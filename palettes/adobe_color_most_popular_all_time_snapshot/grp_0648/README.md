@@ -138,10 +138,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Nqryt6Mr.png](Nqryt6Mr.png) ](Nqryt6Mr.png)
 
-### [`PG7FCf8F`](PG7FCf8F.hexplt)
-
-[ ![PG7FCf8F.png](PG7FCf8F.png) ](PG7FCf8F.png)
-
 ### [`PcK5dIgJ`](PcK5dIgJ.hexplt)
 
 [ ![PcK5dIgJ.png](PcK5dIgJ.png) ](PcK5dIgJ.png)
@@ -390,10 +386,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![npE7eyqp.png](npE7eyqp.png) ](npE7eyqp.png)
 
-### [`pEvnmq4m`](pEvnmq4m.hexplt)
-
-[ ![pEvnmq4m.png](pEvnmq4m.png) ](pEvnmq4m.png)
-
 ### [`pdzmYPP4`](pdzmYPP4.hexplt)
 
 [ ![pdzmYPP4.png](pdzmYPP4.png) ](pdzmYPP4.png)
@@ -505,10 +497,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`yfYGmRWY`](yfYGmRWY.hexplt)
 
 [ ![yfYGmRWY.png](yfYGmRWY.png) ](yfYGmRWY.png)
-
-### [`yng25T7x`](yng25T7x.hexplt)
-
-[ ![yng25T7x.png](yng25T7x.png) ](yng25T7x.png)
 
 ### [`yykMt7J2`](yykMt7J2.hexplt)
 
