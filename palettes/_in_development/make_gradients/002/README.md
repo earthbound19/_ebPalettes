@@ -2,6 +2,14 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Vampire`](Vampire.hexplt)
+
+[ ![Vampire.png](Vampire.png) ](Vampire.png)
+
+### [`e5zeWf8s`](e5zeWf8s.hexplt)
+
+[ ![e5zeWf8s.png](e5zeWf8s.png) ](e5zeWf8s.png)
+
 ### [`ihQDuWtM`](ihQDuWtM.hexplt)
 
 [ ![ihQDuWtM.png](ihQDuWtM.png) ](ihQDuWtM.png)

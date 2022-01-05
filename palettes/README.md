@@ -202,10 +202,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Lumos.png](Lumos.png) ](Lumos.png)
 
-### [`Murky_Forest`](Murky_Forest.hexplt)
-
-[ ![Murky_Forest.png](Murky_Forest.png) ](Murky_Forest.png)
-
 ### [`Pantone_2015_womens_spring_colors_more_vivid`](Pantone_2015_womens_spring_colors_more_vivid.hexplt)
 
 [ ![Pantone_2015_womens_spring_colors_more_vivid.png](Pantone_2015_womens_spring_colors_more_vivid.png) ](Pantone_2015_womens_spring_colors_more_vivid.png)
@@ -249,10 +245,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`USA_soil_colors`](USA_soil_colors.hexplt)
 
 [ ![USA_soil_colors.png](USA_soil_colors.png) ](USA_soil_colors.png)
-
-### [`Vampire`](Vampire.hexplt)
-
-[ ![Vampire.png](Vampire.png) ](Vampire.png)
 
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
