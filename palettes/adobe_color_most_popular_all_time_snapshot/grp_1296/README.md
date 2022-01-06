@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`AsbQ5qI2`](AsbQ5qI2.hexplt)
-
-[ ![AsbQ5qI2.png](AsbQ5qI2.png) ](AsbQ5qI2.png)
-
 ### [`D5J6TggD`](D5J6TggD.hexplt)
 
 [ ![D5J6TggD.png](D5J6TggD.png) ](D5J6TggD.png)
