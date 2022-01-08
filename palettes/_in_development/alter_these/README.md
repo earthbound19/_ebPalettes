@@ -6,20 +6,16 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Pb9h4UCs.png](Pb9h4UCs.png) ](Pb9h4UCs.png)
 
-### [`TrFUINwq`](TrFUINwq.hexplt)
+### [`PsihSbwy`](PsihSbwy.hexplt)
 
-[ ![TrFUINwq.png](TrFUINwq.png) ](TrFUINwq.png)
+[ ![PsihSbwy.png](PsihSbwy.png) ](PsihSbwy.png)
 
-### [`U6q5rkx9`](U6q5rkx9.hexplt)
+### [`W2nmburV`](W2nmburV.hexplt)
 
-[ ![U6q5rkx9.png](U6q5rkx9.png) ](U6q5rkx9.png)
+[ ![W2nmburV.png](W2nmburV.png) ](W2nmburV.png)
 
-### [`f492JCRZ`](f492JCRZ.hexplt)
+### [`dIbykHIz`](dIbykHIz.hexplt)
 
-[ ![f492JCRZ.png](f492JCRZ.png) ](f492JCRZ.png)
-
-### [`h9sSPHCG`](h9sSPHCG.hexplt)
-
-[ ![h9sSPHCG.png](h9sSPHCG.png) ](h9sSPHCG.png)
+[ ![dIbykHIz.png](dIbykHIz.png) ](dIbykHIz.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).

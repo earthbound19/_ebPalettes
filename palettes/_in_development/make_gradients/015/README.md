@@ -10,6 +10,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![aC3iEadg.png](aC3iEadg.png) ](aC3iEadg.png)
 
+### [`fxDvq3jN`](fxDvq3jN.hexplt)
+
+[ ![fxDvq3jN.png](fxDvq3jN.png) ](fxDvq3jN.png)
+
+### [`rZSUvQt4`](rZSUvQt4.hexplt)
+
+[ ![rZSUvQt4.png](rZSUvQt4.png) ](rZSUvQt4.png)
+
 ### [`txHFHSMj`](txHFHSMj.hexplt)
 
 [ ![txHFHSMj.png](txHFHSMj.png) ](txHFHSMj.png)

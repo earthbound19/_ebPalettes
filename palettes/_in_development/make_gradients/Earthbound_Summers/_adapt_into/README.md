@@ -2,12 +2,12 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`KfXbfAI7`](KfXbfAI7.hexplt)
+### [`nQaWB3tA`](nQaWB3tA.hexplt)
 
-[ ![KfXbfAI7.png](KfXbfAI7.png) ](KfXbfAI7.png)
+[ ![nQaWB3tA.png](nQaWB3tA.png) ](nQaWB3tA.png)
 
-### [`Kg2iUmWB`](Kg2iUmWB.hexplt)
+### [`3JpnQNWA`](3JpnQNWA.hexplt)
 
-[ ![Kg2iUmWB.png](Kg2iUmWB.png) ](Kg2iUmWB.png)
+[ ![3JpnQNWA.png](3JpnQNWA.png) ](3JpnQNWA.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).

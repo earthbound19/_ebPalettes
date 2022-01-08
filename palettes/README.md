@@ -154,10 +154,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Craft_Paper_00044.png](Craft_Paper_00044.png) ](Craft_Paper_00044.png)
 
-### [`Earthbound_Summers`](Earthbound_Summers.hexplt)
-
-[ ![Earthbound_Summers.png](Earthbound_Summers.png) ](Earthbound_Summers.png)
-
 ### [`Elements_and_Tea`](Elements_and_Tea.hexplt)
 
 [ ![Elements_and_Tea.png](Elements_and_Tea.png) ](Elements_and_Tea.png)
@@ -238,10 +234,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
 
-### [`Tyre`](Tyre.hexplt)
-
-[ ![Tyre.png](Tyre.png) ](Tyre.png)
-
 ### [`USA_soil_colors`](USA_soil_colors.hexplt)
 
 [ ![USA_soil_colors.png](USA_soil_colors.png) ](USA_soil_colors.png)
@@ -317,10 +309,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`eb_favorites_v2_var_fewer`](eb_favorites_v2_var_fewer.hexplt)
 
 [ ![eb_favorites_v2_var_fewer.png](eb_favorites_v2_var_fewer.png) ](eb_favorites_v2_var_fewer.png)
-
-### [`faded_Tyre`](faded_Tyre.hexplt)
-
-[ ![faded_Tyre.png](faded_Tyre.png) ](faded_Tyre.png)
 
 ### [`fire_on_the_water`](fire_on_the_water.hexplt)
 
@@ -433,10 +421,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`32_max_chroma_med_light_more_lively_greens`](32_max_chroma_med_light_more_lively_greens.hexplt)
 
 [ ![32_max_chroma_med_light_more_lively_greens.png](32_max_chroma_med_light_more_lively_greens.png) ](32_max_chroma_med_light_more_lively_greens.png)
-
-### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
-
-[ ![50s_Machine_Shop.png](50s_Machine_Shop.png) ](50s_Machine_Shop.png)
 
 ### [`256terminalColors`](256terminalColors.hexplt)
 

@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Murky_Forest.png](Murky_Forest.png) ](Murky_Forest.png)
 
+### [`kSHNYsrp`](kSHNYsrp.hexplt)
+
+[ ![kSHNYsrp.png](kSHNYsrp.png) ](kSHNYsrp.png)
+
 ### [`uWbMFu84`](uWbMFu84.hexplt)
 
 [ ![uWbMFu84.png](uWbMFu84.png) ](uWbMFu84.png)

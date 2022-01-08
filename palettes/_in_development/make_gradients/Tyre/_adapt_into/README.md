@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Faded_Tyre`](Faded_Tyre.hexplt)
+
+[ ![Faded_Tyre.png](Faded_Tyre.png) ](Faded_Tyre.png)
+
 ### [`PAAndU7s`](PAAndU7s.hexplt)
 
 [ ![PAAndU7s.png](PAAndU7s.png) ](PAAndU7s.png)
@@ -9,10 +13,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Tyre`](Tyre.hexplt)
 
 [ ![Tyre.png](Tyre.png) ](Tyre.png)
-
-### [`faded_Tyre`](faded_Tyre.hexplt)
-
-[ ![faded_Tyre.png](faded_Tyre.png) ](faded_Tyre.png)
 
 ### [`824gGZzW`](824gGZzW.hexplt)
 
