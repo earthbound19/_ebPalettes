@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Pb9h4UCs`](Pb9h4UCs.hexplt)
-
-[ ![Pb9h4UCs.png](Pb9h4UCs.png) ](Pb9h4UCs.png)
-
 ### [`PsihSbwy`](PsihSbwy.hexplt)
 
 [ ![PsihSbwy.png](PsihSbwy.png) ](PsihSbwy.png)
