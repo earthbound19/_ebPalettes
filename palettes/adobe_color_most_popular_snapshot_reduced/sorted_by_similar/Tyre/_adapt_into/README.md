@@ -14,6 +14,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Tyre.png](Tyre.png) ](Tyre.png)
 
+### [`tZAWDq4H_copy`](tZAWDq4H_copy.hexplt)
+
+[ ![tZAWDq4H_copy.png](tZAWDq4H_copy.png) ](tZAWDq4H_copy.png)
+
 ### [`824gGZzW`](824gGZzW.hexplt)
 
 [ ![824gGZzW.png](824gGZzW.png) ](824gGZzW.png)

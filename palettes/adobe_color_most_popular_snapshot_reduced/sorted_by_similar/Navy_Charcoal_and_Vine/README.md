@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![KyIiWdCs.png](KyIiWdCs.png) ](KyIiWdCs.png)
 
+### [`Navy_Charcoal_and_Vine_Darker`](Navy_Charcoal_and_Vine_Darker.hexplt)
+
+[ ![Navy_Charcoal_and_Vine_Darker.png](Navy_Charcoal_and_Vine_Darker.png) ](Navy_Charcoal_and_Vine_Darker.png)
+
 ### [`dXSxumSm`](dXSxumSm.hexplt)
 
 [ ![dXSxumSm.png](dXSxumSm.png) ](dXSxumSm.png)
