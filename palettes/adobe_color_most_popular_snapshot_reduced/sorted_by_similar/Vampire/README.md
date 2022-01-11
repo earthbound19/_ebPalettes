@@ -2,9 +2,21 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`EVQZYtMY`](EVQZYtMY.hexplt)
+
+[ ![EVQZYtMY.png](EVQZYtMY.png) ](EVQZYtMY.png)
+
 ### [`EtfIijvA`](EtfIijvA.hexplt)
 
 [ ![EtfIijvA.png](EtfIijvA.png) ](EtfIijvA.png)
+
+### [`KZZNm6n3`](KZZNm6n3.hexplt)
+
+[ ![KZZNm6n3.png](KZZNm6n3.png) ](KZZNm6n3.png)
+
+### [`MkthtKy5`](MkthtKy5.hexplt)
+
+[ ![MkthtKy5.png](MkthtKy5.png) ](MkthtKy5.png)
 
 ### [`Vampire`](Vampire.hexplt)
 
@@ -13,6 +25,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`WsyDaTIb`](WsyDaTIb.hexplt)
 
 [ ![WsyDaTIb.png](WsyDaTIb.png) ](WsyDaTIb.png)
+
+### [`XhwUPfTm`](XhwUPfTm.hexplt)
+
+[ ![XhwUPfTm.png](XhwUPfTm.png) ](XhwUPfTm.png)
+
+### [`Z6N9eAeE`](Z6N9eAeE.hexplt)
+
+[ ![Z6N9eAeE.png](Z6N9eAeE.png) ](Z6N9eAeE.png)
 
 ### [`crYvY3MF`](crYvY3MF.hexplt)
 
@@ -29,6 +49,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`ihQDuWtM`](ihQDuWtM.hexplt)
 
 [ ![ihQDuWtM.png](ihQDuWtM.png) ](ihQDuWtM.png)
+
+### [`pjNvU6gq`](pjNvU6gq.hexplt)
+
+[ ![pjNvU6gq.png](pjNvU6gq.png) ](pjNvU6gq.png)
 
 ### [`sgvNeXrc`](sgvNeXrc.hexplt)
 

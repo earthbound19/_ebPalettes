@@ -22,9 +22,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RrKYxKs9.png](RrKYxKs9.png) ](RrKYxKs9.png)
 
-### [`cHaZtsQT`](cHaZtsQT.hexplt)
+### [`VTdipURj`](VTdipURj.hexplt)
 
-[ ![cHaZtsQT.png](cHaZtsQT.png) ](cHaZtsQT.png)
+[ ![VTdipURj.png](VTdipURj.png) ](VTdipURj.png)
 
 ### [`ckhb7fDq`](ckhb7fDq.hexplt)
 
@@ -42,10 +42,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![g2A2HxSi.png](g2A2HxSi.png) ](g2A2HxSi.png)
 
-### [`gSwnXDgx`](gSwnXDgx.hexplt)
-
-[ ![gSwnXDgx.png](gSwnXDgx.png) ](gSwnXDgx.png)
-
 ### [`jA3GFu2P`](jA3GFu2P.hexplt)
 
 [ ![jA3GFu2P.png](jA3GFu2P.png) ](jA3GFu2P.png)
@@ -58,8 +54,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![sNXwfiRM.png](sNXwfiRM.png) ](sNXwfiRM.png)
 
-### [`7fASAavc`](7fASAavc.hexplt)
+### [`yfYGmRWY`](yfYGmRWY.hexplt)
 
-[ ![7fASAavc.png](7fASAavc.png) ](7fASAavc.png)
+[ ![yfYGmRWY.png](yfYGmRWY.png) ](yfYGmRWY.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).

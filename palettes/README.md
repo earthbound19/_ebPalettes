@@ -6,10 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Adobe_swatch_pure_colors_16.png](Adobe_swatch_pure_colors_16.png) ](Adobe_swatch_pure_colors_16.png)
 
-### [`Blue_Fire`](Blue_Fire.hexplt)
-
-[ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
-
 ### [`BurntSandstone`](BurntSandstone.hexplt)
 
 [ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
