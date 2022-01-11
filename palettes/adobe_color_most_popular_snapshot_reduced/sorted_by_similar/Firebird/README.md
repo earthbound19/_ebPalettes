@@ -42,6 +42,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![ZPqQ8mgS.png](ZPqQ8mgS.png) ](ZPqQ8mgS.png)
 
+### [`bJ4QsQEy`](bJ4QsQEy.hexplt)
+
+[ ![bJ4QsQEy.png](bJ4QsQEy.png) ](bJ4QsQEy.png)
+
+### [`bZCX879a`](bZCX879a.hexplt)
+
+[ ![bZCX879a.png](bZCX879a.png) ](bZCX879a.png)
+
 ### [`f492JCRZ`](f492JCRZ.hexplt)
 
 [ ![f492JCRZ.png](f492JCRZ.png) ](f492JCRZ.png)
