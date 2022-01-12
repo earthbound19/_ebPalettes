@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`qDZzidje`](qDZzidje.hexplt)
+
+[ ![qDZzidje.png](qDZzidje.png) ](qDZzidje.png)
+
 ### [`yWDSkBhs`](yWDSkBhs.hexplt)
 
 [ ![yWDSkBhs.png](yWDSkBhs.png) ](yWDSkBhs.png)

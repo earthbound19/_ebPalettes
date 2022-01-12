@@ -178,6 +178,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![vXBFYVWD.png](vXBFYVWD.png) ](vXBFYVWD.png)
 
+### [`wAcmSNIe`](wAcmSNIe.hexplt)
+
+[ ![wAcmSNIe.png](wAcmSNIe.png) ](wAcmSNIe.png)
+
+### [`x6mpPRkj`](x6mpPRkj.hexplt)
+
+[ ![x6mpPRkj.png](x6mpPRkj.png) ](x6mpPRkj.png)
+
 ### [`xbFhpZ4V`](xbFhpZ4V.hexplt)
 
 [ ![xbFhpZ4V.png](xbFhpZ4V.png) ](xbFhpZ4V.png)

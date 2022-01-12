@@ -18,4 +18,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![UqKrkcpQ.png](UqKrkcpQ.png) ](UqKrkcpQ.png)
 
+### [`bf4bPqVd`](bf4bPqVd.hexplt)
+
+[ ![bf4bPqVd.png](bf4bPqVd.png) ](bf4bPqVd.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).

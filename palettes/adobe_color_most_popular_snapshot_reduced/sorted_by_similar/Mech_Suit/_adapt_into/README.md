@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`DNRi4NKs`](DNRi4NKs.hexplt)
-
-[ ![DNRi4NKs.png](DNRi4NKs.png) ](DNRi4NKs.png)
-
 ### [`G8TpRkxb`](G8TpRkxb.hexplt)
 
 [ ![G8TpRkxb.png](G8TpRkxb.png) ](G8TpRkxb.png)

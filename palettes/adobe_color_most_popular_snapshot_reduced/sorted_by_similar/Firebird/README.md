@@ -18,6 +18,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Ink_copy.png](Ink_copy.png) ](Ink_copy.png)
 
+### [`J8Nrjbty`](J8Nrjbty.hexplt)
+
+[ ![J8Nrjbty.png](J8Nrjbty.png) ](J8Nrjbty.png)
+
 ### [`J9i7XgvI`](J9i7XgvI.hexplt)
 
 [ ![J9i7XgvI.png](J9i7XgvI.png) ](J9i7XgvI.png)
