@@ -318,6 +318,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![floral_00002.png](floral_00002.png) ](floral_00002.png)
 
+### [`hobby_art_0001-0003`](hobby_art_0001-0003.hexplt)
+
+[ ![hobby_art_0001-0003.png](hobby_art_0001-0003.png) ](hobby_art_0001-0003.png)
+
 ### [`lively_moss_and_buttery_orange_yellow`](lively_moss_and_buttery_orange_yellow.hexplt)
 
 [ ![lively_moss_and_buttery_orange_yellow.png](lively_moss_and_buttery_orange_yellow.png) ](lively_moss_and_buttery_orange_yellow.png)
