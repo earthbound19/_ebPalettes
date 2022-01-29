@@ -374,6 +374,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![soil_pigments.png](soil_pigments.png) ](soil_pigments.png)
 
+### [`soil_pigments_accents`](soil_pigments_accents.hexplt)
+
+[ ![soil_pigments_accents.png](soil_pigments_accents.png) ](soil_pigments_accents.png)
+
 ### [`soil_pigments_tweaked_accented_01`](soil_pigments_tweaked_accented_01.hexplt)
 
 [ ![soil_pigments_tweaked_accented_01.png](soil_pigments_tweaked_accented_01.png) ](soil_pigments_tweaked_accented_01.png)
