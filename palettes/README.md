@@ -402,9 +402,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtc.png](turtleGreenTetradicEtc.png) ](turtleGreenTetradicEtc.png)
 
-### [`winter_sunrise`](winter_sunrise.hexplt)
+### [`winter_sunrise_260ft`](winter_sunrise_260ft.hexplt)
 
-[ ![winter_sunrise.png](winter_sunrise.png) ](winter_sunrise.png)
+[ ![winter_sunrise_260ft.png](winter_sunrise_260ft.png) ](winter_sunrise_260ft.png)
+
+### [`winter_sunrise_4500ft`](winter_sunrise_4500ft.hexplt)
+
+[ ![winter_sunrise_4500ft.png](winter_sunrise_4500ft.png) ](winter_sunrise_4500ft.png)
 
 ### [`16_max_chroma_med_light`](16_max_chroma_med_light.hexplt)
 
