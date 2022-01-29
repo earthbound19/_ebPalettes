@@ -286,10 +286,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dead_maple_extended.png](dead_maple_extended.png) ](dead_maple_extended.png)
 
-### [`earth_pigments_tweaked_accented_01`](earth_pigments_tweaked_accented_01.hexplt)
-
-[ ![earth_pigments_tweaked_accented_01.png](earth_pigments_tweaked_accented_01.png) ](earth_pigments_tweaked_accented_01.png)
-
 ### [`eb_favorites_v1`](eb_favorites_v1.hexplt)
 
 [ ![eb_favorites_v1.png](eb_favorites_v1.png) ](eb_favorites_v1.png)
@@ -377,6 +373,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`soil_pigments`](soil_pigments.hexplt)
 
 [ ![soil_pigments.png](soil_pigments.png) ](soil_pigments.png)
+
+### [`soil_pigments_tweaked_accented_01`](soil_pigments_tweaked_accented_01.hexplt)
+
+[ ![soil_pigments_tweaked_accented_01.png](soil_pigments_tweaked_accented_01.png) ](soil_pigments_tweaked_accented_01.png)
 
 ### [`sparkleHeartColors`](sparkleHeartColors.hexplt)
 
