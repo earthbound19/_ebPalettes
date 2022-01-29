@@ -1,4 +1,4 @@
-#863c3f hematite-coarse tweaked
+#863c3f hematite-coarse tweaked, colors adapted from soil_pigments.hexplt with additions; calcite pigment removed (similar to lighter/more colorful dolomite)
 #774635 maghemite tweaked
 #814025 ferrihydrite tweaked
 #ac5137 hematite-fine tweaked
@@ -8,14 +8,14 @@
 #de8e4f lepidocrocite-coarse tweaked
 #ecb254 schwertmannite tweaked
 #fecf87 goethite-coarse tweaked
-#F9D7CE
+#F9D7CE		accent
 #efd2ac gypsum tweaked
 #e7d3b6 dolomite tweaked
-#a9be9e
+#a9be9e		earthy soil added color
 #9E9287 quartz, orig. sort 10
 #7E7A6D glauconite, orig. sort 14
-#656A5D
-#524F45
-#382F2A iron sulfide, orig. sort 04 -- COLORS FROM soil_pigments.hexplt, reduced
-#332933
-#6970c6 accent
+#656A5D		dark earthy soil added color
+#524F45		dark earthy soil added color
+#382F2A humus, iron sulfide, pyrite, or todorokite, orig. sort 04 FROM soil_pigments.hexplt, reduced
+#332933		dark added color
+#6970c6		accent
