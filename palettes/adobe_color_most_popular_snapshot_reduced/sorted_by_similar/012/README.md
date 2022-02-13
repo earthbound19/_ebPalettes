@@ -26,6 +26,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![UPJYIxw7.png](UPJYIxw7.png) ](UPJYIxw7.png)
 
+### [`ncEP8PT4`](ncEP8PT4.hexplt)
+
+[ ![ncEP8PT4.png](ncEP8PT4.png) ](ncEP8PT4.png)
+
+### [`vZu6ScdE`](vZu6ScdE.hexplt)
+
+[ ![vZu6ScdE.png](vZu6ScdE.png) ](vZu6ScdE.png)
+
 ### [`w8nSJ3zT`](w8nSJ3zT.hexplt)
 
 [ ![w8nSJ3zT.png](w8nSJ3zT.png) ](w8nSJ3zT.png)

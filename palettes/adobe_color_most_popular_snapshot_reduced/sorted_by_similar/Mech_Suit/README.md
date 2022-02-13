@@ -14,6 +14,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![EeqaByuj.png](EeqaByuj.png) ](EeqaByuj.png)
 
+### [`HBeZxMDm`](HBeZxMDm.hexplt)
+
+[ ![HBeZxMDm.png](HBeZxMDm.png) ](HBeZxMDm.png)
+
+### [`HkDqmf2J`](HkDqmf2J.hexplt)
+
+[ ![HkDqmf2J.png](HkDqmf2J.png) ](HkDqmf2J.png)
+
 ### [`IIyWEhUN`](IIyWEhUN.hexplt)
 
 [ ![IIyWEhUN.png](IIyWEhUN.png) ](IIyWEhUN.png)
