@@ -10,10 +10,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![KyIiWdCs.png](KyIiWdCs.png) ](KyIiWdCs.png)
 
-### [`Navy_Charcoal_and_Vine`](Navy_Charcoal_and_Vine.hexplt)
-
-[ ![Navy_Charcoal_and_Vine.png](Navy_Charcoal_and_Vine.png) ](Navy_Charcoal_and_Vine.png)
-
 ### [`Navy_Charcoal_and_Vine_Darker`](Navy_Charcoal_and_Vine_Darker.hexplt)
 
 [ ![Navy_Charcoal_and_Vine_Darker.png](Navy_Charcoal_and_Vine_Darker.png) ](Navy_Charcoal_and_Vine_Darker.png)
@@ -25,6 +21,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`nHkHcTCm`](nHkHcTCm.hexplt)
 
 [ ![nHkHcTCm.png](nHkHcTCm.png) ](nHkHcTCm.png)
+
+### [`navy_charcoal_and_vine`](navy_charcoal_and_vine.hexplt)
+
+[ ![navy_charcoal_and_vine.png](navy_charcoal_and_vine.png) ](navy_charcoal_and_vine.png)
 
 ### [`tmCcG4kf`](tmCcG4kf.hexplt)
 
