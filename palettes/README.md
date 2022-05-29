@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Adobe_swatch_pure_colors_16`](Adobe_swatch_pure_colors_16.hexplt)
+### [`Adobe_swatch_pure_16`](Adobe_swatch_pure_16.hexplt)
 
-[ ![Adobe_swatch_pure_colors_16.png](Adobe_swatch_pure_colors_16.png) ](Adobe_swatch_pure_colors_16.png)
+[ ![Adobe_swatch_pure_16.png](Adobe_swatch_pure_16.png) ](Adobe_swatch_pure_16.png)
 
 ### [`BurntSandstone`](BurntSandstone.hexplt)
 
@@ -186,25 +186,25 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Juniper_bark_and_desert_soil.png](Juniper_bark_and_desert_soil.png) ](Juniper_bark_and_desert_soil.png)
 
-### [`LakeBonnevilleDesertColors`](LakeBonnevilleDesertColors.hexplt)
+### [`LakeBonnevilleDesert`](LakeBonnevilleDesert.hexplt)
 
-[ ![LakeBonnevilleDesertColors.png](LakeBonnevilleDesertColors.png) ](LakeBonnevilleDesertColors.png)
+[ ![LakeBonnevilleDesert.png](LakeBonnevilleDesert.png) ](LakeBonnevilleDesert.png)
 
 ### [`Lumos`](Lumos.hexplt)
 
 [ ![Lumos.png](Lumos.png) ](Lumos.png)
 
-### [`Pantone_2015_womens_spring_colors_more_vivid`](Pantone_2015_womens_spring_colors_more_vivid.hexplt)
+### [`Pantone_2015_womens_spring_more_vivid`](Pantone_2015_womens_spring_more_vivid.hexplt)
 
-[ ![Pantone_2015_womens_spring_colors_more_vivid.png](Pantone_2015_womens_spring_colors_more_vivid.png) ](Pantone_2015_womens_spring_colors_more_vivid.png)
+[ ![Pantone_2015_womens_spring_more_vivid.png](Pantone_2015_womens_spring_more_vivid.png) ](Pantone_2015_womens_spring_more_vivid.png)
 
-### [`Pantone_2015_womens_spring_colors_more_vivid_alt`](Pantone_2015_womens_spring_colors_more_vivid_alt.hexplt)
+### [`Pantone_2015_womens_spring_more_vivid_alt`](Pantone_2015_womens_spring_more_vivid_alt.hexplt)
 
-[ ![Pantone_2015_womens_spring_colors_more_vivid_alt.png](Pantone_2015_womens_spring_colors_more_vivid_alt.png) ](Pantone_2015_womens_spring_colors_more_vivid_alt.png)
+[ ![Pantone_2015_womens_spring_more_vivid_alt.png](Pantone_2015_womens_spring_more_vivid_alt.png) ](Pantone_2015_womens_spring_more_vivid_alt.png)
 
-### [`Pantone_2015_womens_spring_colors_twoVeryVividVariants`](Pantone_2015_womens_spring_colors_twoVeryVividVariants.hexplt)
+### [`Pantone_2015_womens_spring_twoVeryVividVariants`](Pantone_2015_womens_spring_twoVeryVividVariants.hexplt)
 
-[ ![Pantone_2015_womens_spring_colors_twoVeryVividVariants.png](Pantone_2015_womens_spring_colors_twoVeryVividVariants.png) ](Pantone_2015_womens_spring_colors_twoVeryVividVariants.png)
+[ ![Pantone_2015_womens_spring_twoVeryVividVariants.png](Pantone_2015_womens_spring_twoVeryVividVariants.png) ](Pantone_2015_womens_spring_twoVeryVividVariants.png)
 
 ### [`PrismacolorMarkers_CIECAM02_sort`](PrismacolorMarkers_CIECAM02_sort.hexplt)
 
@@ -214,9 +214,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RGB_combos_of_255_127_and_0_repetition_allowed.png](RGB_combos_of_255_127_and_0_repetition_allowed.png) ](RGB_combos_of_255_127_and_0_repetition_allowed.png)
 
-### [`RWB_colors`](RWB_colors.hexplt)
+### [`RWB`](RWB.hexplt)
 
-[ ![RWB_colors.png](RWB_colors.png) ](RWB_colors.png)
+[ ![RWB.png](RWB.png) ](RWB.png)
 
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
@@ -230,9 +230,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
 
-### [`USA_soil_colors`](USA_soil_colors.hexplt)
+### [`USA_soil`](USA_soil.hexplt)
 
-[ ![USA_soil_colors.png](USA_soil_colors.png) ](USA_soil_colors.png)
+[ ![USA_soil.png](USA_soil.png) ](USA_soil.png)
 
 ### [`abstractBrowserAddon`](abstractBrowserAddon.hexplt)
 
@@ -242,13 +242,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![banana_split.png](banana_split.png) ](banana_split.png)
 
-### [`collectedColors1`](collectedColors1.hexplt)
+### [`collected1`](collected1.hexplt)
 
-[ ![collectedColors1.png](collectedColors1.png) ](collectedColors1.png)
-
-### [`colour_12_wheel`](colour_12_wheel.hexplt)
-
-[ ![colour_12_wheel.png](colour_12_wheel.png) ](colour_12_wheel.png)
+[ ![collected1.png](collected1.png) ](collected1.png)
 
 ### [`commodore_vic`](commodore_vic.hexplt)
 
@@ -330,17 +326,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![magenta_rose_zinnia_deadhead.png](magenta_rose_zinnia_deadhead.png) ](magenta_rose_zinnia_deadhead.png)
 
-### [`markerLikeBackgroundColors`](markerLikeBackgroundColors.hexplt)
+### [`markerLikeBackground`](markerLikeBackground.hexplt)
 
-[ ![markerLikeBackgroundColors.png](markerLikeBackgroundColors.png) ](markerLikeBackgroundColors.png)
+[ ![markerLikeBackground.png](markerLikeBackground.png) ](markerLikeBackground.png)
 
-### [`markerLikeColorsDarksAndLightsLooped`](markerLikeColorsDarksAndLightsLooped.hexplt)
+### [`markerLikeDarksAndLightsLooped`](markerLikeDarksAndLightsLooped.hexplt)
 
-[ ![markerLikeColorsDarksAndLightsLooped.png](markerLikeColorsDarksAndLightsLooped.png) ](markerLikeColorsDarksAndLightsLooped.png)
+[ ![markerLikeDarksAndLightsLooped.png](markerLikeDarksAndLightsLooped.png) ](markerLikeDarksAndLightsLooped.png)
 
-### [`markerLikeColorsLightsMod`](markerLikeColorsLightsMod.hexplt)
+### [`markerLikeLightsMod`](markerLikeLightsMod.hexplt)
 
-[ ![markerLikeColorsLightsMod.png](markerLikeColorsLightsMod.png) ](markerLikeColorsLightsMod.png)
+[ ![markerLikeLightsMod.png](markerLikeLightsMod.png) ](markerLikeLightsMod.png)
 
 ### [`nasturtium`](nasturtium.hexplt)
 
@@ -350,9 +346,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![organic_byproduct_dyes.png](organic_byproduct_dyes.png) ](organic_byproduct_dyes.png)
 
-### [`perplexing_colors_001`](perplexing_colors_001.hexplt)
+### [`perplexing_001`](perplexing_001.hexplt)
 
-[ ![perplexing_colors_001.png](perplexing_colors_001.png) ](perplexing_colors_001.png)
+[ ![perplexing_001.png](perplexing_001.png) ](perplexing_001.png)
 
 ### [`plum_tree_in_bloom_reduced`](plum_tree_in_bloom_reduced.hexplt)
 
@@ -362,9 +358,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![recreated_palette_00001_narmth.png](recreated_palette_00001_narmth.png) ](recreated_palette_00001_narmth.png)
 
-### [`shadesOfBrownColors`](shadesOfBrownColors.hexplt)
+### [`shadesOfBrown`](shadesOfBrown.hexplt)
 
-[ ![shadesOfBrownColors.png](shadesOfBrownColors.png) ](shadesOfBrownColors.png)
+[ ![shadesOfBrown.png](shadesOfBrown.png) ](shadesOfBrown.png)
 
 ### [`shades_of_cyan`](shades_of_cyan.hexplt)
 
@@ -386,9 +382,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![soil_pigments_tweaked_accented_01.png](soil_pigments_tweaked_accented_01.png) ](soil_pigments_tweaked_accented_01.png)
 
-### [`sparkleHeartColors`](sparkleHeartColors.hexplt)
+### [`sparkleHeart`](sparkleHeart.hexplt)
 
-[ ![sparkleHeartColors.png](sparkleHeartColors.png) ](sparkleHeartColors.png)
+[ ![sparkleHeart.png](sparkleHeart.png) ](sparkleHeart.png)
 
 ### [`still_life_apron`](still_life_apron.hexplt)
 
@@ -402,9 +398,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![terraformed.png](terraformed.png) ](terraformed.png)
 
-### [`tigerDogRabbit_colors`](tigerDogRabbit_colors.hexplt)
+### [`tigerDogRabbit`](tigerDogRabbit.hexplt)
 
-[ ![tigerDogRabbit_colors.png](tigerDogRabbit_colors.png) ](tigerDogRabbit_colors.png)
+[ ![tigerDogRabbit.png](tigerDogRabbit.png) ](tigerDogRabbit.png)
 
 ### [`turtleGreenTetradicEtc`](turtleGreenTetradicEtc.hexplt)
 
@@ -417,6 +413,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`winter_sunrise_4500ft`](winter_sunrise_4500ft.hexplt)
 
 [ ![winter_sunrise_4500ft.png](winter_sunrise_4500ft.png) ](winter_sunrise_4500ft.png)
+
+### [`12_wheel`](12_wheel.hexplt)
+
+[ ![12_wheel.png](12_wheel.png) ](12_wheel.png)
 
 ### [`16_max_chroma_med_light`](16_max_chroma_med_light.hexplt)
 
@@ -434,8 +434,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![32_max_chroma_med_light_more_lively_greens.png](32_max_chroma_med_light_more_lively_greens.png) ](32_max_chroma_med_light_more_lively_greens.png)
 
-### [`256terminalColors`](256terminalColors.hexplt)
+### [`256terminal`](256terminal.hexplt)
 
-[ ![256terminalColors.png](256terminalColors.png) ](256terminalColors.png)
+[ ![256terminal.png](256terminal.png) ](256terminal.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).

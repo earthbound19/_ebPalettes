@@ -2,33 +2,33 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`002_KAaNTm2r_colors`](002_KAaNTm2r_colors.hexplt)
+### [`002_KAaNTm2r`](002_KAaNTm2r.hexplt)
 
-[ ![002_KAaNTm2r_colors.png](002_KAaNTm2r_colors.png) ](002_KAaNTm2r_colors.png)
+[ ![002_KAaNTm2r.png](002_KAaNTm2r.png) ](002_KAaNTm2r.png)
 
-### [`002_XmD5AIzv_colors`](002_XmD5AIzv_colors.hexplt)
+### [`002_XmD5AIzv`](002_XmD5AIzv.hexplt)
 
-[ ![002_XmD5AIzv_colors.png](002_XmD5AIzv_colors.png) ](002_XmD5AIzv_colors.png)
+[ ![002_XmD5AIzv.png](002_XmD5AIzv.png) ](002_XmD5AIzv.png)
 
-### [`002_qCrhYNvW_colors`](002_qCrhYNvW_colors.hexplt)
+### [`002_qCrhYNvW`](002_qCrhYNvW.hexplt)
 
-[ ![002_qCrhYNvW_colors.png](002_qCrhYNvW_colors.png) ](002_qCrhYNvW_colors.png)
+[ ![002_qCrhYNvW.png](002_qCrhYNvW.png) ](002_qCrhYNvW.png)
 
-### [`002_txIYBK5a_colors`](002_txIYBK5a_colors.hexplt)
+### [`002_txIYBK5a`](002_txIYBK5a.hexplt)
 
-[ ![002_txIYBK5a_colors.png](002_txIYBK5a_colors.png) ](002_txIYBK5a_colors.png)
+[ ![002_txIYBK5a.png](002_txIYBK5a.png) ](002_txIYBK5a.png)
 
 ### [`2-2021_03_07__12_25_10__182870-391`](2-2021_03_07__12_25_10__182870-391.hexplt)
 
 [ ![2-2021_03_07__12_25_10__182870-391.png](2-2021_03_07__12_25_10__182870-391.png) ](2-2021_03_07__12_25_10__182870-391.png)
 
-### [`003_8qY92eIy_colors`](003_8qY92eIy_colors.hexplt)
+### [`003_8qY92eIy`](003_8qY92eIy.hexplt)
 
-[ ![003_8qY92eIy_colors.png](003_8qY92eIy_colors.png) ](003_8qY92eIy_colors.png)
+[ ![003_8qY92eIy.png](003_8qY92eIy.png) ](003_8qY92eIy.png)
 
-### [`003_XCfyrhzw_colors`](003_XCfyrhzw_colors.hexplt)
+### [`003_XCfyrhzw`](003_XCfyrhzw.hexplt)
 
-[ ![003_XCfyrhzw_colors.png](003_XCfyrhzw_colors.png) ](003_XCfyrhzw_colors.png)
+[ ![003_XCfyrhzw.png](003_XCfyrhzw.png) ](003_XCfyrhzw.png)
 
 ### [`3-2021_03_07__10_25_33__965506-792`](3-2021_03_07__10_25_33__965506-792.hexplt)
 

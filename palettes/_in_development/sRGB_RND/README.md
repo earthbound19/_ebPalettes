@@ -22,69 +22,69 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![yWSpTFn8m6TS.png](yWSpTFn8m6TS.png) ](yWSpTFn8m6TS.png)
 
-### [`002_8zXHQe5K_colors`](002_8zXHQe5K_colors.hexplt)
+### [`002_8zXHQe5K`](002_8zXHQe5K.hexplt)
 
-[ ![002_8zXHQe5K_colors.png](002_8zXHQe5K_colors.png) ](002_8zXHQe5K_colors.png)
+[ ![002_8zXHQe5K.png](002_8zXHQe5K.png) ](002_8zXHQe5K.png)
 
-### [`002_IRSWHZSQ_colors`](002_IRSWHZSQ_colors.hexplt)
+### [`002_IRSWHZSQ`](002_IRSWHZSQ.hexplt)
 
-[ ![002_IRSWHZSQ_colors.png](002_IRSWHZSQ_colors.png) ](002_IRSWHZSQ_colors.png)
+[ ![002_IRSWHZSQ.png](002_IRSWHZSQ.png) ](002_IRSWHZSQ.png)
 
-### [`002_QeTP4eyD_colors`](002_QeTP4eyD_colors.hexplt)
+### [`002_QeTP4eyD`](002_QeTP4eyD.hexplt)
 
-[ ![002_QeTP4eyD_colors.png](002_QeTP4eyD_colors.png) ](002_QeTP4eyD_colors.png)
+[ ![002_QeTP4eyD.png](002_QeTP4eyD.png) ](002_QeTP4eyD.png)
 
-### [`002_j7jxCdrA_colors`](002_j7jxCdrA_colors.hexplt)
+### [`002_j7jxCdrA`](002_j7jxCdrA.hexplt)
 
-[ ![002_j7jxCdrA_colors.png](002_j7jxCdrA_colors.png) ](002_j7jxCdrA_colors.png)
+[ ![002_j7jxCdrA.png](002_j7jxCdrA.png) ](002_j7jxCdrA.png)
 
-### [`002_nH367gb4_colors`](002_nH367gb4_colors.hexplt)
+### [`002_nH367gb4`](002_nH367gb4.hexplt)
 
-[ ![002_nH367gb4_colors.png](002_nH367gb4_colors.png) ](002_nH367gb4_colors.png)
+[ ![002_nH367gb4.png](002_nH367gb4.png) ](002_nH367gb4.png)
 
-### [`002_rU9ZBaNd_colors`](002_rU9ZBaNd_colors.hexplt)
+### [`002_rU9ZBaNd`](002_rU9ZBaNd.hexplt)
 
-[ ![002_rU9ZBaNd_colors.png](002_rU9ZBaNd_colors.png) ](002_rU9ZBaNd_colors.png)
+[ ![002_rU9ZBaNd.png](002_rU9ZBaNd.png) ](002_rU9ZBaNd.png)
 
-### [`003_GmUJ2Ran_colors`](003_GmUJ2Ran_colors.hexplt)
+### [`003_GmUJ2Ran`](003_GmUJ2Ran.hexplt)
 
-[ ![003_GmUJ2Ran_colors.png](003_GmUJ2Ran_colors.png) ](003_GmUJ2Ran_colors.png)
+[ ![003_GmUJ2Ran.png](003_GmUJ2Ran.png) ](003_GmUJ2Ran.png)
 
-### [`003_UrDK8Rx3_colors-tweak`](003_UrDK8Rx3_colors-tweak.hexplt)
+### [`003_UrDK8Rx3-tweak`](003_UrDK8Rx3-tweak.hexplt)
 
-[ ![003_UrDK8Rx3_colors-tweak.png](003_UrDK8Rx3_colors-tweak.png) ](003_UrDK8Rx3_colors-tweak.png)
+[ ![003_UrDK8Rx3-tweak.png](003_UrDK8Rx3-tweak.png) ](003_UrDK8Rx3-tweak.png)
 
-### [`003_i7zj9kwR_colors`](003_i7zj9kwR_colors.hexplt)
+### [`003_i7zj9kwR`](003_i7zj9kwR.hexplt)
 
-[ ![003_i7zj9kwR_colors.png](003_i7zj9kwR_colors.png) ](003_i7zj9kwR_colors.png)
+[ ![003_i7zj9kwR.png](003_i7zj9kwR.png) ](003_i7zj9kwR.png)
 
-### [`003_sCfja2eI_colors`](003_sCfja2eI_colors.hexplt)
+### [`003_sCfja2eI`](003_sCfja2eI.hexplt)
 
-[ ![003_sCfja2eI_colors.png](003_sCfja2eI_colors.png) ](003_sCfja2eI_colors.png)
+[ ![003_sCfja2eI.png](003_sCfja2eI.png) ](003_sCfja2eI.png)
 
-### [`004_3J93VgbM_colors`](004_3J93VgbM_colors.hexplt)
+### [`004_3J93VgbM`](004_3J93VgbM.hexplt)
 
-[ ![004_3J93VgbM_colors.png](004_3J93VgbM_colors.png) ](004_3J93VgbM_colors.png)
+[ ![004_3J93VgbM.png](004_3J93VgbM.png) ](004_3J93VgbM.png)
 
-### [`004_3nGDp3pR_colors`](004_3nGDp3pR_colors.hexplt)
+### [`004_3nGDp3pR`](004_3nGDp3pR.hexplt)
 
-[ ![004_3nGDp3pR_colors.png](004_3nGDp3pR_colors.png) ](004_3nGDp3pR_colors.png)
+[ ![004_3nGDp3pR.png](004_3nGDp3pR.png) ](004_3nGDp3pR.png)
 
-### [`004_bB6RjYHM_colors`](004_bB6RjYHM_colors.hexplt)
+### [`004_bB6RjYHM`](004_bB6RjYHM.hexplt)
 
-[ ![004_bB6RjYHM_colors.png](004_bB6RjYHM_colors.png) ](004_bB6RjYHM_colors.png)
+[ ![004_bB6RjYHM.png](004_bB6RjYHM.png) ](004_bB6RjYHM.png)
 
-### [`004_dWZkrWgX_colors`](004_dWZkrWgX_colors.hexplt)
+### [`004_dWZkrWgX`](004_dWZkrWgX.hexplt)
 
-[ ![004_dWZkrWgX_colors.png](004_dWZkrWgX_colors.png) ](004_dWZkrWgX_colors.png)
+[ ![004_dWZkrWgX.png](004_dWZkrWgX.png) ](004_dWZkrWgX.png)
 
-### [`004_zUKCNFvQ_colors`](004_zUKCNFvQ_colors.hexplt)
+### [`004_zUKCNFvQ`](004_zUKCNFvQ.hexplt)
 
-[ ![004_zUKCNFvQ_colors.png](004_zUKCNFvQ_colors.png) ](004_zUKCNFvQ_colors.png)
+[ ![004_zUKCNFvQ.png](004_zUKCNFvQ.png) ](004_zUKCNFvQ.png)
 
-### [`005_iBsyNhIy_colors`](005_iBsyNhIy_colors.hexplt)
+### [`005_iBsyNhIy`](005_iBsyNhIy.hexplt)
 
-[ ![005_iBsyNhIy_colors.png](005_iBsyNhIy_colors.png) ](005_iBsyNhIy_colors.png)
+[ ![005_iBsyNhIy.png](005_iBsyNhIy.png) ](005_iBsyNhIy.png)
 
 ### [`05_X8Bnu9VGUUaUPs`](05_X8Bnu9VGUUaUPs.hexplt)
 
@@ -94,13 +94,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![05_thyqrJhfAjVnMs.png](05_thyqrJhfAjVnMs.png) ](05_thyqrJhfAjVnMs.png)
 
-### [`006_NgFxJAFb_colors`](006_NgFxJAFb_colors.hexplt)
+### [`006_NgFxJAFb`](006_NgFxJAFb.hexplt)
 
-[ ![006_NgFxJAFb_colors.png](006_NgFxJAFb_colors.png) ](006_NgFxJAFb_colors.png)
+[ ![006_NgFxJAFb.png](006_NgFxJAFb.png) ](006_NgFxJAFb.png)
 
-### [`006_tYAWxmpd_colors`](006_tYAWxmpd_colors.hexplt)
+### [`006_tYAWxmpd`](006_tYAWxmpd.hexplt)
 
-[ ![006_tYAWxmpd_colors.png](006_tYAWxmpd_colors.png) ](006_tYAWxmpd_colors.png)
+[ ![006_tYAWxmpd.png](006_tYAWxmpd.png) ](006_tYAWxmpd.png)
 
 ### [`06_4CK2x7uvjnfyMx`](06_4CK2x7uvjnfyMx.hexplt)
 
