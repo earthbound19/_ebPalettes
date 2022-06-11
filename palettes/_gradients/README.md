@@ -26,4 +26,12 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![rosy_light_orange_to_buttery_yellow.png](rosy_light_orange_to_buttery_yellow.png) ](rosy_light_orange_to_buttery_yellow.png)
 
+### [`wool_faded_to_Tyrian_purple`](wool_faded_to_Tyrian_purple.hexplt)
+
+[ ![wool_faded_to_Tyrian_purple.png](wool_faded_to_Tyrian_purple.png) ](wool_faded_to_Tyrian_purple.png)
+
+### [`wool_unfaded_to_Tyrian_purple`](wool_unfaded_to_Tyrian_purple.hexplt)
+
+[ ![wool_unfaded_to_Tyrian_purple.png](wool_unfaded_to_Tyrian_purple.png) ](wool_unfaded_to_Tyrian_purple.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
