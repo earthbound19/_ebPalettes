@@ -406,6 +406,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![turtleGreenTetradicEtc.png](turtleGreenTetradicEtc.png) ](turtleGreenTetradicEtc.png)
 
+### [`watercolor_pigments`](watercolor_pigments.hexplt)
+
+[ ![watercolor_pigments.png](watercolor_pigments.png) ](watercolor_pigments.png)
+
 ### [`winter_sunrise_260ft`](winter_sunrise_260ft.hexplt)
 
 [ ![winter_sunrise_260ft.png](winter_sunrise_260ft.png) ](winter_sunrise_260ft.png)
