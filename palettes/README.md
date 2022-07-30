@@ -350,9 +350,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![perplexing_001.png](perplexing_001.png) ](perplexing_001.png)
 
-### [`plum_tree_in_bloom_reduced`](plum_tree_in_bloom_reduced.hexplt)
+### [`plum_tree_in_bloom_reduced_01`](plum_tree_in_bloom_reduced_01.hexplt)
 
-[ ![plum_tree_in_bloom_reduced.png](plum_tree_in_bloom_reduced.png) ](plum_tree_in_bloom_reduced.png)
+[ ![plum_tree_in_bloom_reduced_01.png](plum_tree_in_bloom_reduced_01.png) ](plum_tree_in_bloom_reduced_01.png)
 
 ### [`recreated_palette_00001_narmth`](recreated_palette_00001_narmth.hexplt)
 
