@@ -354,6 +354,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![plum_tree_in_bloom_reduced_01.png](plum_tree_in_bloom_reduced_01.png) ](plum_tree_in_bloom_reduced_01.png)
 
+### [`plum_tree_in_bloom_reduced_02`](plum_tree_in_bloom_reduced_02.hexplt)
+
+[ ![plum_tree_in_bloom_reduced_02.png](plum_tree_in_bloom_reduced_02.png) ](plum_tree_in_bloom_reduced_02.png)
+
+### [`plum_tree_in_bloom_reduced_03`](plum_tree_in_bloom_reduced_03.hexplt)
+
+[ ![plum_tree_in_bloom_reduced_03.png](plum_tree_in_bloom_reduced_03.png) ](plum_tree_in_bloom_reduced_03.png)
+
 ### [`recreated_palette_00001_narmth`](recreated_palette_00001_narmth.hexplt)
 
 [ ![recreated_palette_00001_narmth.png](recreated_palette_00001_narmth.png) ](recreated_palette_00001_narmth.png)
