@@ -214,10 +214,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RGB_combos_of_255_127_and_0_repetition_allowed.png](RGB_combos_of_255_127_and_0_repetition_allowed.png) ](RGB_combos_of_255_127_and_0_repetition_allowed.png)
 
-### [`RWB`](RWB.hexplt)
-
-[ ![RWB.png](RWB.png) ](RWB.png)
-
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
 [ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
