@@ -366,6 +366,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![recreated_palette_00001_narmth.png](recreated_palette_00001_narmth.png) ](recreated_palette_00001_narmth.png)
 
+### [`red_white_and_blue`](red_white_and_blue.hexplt)
+
+[ ![red_white_and_blue.png](red_white_and_blue.png) ](red_white_and_blue.png)
+
 ### [`shadesOfBrown`](shadesOfBrown.hexplt)
 
 [ ![shadesOfBrown.png](shadesOfBrown.png) ](shadesOfBrown.png)
