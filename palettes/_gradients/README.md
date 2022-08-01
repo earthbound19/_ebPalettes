@@ -26,6 +26,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![rosy_light_orange_to_buttery_yellow.png](rosy_light_orange_to_buttery_yellow.png) ](rosy_light_orange_to_buttery_yellow.png)
 
+### [`soil_pigments_accents_gradient`](soil_pigments_accents_gradient.hexplt)
+
+[ ![soil_pigments_accents_gradient.png](soil_pigments_accents_gradient.png) ](soil_pigments_accents_gradient.png)
+
+### [`soil_pigments_darker_gradient`](soil_pigments_darker_gradient.hexplt)
+
+[ ![soil_pigments_darker_gradient.png](soil_pigments_darker_gradient.png) ](soil_pigments_darker_gradient.png)
+
 ### [`wool_faded_to_Tyrian_purple`](wool_faded_to_Tyrian_purple.hexplt)
 
 [ ![wool_faded_to_Tyrian_purple.png](wool_faded_to_Tyrian_purple.png) ](wool_faded_to_Tyrian_purple.png)
