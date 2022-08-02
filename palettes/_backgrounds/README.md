@@ -42,9 +42,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Vampire_BG.png](Vampire_BG.png) ](Vampire_BG.png)
 
-### [`darkBG`](darkBG.hexplt)
+### [`darkBackground`](darkBackground.hexplt)
 
-[ ![darkBG.png](darkBG.png) ](darkBG.png)
+[ ![darkBackground.png](darkBackground.png) ](darkBackground.png)
 
 ### [`dead_maple_bg`](dead_maple_bg.hexplt)
 
