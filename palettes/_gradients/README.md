@@ -26,9 +26,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![rosy_light_orange_to_buttery_yellow.png](rosy_light_orange_to_buttery_yellow.png) ](rosy_light_orange_to_buttery_yellow.png)
 
+### [`soil_pigments_accents_and_32_max_chroma_tweak_gradient`](soil_pigments_accents_and_32_max_chroma_tweak_gradient.hexplt)
+
+[ ![soil_pigments_accents_and_32_max_chroma_tweak_gradient.png](soil_pigments_accents_and_32_max_chroma_tweak_gradient.png) ](soil_pigments_accents_and_32_max_chroma_tweak_gradient.png)
+
 ### [`soil_pigments_accents_gradient`](soil_pigments_accents_gradient.hexplt)
 
 [ ![soil_pigments_accents_gradient.png](soil_pigments_accents_gradient.png) ](soil_pigments_accents_gradient.png)
+
+### [`soil_pigments_darker_and_dark_backgrounds_tweak_gradient`](soil_pigments_darker_and_dark_backgrounds_tweak_gradient.hexplt)
+
+[ ![soil_pigments_darker_and_dark_backgrounds_tweak_gradient.png](soil_pigments_darker_and_dark_backgrounds_tweak_gradient.png) ](soil_pigments_darker_and_dark_backgrounds_tweak_gradient.png)
 
 ### [`soil_pigments_darker_gradient`](soil_pigments_darker_gradient.hexplt)
 

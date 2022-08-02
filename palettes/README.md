@@ -386,9 +386,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![soil_pigments_accents.png](soil_pigments_accents.png) ](soil_pigments_accents.png)
 
+### [`soil_pigments_accents_and_32_max_chroma_tweak`](soil_pigments_accents_and_32_max_chroma_tweak.hexplt)
+
+[ ![soil_pigments_accents_and_32_max_chroma_tweak.png](soil_pigments_accents_and_32_max_chroma_tweak.png) ](soil_pigments_accents_and_32_max_chroma_tweak.png)
+
 ### [`soil_pigments_darker`](soil_pigments_darker.hexplt)
 
 [ ![soil_pigments_darker.png](soil_pigments_darker.png) ](soil_pigments_darker.png)
+
+### [`soil_pigments_darker_and_dark_backgrounds_tweak`](soil_pigments_darker_and_dark_backgrounds_tweak.hexplt)
+
+[ ![soil_pigments_darker_and_dark_backgrounds_tweak.png](soil_pigments_darker_and_dark_backgrounds_tweak.png) ](soil_pigments_darker_and_dark_backgrounds_tweak.png)
 
 ### [`soil_pigments_tweaked_accented_01`](soil_pigments_tweaked_accented_01.hexplt)
 
