@@ -10,6 +10,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Earthbound_Summers_BG.png](Earthbound_Summers_BG.png) ](Earthbound_Summers_BG.png)
 
+### [`Eden_darks_BG`](Eden_darks_BG.hexplt)
+
+[ ![Eden_darks_BG.png](Eden_darks_BG.png) ](Eden_darks_BG.png)
+
 ### [`Elements_and_Tea_BG`](Elements_and_Tea_BG.hexplt)
 
 [ ![Elements_and_Tea_BG.png](Elements_and_Tea_BG.png) ](Elements_and_Tea_BG.png)
