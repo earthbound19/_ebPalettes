@@ -150,6 +150,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Craft_Paper_00044.png](Craft_Paper_00044.png) ](Craft_Paper_00044.png)
 
+### [`Eden`](Eden.hexplt)
+
+[ ![Eden.png](Eden.png) ](Eden.png)
+
 ### [`Elements_and_Tea`](Elements_and_Tea.hexplt)
 
 [ ![Elements_and_Tea.png](Elements_and_Tea.png) ](Elements_and_Tea.png)
