@@ -370,6 +370,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![sipee.png](sipee.png) ](sipee.png)
 
+### [`smeared_cherry_plum`](smeared_cherry_plum.hexplt)
+
+[ ![smeared_cherry_plum.png](smeared_cherry_plum.png) ](smeared_cherry_plum.png)
+
 ### [`soil_pigments`](soil_pigments.hexplt)
 
 [ ![soil_pigments.png](soil_pigments.png) ](soil_pigments.png)
