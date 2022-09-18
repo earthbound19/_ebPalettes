@@ -1,0 +1,307 @@
+01_magenta_roses_and_roses.hexplt dev history:
+#ffd2f2 #ffd1e4 reduction of "paste -d ' ' 02_MagentaRoses.hexplt 03_Roses.hexplt", with dashes for deletes
+- -
+- #f0d9e2
+#ffa2e5 #ffa1c9
+- #f1aac7
+#e4b5d6 -
+#d5bece -
+#ff6cd7 #ff6baf
+#ed81cd -
+#d992c2 #d78eab
+#c4a0b7 -
+#ff00c8 #ff0596
+#e950bc #e84e95
+#d16fb0 #ce6b93
+- #b27f91
+#c10092 #c20066
+#b03a8a #b03867
+#9d5281 -
+- -
+#84005f #860039
+#78255a -
+#6a3555 #6a3340
+#5c414f -
+#47002f #4a0012
+- -
+#38192a -
+#2f1f28 #2f1f20
+
+
+02_rose_reds_to_reds_to_red_oranges.hexplt dev history:
+- #ffcfc6 #ffd4c9 from "paste -d ' ' 04_RoseReds.hexplt 05_Reds.hexplt 06_4xRedOranges.hexplt" with dashes for deletes
+#f7d4d8 - #f7d7cf
+#efd7da #e5d9d6 #f0dad4
+#ff9fad #ff9d8e #ffa792
+#f0a8b1 #dfaea5 #f1ae9e
+- #ceb5b0 #e2b5aa
+- #f76756 #d2bbb5
+#ff6887 #ce867b #ff755a
+#eb7b8e - #eb856f
+#d58a95 #ea0000 #d69182
+#be979c #ba5e51 #bf9c94
+#f80061 - #fe3100
+#e0496b #b30000 #e6583f
+#c76575 #a13227 #cc6f5d
+- - #af8076
+#be0036 - #c20000
+#ab3643 #7d0000 #ae372b
+#974b4f - #994d42
+#805a5a #622f27 #825b55
+#84000d #523834 #870000
+- - #79231b
+- #3f0e09 #6a332b
+- #361713 #593d39
+- - #4c0000
+- #44100b
+#391814 #3a1915
+- #30201d
+
+
+03_red_oranges_deep_oranges_and_oranges.hexplt dev history:
+#ffdaca #ffe1cd #ffe6cf #ffedd2 reducton of "paste -d ' ' 07_3xRedOranges.hexplt 08_2xRedOranges.hexplt 09_DeepOranges.hexplt 10_Oranges.hexplt" with dashes for deletes
+#f8dcd0 - #fae7d6 #ffdaa4
+#ffb496 #ffc29a #ffcd9e #f7dcb4
+#f2baa3 #e9cab6 - -
+#e5bfb0 #ddcdc4 - #ffc670
+#d7c4bc #ffa263 #e2d5ca #f4c98c
+#ff8c5e #f0aa7d #ffb368 -
+#ed9775 - #f2b983 -
+#daa18a #ceb6a8 - #ffb224
+#c6a99d #ff8005 #d5c2b1 #f1b861
+#ff5d00 #ec8d4e #ff9710 #e2bc87
+#e97345 #d79871 - #d3c0a6
+#d18366 #c1a18e #dca87a #bb7200
+#b78f81 #bf4500 #c8ae98 -
+#c11700 #ae5532 #bd5a00 #a27d58
+#ae3c2c #9c614b #ae6536 #948270
+#995043 #896b5f - #793400
+#835d56 #810000 #8d7466 -
+#840000 #742119 #7e1c00 #644230
+#76221a #653029 #722c1b -
+#68322a - - -
+#573c37 - - #350b07
+#480000 #3c0d09 - -
+#400f0a #341612 - #251715
+- #2b1b19 #311410 
+#2e1d1b  - 
+
+
+04_orange_yellows_and_yellows.hexplt dev history:
+#fff3d3 #fff9d7 -feffd8 result of "paste -d ' ' 11_2xOrangeYellows.hexplt 12_OrangeYellows.hexplt 13_Yellows.hexplt" with deletes indicated by dashes (-)
+#ffe6a4 #fff2ad #fdffac NOTE that some colors I prefer in some contexts and not others are here deleted by replacing the pound symbol before the hex code with a minus (-) with the hex code still there as a comment (which won't be rendered) for reference.
+#f9e7b6 - #fcfec1
+#ffd86e #ffeb7d #fafcd4
+#f6da8f #f9eb9d #fdff78
+- - -
+#e5dcc4 #eeead1 -
+#ffc900 #ffe335 #f4f6d1
+#f4cc62 -f7e475 #feff06
+#e8ce8d #f0e49f -
+#dcd0b1 #e9e3c2 #f8fba7
+#b88400 - #f6f8cf
+#ae8841 -ae9a47 -abac71
+#a48b5f - -
+#998d78 #a19b82 -636251
+#764400 - #2b1f00
+#6e4822 - -
+#654c34 #5f584a #262013
+#5c4f44 #321400 -23211a
+#380400 - 
+- #281a10 
+#2b130e #231c17 
+#231714 
+
+
+05_yellow_greens_greens_and_deeper_greens.hexplt dev history:
+#eefdd5 #defad2 #d8f7d0 - result of "paste -d ' ' 14_2xYellowGreens.hexplt 15_YellowGreens.hexplt 16_Greens.hexplt 17_DeeperGreens.hexplt" with deletes shown as dashes (-)
+#defaa8 - - #deefdc
+#e2f7bb #bcf4a2 #b0ee9f #a5e99c
+- #c6f0b3 - #b2e4ab
+#e9f1dd #98ec6c #85e469 #c9dac7
+#d3f295 - #99de85 #71db66
+#d9eeb1 #c5d9bc - #89d580
+- #70e401 #50d802 -
+#c5ed6a #9fd685 #73d156 -
+#cce796 #b2cda6 #8dc97c #1ecd01
+#d3e1ba #4b9a3d - #7bbe74
+#7aa700 - - #94b490
+#8e9b7e - #4d9e48 #009100
+#4a5c38 #055305 #6c8569 -
+#505947 - #005c00 #548650
+- - - -
+#181e16 - #161d15 #005800
+ - -
+ #171f17 -
+ #101f0e
+ #151c15
+
+
+06_turquoiseGreens_turquoises_and_turquoiseCyans.hexplt dev history:
+#d3f3dd #d3f2eb #d6f7f5 result of "paste -d ' ' 18_TurquoiseGreens.hexplt 19_Turquoises.hexplt 20_TurquoiseCyans.hexplt" with deletes shown as dashes (-)
+#d9f1e0 #a5e5d8 - NOTE: sorts best in my opinion in CAM16 space starting on white.
+#a4e7bc - #cdf0ee
+#b2e3c2 - #aaeeeb
+#bedec8 #cbdad6 #b9eae8
+#cad9cf #70d8c6 #d3e3e2
+#6fda9b #8ad3c5 #76e5e1
+- #9fcec4 -
+#9eceae #b2c8c3 #a9dbd8
+#b0c7b7 #0ccab3 -
+#59c588 #5bc4b2 #18dbd7
+- - #66d5d1
+#96b5a0 - #8bcecb
+#009043 #008e7a #a8c7c6
+- #3d897a #009a97
+#558560 #56857a #439693
+#687f6c - #5f918f
+#005809 #005645 #748c8a
+#215521 #225346 #005d5c
+- #325047 -
+- #3e4c48 #385756
+#082107 #002216 -
+#101f0f #092017 #002427
+#161d15 #111f19 -
+#161d1a #132123
+#192021
+
+
+07_turquoise_cyans_and_cyans_and_cyan_blues.hexplt dev history:
+-d6f7f5 #d8fcff #d4f3ff WORK IN PROGRESS result of "paste -d ' ' 20TurquoiseCyans.hexplt 21Cyans.hexplt 22CyanBlues.hexplt" with deletes indicated as dashes (-)
+- - -
+#cdf0ee #adf7fe #a6e7ff NOTE: some of these I would want in some settings but not others, and they've been "deleted" by replacing the hash or pound character with a dash (they won't render in palettes, but you can still see the hex code).
+#aaeeeb - #b5e4f6
+- #cdf0f3 #c3e2ed
+#d3e3e2 #79f3fe #71daff
+#76e5e1 #99eef6 #8dd7f2
+-92e0dd #b3e9ee #a4d3e5
+#a9dbd8 - #b8cfd8
+- #01edfd #00ccff
+#18dbd7 #6de7f2 #5ec8ee
+#66d5d1 #97e0e7 #84c4dd
+#8bcecb #b7d9dd -
+#a8c7c6 #00a6b6 #008dbd
+#009a97 #4aa2ad #3f8bae
+#439693 #699da5 #5b88a0
+#5f918f - #6f8591
+#748c8a #006474 #00517f
+#005d5c #2a626d #225173
+-265a59 #3e5f66 #345066
+-385756 #4c5c60 #414e5a
+- #002637 #001845
+- - #071a3b
+- #15252d #0f1c31
+- -1c2328 #161c27
+#192021
+
+
+08_blues.hexplt dev history:
+#cfeaff #c9e1ff result of "paste -d ' ' 23SkyBlues.hexplt 24DeeperSkyBlues.hexplt" with removed colors indicated by dashes (-)
+- -
+- #93c3ff
+#9dd4ff #9fc3ef
+#aad3f3 #b5c1d0
+#b6d1e6 #5ba3ff
+#66beff #70a4e8
+#7ebded #82a4d1
+- #0181fb
+- #5987c1
+#00a6fe -
+#4da6e7 #004fc6
+- #2456ac
+#88a1b7 #4b5b77
+#006fc3 #001892
+#3270ae #0a287a
+#4a7099 #192f63
+- #26324b
+#00398a #090060
+#183d78 #09114f
+#273f65 #0e183e
+- -
+#000053
+-
+#061335
+#0e1626
+
+
+09_Ultramarines_and_Ultramarine_violets.hexplt dev history:
+#bfd6ff #c8d5ff #cfd4ff result of "paste -d ' ' 25_Ultramarines.hexplt 26_2xUltramarineViolets.hexplt 27_UltramarineViolets.hexplt"
+with deletes indicated by dashes (-)
+#cad6ea #ccd5f5 #c8ccdf NOTES: in some settings I want to keep the deleted colors though, so the hex code is still beside the dash, it just won't render.
+#80acff -d3d6e1 #a2a8ff ALSO, I think the best sort of this by next nearest color is via "allRGBhexColorSortInCIECAM02.sh ffffff"
+#97aed7 #94a9ff #a9aed9
+-a2aec2 -a8aec4 #adb0c5
+#437dff #6679ff #7d7fe3
+#5583e2 #7685c6 #8185c7
+#6786c4 #7f88a8 #868aaa
+-7787a6 #443bfe #5b51db
+#0041ff #4752d9 #636792
+#2055d9 #4f5eb4 #4100d0
+#395fb3 #5a658e #3e31af
+#4f648c #2f00d0 #40408f
+#0100d2 #2e30af -45486f
+#0730af #333f8d -2e00a2
+#1e3e8c #3d466c -2c2488
+-33446a #2600a3 #2e306e
+#1900a5 #252488 -323654
+#19248a #28306e #240075
+-20306e -2f3654 -221762
+#2b3553 #230077 -22214f
+-23007a -211864 #24263c
+#211866 #222150 
+-222252 -24263d 
+-25273e  
+
+
+10_Violets_to_3xVioletMagentas.hexplt dev history:
+#d9d3ff #e3d3ff #edd3ff result of "paste -d ' ' 28Violets.hexplt 29_4xVioletMagentas.hexplt 30_3xVioletMagentas.hexplt" with deletes as dashes (-)
+- #c9a7ff #dca6ff NOTE: best sorted in my opinion by "allRGBhexColorSortInCIECAM02.sh 000000"
+#b6a7ff #beb6cc #ceb4e0
+#b5abed #b076ff #c975ff
+- #a48cce #bf84e8
+#9777ff #9937ff #b732ff
+#9581e5 #82739e #ab56e2
+#938fb0 #6f00cb #8700c9
+#7c38fd #6833af #734996
+#7753db #614593 #6a567c
+#7462b9 - #590094
+#726c97 #490099 #532480
+#5900cc #442383 #4c326c
+- #41306c #473b57
+#3b009c - #2f0062
+#372f6c #290068 #291c44
+- - -
+#25006d - 
+#221e4a  
+#232338  
+
+
+11_2xVioletMagentas_to_Magentas.hexplt dev history:
+#f3d4ff -fbd4ff #ffd3ff result of "paste -d ' ' 31_2xVioletMagentas.hexplt 32_VioletMagentas.hexplt 01_Magentas.hexplt" with deletes indicated by dashes (-)
+-eadbf0 #f4a6ff #f8d7f8 NOTE: in some settings I want to keep the deleted colors, so their sRGB hex codes are still here, but preceded by a dash (they will not be rendered).
+#e6a7ff #c8adcc #f2dcf1
+#d5b6e2 #eb73ff #ffa5ff
+#d875ff #df26fd #f3b0f2
+-bb9ec7 #a984af #e6b9e5
+#c830ff #a600c4 -d9c2d8
+#ba58e3 #8b5099 #ff6fff
+-9c7faa #70008c #ee86ed
+#9400c7 #5e366b #dc97da
+#7d4c97 #3b0057 -c8a6c7
+#715a7f #36124b #f800fc
+#630092  #e455e5
+#54346c  #ce74cd
+#301350  #b68ab5
+#2c1c43  #bb00c1
+  #ac3eaf
+  #9b569c
+  #896789
+  #7e0088
+  #73287a
+  #68396c
+  -5c455d
+  #440052
+  #3e1348
+  #381d3e
+  #312434
+
