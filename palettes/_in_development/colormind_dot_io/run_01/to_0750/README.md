@@ -3002,4 +3002,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png) ](colormind_dot_io__D9E1B3_DED470_933425_263030_7DA390.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

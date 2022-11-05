@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`EAjxBvX5`](EAjxBvX5.hexplt)
-
-[ ![EAjxBvX5.png](EAjxBvX5.png) ](EAjxBvX5.png)
-
 ### [`G2UWWSp7`](G2UWWSp7.hexplt)
 
 [ ![G2UWWSp7.png](G2UWWSp7.png) ](G2UWWSp7.png)
@@ -13,10 +9,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`HtNV8wC8`](HtNV8wC8.hexplt)
 
 [ ![HtNV8wC8.png](HtNV8wC8.png) ](HtNV8wC8.png)
-
-### [`IeQPRNb6`](IeQPRNb6.hexplt)
-
-[ ![IeQPRNb6.png](IeQPRNb6.png) ](IeQPRNb6.png)
 
 ### [`UTvpJ4tQ`](UTvpJ4tQ.hexplt)
 
@@ -33,10 +25,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`aduecjxb`](aduecjxb.hexplt)
 
 [ ![aduecjxb.png](aduecjxb.png) ](aduecjxb.png)
-
-### [`gtHjXnG6`](gtHjXnG6.hexplt)
-
-[ ![gtHjXnG6.png](gtHjXnG6.png) ](gtHjXnG6.png)
 
 ### [`kZHg23gt`](kZHg23gt.hexplt)
 
@@ -74,8 +62,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![3JpnQNWA_copy.png](3JpnQNWA_copy.png) ](3JpnQNWA_copy.png)
 
-### [`7zVPduIJ`](7zVPduIJ.hexplt)
-
-[ ![7zVPduIJ.png](7zVPduIJ.png) ](7zVPduIJ.png)
-
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

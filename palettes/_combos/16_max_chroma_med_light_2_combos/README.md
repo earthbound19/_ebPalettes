@@ -482,4 +482,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![16_max_chroma_med_light__2_combo_120.png](16_max_chroma_med_light__2_combo_120.png) ](16_max_chroma_med_light__2_combo_120.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -26,4 +26,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![colormind_dot_io__E44C2D_F0B23B_0EAF65_1F7B5B_4C5733.png](colormind_dot_io__E44C2D_F0B23B_0EAF65_1F7B5B_4C5733.png) ](colormind_dot_io__E44C2D_F0B23B_0EAF65_1F7B5B_4C5733.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

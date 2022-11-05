@@ -218,4 +218,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![6-2018_05_03-13_25_18-534603-54f.png](6-2018_05_03-13_25_18-534603-54f.png) ](6-2018_05_03-13_25_18-534603-54f.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

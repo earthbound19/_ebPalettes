@@ -222,4 +222,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![eb_favorites_v2_var_fewer_alt2_preferred__2_combo_55.png](eb_favorites_v2_var_fewer_alt2_preferred__2_combo_55.png) ](eb_favorites_v2_var_fewer_alt2_preferred__2_combo_55.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

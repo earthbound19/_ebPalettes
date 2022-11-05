@@ -378,4 +378,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![tweaked_from_colormind_dot_io__A70B31_077C8B_67C7BB_DFCE94_E2A464.png](tweaked_from_colormind_dot_io__A70B31_077C8B_67C7BB_DFCE94_E2A464.png) ](tweaked_from_colormind_dot_io__A70B31_077C8B_67C7BB_DFCE94_E2A464.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

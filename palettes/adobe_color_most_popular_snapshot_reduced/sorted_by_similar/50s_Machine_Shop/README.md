@@ -18,10 +18,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![QqIb5y2Y.png](QqIb5y2Y.png) ](QqIb5y2Y.png)
 
-### [`RYnhpqkc`](RYnhpqkc.hexplt)
-
-[ ![RYnhpqkc.png](RYnhpqkc.png) ](RYnhpqkc.png)
-
 ### [`Scvkqypu`](Scvkqypu.hexplt)
 
 [ ![Scvkqypu.png](Scvkqypu.png) ](Scvkqypu.png)
@@ -37,10 +33,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`X6gMvY8A`](X6gMvY8A.hexplt)
 
 [ ![X6gMvY8A.png](X6gMvY8A.png) ](X6gMvY8A.png)
-
-### [`X84HkqSS`](X84HkqSS.hexplt)
-
-[ ![X84HkqSS.png](X84HkqSS.png) ](X84HkqSS.png)
 
 ### [`fB7ITB9E`](fB7ITB9E.hexplt)
 
@@ -62,10 +54,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![j4TfzfeN.png](j4TfzfeN.png) ](j4TfzfeN.png)
 
-### [`mQyKEcwK`](mQyKEcwK.hexplt)
-
-[ ![mQyKEcwK.png](mQyKEcwK.png) ](mQyKEcwK.png)
-
 ### [`qDZzidje`](qDZzidje.hexplt)
 
 [ ![qDZzidje.png](qDZzidje.png) ](qDZzidje.png)
@@ -82,10 +70,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![uNxniDV4.png](uNxniDV4.png) ](uNxniDV4.png)
 
-### [`wBaqAt8e`](wBaqAt8e.hexplt)
-
-[ ![wBaqAt8e.png](wBaqAt8e.png) ](wBaqAt8e.png)
-
 ### [`yWDSkBhs`](yWDSkBhs.hexplt)
 
 [ ![yWDSkBhs.png](yWDSkBhs.png) ](yWDSkBhs.png)
@@ -98,4 +82,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![50s_Machine_Shop.png](50s_Machine_Shop.png) ](50s_Machine_Shop.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -78,4 +78,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![72vZXB4B.png](72vZXB4B.png) ](72vZXB4B.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

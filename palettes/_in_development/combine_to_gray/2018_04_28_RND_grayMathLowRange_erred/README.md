@@ -50,4 +50,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![004_2018_04_29-08_02_58-979837-b39.png](004_2018_04_29-08_02_58-979837-b39.png) ](004_2018_04_29-08_02_58-979837-b39.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

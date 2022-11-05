@@ -114,4 +114,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![004_2018_04_29-07_49_41-658233-281.png](004_2018_04_29-07_49_41-658233-281.png) ](004_2018_04_29-07_49_41-658233-281.png)
 
-Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/palettesMarkdownGallery.sh).
+Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
