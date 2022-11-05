@@ -22,10 +22,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![dXSxumSm.png](dXSxumSm.png) ](dXSxumSm.png)
 
-### [`nHkHcTCm`](nHkHcTCm.hexplt)
-
-[ ![nHkHcTCm.png](nHkHcTCm.png) ](nHkHcTCm.png)
-
 ### [`tmCcG4kf`](tmCcG4kf.hexplt)
 
 [ ![tmCcG4kf.png](tmCcG4kf.png) ](tmCcG4kf.png)
