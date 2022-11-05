@@ -2,16 +2,8 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`a4NAhbVa`](a4NAhbVa.hexplt)
+### [`naYYK98h`](naYYK98h.hexplt)
 
-[ ![a4NAhbVa.png](a4NAhbVa.png) ](a4NAhbVa.png)
-
-### [`dxkMpabJ`](dxkMpabJ.hexplt)
-
-[ ![dxkMpabJ.png](dxkMpabJ.png) ](dxkMpabJ.png)
-
-### [`kWNXx6xc`](kWNXx6xc.hexplt)
-
-[ ![kWNXx6xc.png](kWNXx6xc.png) ](kWNXx6xc.png)
+[ ![naYYK98h.png](naYYK98h.png) ](naYYK98h.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
