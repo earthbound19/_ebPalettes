@@ -26,6 +26,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![mQyKEcwK.png](mQyKEcwK.png) ](mQyKEcwK.png)
 
+### [`vZu6ScdE`](vZu6ScdE.hexplt)
+
+[ ![vZu6ScdE.png](vZu6ScdE.png) ](vZu6ScdE.png)
+
 ### [`wBaqAt8e`](wBaqAt8e.hexplt)
 
 [ ![wBaqAt8e.png](wBaqAt8e.png) ](wBaqAt8e.png)

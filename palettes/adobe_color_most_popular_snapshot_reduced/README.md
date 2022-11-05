@@ -334,6 +334,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![nRn5iM6J.png](nRn5iM6J.png) ](nRn5iM6J.png)
 
+### [`ncEP8PT4`](ncEP8PT4.hexplt)
+
+[ ![ncEP8PT4.png](ncEP8PT4.png) ](ncEP8PT4.png)
+
 ### [`nhktGfaR`](nhktGfaR.hexplt)
 
 [ ![nhktGfaR.png](nhktGfaR.png) ](nhktGfaR.png)
