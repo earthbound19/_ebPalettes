@@ -330,6 +330,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![n5Es8pXu.png](n5Es8pXu.png) ](n5Es8pXu.png)
 
+### [`nDPMMvdZ`](nDPMMvdZ.hexplt)
+
+[ ![nDPMMvdZ.png](nDPMMvdZ.png) ](nDPMMvdZ.png)
+
 ### [`nM8Sd4fn`](nM8Sd4fn.hexplt)
 
 [ ![nM8Sd4fn.png](nM8Sd4fn.png) ](nM8Sd4fn.png)
@@ -573,5 +577,9 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`94BCnbCe`](94BCnbCe.hexplt)
 
 [ ![94BCnbCe.png](94BCnbCe.png) ](94BCnbCe.png)
+
+### [`824gGZzW`](824gGZzW.hexplt)
+
+[ ![824gGZzW.png](824gGZzW.png) ](824gGZzW.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

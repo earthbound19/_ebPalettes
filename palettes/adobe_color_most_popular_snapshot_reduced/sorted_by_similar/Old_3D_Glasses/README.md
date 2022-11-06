@@ -10,9 +10,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![K8gmBBQG.png](K8gmBBQG.png) ](K8gmBBQG.png)
 
-### [`Old_3D_Glasses`](Old_3D_Glasses.hexplt)
+### [`Old_3d_Glasses`](Old_3d_Glasses.hexplt)
 
-[ ![Old_3D_Glasses.png](Old_3D_Glasses.png) ](Old_3D_Glasses.png)
+[ ![Old_3d_Glasses.png](Old_3d_Glasses.png) ](Old_3d_Glasses.png)
 
 ### [`a4NAhbVa`](a4NAhbVa.hexplt)
 
@@ -25,5 +25,13 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`kWNXx6xc`](kWNXx6xc.hexplt)
 
 [ ![kWNXx6xc.png](kWNXx6xc.png) ](kWNXx6xc.png)
+
+### [`nQaWB3tA`](nQaWB3tA.hexplt)
+
+[ ![nQaWB3tA.png](nQaWB3tA.png) ](nQaWB3tA.png)
+
+### [`3JpnQNWA`](3JpnQNWA.hexplt)
+
+[ ![3JpnQNWA.png](3JpnQNWA.png) ](3JpnQNWA.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

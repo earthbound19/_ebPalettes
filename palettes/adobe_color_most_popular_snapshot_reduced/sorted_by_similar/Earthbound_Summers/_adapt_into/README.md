@@ -34,10 +34,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![keeSJYuW.png](keeSJYuW.png) ](keeSJYuW.png)
 
-### [`nQaWB3tA`](nQaWB3tA.hexplt)
-
-[ ![nQaWB3tA.png](nQaWB3tA.png) ](nQaWB3tA.png)
-
 ### [`yAQWd2Zs`](yAQWd2Zs.hexplt)
 
 [ ![yAQWd2Zs.png](yAQWd2Zs.png) ](yAQWd2Zs.png)
@@ -45,10 +41,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`2xS5BxRm`](2xS5BxRm.hexplt)
 
 [ ![2xS5BxRm.png](2xS5BxRm.png) ](2xS5BxRm.png)
-
-### [`3JpnQNWA`](3JpnQNWA.hexplt)
-
-[ ![3JpnQNWA.png](3JpnQNWA.png) ](3JpnQNWA.png)
 
 ### [`7fASAavc`](7fASAavc.hexplt)
 
