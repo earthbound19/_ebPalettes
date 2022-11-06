@@ -62,6 +62,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![sgvNeXrc.png](sgvNeXrc.png) ](sgvNeXrc.png)
 
+### [`yAQWd2Zs`](yAQWd2Zs.hexplt)
+
+[ ![yAQWd2Zs.png](yAQWd2Zs.png) ](yAQWd2Zs.png)
+
 ### [`3De4ZisS`](3De4ZisS.hexplt)
 
 [ ![3De4ZisS.png](3De4ZisS.png) ](3De4ZisS.png)
