@@ -158,6 +158,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Elements_and_Tea.png](Elements_and_Tea.png) ](Elements_and_Tea.png)
 
+### [`Faded_Tyre`](Faded_Tyre.hexplt)
+
+[ ![Faded_Tyre.png](Faded_Tyre.png) ](Faded_Tyre.png)
+
+### [`Faded_Tyre_6_hues`](Faded_Tyre_6_hues.hexplt)
+
+[ ![Faded_Tyre_6_hues.png](Faded_Tyre_6_hues.png) ](Faded_Tyre_6_hues.png)
+
 ### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
@@ -229,6 +237,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower`](Sunflower.hexplt)
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
+
+### [`Tyre`](Tyre.hexplt)
+
+[ ![Tyre.png](Tyre.png) ](Tyre.png)
 
 ### [`USA_soil`](USA_soil.hexplt)
 

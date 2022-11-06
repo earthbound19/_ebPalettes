@@ -50,4 +50,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![wool_unfaded_to_Tyrian_purple.png](wool_unfaded_to_Tyrian_purple.png) ](wool_unfaded_to_Tyrian_purple.png)
 
+### [`yum`](yum.hexplt)
+
+[ ![yum.png](yum.png) ](yum.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -6,10 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![AbR524BZ.png](AbR524BZ.png) ](AbR524BZ.png)
 
-### [`Faded_Tyre`](Faded_Tyre.hexplt)
-
-[ ![Faded_Tyre.png](Faded_Tyre.png) ](Faded_Tyre.png)
-
 ### [`J5st6XBC`](J5st6XBC.hexplt)
 
 [ ![J5st6XBC.png](J5st6XBC.png) ](J5st6XBC.png)
@@ -25,10 +21,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`PAAndU7s`](PAAndU7s.hexplt)
 
 [ ![PAAndU7s.png](PAAndU7s.png) ](PAAndU7s.png)
-
-### [`Tyre`](Tyre.hexplt)
-
-[ ![Tyre.png](Tyre.png) ](Tyre.png)
 
 ### [`UQjM5Qtq`](UQjM5Qtq.hexplt)
 
@@ -49,6 +41,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`a5ANRsPT`](a5ANRsPT.hexplt)
 
 [ ![a5ANRsPT.png](a5ANRsPT.png) ](a5ANRsPT.png)
+
+### [`copy_of_Faded_Tyre`](copy_of_Faded_Tyre.hexplt)
+
+[ ![copy_of_Faded_Tyre.png](copy_of_Faded_Tyre.png) ](copy_of_Faded_Tyre.png)
+
+### [`copy_of_Tyre`](copy_of_Tyre.hexplt)
+
+[ ![copy_of_Tyre.png](copy_of_Tyre.png) ](copy_of_Tyre.png)
 
 ### [`eqWQIV2j`](eqWQIV2j.hexplt)
 
