@@ -370,6 +370,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![red_white_and_blue.png](red_white_and_blue.png) ](red_white_and_blue.png)
 
+### [`rusty_vintage_vehicle`](rusty_vintage_vehicle.hexplt)
+
+[ ![rusty_vintage_vehicle.png](rusty_vintage_vehicle.png) ](rusty_vintage_vehicle.png)
+
 ### [`shadesOfBrown`](shadesOfBrown.hexplt)
 
 [ ![shadesOfBrown.png](shadesOfBrown.png) ](shadesOfBrown.png)
