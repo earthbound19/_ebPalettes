@@ -10,9 +10,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![K8gmBBQG.png](K8gmBBQG.png) ](K8gmBBQG.png)
 
-### [`Old_3d_Glasses`](Old_3d_Glasses.hexplt)
+### [`Old_3D_Glasses`](Old_3D_Glasses.hexplt)
 
-[ ![Old_3d_Glasses.png](Old_3d_Glasses.png) ](Old_3d_Glasses.png)
+[ ![Old_3D_Glasses.png](Old_3D_Glasses.png) ](Old_3D_Glasses.png)
 
 ### [`a4NAhbVa`](a4NAhbVa.hexplt)
 
