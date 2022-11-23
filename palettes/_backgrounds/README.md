@@ -58,6 +58,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![magenta_rose_zinnia_deadhead_bg.png](magenta_rose_zinnia_deadhead_bg.png) ](magenta_rose_zinnia_deadhead_bg.png)
 
+### [`rusty_vintage_vehicle_BG`](rusty_vintage_vehicle_BG.hexplt)
+
+[ ![rusty_vintage_vehicle_BG.png](rusty_vintage_vehicle_BG.png) ](rusty_vintage_vehicle_BG.png)
+
 ### [`50s_Machine_Shop_BG`](50s_Machine_Shop_BG.hexplt)
 
 [ ![50s_Machine_Shop_BG.png](50s_Machine_Shop_BG.png) ](50s_Machine_Shop_BG.png)

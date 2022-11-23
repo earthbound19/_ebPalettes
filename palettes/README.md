@@ -226,6 +226,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![RGB_combos_of_255_127_and_0_repetition_allowed.png](RGB_combos_of_255_127_and_0_repetition_allowed.png) ](RGB_combos_of_255_127_and_0_repetition_allowed.png)
 
+### [`Rusty_Vintage_Vehicle_v2`](Rusty_Vintage_Vehicle_v2.hexplt)
+
+[ ![Rusty_Vintage_Vehicle_v2.png](Rusty_Vintage_Vehicle_v2.png) ](Rusty_Vintage_Vehicle_v2.png)
+
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
 [ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
@@ -326,9 +330,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![hobby_art_0001-0003.png](hobby_art_0001-0003.png) ](hobby_art_0001-0003.png)
 
+### [`light_lively_moss_to_buttery_orange_yellow`](light_lively_moss_to_buttery_orange_yellow.hexplt)
+
+[ ![light_lively_moss_to_buttery_orange_yellow.png](light_lively_moss_to_buttery_orange_yellow.png) ](light_lively_moss_to_buttery_orange_yellow.png)
+
 ### [`lively_moss_and_buttery_orange_yellow`](lively_moss_and_buttery_orange_yellow.hexplt)
 
 [ ![lively_moss_and_buttery_orange_yellow.png](lively_moss_and_buttery_orange_yellow.png) ](lively_moss_and_buttery_orange_yellow.png)
+
+### [`lively_moss_to_buttery_orange_yellow2`](lively_moss_to_buttery_orange_yellow2.hexplt)
+
+[ ![lively_moss_to_buttery_orange_yellow2.png](lively_moss_to_buttery_orange_yellow2.png) ](lively_moss_to_buttery_orange_yellow2.png)
 
 ### [`magenta_rose_zinnia`](magenta_rose_zinnia.hexplt)
 

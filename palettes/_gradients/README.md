@@ -18,10 +18,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![lively_moss_to_buttery_orange_yellow.png](lively_moss_to_buttery_orange_yellow.png) ](lively_moss_to_buttery_orange_yellow.png)
 
-### [`lively_moss_to_buttery_orange_yellow2`](lively_moss_to_buttery_orange_yellow2.hexplt)
-
-[ ![lively_moss_to_buttery_orange_yellow2.png](lively_moss_to_buttery_orange_yellow2.png) ](lively_moss_to_buttery_orange_yellow2.png)
-
 ### [`rosy_light_orange_to_buttery_yellow`](rosy_light_orange_to_buttery_yellow.hexplt)
 
 [ ![rosy_light_orange_to_buttery_yellow.png](rosy_light_orange_to_buttery_yellow.png) ](rosy_light_orange_to_buttery_yellow.png)
