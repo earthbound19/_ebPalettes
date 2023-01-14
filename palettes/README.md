@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Adobe_swatch_pure_16.png](Adobe_swatch_pure_16.png) ](Adobe_swatch_pure_16.png)
 
+### [`Blue_Fire_v1`](Blue_Fire_v1.hexplt)
+
+[ ![Blue_Fire_v1.png](Blue_Fire_v1.png) ](Blue_Fire_v1.png)
+
 ### [`BurntSandstone`](BurntSandstone.hexplt)
 
 [ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
@@ -461,6 +465,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`winter_sunrise_4500ft`](winter_sunrise_4500ft.hexplt)
 
 [ ![winter_sunrise_4500ft.png](winter_sunrise_4500ft.png) ](winter_sunrise_4500ft.png)
+
+### [`yum2`](yum2.hexplt)
+
+[ ![yum2.png](yum2.png) ](yum2.png)
 
 ### [`12_wheel`](12_wheel.hexplt)
 
