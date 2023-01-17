@@ -22,12 +22,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![XA7XIhiM.png](XA7XIhiM.png) ](XA7XIhiM.png)
 
-### [`bKHvfxxS`](bKHvfxxS.hexplt)
-
-[ ![bKHvfxxS.png](bKHvfxxS.png) ](bKHvfxxS.png)
-
-### [`zmcvVTRX_copy`](zmcvVTRX_copy.hexplt)
-
-[ ![zmcvVTRX_copy.png](zmcvVTRX_copy.png) ](zmcvVTRX_copy.png)
-
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
