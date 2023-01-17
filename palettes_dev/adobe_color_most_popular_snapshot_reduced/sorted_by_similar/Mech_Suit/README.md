@@ -98,10 +98,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![TrFUINwq.png](TrFUINwq.png) ](TrFUINwq.png)
 
-### [`U6q5rkx9`](U6q5rkx9.hexplt)
-
-[ ![U6q5rkx9.png](U6q5rkx9.png) ](U6q5rkx9.png)
-
 ### [`UJINBRPA`](UJINBRPA.hexplt)
 
 [ ![UJINBRPA.png](UJINBRPA.png) ](UJINBRPA.png)
