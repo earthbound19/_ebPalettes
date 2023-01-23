@@ -10,6 +10,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_v2.png](Blue_Fire_v2.png) ](Blue_Fire_v2.png)
 
+### [`Boba_Fett_armor`](Boba_Fett_armor.hexplt)
+
+[ ![Boba_Fett_armor.png](Boba_Fett_armor.png) ](Boba_Fett_armor.png)
+
+### [`Boba_Fett_more_more_cyans`](Boba_Fett_more_more_cyans.hexplt)
+
+[ ![Boba_Fett_more_more_cyans.png](Boba_Fett_more_more_cyans.png) ](Boba_Fett_more_more_cyans.png)
+
 ### [`BurntSandstone`](BurntSandstone.hexplt)
 
 [ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
@@ -153,6 +161,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Craft_Paper_00044`](Craft_Paper_00044.hexplt)
 
 [ ![Craft_Paper_00044.png](Craft_Paper_00044.png) ](Craft_Paper_00044.png)
+
+### [`Din_Djarin_armor`](Din_Djarin_armor.hexplt)
+
+[ ![Din_Djarin_armor.png](Din_Djarin_armor.png) ](Din_Djarin_armor.png)
 
 ### [`Eden`](Eden.hexplt)
 
