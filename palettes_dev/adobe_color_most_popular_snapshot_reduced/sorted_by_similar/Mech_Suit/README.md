@@ -2,304 +2,184 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`BHvNJK8i`](BHvNJK8i.hexplt)
+### [`01_cV7qvbTB`](01_cV7qvbTB.hexplt)
 
-[ ![BHvNJK8i.png](BHvNJK8i.png) ](BHvNJK8i.png)
+[ ![01_cV7qvbTB.png](01_cV7qvbTB.png) ](01_cV7qvbTB.png)
 
-### [`Dj4Gib7B`](Dj4Gib7B.hexplt)
+### [`02_vXBFYVWD`](02_vXBFYVWD.hexplt)
 
-[ ![Dj4Gib7B.png](Dj4Gib7B.png) ](Dj4Gib7B.png)
+[ ![02_vXBFYVWD.png](02_vXBFYVWD.png) ](02_vXBFYVWD.png)
 
-### [`EeqaByuj`](EeqaByuj.hexplt)
+### [`03_86nGvhVP`](03_86nGvhVP.hexplt)
 
-[ ![EeqaByuj.png](EeqaByuj.png) ](EeqaByuj.png)
+[ ![03_86nGvhVP.png](03_86nGvhVP.png) ](03_86nGvhVP.png)
 
-### [`G8TpRkxb`](G8TpRkxb.hexplt)
+### [`04_aTRK4iNp`](04_aTRK4iNp.hexplt)
 
-[ ![G8TpRkxb.png](G8TpRkxb.png) ](G8TpRkxb.png)
+[ ![04_aTRK4iNp.png](04_aTRK4iNp.png) ](04_aTRK4iNp.png)
 
-### [`HBeZxMDm`](HBeZxMDm.hexplt)
+### [`05_EeqaByuj`](05_EeqaByuj.hexplt)
 
-[ ![HBeZxMDm.png](HBeZxMDm.png) ](HBeZxMDm.png)
+[ ![05_EeqaByuj.png](05_EeqaByuj.png) ](05_EeqaByuj.png)
 
-### [`HkDqmf2J`](HkDqmf2J.hexplt)
+### [`06_KRCHWfwd`](06_KRCHWfwd.hexplt)
 
-[ ![HkDqmf2J.png](HkDqmf2J.png) ](HkDqmf2J.png)
+[ ![06_KRCHWfwd.png](06_KRCHWfwd.png) ](06_KRCHWfwd.png)
 
-### [`IIyWEhUN`](IIyWEhUN.hexplt)
+### [`07_8CFBSb2E`](07_8CFBSb2E.hexplt)
 
-[ ![IIyWEhUN.png](IIyWEhUN.png) ](IIyWEhUN.png)
+[ ![07_8CFBSb2E.png](07_8CFBSb2E.png) ](07_8CFBSb2E.png)
 
-### [`IxAfiJ7b`](IxAfiJ7b.hexplt)
+### [`08_Yuk9VRkC`](08_Yuk9VRkC.hexplt)
 
-[ ![IxAfiJ7b.png](IxAfiJ7b.png) ](IxAfiJ7b.png)
+[ ![08_Yuk9VRkC.png](08_Yuk9VRkC.png) ](08_Yuk9VRkC.png)
 
-### [`JhtCRyyU`](JhtCRyyU.hexplt)
+### [`09_HBeZxMDm`](09_HBeZxMDm.hexplt)
 
-[ ![JhtCRyyU.png](JhtCRyyU.png) ](JhtCRyyU.png)
+[ ![09_HBeZxMDm.png](09_HBeZxMDm.png) ](09_HBeZxMDm.png)
 
-### [`KRCHWfwd`](KRCHWfwd.hexplt)
+### [`10_SppREguh`](10_SppREguh.hexplt)
 
-[ ![KRCHWfwd.png](KRCHWfwd.png) ](KRCHWfwd.png)
+[ ![10_SppREguh.png](10_SppREguh.png) ](10_SppREguh.png)
 
-### [`KWDmYRjJ`](KWDmYRjJ.hexplt)
+### [`11_kJB4CRUZ`](11_kJB4CRUZ.hexplt)
 
-[ ![KWDmYRjJ.png](KWDmYRjJ.png) ](KWDmYRjJ.png)
+[ ![11_kJB4CRUZ.png](11_kJB4CRUZ.png) ](11_kJB4CRUZ.png)
 
-### [`MAQVsE8B`](MAQVsE8B.hexplt)
+### [`12_3CWy5fZQ`](12_3CWy5fZQ.hexplt)
 
-[ ![MAQVsE8B.png](MAQVsE8B.png) ](MAQVsE8B.png)
+[ ![12_3CWy5fZQ.png](12_3CWy5fZQ.png) ](12_3CWy5fZQ.png)
 
-### [`PduTKueg`](PduTKueg.hexplt)
+### [`13_mech_suit`](13_mech_suit.hexplt)
 
-[ ![PduTKueg.png](PduTKueg.png) ](PduTKueg.png)
+[ ![13_mech_suit.png](13_mech_suit.png) ](13_mech_suit.png)
 
-### [`Q4X4Zbqp`](Q4X4Zbqp.hexplt)
+### [`14_kMJdZpCy`](14_kMJdZpCy.hexplt)
 
-[ ![Q4X4Zbqp.png](Q4X4Zbqp.png) ](Q4X4Zbqp.png)
+[ ![14_kMJdZpCy.png](14_kMJdZpCy.png) ](14_kMJdZpCy.png)
 
-### [`QC6uWwee`](QC6uWwee.hexplt)
+### [`15_mRvVVkUh`](15_mRvVVkUh.hexplt)
 
-[ ![QC6uWwee.png](QC6uWwee.png) ](QC6uWwee.png)
+[ ![15_mRvVVkUh.png](15_mRvVVkUh.png) ](15_mRvVVkUh.png)
 
-### [`QF3ZFIAb`](QF3ZFIAb.hexplt)
+### [`16_mqqUGGGI`](16_mqqUGGGI.hexplt)
 
-[ ![QF3ZFIAb.png](QF3ZFIAb.png) ](QF3ZFIAb.png)
+[ ![16_mqqUGGGI.png](16_mqqUGGGI.png) ](16_mqqUGGGI.png)
 
-### [`QqvsjuH3`](QqvsjuH3.hexplt)
+### [`17_fxDvq3jN`](17_fxDvq3jN.hexplt)
 
-[ ![QqvsjuH3.png](QqvsjuH3.png) ](QqvsjuH3.png)
+[ ![17_fxDvq3jN.png](17_fxDvq3jN.png) ](17_fxDvq3jN.png)
 
-### [`Qvny7pcq`](Qvny7pcq.hexplt)
+### [`18_zN6AT4NW`](18_zN6AT4NW.hexplt)
 
-[ ![Qvny7pcq.png](Qvny7pcq.png) ](Qvny7pcq.png)
+[ ![18_zN6AT4NW.png](18_zN6AT4NW.png) ](18_zN6AT4NW.png)
 
-### [`RMsItrFy`](RMsItrFy.hexplt)
+### [`19_Qvny7pcq`](19_Qvny7pcq.hexplt)
 
-[ ![RMsItrFy.png](RMsItrFy.png) ](RMsItrFy.png)
+[ ![19_Qvny7pcq.png](19_Qvny7pcq.png) ](19_Qvny7pcq.png)
 
-### [`SVVHCQWA`](SVVHCQWA.hexplt)
+### [`20_TNBXscQB`](20_TNBXscQB.hexplt)
 
-[ ![SVVHCQWA.png](SVVHCQWA.png) ](SVVHCQWA.png)
+[ ![20_TNBXscQB.png](20_TNBXscQB.png) ](20_TNBXscQB.png)
 
-### [`SppREguh`](SppREguh.hexplt)
+### [`21_xbFhpZ4V`](21_xbFhpZ4V.hexplt)
 
-[ ![SppREguh.png](SppREguh.png) ](SppREguh.png)
+[ ![21_xbFhpZ4V.png](21_xbFhpZ4V.png) ](21_xbFhpZ4V.png)
 
-### [`THQIhqHB`](THQIhqHB.hexplt)
+### [`22_tcme2yBa`](22_tcme2yBa.hexplt)
 
-[ ![THQIhqHB.png](THQIhqHB.png) ](THQIhqHB.png)
+[ ![22_tcme2yBa.png](22_tcme2yBa.png) ](22_tcme2yBa.png)
 
-### [`TNBXscQB`](TNBXscQB.hexplt)
+### [`23_iN4cstTM`](23_iN4cstTM.hexplt)
 
-[ ![TNBXscQB.png](TNBXscQB.png) ](TNBXscQB.png)
+[ ![23_iN4cstTM.png](23_iN4cstTM.png) ](23_iN4cstTM.png)
 
-### [`TrFUINwq`](TrFUINwq.hexplt)
+### [`24_QC6uWwee`](24_QC6uWwee.hexplt)
 
-[ ![TrFUINwq.png](TrFUINwq.png) ](TrFUINwq.png)
+[ ![24_QC6uWwee.png](24_QC6uWwee.png) ](24_QC6uWwee.png)
 
-### [`UJINBRPA`](UJINBRPA.hexplt)
+### [`25_BHvNJK8i`](25_BHvNJK8i.hexplt)
 
-[ ![UJINBRPA.png](UJINBRPA.png) ](UJINBRPA.png)
+[ ![25_BHvNJK8i.png](25_BHvNJK8i.png) ](25_BHvNJK8i.png)
 
-### [`UQU4gzAS`](UQU4gzAS.hexplt)
+### [`26_yK6pnJpR`](26_yK6pnJpR.hexplt)
 
-[ ![UQU4gzAS.png](UQU4gzAS.png) ](UQU4gzAS.png)
+[ ![26_yK6pnJpR.png](26_yK6pnJpR.png) ](26_yK6pnJpR.png)
 
-### [`UgF6dKnD`](UgF6dKnD.hexplt)
+### [`27_tg6U4TDg`](27_tg6U4TDg.hexplt)
 
-[ ![UgF6dKnD.png](UgF6dKnD.png) ](UgF6dKnD.png)
+[ ![27_tg6U4TDg.png](27_tg6U4TDg.png) ](27_tg6U4TDg.png)
 
-### [`UhVZNm6C`](UhVZNm6C.hexplt)
+### [`28_45NRPfi7`](28_45NRPfi7.hexplt)
 
-[ ![UhVZNm6C.png](UhVZNm6C.png) ](UhVZNm6C.png)
+[ ![28_45NRPfi7.png](28_45NRPfi7.png) ](28_45NRPfi7.png)
 
-### [`UpreDd6g`](UpreDd6g.hexplt)
+### [`29_qAwCiiwX`](29_qAwCiiwX.hexplt)
 
-[ ![UpreDd6g.png](UpreDd6g.png) ](UpreDd6g.png)
+[ ![29_qAwCiiwX.png](29_qAwCiiwX.png) ](29_qAwCiiwX.png)
 
-### [`VJMfizjG`](VJMfizjG.hexplt)
+### [`30_zsngygDb`](30_zsngygDb.hexplt)
 
-[ ![VJMfizjG.png](VJMfizjG.png) ](VJMfizjG.png)
+[ ![30_zsngygDb.png](30_zsngygDb.png) ](30_zsngygDb.png)
 
-### [`VhdqDwC6`](VhdqDwC6.hexplt)
+### [`31_VJMfizjG`](31_VJMfizjG.hexplt)
 
-[ ![VhdqDwC6.png](VhdqDwC6.png) ](VhdqDwC6.png)
+[ ![31_VJMfizjG.png](31_VJMfizjG.png) ](31_VJMfizjG.png)
 
-### [`WrBpe5cw`](WrBpe5cw.hexplt)
+### [`32_QF3ZFIAb`](32_QF3ZFIAb.hexplt)
 
-[ ![WrBpe5cw.png](WrBpe5cw.png) ](WrBpe5cw.png)
+[ ![32_QF3ZFIAb.png](32_QF3ZFIAb.png) ](32_QF3ZFIAb.png)
 
-### [`XA7XIhiM`](XA7XIhiM.hexplt)
+### [`33_G8TpRkxb`](33_G8TpRkxb.hexplt)
 
-[ ![XA7XIhiM.png](XA7XIhiM.png) ](XA7XIhiM.png)
+[ ![33_G8TpRkxb.png](33_G8TpRkxb.png) ](33_G8TpRkxb.png)
 
-### [`YEUe3gQH`](YEUe3gQH.hexplt)
+### [`34_MAQVsE8B`](34_MAQVsE8B.hexplt)
 
-[ ![YEUe3gQH.png](YEUe3gQH.png) ](YEUe3gQH.png)
+[ ![34_MAQVsE8B.png](34_MAQVsE8B.png) ](34_MAQVsE8B.png)
 
-### [`Yuk9VRkC`](Yuk9VRkC.hexplt)
+### [`35_x6mpPRkj`](35_x6mpPRkj.hexplt)
 
-[ ![Yuk9VRkC.png](Yuk9VRkC.png) ](Yuk9VRkC.png)
+[ ![35_x6mpPRkj.png](35_x6mpPRkj.png) ](35_x6mpPRkj.png)
 
-### [`aTRK4iNp`](aTRK4iNp.hexplt)
+### [`36_IIyWEhUN`](36_IIyWEhUN.hexplt)
 
-[ ![aTRK4iNp.png](aTRK4iNp.png) ](aTRK4iNp.png)
+[ ![36_IIyWEhUN.png](36_IIyWEhUN.png) ](36_IIyWEhUN.png)
 
-### [`bKHvfxxS`](bKHvfxxS.hexplt)
+### [`37_i58RfY83`](37_i58RfY83.hexplt)
 
-[ ![bKHvfxxS.png](bKHvfxxS.png) ](bKHvfxxS.png)
+[ ![37_i58RfY83.png](37_i58RfY83.png) ](37_i58RfY83.png)
 
-### [`cV7qvbTB`](cV7qvbTB.hexplt)
+### [`38_WrBpe5cw`](38_WrBpe5cw.hexplt)
 
-[ ![cV7qvbTB.png](cV7qvbTB.png) ](cV7qvbTB.png)
+[ ![38_WrBpe5cw.png](38_WrBpe5cw.png) ](38_WrBpe5cw.png)
 
-### [`dpZPj7gQ`](dpZPj7gQ.hexplt)
+### [`39_XA7XIhiM`](39_XA7XIhiM.hexplt)
 
-[ ![dpZPj7gQ.png](dpZPj7gQ.png) ](dpZPj7gQ.png)
+[ ![39_XA7XIhiM.png](39_XA7XIhiM.png) ](39_XA7XIhiM.png)
 
-### [`hFwsW9dy`](hFwsW9dy.hexplt)
+### [`40_THQIhqHB`](40_THQIhqHB.hexplt)
 
-[ ![hFwsW9dy.png](hFwsW9dy.png) ](hFwsW9dy.png)
+[ ![40_THQIhqHB.png](40_THQIhqHB.png) ](40_THQIhqHB.png)
 
-### [`htQCbHqb`](htQCbHqb.hexplt)
+### [`41_UJINBRPA`](41_UJINBRPA.hexplt)
 
-[ ![htQCbHqb.png](htQCbHqb.png) ](htQCbHqb.png)
+[ ![41_UJINBRPA.png](41_UJINBRPA.png) ](41_UJINBRPA.png)
 
-### [`i58RfY83`](i58RfY83.hexplt)
+### [`42_zkquez9n`](42_zkquez9n.hexplt)
 
-[ ![i58RfY83.png](i58RfY83.png) ](i58RfY83.png)
+[ ![42_zkquez9n.png](42_zkquez9n.png) ](42_zkquez9n.png)
 
-### [`iN4cstTM`](iN4cstTM.hexplt)
+### [`43_k7yeaYTd`](43_k7yeaYTd.hexplt)
 
-[ ![iN4cstTM.png](iN4cstTM.png) ](iN4cstTM.png)
+[ ![43_k7yeaYTd.png](43_k7yeaYTd.png) ](43_k7yeaYTd.png)
 
-### [`k7yeaYTd`](k7yeaYTd.hexplt)
+### [`44__colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C`](44__colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
 
-[ ![k7yeaYTd.png](k7yeaYTd.png) ](k7yeaYTd.png)
+[ ![44__colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png](44__colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png) ](44__colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png)
 
-### [`kJB4CRUZ`](kJB4CRUZ.hexplt)
+### [`45_wAcmSNIe`](45_wAcmSNIe.hexplt)
 
-[ ![kJB4CRUZ.png](kJB4CRUZ.png) ](kJB4CRUZ.png)
-
-### [`kMJdZpCy`](kMJdZpCy.hexplt)
-
-[ ![kMJdZpCy.png](kMJdZpCy.png) ](kMJdZpCy.png)
-
-### [`mRvVVkUh`](mRvVVkUh.hexplt)
-
-[ ![mRvVVkUh.png](mRvVVkUh.png) ](mRvVVkUh.png)
-
-### [`miMjAzxD`](miMjAzxD.hexplt)
-
-[ ![miMjAzxD.png](miMjAzxD.png) ](miMjAzxD.png)
-
-### [`mqqUGGGI`](mqqUGGGI.hexplt)
-
-[ ![mqqUGGGI.png](mqqUGGGI.png) ](mqqUGGGI.png)
-
-### [`nHZjAiyE`](nHZjAiyE.hexplt)
-
-[ ![nHZjAiyE.png](nHZjAiyE.png) ](nHZjAiyE.png)
-
-### [`pEvnmq4m`](pEvnmq4m.hexplt)
-
-[ ![pEvnmq4m.png](pEvnmq4m.png) ](pEvnmq4m.png)
-
-### [`pegwbwNd`](pegwbwNd.hexplt)
-
-[ ![pegwbwNd.png](pegwbwNd.png) ](pegwbwNd.png)
-
-### [`qAwCiiwX`](qAwCiiwX.hexplt)
-
-[ ![qAwCiiwX.png](qAwCiiwX.png) ](qAwCiiwX.png)
-
-### [`qqFuBhqk`](qqFuBhqk.hexplt)
-
-[ ![qqFuBhqk.png](qqFuBhqk.png) ](qqFuBhqk.png)
-
-### [`rBtgyS54`](rBtgyS54.hexplt)
-
-[ ![rBtgyS54.png](rBtgyS54.png) ](rBtgyS54.png)
-
-### [`rDTRmtpd`](rDTRmtpd.hexplt)
-
-[ ![rDTRmtpd.png](rDTRmtpd.png) ](rDTRmtpd.png)
-
-### [`tcme2yBa`](tcme2yBa.hexplt)
-
-[ ![tcme2yBa.png](tcme2yBa.png) ](tcme2yBa.png)
-
-### [`tg6U4TDg`](tg6U4TDg.hexplt)
-
-[ ![tg6U4TDg.png](tg6U4TDg.png) ](tg6U4TDg.png)
-
-### [`vJM3H9AQ`](vJM3H9AQ.hexplt)
-
-[ ![vJM3H9AQ.png](vJM3H9AQ.png) ](vJM3H9AQ.png)
-
-### [`vXBFYVWD`](vXBFYVWD.hexplt)
-
-[ ![vXBFYVWD.png](vXBFYVWD.png) ](vXBFYVWD.png)
-
-### [`wAcmSNIe`](wAcmSNIe.hexplt)
-
-[ ![wAcmSNIe.png](wAcmSNIe.png) ](wAcmSNIe.png)
-
-### [`x6mpPRkj`](x6mpPRkj.hexplt)
-
-[ ![x6mpPRkj.png](x6mpPRkj.png) ](x6mpPRkj.png)
-
-### [`xbFhpZ4V`](xbFhpZ4V.hexplt)
-
-[ ![xbFhpZ4V.png](xbFhpZ4V.png) ](xbFhpZ4V.png)
-
-### [`yK6pnJpR`](yK6pnJpR.hexplt)
-
-[ ![yK6pnJpR.png](yK6pnJpR.png) ](yK6pnJpR.png)
-
-### [`zN6AT4NW`](zN6AT4NW.hexplt)
-
-[ ![zN6AT4NW.png](zN6AT4NW.png) ](zN6AT4NW.png)
-
-### [`zkquez9n`](zkquez9n.hexplt)
-
-[ ![zkquez9n.png](zkquez9n.png) ](zkquez9n.png)
-
-### [`zmcvVTRX`](zmcvVTRX.hexplt)
-
-[ ![zmcvVTRX.png](zmcvVTRX.png) ](zmcvVTRX.png)
-
-### [`zmcvVTRX_copy`](zmcvVTRX_copy.hexplt)
-
-[ ![zmcvVTRX_copy.png](zmcvVTRX_copy.png) ](zmcvVTRX_copy.png)
-
-### [`zqgcaJFq`](zqgcaJFq.hexplt)
-
-[ ![zqgcaJFq.png](zqgcaJFq.png) ](zqgcaJFq.png)
-
-### [`zsngygDb`](zsngygDb.hexplt)
-
-[ ![zsngygDb.png](zsngygDb.png) ](zsngygDb.png)
-
-### [`3CWy5fZQ`](3CWy5fZQ.hexplt)
-
-[ ![3CWy5fZQ.png](3CWy5fZQ.png) ](3CWy5fZQ.png)
-
-### [`5HIIcj9u`](5HIIcj9u.hexplt)
-
-[ ![5HIIcj9u.png](5HIIcj9u.png) ](5HIIcj9u.png)
-
-### [`8CFBSb2E`](8CFBSb2E.hexplt)
-
-[ ![8CFBSb2E.png](8CFBSb2E.png) ](8CFBSb2E.png)
-
-### [`45NRPfi7`](45NRPfi7.hexplt)
-
-[ ![45NRPfi7.png](45NRPfi7.png) ](45NRPfi7.png)
-
-### [`86nGvhVP`](86nGvhVP.hexplt)
-
-[ ![86nGvhVP.png](86nGvhVP.png) ](86nGvhVP.png)
+[ ![45_wAcmSNIe.png](45_wAcmSNIe.png) ](45_wAcmSNIe.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

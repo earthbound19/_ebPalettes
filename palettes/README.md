@@ -254,6 +254,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Summer_of_Vampires.png](Summer_of_Vampires.png) ](Summer_of_Vampires.png)
 
+### [`Sunburn`](Sunburn.hexplt)
+
+[ ![Sunburn.png](Sunburn.png) ](Sunburn.png)
+
 ### [`Sunflower`](Sunflower.hexplt)
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)

@@ -2,88 +2,80 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`AbR524BZ`](AbR524BZ.hexplt)
+### [`01_fvyRkNDN`](01_fvyRkNDN.hexplt)
 
-[ ![AbR524BZ.png](AbR524BZ.png) ](AbR524BZ.png)
+[ ![01_fvyRkNDN.png](01_fvyRkNDN.png) ](01_fvyRkNDN.png)
 
-### [`J5st6XBC`](J5st6XBC.hexplt)
+### [`02_rvC5C4Vu`](02_rvC5C4Vu.hexplt)
 
-[ ![J5st6XBC.png](J5st6XBC.png) ](J5st6XBC.png)
+[ ![02_rvC5C4Vu.png](02_rvC5C4Vu.png) ](02_rvC5C4Vu.png)
 
-### [`Jb56v5GR`](Jb56v5GR.hexplt)
+### [`03_6rTdqjMS`](03_6rTdqjMS.hexplt)
 
-[ ![Jb56v5GR.png](Jb56v5GR.png) ](Jb56v5GR.png)
+[ ![03_6rTdqjMS.png](03_6rTdqjMS.png) ](03_6rTdqjMS.png)
 
-### [`JwcyKeiK`](JwcyKeiK.hexplt)
+### [`04_5RVdrNxZ`](04_5RVdrNxZ.hexplt)
 
-[ ![JwcyKeiK.png](JwcyKeiK.png) ](JwcyKeiK.png)
+[ ![04_5RVdrNxZ.png](04_5RVdrNxZ.png) ](04_5RVdrNxZ.png)
 
-### [`PAAndU7s`](PAAndU7s.hexplt)
+### [`05_VRp9tEeQ`](05_VRp9tEeQ.hexplt)
 
-[ ![PAAndU7s.png](PAAndU7s.png) ](PAAndU7s.png)
+[ ![05_VRp9tEeQ.png](05_VRp9tEeQ.png) ](05_VRp9tEeQ.png)
 
-### [`UQjM5Qtq`](UQjM5Qtq.hexplt)
+### [`06_PAAndU7s`](06_PAAndU7s.hexplt)
 
-[ ![UQjM5Qtq.png](UQjM5Qtq.png) ](UQjM5Qtq.png)
+[ ![06_PAAndU7s.png](06_PAAndU7s.png) ](06_PAAndU7s.png)
 
-### [`VRp9tEeQ`](VRp9tEeQ.hexplt)
+### [`07_copy_of_Faded_Tyre`](07_copy_of_Faded_Tyre.hexplt)
 
-[ ![VRp9tEeQ.png](VRp9tEeQ.png) ](VRp9tEeQ.png)
+[ ![07_copy_of_Faded_Tyre.png](07_copy_of_Faded_Tyre.png) ](07_copy_of_Faded_Tyre.png)
 
-### [`VXHBUyFv`](VXHBUyFv.hexplt)
+### [`08_copy_of_Tyre`](08_copy_of_Tyre.hexplt)
 
-[ ![VXHBUyFv.png](VXHBUyFv.png) ](VXHBUyFv.png)
+[ ![08_copy_of_Tyre.png](08_copy_of_Tyre.png) ](08_copy_of_Tyre.png)
 
-### [`VzxUUXfG`](VzxUUXfG.hexplt)
+### [`09_wFzqv7cq`](09_wFzqv7cq.hexplt)
 
-[ ![VzxUUXfG.png](VzxUUXfG.png) ](VzxUUXfG.png)
+[ ![09_wFzqv7cq.png](09_wFzqv7cq.png) ](09_wFzqv7cq.png)
 
-### [`a5ANRsPT`](a5ANRsPT.hexplt)
+### [`10_tZAWDq4H_copy`](10_tZAWDq4H_copy.hexplt)
 
-[ ![a5ANRsPT.png](a5ANRsPT.png) ](a5ANRsPT.png)
+[ ![10_tZAWDq4H_copy.png](10_tZAWDq4H_copy.png) ](10_tZAWDq4H_copy.png)
 
-### [`copy_of_Faded_Tyre`](copy_of_Faded_Tyre.hexplt)
+### [`11_4CBJs6MD`](11_4CBJs6MD.hexplt)
 
-[ ![copy_of_Faded_Tyre.png](copy_of_Faded_Tyre.png) ](copy_of_Faded_Tyre.png)
+[ ![11_4CBJs6MD.png](11_4CBJs6MD.png) ](11_4CBJs6MD.png)
 
-### [`copy_of_Tyre`](copy_of_Tyre.hexplt)
+### [`12_JwcyKeiK`](12_JwcyKeiK.hexplt)
 
-[ ![copy_of_Tyre.png](copy_of_Tyre.png) ](copy_of_Tyre.png)
+[ ![12_JwcyKeiK.png](12_JwcyKeiK.png) ](12_JwcyKeiK.png)
 
-### [`eqWQIV2j`](eqWQIV2j.hexplt)
+### [`13_AbR524BZ`](13_AbR524BZ.hexplt)
 
-[ ![eqWQIV2j.png](eqWQIV2j.png) ](eqWQIV2j.png)
+[ ![13_AbR524BZ.png](13_AbR524BZ.png) ](13_AbR524BZ.png)
 
-### [`fvyRkNDN`](fvyRkNDN.hexplt)
+### [`14_eqWQIV2j`](14_eqWQIV2j.hexplt)
 
-[ ![fvyRkNDN.png](fvyRkNDN.png) ](fvyRkNDN.png)
+[ ![14_eqWQIV2j.png](14_eqWQIV2j.png) ](14_eqWQIV2j.png)
 
-### [`rvC5C4Vu`](rvC5C4Vu.hexplt)
+### [`15_VXHBUyFv`](15_VXHBUyFv.hexplt)
 
-[ ![rvC5C4Vu.png](rvC5C4Vu.png) ](rvC5C4Vu.png)
+[ ![15_VXHBUyFv.png](15_VXHBUyFv.png) ](15_VXHBUyFv.png)
 
-### [`tZAWDq4H_copy`](tZAWDq4H_copy.hexplt)
+### [`16_a5ANRsPT`](16_a5ANRsPT.hexplt)
 
-[ ![tZAWDq4H_copy.png](tZAWDq4H_copy.png) ](tZAWDq4H_copy.png)
+[ ![16_a5ANRsPT.png](16_a5ANRsPT.png) ](16_a5ANRsPT.png)
 
-### [`wFzqv7cq`](wFzqv7cq.hexplt)
+### [`17_VzxUUXfG`](17_VzxUUXfG.hexplt)
 
-[ ![wFzqv7cq.png](wFzqv7cq.png) ](wFzqv7cq.png)
+[ ![17_VzxUUXfG.png](17_VzxUUXfG.png) ](17_VzxUUXfG.png)
 
-### [`4CBJs6MD`](4CBJs6MD.hexplt)
+### [`18_Jb56v5GR`](18_Jb56v5GR.hexplt)
 
-[ ![4CBJs6MD.png](4CBJs6MD.png) ](4CBJs6MD.png)
+[ ![18_Jb56v5GR.png](18_Jb56v5GR.png) ](18_Jb56v5GR.png)
 
-### [`5RVdrNxZ`](5RVdrNxZ.hexplt)
+### [`19_6dDRrDmj`](19_6dDRrDmj.hexplt)
 
-[ ![5RVdrNxZ.png](5RVdrNxZ.png) ](5RVdrNxZ.png)
-
-### [`6dDRrDmj`](6dDRrDmj.hexplt)
-
-[ ![6dDRrDmj.png](6dDRrDmj.png) ](6dDRrDmj.png)
-
-### [`6rTdqjMS`](6rTdqjMS.hexplt)
-
-[ ![6rTdqjMS.png](6rTdqjMS.png) ](6rTdqjMS.png)
+[ ![19_6dDRrDmj.png](19_6dDRrDmj.png) ](19_6dDRrDmj.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

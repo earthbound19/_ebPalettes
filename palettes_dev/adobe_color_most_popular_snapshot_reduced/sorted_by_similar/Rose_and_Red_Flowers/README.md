@@ -2,16 +2,16 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Nqryt6Mr`](Nqryt6Mr.hexplt)
+### [`1_fXKWeVCB`](1_fXKWeVCB.hexplt)
 
-[ ![Nqryt6Mr.png](Nqryt6Mr.png) ](Nqryt6Mr.png)
+[ ![1_fXKWeVCB.png](1_fXKWeVCB.png) ](1_fXKWeVCB.png)
 
-### [`PRTyVC5Y`](PRTyVC5Y.hexplt)
+### [`2_Nqryt6Mr`](2_Nqryt6Mr.hexplt)
 
-[ ![PRTyVC5Y.png](PRTyVC5Y.png) ](PRTyVC5Y.png)
+[ ![2_Nqryt6Mr.png](2_Nqryt6Mr.png) ](2_Nqryt6Mr.png)
 
-### [`fXKWeVCB`](fXKWeVCB.hexplt)
+### [`3_PRTyVC5Y`](3_PRTyVC5Y.hexplt)
 
-[ ![fXKWeVCB.png](fXKWeVCB.png) ](fXKWeVCB.png)
+[ ![3_PRTyVC5Y.png](3_PRTyVC5Y.png) ](3_PRTyVC5Y.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

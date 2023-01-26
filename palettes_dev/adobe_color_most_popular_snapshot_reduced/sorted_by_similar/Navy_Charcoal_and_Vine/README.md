@@ -2,32 +2,32 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`FRkR3HUe`](FRkR3HUe.hexplt)
+### [`1_FRkR3HUe`](1_FRkR3HUe.hexplt)
 
-[ ![FRkR3HUe.png](FRkR3HUe.png) ](FRkR3HUe.png)
+[ ![1_FRkR3HUe.png](1_FRkR3HUe.png) ](1_FRkR3HUe.png)
 
-### [`KyIiWdCs`](KyIiWdCs.hexplt)
+### [`2_Navy_Charcoal_and_Vine`](2_Navy_Charcoal_and_Vine.hexplt)
 
-[ ![KyIiWdCs.png](KyIiWdCs.png) ](KyIiWdCs.png)
+[ ![2_Navy_Charcoal_and_Vine.png](2_Navy_Charcoal_and_Vine.png) ](2_Navy_Charcoal_and_Vine.png)
 
-### [`Navy_Charcoal_and_Vine`](Navy_Charcoal_and_Vine.hexplt)
+### [`3_KyIiWdCs`](3_KyIiWdCs.hexplt)
 
-[ ![Navy_Charcoal_and_Vine.png](Navy_Charcoal_and_Vine.png) ](Navy_Charcoal_and_Vine.png)
+[ ![3_KyIiWdCs.png](3_KyIiWdCs.png) ](3_KyIiWdCs.png)
 
-### [`Navy_Charcoal_and_Vine_Darker`](Navy_Charcoal_and_Vine_Darker.hexplt)
+### [`4_92PMHUwQ`](4_92PMHUwQ.hexplt)
 
-[ ![Navy_Charcoal_and_Vine_Darker.png](Navy_Charcoal_and_Vine_Darker.png) ](Navy_Charcoal_and_Vine_Darker.png)
+[ ![4_92PMHUwQ.png](4_92PMHUwQ.png) ](4_92PMHUwQ.png)
 
-### [`dXSxumSm`](dXSxumSm.hexplt)
+### [`5_dXSxumSm`](5_dXSxumSm.hexplt)
 
-[ ![dXSxumSm.png](dXSxumSm.png) ](dXSxumSm.png)
+[ ![5_dXSxumSm.png](5_dXSxumSm.png) ](5_dXSxumSm.png)
 
-### [`tmCcG4kf`](tmCcG4kf.hexplt)
+### [`6_Navy_Charcoal_and_Vine_Darker`](6_Navy_Charcoal_and_Vine_Darker.hexplt)
 
-[ ![tmCcG4kf.png](tmCcG4kf.png) ](tmCcG4kf.png)
+[ ![6_Navy_Charcoal_and_Vine_Darker.png](6_Navy_Charcoal_and_Vine_Darker.png) ](6_Navy_Charcoal_and_Vine_Darker.png)
 
-### [`92PMHUwQ`](92PMHUwQ.hexplt)
+### [`7_tmCcG4kf`](7_tmCcG4kf.hexplt)
 
-[ ![92PMHUwQ.png](92PMHUwQ.png) ](92PMHUwQ.png)
+[ ![7_tmCcG4kf.png](7_tmCcG4kf.png) ](7_tmCcG4kf.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

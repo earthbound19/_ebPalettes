@@ -394,4 +394,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![98_colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png](98_colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png) ](98_colormind_dot_io__0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png)
 
+### [`270_colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C`](270_colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
+
+[ ![270_colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png](270_colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png) ](270_colormind_dot_io__mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
