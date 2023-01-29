@@ -30,10 +30,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Firebird_BG.png](Firebird_BG.png) ](Firebird_BG.png)
 
-### [`Lumos_BG`](Lumos_BG.hexplt)
-
-[ ![Lumos_BG.png](Lumos_BG.png) ](Lumos_BG.png)
-
 ### [`Murky_Forest_BG`](Murky_Forest_BG.hexplt)
 
 [ ![Murky_Forest_BG.png](Murky_Forest_BG.png) ](Murky_Forest_BG.png)
