@@ -218,10 +218,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![LakeBonnevilleDesert.png](LakeBonnevilleDesert.png) ](LakeBonnevilleDesert.png)
 
-### [`Lumos`](Lumos.hexplt)
-
-[ ![Lumos.png](Lumos.png) ](Lumos.png)
-
 ### [`Pantone_2015_womens_spring_more_vivid`](Pantone_2015_womens_spring_more_vivid.hexplt)
 
 [ ![Pantone_2015_womens_spring_more_vivid.png](Pantone_2015_womens_spring_more_vivid.png) ](Pantone_2015_womens_spring_more_vivid.png)

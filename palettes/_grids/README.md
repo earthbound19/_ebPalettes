@@ -46,9 +46,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Rose_and_Red_Flowers_augmented_5_grid.png](Rose_and_Red_Flowers_augmented_5_grid.png) ](Rose_and_Red_Flowers_augmented_5_grid.png)
 
+### [`Rose_and_Red_Flowers_augmented_5_grid_v2`](Rose_and_Red_Flowers_augmented_5_grid_v2.hexplt)
+
+[ ![Rose_and_Red_Flowers_augmented_5_grid_v2.png](Rose_and_Red_Flowers_augmented_5_grid_v2.png) ](Rose_and_Red_Flowers_augmented_5_grid_v2.png)
+
 ### [`Sky_and_Faded_Jungle_augmented_1_grid`](Sky_and_Faded_Jungle_augmented_1_grid.hexplt)
 
 [ ![Sky_and_Faded_Jungle_augmented_1_grid.png](Sky_and_Faded_Jungle_augmented_1_grid.png) ](Sky_and_Faded_Jungle_augmented_1_grid.png)
+
+### [`Sky_and_Faded_Jungle_augmented_1_grid_v2`](Sky_and_Faded_Jungle_augmented_1_grid_v2.hexplt)
+
+[ ![Sky_and_Faded_Jungle_augmented_1_grid_v2.png](Sky_and_Faded_Jungle_augmented_1_grid_v2.png) ](Sky_and_Faded_Jungle_augmented_1_grid_v2.png)
 
 ### [`Sunflower_and_Sunburn_augmented_11_grid`](Sunflower_and_Sunburn_augmented_11_grid.hexplt)
 
@@ -82,8 +90,12 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![blue_fire_augmented_grid_10.png](blue_fire_augmented_grid_10.png) ](blue_fire_augmented_grid_10.png)
 
-### [`50s_machine_shop_augmented_1_grid`](50s_machine_shop_augmented_1_grid.hexplt)
+### [`orange_and_rose_flower_augmented_1_grid`](orange_and_rose_flower_augmented_1_grid.hexplt)
 
-[ ![50s_machine_shop_augmented_1_grid.png](50s_machine_shop_augmented_1_grid.png) ](50s_machine_shop_augmented_1_grid.png)
+[ ![orange_and_rose_flower_augmented_1_grid.png](orange_and_rose_flower_augmented_1_grid.png) ](orange_and_rose_flower_augmented_1_grid.png)
+
+### [`50s_Machine_Shop_augmented_1_grid`](50s_Machine_Shop_augmented_1_grid.hexplt)
+
+[ ![50s_Machine_Shop_augmented_1_grid.png](50s_Machine_Shop_augmented_1_grid.png) ](50s_Machine_Shop_augmented_1_grid.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

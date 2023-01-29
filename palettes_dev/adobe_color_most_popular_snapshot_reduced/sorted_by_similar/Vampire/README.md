@@ -78,8 +78,12 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![19_WsyDaTIb.png](19_WsyDaTIb.png) ](19_WsyDaTIb.png)
 
-### [`20_yAQWd2Zs`](20_yAQWd2Zs.hexplt)
+### [`20_vZu6ScdE`](20_vZu6ScdE.hexplt)
 
-[ ![20_yAQWd2Zs.png](20_yAQWd2Zs.png) ](20_yAQWd2Zs.png)
+[ ![20_vZu6ScdE.png](20_vZu6ScdE.png) ](20_vZu6ScdE.png)
+
+### [`21_yAQWd2Zs`](21_yAQWd2Zs.hexplt)
+
+[ ![21_yAQWd2Zs.png](21_yAQWd2Zs.png) ](21_yAQWd2Zs.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
