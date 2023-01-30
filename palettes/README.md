@@ -166,10 +166,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Din_Djarin_armor.png](Din_Djarin_armor.png) ](Din_Djarin_armor.png)
 
-### [`Eden`](Eden.hexplt)
-
-[ ![Eden.png](Eden.png) ](Eden.png)
-
 ### [`Elements_and_Tea`](Elements_and_Tea.hexplt)
 
 [ ![Elements_and_Tea.png](Elements_and_Tea.png) ](Elements_and_Tea.png)
@@ -230,6 +226,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Pantone_2015_womens_spring_twoVeryVividVariants.png](Pantone_2015_womens_spring_twoVeryVividVariants.png) ](Pantone_2015_womens_spring_twoVeryVividVariants.png)
 
+### [`Paradise`](Paradise.hexplt)
+
+[ ![Paradise.png](Paradise.png) ](Paradise.png)
+
 ### [`PrismacolorMarkers_CIECAM02_sort`](PrismacolorMarkers_CIECAM02_sort.hexplt)
 
 [ ![PrismacolorMarkers_CIECAM02_sort.png](PrismacolorMarkers_CIECAM02_sort.png) ](PrismacolorMarkers_CIECAM02_sort.png)
@@ -257,6 +257,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower`](Sunflower.hexplt)
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
+
+### [`Terraformed_Faux_Oatmeal_Cats`](Terraformed_Faux_Oatmeal_Cats.hexplt)
+
+[ ![Terraformed_Faux_Oatmeal_Cats.png](Terraformed_Faux_Oatmeal_Cats.png) ](Terraformed_Faux_Oatmeal_Cats.png)
 
 ### [`Tyre`](Tyre.hexplt)
 

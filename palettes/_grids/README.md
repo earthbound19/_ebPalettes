@@ -62,6 +62,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower_and_Sunburn_augmented_11_grid.png](Sunflower_and_Sunburn_augmented_11_grid.png) ](Sunflower_and_Sunburn_augmented_11_grid.png)
 
+### [`Terraformed_Faux_Oatmeal_Cats_augmented_3_grid`](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.hexplt)
+
+[ ![Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png) ](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png)
+
 ### [`This_is_The_Way_augmented_1_grid`](This_is_The_Way_augmented_1_grid.hexplt)
 
 [ ![This_is_The_Way_augmented_1_grid.png](This_is_The_Way_augmented_1_grid.png) ](This_is_The_Way_augmented_1_grid.png)
@@ -94,8 +98,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![orange_and_rose_flower_augmented_1_grid.png](orange_and_rose_flower_augmented_1_grid.png) ](orange_and_rose_flower_augmented_1_grid.png)
 
-### [`50s_Machine_Shop_augmented_1_grid`](50s_Machine_Shop_augmented_1_grid.hexplt)
+### [`50s_machine_shop_augmented_1_grid`](50s_machine_shop_augmented_1_grid.hexplt)
 
-[ ![50s_Machine_Shop_augmented_1_grid.png](50s_Machine_Shop_augmented_1_grid.png) ](50s_Machine_Shop_augmented_1_grid.png)
+[ ![50s_machine_shop_augmented_1_grid.png](50s_machine_shop_augmented_1_grid.png) ](50s_machine_shop_augmented_1_grid.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
