@@ -26,6 +26,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
 
+### [`Cool_Cats_Terraformed_Faux_Oatmeal`](Cool_Cats_Terraformed_Faux_Oatmeal.hexplt)
+
+[ ![Cool_Cats_Terraformed_Faux_Oatmeal.png](Cool_Cats_Terraformed_Faux_Oatmeal.png) ](Cool_Cats_Terraformed_Faux_Oatmeal.png)
+
 ### [`Craft_Paper_00001`](Craft_Paper_00001.hexplt)
 
 [ ![Craft_Paper_00001.png](Craft_Paper_00001.png) ](Craft_Paper_00001.png)
@@ -257,10 +261,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower`](Sunflower.hexplt)
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
-
-### [`Terraformed_Faux_Oatmeal_Cats`](Terraformed_Faux_Oatmeal_Cats.hexplt)
-
-[ ![Terraformed_Faux_Oatmeal_Cats.png](Terraformed_Faux_Oatmeal_Cats.png) ](Terraformed_Faux_Oatmeal_Cats.png)
 
 ### [`Tyre`](Tyre.hexplt)
 

@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_BG.png](Blue_Fire_BG.png) ](Blue_Fire_BG.png)
 
+### [`Cool_Cats_Terraformed_Faux_Oatmeal_BG`](Cool_Cats_Terraformed_Faux_Oatmeal_BG.hexplt)
+
+[ ![Cool_Cats_Terraformed_Faux_Oatmeal_BG.png](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png)
+
 ### [`Earthbound_Summers_BG`](Earthbound_Summers_BG.hexplt)
 
 [ ![Earthbound_Summers_BG.png](Earthbound_Summers_BG.png) ](Earthbound_Summers_BG.png)
@@ -37,10 +41,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower_BG`](Sunflower_BG.hexplt)
 
 [ ![Sunflower_BG.png](Sunflower_BG.png) ](Sunflower_BG.png)
-
-### [`Terraformed_Faux_Oatmeal_Cats_BG`](Terraformed_Faux_Oatmeal_Cats_BG.hexplt)
-
-[ ![Terraformed_Faux_Oatmeal_Cats_BG.png](Terraformed_Faux_Oatmeal_Cats_BG.png) ](Terraformed_Faux_Oatmeal_Cats_BG.png)
 
 ### [`Vampire_BG`](Vampire_BG.hexplt)
 

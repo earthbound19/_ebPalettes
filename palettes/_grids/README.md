@@ -14,6 +14,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Bright_Summers_1_grid.png](Bright_Summers_1_grid.png) ](Bright_Summers_1_grid.png)
 
+### [`Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid`](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.hexplt)
+
+[ ![Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png)
+
 ### [`Earthbound_Summers_augmented_1_grid`](Earthbound_Summers_augmented_1_grid.hexplt)
 
 [ ![Earthbound_Summers_augmented_1_grid.png](Earthbound_Summers_augmented_1_grid.png) ](Earthbound_Summers_augmented_1_grid.png)
@@ -61,10 +65,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower_and_Sunburn_augmented_11_grid`](Sunflower_and_Sunburn_augmented_11_grid.hexplt)
 
 [ ![Sunflower_and_Sunburn_augmented_11_grid.png](Sunflower_and_Sunburn_augmented_11_grid.png) ](Sunflower_and_Sunburn_augmented_11_grid.png)
-
-### [`Terraformed_Faux_Oatmeal_Cats_augmented_3_grid`](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.hexplt)
-
-[ ![Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png) ](Terraformed_Faux_Oatmeal_Cats_augmented_3_grid.png)
 
 ### [`This_is_The_Way_augmented_1_grid`](This_is_The_Way_augmented_1_grid.hexplt)
 
