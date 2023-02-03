@@ -14,9 +14,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![03_c87gkZzr.png](03_c87gkZzr.png) ](03_c87gkZzr.png)
 
-### [`04_Undead_Summers`](04_Undead_Summers.hexplt)
+### [`04_Sunflower`](04_Sunflower.hexplt)
 
-[ ![04_Undead_Summers.png](04_Undead_Summers.png) ](04_Undead_Summers.png)
+[ ![04_Sunflower.png](04_Sunflower.png) ](04_Sunflower.png)
 
 ### [`05_cb2ZUMQ3`](05_cb2ZUMQ3.hexplt)
 

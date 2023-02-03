@@ -66,6 +66,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower_and_Sunburn_augmented_11_grid.png](Sunflower_and_Sunburn_augmented_11_grid.png) ](Sunflower_and_Sunburn_augmented_11_grid.png)
 
+### [`Sunflower_augmented_1_grid`](Sunflower_augmented_1_grid.hexplt)
+
+[ ![Sunflower_augmented_1_grid.png](Sunflower_augmented_1_grid.png) ](Sunflower_augmented_1_grid.png)
+
 ### [`This_is_The_Way_augmented_1_grid`](This_is_The_Way_augmented_1_grid.hexplt)
 
 [ ![This_is_The_Way_augmented_1_grid.png](This_is_The_Way_augmented_1_grid.png) ](This_is_The_Way_augmented_1_grid.png)
@@ -81,10 +85,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Ultramarine_AC_augmented_1_grid`](Ultramarine_AC_augmented_1_grid.hexplt)
 
 [ ![Ultramarine_AC_augmented_1_grid.png](Ultramarine_AC_augmented_1_grid.png) ](Ultramarine_AC_augmented_1_grid.png)
-
-### [`Undead_Summers_augmented_1_grid`](Undead_Summers_augmented_1_grid.hexplt)
-
-[ ![Undead_Summers_augmented_1_grid.png](Undead_Summers_augmented_1_grid.png) ](Undead_Summers_augmented_1_grid.png)
 
 ### [`Vampire_augmented_1_grid`](Vampire_augmented_1_grid.hexplt)
 
