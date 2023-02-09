@@ -18,9 +18,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_palettesGrid.png](Blue_Fire_palettesGrid.png) ](Blue_Fire_palettesGrid.png)
 
-### [`Bright_Summers_1_grid`](Bright_Summers_1_grid.hexplt)
+### [`Bright_Summers_augmented_1_grid`](Bright_Summers_augmented_1_grid.hexplt)
 
-[ ![Bright_Summers_1_grid.png](Bright_Summers_1_grid.png) ](Bright_Summers_1_grid.png)
+[ ![Bright_Summers_augmented_1_grid.png](Bright_Summers_augmented_1_grid.png) ](Bright_Summers_augmented_1_grid.png)
 
 ### [`Bright_Summers_palettesColumnsOklabSortGrid_n8_s000000`](Bright_Summers_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
