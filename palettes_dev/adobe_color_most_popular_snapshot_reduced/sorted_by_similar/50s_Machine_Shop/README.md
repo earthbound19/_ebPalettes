@@ -14,9 +14,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![03_Scvkqypu.png](03_Scvkqypu.png) ](03_Scvkqypu.png)
 
-### [`04_50s_Machine_Shop`](04_50s_Machine_Shop.hexplt)
+### [`04_50s_Machine_Shop_A`](04_50s_Machine_Shop_A.hexplt)
 
-[ ![04_50s_Machine_Shop.png](04_50s_Machine_Shop.png) ](04_50s_Machine_Shop.png)
+[ ![04_50s_Machine_Shop_A.png](04_50s_Machine_Shop_A.png) ](04_50s_Machine_Shop_A.png)
 
 ### [`05_WvM3j8Vz`](05_WvM3j8Vz.hexplt)
 
@@ -62,17 +62,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![15_4ysAxxby.png](15_4ysAxxby.png) ](15_4ysAxxby.png)
 
-### [`16_qwMQNamF`](16_qwMQNamF.hexplt)
+### [`16_50s_Machine_Shop_B`](16_50s_Machine_Shop_B.hexplt)
 
-[ ![16_qwMQNamF.png](16_qwMQNamF.png) ](16_qwMQNamF.png)
+[ ![16_50s_Machine_Shop_B.png](16_50s_Machine_Shop_B.png) ](16_50s_Machine_Shop_B.png)
 
 ### [`17_Erb8M4uS`](17_Erb8M4uS.hexplt)
 
 [ ![17_Erb8M4uS.png](17_Erb8M4uS.png) ](17_Erb8M4uS.png)
 
-### [`18_fB7ITB9E`](18_fB7ITB9E.hexplt)
+### [`18_50s_Machine_Shop_C`](18_50s_Machine_Shop_C.hexplt)
 
-[ ![18_fB7ITB9E.png](18_fB7ITB9E.png) ](18_fB7ITB9E.png)
+[ ![18_50s_Machine_Shop_C.png](18_50s_Machine_Shop_C.png) ](18_50s_Machine_Shop_C.png)
 
 ### [`19_j4FpkXFk`](19_j4FpkXFk.hexplt)
 
@@ -86,9 +86,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![21_bKHvfxxS.png](21_bKHvfxxS.png) ](21_bKHvfxxS.png)
 
-### [`22_zmcvVTRX_copy`](22_zmcvVTRX_copy.hexplt)
+### [`22_50s_Machine_Shop_D`](22_50s_Machine_Shop_D.hexplt)
 
-[ ![22_zmcvVTRX_copy.png](22_zmcvVTRX_copy.png) ](22_zmcvVTRX_copy.png)
+[ ![22_50s_Machine_Shop_D.png](22_50s_Machine_Shop_D.png) ](22_50s_Machine_Shop_D.png)
 
 ### [`23_WrBpe5cw`](23_WrBpe5cw.hexplt)
 
