@@ -6,9 +6,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Adobe_swatch_pure_16.png](Adobe_swatch_pure_16.png) ](Adobe_swatch_pure_16.png)
 
-### [`Blue_Fire_v2`](Blue_Fire_v2.hexplt)
+### [`Blue_Fire_extended`](Blue_Fire_extended.hexplt)
 
-[ ![Blue_Fire_v2.png](Blue_Fire_v2.png) ](Blue_Fire_v2.png)
+[ ![Blue_Fire_extended.png](Blue_Fire_extended.png) ](Blue_Fire_extended.png)
 
 ### [`Boba_Fett_armor`](Boba_Fett_armor.hexplt)
 
@@ -521,6 +521,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`50s_Machine_Shop_D`](50s_Machine_Shop_D.hexplt)
 
 [ ![50s_Machine_Shop_D.png](50s_Machine_Shop_D.png) ](50s_Machine_Shop_D.png)
+
+### [`50s_Machine_Shop_Extended`](50s_Machine_Shop_Extended.hexplt)
+
+[ ![50s_Machine_Shop_Extended.png](50s_Machine_Shop_Extended.png) ](50s_Machine_Shop_Extended.png)
 
 ### [`256terminal`](256terminal.hexplt)
 

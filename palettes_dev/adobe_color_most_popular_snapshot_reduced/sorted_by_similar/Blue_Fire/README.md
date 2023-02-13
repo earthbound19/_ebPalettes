@@ -2,6 +2,14 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Blue_Fire_4`](Blue_Fire_4.hexplt)
+
+[ ![Blue_Fire_4.png](Blue_Fire_4.png) ](Blue_Fire_4.png)
+
+### [`Blue_Fire_5`](Blue_Fire_5.hexplt)
+
+[ ![Blue_Fire_5.png](Blue_Fire_5.png) ](Blue_Fire_5.png)
+
 ### [`blue_fire_1`](blue_fire_1.hexplt)
 
 [ ![blue_fire_1.png](blue_fire_1.png) ](blue_fire_1.png)
