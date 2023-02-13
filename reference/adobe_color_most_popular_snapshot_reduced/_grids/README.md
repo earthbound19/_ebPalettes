@@ -10,13 +10,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_augmented_1_grid.png](Blue_Fire_augmented_1_grid.png) ](Blue_Fire_augmented_1_grid.png)
 
-### [`Blue_Fire_augmented_4_grid`](Blue_Fire_augmented_4_grid.hexplt)
+### [`Blue_Fire_augmented_3_grid`](Blue_Fire_augmented_3_grid.hexplt)
 
-[ ![Blue_Fire_augmented_4_grid.png](Blue_Fire_augmented_4_grid.png) ](Blue_Fire_augmented_4_grid.png)
-
-### [`Blue_Fire_augmented_5_grid`](Blue_Fire_augmented_5_grid.hexplt)
-
-[ ![Blue_Fire_augmented_5_grid.png](Blue_Fire_augmented_5_grid.png) ](Blue_Fire_augmented_5_grid.png)
+[ ![Blue_Fire_augmented_3_grid.png](Blue_Fire_augmented_3_grid.png) ](Blue_Fire_augmented_3_grid.png)
 
 ### [`Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000`](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
@@ -217,10 +213,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Vampire_palettesGrid`](Vampire_palettesGrid.hexplt)
 
 [ ![Vampire_palettesGrid.png](Vampire_palettesGrid.png) ](Vampire_palettesGrid.png)
-
-### [`blue_fire_augmented_grid_10`](blue_fire_augmented_grid_10.hexplt)
-
-[ ![blue_fire_augmented_grid_10.png](blue_fire_augmented_grid_10.png) ](blue_fire_augmented_grid_10.png)
 
 ### [`orange_and_rose_flower_augmented_1_grid`](orange_and_rose_flower_augmented_1_grid.hexplt)
 
