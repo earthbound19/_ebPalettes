@@ -18,6 +18,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000.png](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000.png) ](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000.png)
 
+### [`Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000_augmented_1_grid`](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000_augmented_1_grid.hexplt)
+
+[ ![Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000_augmented_1_grid.png](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000_augmented_1_grid.png) ](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000_augmented_1_grid.png)
+
 ### [`Blue_Fire_palettesGrid`](Blue_Fire_palettesGrid.hexplt)
 
 [ ![Blue_Fire_palettesGrid.png](Blue_Fire_palettesGrid.png) ](Blue_Fire_palettesGrid.png)
