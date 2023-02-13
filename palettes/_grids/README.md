@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Blue_Fire_augmented_10_grid`](Blue_Fire_augmented_10_grid.hexplt)
+
+[ ![Blue_Fire_augmented_10_grid.png](Blue_Fire_augmented_10_grid.png) ](Blue_Fire_augmented_10_grid.png)
+
 ### [`Blue_Fire_augmented_1_grid`](Blue_Fire_augmented_1_grid.hexplt)
 
 [ ![Blue_Fire_augmented_1_grid.png](Blue_Fire_augmented_1_grid.png) ](Blue_Fire_augmented_1_grid.png)
@@ -9,6 +13,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Blue_Fire_augmented_4_grid`](Blue_Fire_augmented_4_grid.hexplt)
 
 [ ![Blue_Fire_augmented_4_grid.png](Blue_Fire_augmented_4_grid.png) ](Blue_Fire_augmented_4_grid.png)
+
+### [`Blue_Fire_augmented_5_grid`](Blue_Fire_augmented_5_grid.hexplt)
+
+[ ![Blue_Fire_augmented_5_grid.png](Blue_Fire_augmented_5_grid.png) ](Blue_Fire_augmented_5_grid.png)
 
 ### [`Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000`](Blue_Fire_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
