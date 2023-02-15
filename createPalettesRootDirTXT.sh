@@ -1,22 +1,13 @@
 # DESCRIPTION
-# overwrites ~/palettesRootDir.txt (used by randomHorizontalColorLines and other
-# scripts) with a list of the full path to all subdirectories in the palettes
-# directory of this repository.
+# overwrites ~/palettesRootDir.txt with the absolute path to the /palettes directory of this repository. (Creates that file if it does not exist.) The path in that file is read by and used by various scripts in the _ebDev if not other repositories.
 
 # USAGE
-# FROM THE DIRECTORY with this script, run it (from a terminal):
+# With this script in your PATH, run it:
 # ./createPalettesRootDirTXT.sh
 
 
 # CODE
-currdir=`pwd`
-printf "$currdir"/palettes > ~/palettesRootDir.txt
-
-# mislead, deprecated effort:
-# cd palettes
-	# the gsed and tr commands cut off the ./ and windows newlines on cygwin:
-	# directories_list=`gfind . -type d | gsed 's/\.\///g' | tr -d '\15\32' | sort -n`
-# gfind . -type d | gsed 's/\.\///g' | tr -d '\15\32' | sort -n > ~/ef7M2dRP_swap_tmp_palettesRootDir.txt
-	# trim off the first line:
-# tail -n +2 ~/ef7M2dRP_swap_tmp_palettesRootDir.txt > ~/palettesRootDir.txt
-# rm ~/ef7M2dRP_swap_tmp_palettesRootDir.txt
+# for calling this script from anywhere if it is in the PATH; get full path to script minus file name:
+fullPathToScript=$0
+palettesRepoBasePath="${fullPathToScript%\/*}"
+printf "$palettesRepoBasePath"/palettes > ~/palettesRootDir.txt
