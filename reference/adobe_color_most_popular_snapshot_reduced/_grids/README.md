@@ -222,13 +222,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![orange_and_rose_flower_augmented_1_grid.png](orange_and_rose_flower_augmented_1_grid.png) ](orange_and_rose_flower_augmented_1_grid.png)
 
-### [`50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000_old`](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000_old.hexplt)
+### [`50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000`](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
-[ ![50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000_old.png](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000_old.png) ](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000_old.png)
+[ ![50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000.png](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000.png) ](50s_Machine_Shop_palettesColumnsOklabSortGrid_n8_s000000.png)
 
-### [`50s_Machine_Shop_palettesGrid_old`](50s_Machine_Shop_palettesGrid_old.hexplt)
+### [`50s_Machine_Shop_palettesGrid`](50s_Machine_Shop_palettesGrid.hexplt)
 
-[ ![50s_Machine_Shop_palettesGrid_old.png](50s_Machine_Shop_palettesGrid_old.png) ](50s_Machine_Shop_palettesGrid_old.png)
+[ ![50s_Machine_Shop_palettesGrid.png](50s_Machine_Shop_palettesGrid.png) ](50s_Machine_Shop_palettesGrid.png)
 
 ### [`50s_Machine_Shop_variants_A_B_C_D_augmented_1_grid`](50s_Machine_Shop_variants_A_B_C_D_augmented_1_grid.hexplt)
 
