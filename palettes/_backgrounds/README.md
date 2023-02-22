@@ -6,6 +6,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Blue_Fire_BG.png](Blue_Fire_BG.png) ](Blue_Fire_BG.png)
 
+### [`Blue_Fire_Extended_BG`](Blue_Fire_Extended_BG.hexplt)
+
+[ ![Blue_Fire_Extended_BG.png](Blue_Fire_Extended_BG.png) ](Blue_Fire_Extended_BG.png)
+
 ### [`Cool_Cats_Terraformed_Faux_Oatmeal_BG`](Cool_Cats_Terraformed_Faux_Oatmeal_BG.hexplt)
 
 [ ![Cool_Cats_Terraformed_Faux_Oatmeal_BG.png](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png)
@@ -61,5 +65,9 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`rusty_vintage_vehicle_BG`](rusty_vintage_vehicle_BG.hexplt)
 
 [ ![rusty_vintage_vehicle_BG.png](rusty_vintage_vehicle_BG.png) ](rusty_vintage_vehicle_BG.png)
+
+### [`50s_Machine_Shop_Extended_BG`](50s_Machine_Shop_Extended_BG.hexplt)
+
+[ ![50s_Machine_Shop_Extended_BG.png](50s_Machine_Shop_Extended_BG.png) ](50s_Machine_Shop_Extended_BG.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
