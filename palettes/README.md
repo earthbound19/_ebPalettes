@@ -506,22 +506,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![32_max_chroma_med_light_more_lively_greens.png](32_max_chroma_med_light_more_lively_greens.png) ](32_max_chroma_med_light_more_lively_greens.png)
 
-### [`50s_Machine_Shop_A`](50s_Machine_Shop_A.hexplt)
-
-[ ![50s_Machine_Shop_A.png](50s_Machine_Shop_A.png) ](50s_Machine_Shop_A.png)
-
-### [`50s_Machine_Shop_B`](50s_Machine_Shop_B.hexplt)
-
-[ ![50s_Machine_Shop_B.png](50s_Machine_Shop_B.png) ](50s_Machine_Shop_B.png)
-
-### [`50s_Machine_Shop_C`](50s_Machine_Shop_C.hexplt)
-
-[ ![50s_Machine_Shop_C.png](50s_Machine_Shop_C.png) ](50s_Machine_Shop_C.png)
-
-### [`50s_Machine_Shop_D`](50s_Machine_Shop_D.hexplt)
-
-[ ![50s_Machine_Shop_D.png](50s_Machine_Shop_D.png) ](50s_Machine_Shop_D.png)
-
 ### [`50s_Machine_Shop_Extended`](50s_Machine_Shop_Extended.hexplt)
 
 [ ![50s_Machine_Shop_Extended.png](50s_Machine_Shop_Extended.png) ](50s_Machine_Shop_Extended.png)
