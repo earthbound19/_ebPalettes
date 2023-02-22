@@ -506,6 +506,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![32_max_chroma_med_light_more_lively_greens.png](32_max_chroma_med_light_more_lively_greens.png) ](32_max_chroma_med_light_more_lively_greens.png)
 
+### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
+
+[ ![50s_Machine_Shop.png](50s_Machine_Shop.png) ](50s_Machine_Shop.png)
+
 ### [`50s_Machine_Shop_Extended`](50s_Machine_Shop_Extended.hexplt)
 
 [ ![50s_Machine_Shop_Extended.png](50s_Machine_Shop_Extended.png) ](50s_Machine_Shop_Extended.png)
