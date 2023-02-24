@@ -22,13 +22,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Boba_Fett_more_more_cyans.png](Boba_Fett_more_more_cyans.png) ](Boba_Fett_more_more_cyans.png)
 
-### [`BurntSandstone`](BurntSandstone.hexplt)
+### [`Burnt_Sandstone`](Burnt_Sandstone.hexplt)
 
-[ ![BurntSandstone.png](BurntSandstone.png) ](BurntSandstone.png)
+[ ![Burnt_Sandstone.png](Burnt_Sandstone.png) ](Burnt_Sandstone.png)
 
-### [`BurntSandstoneNarrower`](BurntSandstoneNarrower.hexplt)
+### [`Burnt_Sandstone_Extended`](Burnt_Sandstone_Extended.hexplt)
 
-[ ![BurntSandstoneNarrower.png](BurntSandstoneNarrower.png) ](BurntSandstoneNarrower.png)
+[ ![Burnt_Sandstone_Extended.png](Burnt_Sandstone_Extended.png) ](Burnt_Sandstone_Extended.png)
+
+### [`Burnt_Sandstone_and_Firebird_B`](Burnt_Sandstone_and_Firebird_B.hexplt)
+
+[ ![Burnt_Sandstone_and_Firebird_B.png](Burnt_Sandstone_and_Firebird_B.png) ](Burnt_Sandstone_and_Firebird_B.png)
 
 ### [`Cool_Cats_Terraformed_Faux_Oatmeal`](Cool_Cats_Terraformed_Faux_Oatmeal.hexplt)
 
@@ -189,6 +193,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Faux_Oatmeal`](Faux_Oatmeal.hexplt)
 
 [ ![Faux_Oatmeal.png](Faux_Oatmeal.png) ](Faux_Oatmeal.png)
+
+### [`Firebird_B`](Firebird_B.hexplt)
+
+[ ![Firebird_B.png](Firebird_B.png) ](Firebird_B.png)
 
 ### [`Floral_00003`](Floral_00003.hexplt)
 
