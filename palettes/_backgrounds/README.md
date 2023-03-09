@@ -54,6 +54,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![banana_split_BG.png](banana_split_BG.png) ](banana_split_BG.png)
 
+### [`cherry_plum_tree_bloom_reduced_04_impression_BG`](cherry_plum_tree_bloom_reduced_04_impression_BG.hexplt)
+
+[ ![cherry_plum_tree_bloom_reduced_04_impression_BG.png](cherry_plum_tree_bloom_reduced_04_impression_BG.png) ](cherry_plum_tree_bloom_reduced_04_impression_BG.png)
+
+### [`cherry_plum_tree_bloom_reduced_04_impression_BG_fewer`](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.hexplt)
+
+[ ![cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png) ](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png)
+
 ### [`darkBackground`](darkBackground.hexplt)
 
 [ ![darkBackground.png](darkBackground.png) ](darkBackground.png)
