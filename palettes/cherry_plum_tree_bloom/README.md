@@ -14,4 +14,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cherry_plum_tree_bloom_reduced_03_impression.png](cherry_plum_tree_bloom_reduced_03_impression.png) ](cherry_plum_tree_bloom_reduced_03_impression.png)
 
+### [`cherry_plum_tree_bloom_reduced_04_impression`](cherry_plum_tree_bloom_reduced_04_impression.hexplt)
+
+[ ![cherry_plum_tree_bloom_reduced_04_impression.png](cherry_plum_tree_bloom_reduced_04_impression.png) ](cherry_plum_tree_bloom_reduced_04_impression.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
