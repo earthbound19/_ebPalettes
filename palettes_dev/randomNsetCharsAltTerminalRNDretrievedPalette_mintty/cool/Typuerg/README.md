@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`1_01_eytbe_palette`](1_01_eytbe_palette.hexplt)
-
-[ ![1_01_eytbe_palette.png](1_01_eytbe_palette.png) ](1_01_eytbe_palette.png)
-
 ### [`2_gexed_palette`](2_gexed_palette.hexplt)
 
 [ ![2_gexed_palette.png](2_gexed_palette.png) ](2_gexed_palette.png)
