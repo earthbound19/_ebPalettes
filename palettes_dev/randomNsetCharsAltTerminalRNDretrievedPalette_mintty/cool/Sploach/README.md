@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Sploach_palettesGrid`](Sploach_palettesGrid.hexplt)
+
+[ ![Sploach_palettesGrid.png](Sploach_palettesGrid.png) ](Sploach_palettesGrid.png)
+
 ### [`01_jxd82_palette`](01_jxd82_palette.hexplt)
 
 [ ![01_jxd82_palette.png](01_jxd82_palette.png) ](01_jxd82_palette.png)
