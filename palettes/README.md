@@ -306,6 +306,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![cyanOceanicWithDirty.png](cyanOceanicWithDirty.png) ](cyanOceanicWithDirty.png)
 
+### [`cyan_to_chocolate_7gradient`](cyan_to_chocolate_7gradient.hexplt)
+
+[ ![cyan_to_chocolate_7gradient.png](cyan_to_chocolate_7gradient.png) ](cyan_to_chocolate_7gradient.png)
+
 ### [`cyansForShimmering`](cyansForShimmering.hexplt)
 
 [ ![cyansForShimmering.png](cyansForShimmering.png) ](cyansForShimmering.png)
