@@ -2,13 +2,13 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Sploach_palettesGrid`](Sploach_palettesGrid.hexplt)
+### [`Sploach_augmented_1x1_grid`](Sploach_augmented_1x1_grid.hexplt)
 
-[ ![Sploach_palettesGrid.png](Sploach_palettesGrid.png) ](Sploach_palettesGrid.png)
+[ ![Sploach_augmented_1x1_grid.png](Sploach_augmented_1x1_grid.png) ](Sploach_augmented_1x1_grid.png)
 
-### [`01_jxd82_palette`](01_jxd82_palette.hexplt)
+### [`Sploach_palettes_grid`](Sploach_palettes_grid.hexplt)
 
-[ ![01_jxd82_palette.png](01_jxd82_palette.png) ](01_jxd82_palette.png)
+[ ![Sploach_palettes_grid.png](Sploach_palettes_grid.png) ](Sploach_palettes_grid.png)
 
 ### [`02_xr486_palette`](02_xr486_palette.hexplt)
 
@@ -18,29 +18,17 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![03_rek5s_palette.png](03_rek5s_palette.png) ](03_rek5s_palette.png)
 
-### [`04_cwf77_palette`](04_cwf77_palette.hexplt)
-
-[ ![04_cwf77_palette.png](04_cwf77_palette.png) ](04_cwf77_palette.png)
-
-### [`05_b4hs2_palette`](05_b4hs2_palette.hexplt)
-
-[ ![05_b4hs2_palette.png](05_b4hs2_palette.png) ](05_b4hs2_palette.png)
-
 ### [`06_jn3xq_palette`](06_jn3xq_palette.hexplt)
 
 [ ![06_jn3xq_palette.png](06_jn3xq_palette.png) ](06_jn3xq_palette.png)
 
+### [`06b_hand_picked_cool`](06b_hand_picked_cool.hexplt)
+
+[ ![06b_hand_picked_cool.png](06b_hand_picked_cool.png) ](06b_hand_picked_cool.png)
+
 ### [`07_ni2dj_palette`](07_ni2dj_palette.hexplt)
 
 [ ![07_ni2dj_palette.png](07_ni2dj_palette.png) ](07_ni2dj_palette.png)
-
-### [`08_5j2qw_palette`](08_5j2qw_palette.hexplt)
-
-[ ![08_5j2qw_palette.png](08_5j2qw_palette.png) ](08_5j2qw_palette.png)
-
-### [`09_edzsb_palette`](09_edzsb_palette.hexplt)
-
-[ ![09_edzsb_palette.png](09_edzsb_palette.png) ](09_edzsb_palette.png)
 
 ### [`10_z3tud_palette`](10_z3tud_palette.hexplt)
 

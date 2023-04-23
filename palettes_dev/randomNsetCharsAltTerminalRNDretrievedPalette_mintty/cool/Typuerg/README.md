@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Typuerg_palettesGrid`](Typuerg_palettesGrid.hexplt)
+### [`Typuerg_palettes_grid`](Typuerg_palettes_grid.hexplt)
 
-[ ![Typuerg_palettesGrid.png](Typuerg_palettesGrid.png) ](Typuerg_palettesGrid.png)
+[ ![Typuerg_palettes_grid.png](Typuerg_palettes_grid.png) ](Typuerg_palettes_grid.png)
 
 ### [`1_01_eytbe_palette`](1_01_eytbe_palette.hexplt)
 

@@ -14,10 +14,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Cool_Cats_Terraformed_Faux_Oatmeal_BG.png](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png)
 
-### [`Earthbound_Summers_BG`](Earthbound_Summers_BG.hexplt)
-
-[ ![Earthbound_Summers_BG.png](Earthbound_Summers_BG.png) ](Earthbound_Summers_BG.png)
-
 ### [`Elements_and_Tea_BG`](Elements_and_Tea_BG.hexplt)
 
 [ ![Elements_and_Tea_BG.png](Elements_and_Tea_BG.png) ](Elements_and_Tea_BG.png)
@@ -34,10 +30,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Firebird_BG.png](Firebird_BG.png) ](Firebird_BG.png)
 
-### [`Murky_Forest_BG`](Murky_Forest_BG.hexplt)
-
-[ ![Murky_Forest_BG.png](Murky_Forest_BG.png) ](Murky_Forest_BG.png)
-
 ### [`Paradise_darks_BG`](Paradise_darks_BG.hexplt)
 
 [ ![Paradise_darks_BG.png](Paradise_darks_BG.png) ](Paradise_darks_BG.png)
@@ -46,25 +38,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower_BG.png](Sunflower_BG.png) ](Sunflower_BG.png)
 
-### [`Vampire_BG`](Vampire_BG.hexplt)
-
-[ ![Vampire_BG.png](Vampire_BG.png) ](Vampire_BG.png)
-
 ### [`banana_split_BG`](banana_split_BG.hexplt)
 
 [ ![banana_split_BG.png](banana_split_BG.png) ](banana_split_BG.png)
-
-### [`cherry_plum_tree_bloom_reduced_04_impression_BG`](cherry_plum_tree_bloom_reduced_04_impression_BG.hexplt)
-
-[ ![cherry_plum_tree_bloom_reduced_04_impression_BG.png](cherry_plum_tree_bloom_reduced_04_impression_BG.png) ](cherry_plum_tree_bloom_reduced_04_impression_BG.png)
-
-### [`cherry_plum_tree_bloom_reduced_04_impression_BG_fewer`](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.hexplt)
-
-[ ![cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png) ](cherry_plum_tree_bloom_reduced_04_impression_BG_fewer.png)
-
-### [`darkBackground`](darkBackground.hexplt)
-
-[ ![darkBackground.png](darkBackground.png) ](darkBackground.png)
 
 ### [`dead_maple_bg`](dead_maple_bg.hexplt)
 
