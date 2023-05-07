@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`The_Plant_Mage_and_the_Mystic`](The_Plant_Mage_and_the_Mystic.hexplt)
+
+[ ![The_Plant_Mage_and_the_Mystic.png](The_Plant_Mage_and_the_Mystic.png) ](The_Plant_Mage_and_the_Mystic.png)
+
 ### [`aqua`](aqua.hexplt)
 
 [ ![aqua.png](aqua.png) ](aqua.png)

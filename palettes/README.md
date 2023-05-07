@@ -246,6 +246,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Paradise.png](Paradise.png) ](Paradise.png)
 
+### [`Plant_Mage`](Plant_Mage.hexplt)
+
+[ ![Plant_Mage.png](Plant_Mage.png) ](Plant_Mage.png)
+
 ### [`PrismacolorMarkers_CIECAM02_sort`](PrismacolorMarkers_CIECAM02_sort.hexplt)
 
 [ ![PrismacolorMarkers_CIECAM02_sort.png](PrismacolorMarkers_CIECAM02_sort.png) ](PrismacolorMarkers_CIECAM02_sort.png)
@@ -273,6 +277,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Sunflower`](Sunflower.hexplt)
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
+
+### [`The_Mystic`](The_Mystic.hexplt)
+
+[ ![The_Mystic.png](The_Mystic.png) ](The_Mystic.png)
 
 ### [`Tyre`](Tyre.hexplt)
 
