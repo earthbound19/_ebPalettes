@@ -6,10 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png) ](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png)
 
-### [`Orange_Flower_and_Rose_Flower_augmented_1_grid`](Orange_Flower_and_Rose_Flower_augmented_1_grid.hexplt)
-
-[ ![Orange_Flower_and_Rose_Flower_augmented_1_grid.png](Orange_Flower_and_Rose_Flower_augmented_1_grid.png) ](Orange_Flower_and_Rose_Flower_augmented_1_grid.png)
-
 ### [`Sunflower_and_Sunburn_augmented_11_grid`](Sunflower_and_Sunburn_augmented_11_grid.hexplt)
 
 [ ![Sunflower_and_Sunburn_augmented_11_grid.png](Sunflower_and_Sunburn_augmented_11_grid.png) ](Sunflower_and_Sunburn_augmented_11_grid.png)

@@ -142,10 +142,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![TXkTrcaF.png](TXkTrcaF.png) ](TXkTrcaF.png)
 
-### [`UXNEzUyt`](UXNEzUyt.hexplt)
-
-[ ![UXNEzUyt.png](UXNEzUyt.png) ](UXNEzUyt.png)
-
 ### [`UbKIBtbX`](UbKIBtbX.hexplt)
 
 [ ![UbKIBtbX.png](UbKIBtbX.png) ](UbKIBtbX.png)
@@ -469,10 +465,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`3KNcMCmP`](3KNcMCmP.hexplt)
 
 [ ![3KNcMCmP.png](3KNcMCmP.png) ](3KNcMCmP.png)
-
-### [`3Uv7YPMR`](3Uv7YPMR.hexplt)
-
-[ ![3Uv7YPMR.png](3Uv7YPMR.png) ](3Uv7YPMR.png)
 
 ### [`3btCktXP`](3btCktXP.hexplt)
 

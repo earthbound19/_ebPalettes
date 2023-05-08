@@ -2,13 +2,13 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Rose_and_Red_Flowers_palettes_grid_v3`](Rose_and_Red_Flowers_palettes_grid_v3.hexplt)
+
+[ ![Rose_and_Red_Flowers_palettes_grid_v3.png](Rose_and_Red_Flowers_palettes_grid_v3.png) ](Rose_and_Red_Flowers_palettes_grid_v3.png)
+
 ### [`01_Rose_to_Yellow_Yellow_Orange_Flower`](01_Rose_to_Yellow_Yellow_Orange_Flower.hexplt)
 
 [ ![01_Rose_to_Yellow_Yellow_Orange_Flower.png](01_Rose_to_Yellow_Yellow_Orange_Flower.png) ](01_Rose_to_Yellow_Yellow_Orange_Flower.png)
-
-### [`02_Rose_to_Yellow_Yellow_Orange_Flower_copy`](02_Rose_to_Yellow_Yellow_Orange_Flower_copy.hexplt)
-
-[ ![02_Rose_to_Yellow_Yellow_Orange_Flower_copy.png](02_Rose_to_Yellow_Yellow_Orange_Flower_copy.png) ](02_Rose_to_Yellow_Yellow_Orange_Flower_copy.png)
 
 ### [`03_Rose_to_light_yellow_flower`](03_Rose_to_light_yellow_flower.hexplt)
 
@@ -26,24 +26,36 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![06_Rose_to_Pink_Flower.png](06_Rose_to_Pink_Flower.png) ](06_Rose_to_Pink_Flower.png)
 
-### [`07_Deep_Rose_to_Rose_Flower`](07_Deep_Rose_to_Rose_Flower.hexplt)
+### [`07_Dusty_Periwinkle_Blue_to_Yellow_Orange_Flower`](07_Dusty_Periwinkle_Blue_to_Yellow_Orange_Flower.hexplt)
 
-[ ![07_Deep_Rose_to_Rose_Flower.png](07_Deep_Rose_to_Rose_Flower.png) ](07_Deep_Rose_to_Rose_Flower.png)
+[ ![07_Dusty_Periwinkle_Blue_to_Yellow_Orange_Flower.png](07_Dusty_Periwinkle_Blue_to_Yellow_Orange_Flower.png) ](07_Dusty_Periwinkle_Blue_to_Yellow_Orange_Flower.png)
 
-### [`08_Deep_Violet_to_Violet_Flower`](08_Deep_Violet_to_Violet_Flower.hexplt)
+### [`08_Faded_Lavender_to_Faded_Yellow_Yellow_Orange_Flower`](08_Faded_Lavender_to_Faded_Yellow_Yellow_Orange_Flower.hexplt)
 
-[ ![08_Deep_Violet_to_Violet_Flower.png](08_Deep_Violet_to_Violet_Flower.png) ](08_Deep_Violet_to_Violet_Flower.png)
+[ ![08_Faded_Lavender_to_Faded_Yellow_Yellow_Orange_Flower.png](08_Faded_Lavender_to_Faded_Yellow_Yellow_Orange_Flower.png) ](08_Faded_Lavender_to_Faded_Yellow_Yellow_Orange_Flower.png)
 
-### [`09_Orange_Flower`](09_Orange_Flower.hexplt)
+### [`09_Red_to_Yellow_Flower`](09_Red_to_Yellow_Flower.hexplt)
 
-[ ![09_Orange_Flower.png](09_Orange_Flower.png) ](09_Orange_Flower.png)
+[ ![09_Red_to_Yellow_Flower.png](09_Red_to_Yellow_Flower.png) ](09_Red_to_Yellow_Flower.png)
 
-### [`10_Red_to_Yellow_Flower`](10_Red_to_Yellow_Flower.hexplt)
+### [`09b_copy_of_Rose_to_Yellow_Yellow_Orange_Flower`](09b_copy_of_Rose_to_Yellow_Yellow_Orange_Flower.hexplt)
 
-[ ![10_Red_to_Yellow_Flower.png](10_Red_to_Yellow_Flower.png) ](10_Red_to_Yellow_Flower.png)
+[ ![09b_copy_of_Rose_to_Yellow_Yellow_Orange_Flower.png](09b_copy_of_Rose_to_Yellow_Yellow_Orange_Flower.png) ](09b_copy_of_Rose_to_Yellow_Yellow_Orange_Flower.png)
+
+### [`10_Orange_Flower`](10_Orange_Flower.hexplt)
+
+[ ![10_Orange_Flower.png](10_Orange_Flower.png) ](10_Orange_Flower.png)
 
 ### [`11_Orange-Mustard_to_Mustard_flower`](11_Orange-Mustard_to_Mustard_flower.hexplt)
 
 [ ![11_Orange-Mustard_to_Mustard_flower.png](11_Orange-Mustard_to_Mustard_flower.png) ](11_Orange-Mustard_to_Mustard_flower.png)
+
+### [`12_Deep_Rose_to_Rose_Flower`](12_Deep_Rose_to_Rose_Flower.hexplt)
+
+[ ![12_Deep_Rose_to_Rose_Flower.png](12_Deep_Rose_to_Rose_Flower.png) ](12_Deep_Rose_to_Rose_Flower.png)
+
+### [`13_Deep_Violet_to_Violet_Flower`](13_Deep_Violet_to_Violet_Flower.hexplt)
+
+[ ![13_Deep_Violet_to_Violet_Flower.png](13_Deep_Violet_to_Violet_Flower.png) ](13_Deep_Violet_to_Violet_Flower.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
