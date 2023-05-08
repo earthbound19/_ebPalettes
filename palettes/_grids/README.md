@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid`](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.hexplt)
+### [`Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid`](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.hexplt)
 
-[ ![Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_augmented_3_grid.png)
+[ ![Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png) ](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png)
 
 ### [`Sunflower_and_Sunburn_augmented_11_grid`](Sunflower_and_Sunburn_augmented_11_grid.hexplt)
 
