@@ -6,14 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Adobe_swatch_pure_16.png](Adobe_swatch_pure_16.png) ](Adobe_swatch_pure_16.png)
 
-### [`Blue_Fire`](Blue_Fire.hexplt)
-
-[ ![Blue_Fire.png](Blue_Fire.png) ](Blue_Fire.png)
-
-### [`Blue_Fire_extended`](Blue_Fire_extended.hexplt)
-
-[ ![Blue_Fire_extended.png](Blue_Fire_extended.png) ](Blue_Fire_extended.png)
-
 ### [`Boba_Fett_armor`](Boba_Fett_armor.hexplt)
 
 [ ![Boba_Fett_armor.png](Boba_Fett_armor.png) ](Boba_Fett_armor.png)

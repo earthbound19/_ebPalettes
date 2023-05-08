@@ -58,10 +58,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![GWnTcavF.png](GWnTcavF.png) ](GWnTcavF.png)
 
-### [`Gn5hbkYi`](Gn5hbkYi.hexplt)
-
-[ ![Gn5hbkYi.png](Gn5hbkYi.png) ](Gn5hbkYi.png)
-
 ### [`HIAdtUeR`](HIAdtUeR.hexplt)
 
 [ ![HIAdtUeR.png](HIAdtUeR.png) ](HIAdtUeR.png)
