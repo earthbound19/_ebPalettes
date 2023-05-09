@@ -34,8 +34,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![8_6amaZMNf.png](8_6amaZMNf.png) ](8_6amaZMNf.png)
 
-### [`9_2A9M7HK8`](9_2A9M7HK8.hexplt)
+### [`9_copy_of_Deep_Ultramarines_AC`](9_copy_of_Deep_Ultramarines_AC.hexplt)
 
-[ ![9_2A9M7HK8.png](9_2A9M7HK8.png) ](9_2A9M7HK8.png)
+[ ![9_copy_of_Deep_Ultramarines_AC.png](9_copy_of_Deep_Ultramarines_AC.png) ](9_copy_of_Deep_Ultramarines_AC.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

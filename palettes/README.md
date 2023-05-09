@@ -166,6 +166,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Craft_Paper_00044.png](Craft_Paper_00044.png) ](Craft_Paper_00044.png)
 
+### [`Deep_Ultramarines_AC`](Deep_Ultramarines_AC.hexplt)
+
+[ ![Deep_Ultramarines_AC.png](Deep_Ultramarines_AC.png) ](Deep_Ultramarines_AC.png)
+
 ### [`Din_Djarin_armor`](Din_Djarin_armor.hexplt)
 
 [ ![Din_Djarin_armor.png](Din_Djarin_armor.png) ](Din_Djarin_armor.png)
@@ -221,6 +225,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`LakeBonnevilleDesert`](LakeBonnevilleDesert.hexplt)
 
 [ ![LakeBonnevilleDesert.png](LakeBonnevilleDesert.png) ](LakeBonnevilleDesert.png)
+
+### [`Old_3D_Glasses`](Old_3D_Glasses.hexplt)
+
+[ ![Old_3D_Glasses.png](Old_3D_Glasses.png) ](Old_3D_Glasses.png)
 
 ### [`Pantone_2015_womens_spring_more_vivid`](Pantone_2015_womens_spring_more_vivid.hexplt)
 
