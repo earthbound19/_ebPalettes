@@ -262,6 +262,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Rusty_Vintage_Vehicle_v2.png](Rusty_Vintage_Vehicle_v2.png) ](Rusty_Vintage_Vehicle_v2.png)
 
+### [`Rusty_Vintage_Vehicle_v2b_64_colors`](Rusty_Vintage_Vehicle_v2b_64_colors.hexplt)
+
+[ ![Rusty_Vintage_Vehicle_v2b_64_colors.png](Rusty_Vintage_Vehicle_v2b_64_colors.png) ](Rusty_Vintage_Vehicle_v2b_64_colors.png)
+
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
 [ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
