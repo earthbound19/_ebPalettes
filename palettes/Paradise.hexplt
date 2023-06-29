@@ -1,4 +1,4 @@
-#5A142C #582829 #763436 #C53C6F #C45C78 #E85776 #F77189 #FB7C86  columns: 8 rows: 6, adapted from a generated list of popular colors for 2019.
+#5A142C #582829 #763436 #C53C6F #C45C78 #E85776 #F77189 #FB7C86  columns: 8 rows: 6, adapted from a generated list of popular colors for 2019. Command to obtain this sorting: paletteSortSplitChannelsOkLab.sh Paradise.hexplt 16 000000
 #E6ADB1 #FBC7C4 #D08983 #D5A49A #F6A8A3 #FFD9D3 #9E9287 #D7C7B0
 #010068 #10336E #1D3994 #273373 #5E698F #A4B1DC #504572 #C3A5D2
 #CBBCF5 #CDC2EA #E1CFF1 #E1D8F8 #4F304D #97799B #C7B1D1 #D6BCDC
