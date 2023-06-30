@@ -486,6 +486,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![subset_of_palette_collections01-03_for_art_projects.png](subset_of_palette_collections01-03_for_art_projects.png) ](subset_of_palette_collections01-03_for_art_projects.png)
 
+### [`sunset_over_Utah_Valley_2023-06-29`](sunset_over_Utah_Valley_2023-06-29.hexplt)
+
+[ ![sunset_over_Utah_Valley_2023-06-29.png](sunset_over_Utah_Valley_2023-06-29.png) ](sunset_over_Utah_Valley_2023-06-29.png)
+
 ### [`terraformed`](terraformed.hexplt)
 
 [ ![terraformed.png](terraformed.png) ](terraformed.png)
