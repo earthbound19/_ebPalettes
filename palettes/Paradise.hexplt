@@ -1,6 +1,6 @@
-#5A142C #582829 #763436 #C53C6F #C45C78 #E85776 #F77189 #FB7C86  columns: 8 rows: 6, adapted from a generated list of popular colors for 2019. Command to obtain this sorting: paletteSortSplitChannelsOkLab.sh Paradise.hexplt 16 000000
-#E6ADB1 #FBC7C4 #D08983 #D5A49A #F6A8A3 #FFD9D3 #9E9287 #D7C7B0
-#010068 #10336E #1D3994 #273373 #5E698F #A4B1DC #504572 #C3A5D2
-#CBBCF5 #CDC2EA #E1CFF1 #E1D8F8 #4F304D #97799B #C7B1D1 #D6BCDC
-#552839 #6D114B #84365A #AC4F73 #A16B89 #A16F83 #9C7E91 #B58E9A
-#D488B2 #D5A2C0 #DDABC8     
+#511e0b	#6c182e	#482350	#3e2591	#13017d	#4c54bf	#6b72a3  columns: 7 rows: 6  v3. Redrafted by hand picking from original samples, then adjusted with this command: print_altered_hexplt_OKLAB.js -i Paradise.hexplt -c 0.016 -l 0.04 -h'6'. Also custom color tweaks/adds.
+#7c90d6	#c4a4dd	#e89de3	#ffb8cc	#ffcce4	#ffcfd4	#fedbcf
+#fef1e1	#fcf2d0	#fcffdc	#efffdf	#eeffeb	#d1feff	#b1e2c0
+#8fd7f8	#eecffc	#fdbda0	#f8c498	#face83	#e8ef5b	#4ec88d
+#00C1B2	#f5a492	#e6855e	#E36825	#cb5679	#dc3f6d	#ca006a
+#a55561	#b55aa1	#e26ab7	#fa7aaa	#ff50c5	#ff00b2	#823785
