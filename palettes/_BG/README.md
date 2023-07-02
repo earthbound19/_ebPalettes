@@ -30,6 +30,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Firebird_BG.png](Firebird_BG.png) ](Firebird_BG.png)
 
+### [`Paradise_BG`](Paradise_BG.hexplt)
+
+[ ![Paradise_BG.png](Paradise_BG.png) ](Paradise_BG.png)
+
 ### [`Paradise_darks_BG`](Paradise_darks_BG.hexplt)
 
 [ ![Paradise_darks_BG.png](Paradise_darks_BG.png) ](Paradise_darks_BG.png)
