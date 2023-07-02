@@ -286,6 +286,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![The_Mystic.png](The_Mystic.png) ](The_Mystic.png)
 
+### [`Tropical`](Tropical.hexplt)
+
+[ ![Tropical.png](Tropical.png) ](Tropical.png)
+
 ### [`Tyre`](Tyre.hexplt)
 
 [ ![Tyre.png](Tyre.png) ](Tyre.png)
