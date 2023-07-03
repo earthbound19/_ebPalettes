@@ -282,6 +282,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sunflower.png](Sunflower.png) ](Sunflower.png)
 
+### [`Sunset_01`](Sunset_01.hexplt)
+
+[ ![Sunset_01.png](Sunset_01.png) ](Sunset_01.png)
+
 ### [`The_Mystic`](The_Mystic.hexplt)
 
 [ ![The_Mystic.png](The_Mystic.png) ](The_Mystic.png)
@@ -489,10 +493,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`subset_of_palette_collections01-03_for_art_projects`](subset_of_palette_collections01-03_for_art_projects.hexplt)
 
 [ ![subset_of_palette_collections01-03_for_art_projects.png](subset_of_palette_collections01-03_for_art_projects.png) ](subset_of_palette_collections01-03_for_art_projects.png)
-
-### [`sunset_over_Utah_Valley_2023-06-29`](sunset_over_Utah_Valley_2023-06-29.hexplt)
-
-[ ![sunset_over_Utah_Valley_2023-06-29.png](sunset_over_Utah_Valley_2023-06-29.png) ](sunset_over_Utah_Valley_2023-06-29.png)
 
 ### [`terraformed`](terraformed.hexplt)
 
