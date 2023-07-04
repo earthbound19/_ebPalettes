@@ -26,6 +26,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Burnt_Sandstone_and_Firebird_B.png](Burnt_Sandstone_and_Firebird_B.png) ](Burnt_Sandstone_and_Firebird_B.png)
 
+### [`Butter_and_Light_Jade`](Butter_and_Light_Jade.hexplt)
+
+[ ![Butter_and_Light_Jade.png](Butter_and_Light_Jade.png) ](Butter_and_Light_Jade.png)
+
 ### [`Cool_Cats_Terraformed_Faux_Oatmeal`](Cool_Cats_Terraformed_Faux_Oatmeal.hexplt)
 
 [ ![Cool_Cats_Terraformed_Faux_Oatmeal.png](Cool_Cats_Terraformed_Faux_Oatmeal.png) ](Cool_Cats_Terraformed_Faux_Oatmeal.png)
