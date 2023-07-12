@@ -57,6 +57,15 @@ If you're viewing this repository at a web site such as GitHub or other context 
 
 -- where the title over the image links to the source `.hexplt` file, and the rendered image links to the image file.
 
+## Style and File Locations Guide
+
+- Files are named in Title Case with underscores for spaces (Title_Case), and never camelCase, with exceptions.
+- Palette development goes on in the /palettes_dev subfolder. Finalized (approved for use in art or production) palettes are migrated to /palettes. Reference material is in /reference.
+
+There may be sub-subfolder name overlap in those folders, as things of the same topic/project are worked on or referenced.
+
+The reason for Title Case is the intent to make palette names and contents available over the internet via API calls that reference or are derived from this repository, and that naming style is what I prefer for palette reference/display in projects that use these palettes.
+
 ## Scripts that render palettes and galleries
 
 Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are [renderAllHexPalettes.sh]( https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
