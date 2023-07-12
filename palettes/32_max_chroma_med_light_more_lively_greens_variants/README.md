@@ -6,9 +6,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![01_Magentas.png](01_Magentas.png) ](01_Magentas.png)
 
-### [`02_MagentaRoses`](02_MagentaRoses.hexplt)
+### [`02_Magenta_Roses`](02_Magenta_Roses.hexplt)
 
-[ ![02_MagentaRoses.png](02_MagentaRoses.png) ](02_MagentaRoses.png)
+[ ![02_Magenta_Roses.png](02_Magenta_Roses.png) ](02_Magenta_Roses.png)
 
 ### [`03_Roses`](03_Roses.hexplt)
 

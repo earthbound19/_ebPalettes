@@ -50,9 +50,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![12_3CWy5fZQ.png](12_3CWy5fZQ.png) ](12_3CWy5fZQ.png)
 
-### [`13_mech_suit`](13_mech_suit.hexplt)
+### [`13_Mech_Suit`](13_Mech_Suit.hexplt)
 
-[ ![13_mech_suit.png](13_mech_suit.png) ](13_mech_suit.png)
+[ ![13_Mech_Suit.png](13_Mech_Suit.png) ](13_Mech_Suit.png)
 
 ### [`14_kMJdZpCy`](14_kMJdZpCy.hexplt)
 

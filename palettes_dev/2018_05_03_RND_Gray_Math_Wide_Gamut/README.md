@@ -182,9 +182,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![4-2018_05_03-13_25_18-530386-a56.png](4-2018_05_03-13_25_18-530386-a56.png) ](4-2018_05_03-13_25_18-530386-a56.png)
 
-### [`4-2018_05_03-13_25_18-533035-c81_cyanDominated`](4-2018_05_03-13_25_18-533035-c81_cyanDominated.hexplt)
+### [`4-2018_05_03-13_25_18-533035-c81_Cyan-dominated`](4-2018_05_03-13_25_18-533035-c81_Cyan-dominated.hexplt)
 
-[ ![4-2018_05_03-13_25_18-533035-c81_cyanDominated.png](4-2018_05_03-13_25_18-533035-c81_cyanDominated.png) ](4-2018_05_03-13_25_18-533035-c81_cyanDominated.png)
+[ ![4-2018_05_03-13_25_18-533035-c81_Cyan-dominated.png](4-2018_05_03-13_25_18-533035-c81_Cyan-dominated.png) ](4-2018_05_03-13_25_18-533035-c81_Cyan-dominated.png)
 
 ### [`4-2018_05_03-19_51_33-152000-940`](4-2018_05_03-19_51_33-152000-940.hexplt)
 

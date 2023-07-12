@@ -2,12 +2,12 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Kj4j`](Kj4j.hexplt)
+### [`1_Ckej`](1_Ckej.hexplt)
 
-[ ![Kj4j.png](Kj4j.png) ](Kj4j.png)
+[ ![1_Ckej.png](1_Ckej.png) ](1_Ckej.png)
 
-### [`Mc9k`](Mc9k.hexplt)
+### [`2_Dytd`](2_Dytd.hexplt)
 
-[ ![Mc9k.png](Mc9k.png) ](Mc9k.png)
+[ ![2_Dytd.png](2_Dytd.png) ](2_Dytd.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

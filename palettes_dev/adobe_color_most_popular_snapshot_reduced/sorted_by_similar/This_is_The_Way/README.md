@@ -30,13 +30,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![07_7f8GSVkr.png](07_7f8GSVkr.png) ](07_7f8GSVkr.png)
 
-### [`08_Din_Djarin_armor`](08_Din_Djarin_armor.hexplt)
+### [`08_Din_Djarin_Armor`](08_Din_Djarin_Armor.hexplt)
 
-[ ![08_Din_Djarin_armor.png](08_Din_Djarin_armor.png) ](08_Din_Djarin_armor.png)
+[ ![08_Din_Djarin_Armor.png](08_Din_Djarin_Armor.png) ](08_Din_Djarin_Armor.png)
 
-### [`09_Boba_Fett_armor`](09_Boba_Fett_armor.hexplt)
+### [`09_Boba_Fett_Armor`](09_Boba_Fett_Armor.hexplt)
 
-[ ![09_Boba_Fett_armor.png](09_Boba_Fett_armor.png) ](09_Boba_Fett_armor.png)
+[ ![09_Boba_Fett_Armor.png](09_Boba_Fett_Armor.png) ](09_Boba_Fett_Armor.png)
 
 ### [`10_XmGCbEGW`](10_XmGCbEGW.hexplt)
 

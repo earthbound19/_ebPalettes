@@ -2,96 +2,96 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`aix3_palette`](aix3_palette.hexplt)
+### [`Aix3`](Aix3.hexplt)
 
-[ ![aix3_palette.png](aix3_palette.png) ](aix3_palette.png)
+[ ![Aix3.png](Aix3.png) ](Aix3.png)
 
-### [`dtqw_palette`](dtqw_palette.hexplt)
+### [`Dtqw`](Dtqw.hexplt)
 
-[ ![dtqw_palette.png](dtqw_palette.png) ](dtqw_palette.png)
+[ ![Dtqw.png](Dtqw.png) ](Dtqw.png)
 
-### [`e4dr_palette`](e4dr_palette.hexplt)
+### [`E4dr`](E4dr.hexplt)
 
-[ ![e4dr_palette.png](e4dr_palette.png) ](e4dr_palette.png)
+[ ![E4dr.png](E4dr.png) ](E4dr.png)
 
-### [`g399_palette`](g399_palette.hexplt)
+### [`G399`](G399.hexplt)
 
-[ ![g399_palette.png](g399_palette.png) ](g399_palette.png)
+[ ![G399.png](G399.png) ](G399.png)
 
-### [`ikhb_palette`](ikhb_palette.hexplt)
+### [`Ikhb`](Ikhb.hexplt)
 
-[ ![ikhb_palette.png](ikhb_palette.png) ](ikhb_palette.png)
+[ ![Ikhb.png](Ikhb.png) ](Ikhb.png)
 
-### [`knya_palette`](knya_palette.hexplt)
+### [`Knya`](Knya.hexplt)
 
-[ ![knya_palette.png](knya_palette.png) ](knya_palette.png)
+[ ![Knya.png](Knya.png) ](Knya.png)
 
-### [`n7iv_palette`](n7iv_palette.hexplt)
+### [`N7iv`](N7iv.hexplt)
 
-[ ![n7iv_palette.png](n7iv_palette.png) ](n7iv_palette.png)
+[ ![N7iv.png](N7iv.png) ](N7iv.png)
 
-### [`njx5_palette`](njx5_palette.hexplt)
+### [`Njx5`](Njx5.hexplt)
 
-[ ![njx5_palette.png](njx5_palette.png) ](njx5_palette.png)
+[ ![Njx5.png](Njx5.png) ](Njx5.png)
 
-### [`nqd5_palette`](nqd5_palette.hexplt)
+### [`Nqd5`](Nqd5.hexplt)
 
-[ ![nqd5_palette.png](nqd5_palette.png) ](nqd5_palette.png)
+[ ![Nqd5.png](Nqd5.png) ](Nqd5.png)
 
-### [`s5sg_palette`](s5sg_palette.hexplt)
+### [`S5sg`](S5sg.hexplt)
 
-[ ![s5sg_palette.png](s5sg_palette.png) ](s5sg_palette.png)
+[ ![S5sg.png](S5sg.png) ](S5sg.png)
 
-### [`sfjp_palette`](sfjp_palette.hexplt)
+### [`Sfjp`](Sfjp.hexplt)
 
-[ ![sfjp_palette.png](sfjp_palette.png) ](sfjp_palette.png)
+[ ![Sfjp.png](Sfjp.png) ](Sfjp.png)
 
-### [`su7h_palette`](su7h_palette.hexplt)
+### [`Su7h`](Su7h.hexplt)
 
-[ ![su7h_palette.png](su7h_palette.png) ](su7h_palette.png)
+[ ![Su7h.png](Su7h.png) ](Su7h.png)
 
-### [`ta4d_palette`](ta4d_palette.hexplt)
+### [`Ta4d`](Ta4d.hexplt)
 
-[ ![ta4d_palette.png](ta4d_palette.png) ](ta4d_palette.png)
+[ ![Ta4d.png](Ta4d.png) ](Ta4d.png)
 
-### [`tzqi_palette`](tzqi_palette.hexplt)
+### [`Tzqi`](Tzqi.hexplt)
 
-[ ![tzqi_palette.png](tzqi_palette.png) ](tzqi_palette.png)
+[ ![Tzqi.png](Tzqi.png) ](Tzqi.png)
 
-### [`u6nt_palette`](u6nt_palette.hexplt)
+### [`U6nt`](U6nt.hexplt)
 
-[ ![u6nt_palette.png](u6nt_palette.png) ](u6nt_palette.png)
+[ ![U6nt.png](U6nt.png) ](U6nt.png)
 
-### [`ux4j_palette`](ux4j_palette.hexplt)
+### [`Ux4j`](Ux4j.hexplt)
 
-[ ![ux4j_palette.png](ux4j_palette.png) ](ux4j_palette.png)
+[ ![Ux4j.png](Ux4j.png) ](Ux4j.png)
 
-### [`vpk2_palette`](vpk2_palette.hexplt)
+### [`Vpk2`](Vpk2.hexplt)
 
-[ ![vpk2_palette.png](vpk2_palette.png) ](vpk2_palette.png)
+[ ![Vpk2.png](Vpk2.png) ](Vpk2.png)
 
-### [`yf2x_palette`](yf2x_palette.hexplt)
+### [`Yf2x`](Yf2x.hexplt)
 
-[ ![yf2x_palette.png](yf2x_palette.png) ](yf2x_palette.png)
+[ ![Yf2x.png](Yf2x.png) ](Yf2x.png)
 
-### [`2ag7_palette`](2ag7_palette.hexplt)
+### [`2ag7`](2ag7.hexplt)
 
-[ ![2ag7_palette.png](2ag7_palette.png) ](2ag7_palette.png)
+[ ![2ag7.png](2ag7.png) ](2ag7.png)
 
-### [`7idi_palette`](7idi_palette.hexplt)
+### [`7idi`](7idi.hexplt)
 
-[ ![7idi_palette.png](7idi_palette.png) ](7idi_palette.png)
+[ ![7idi.png](7idi.png) ](7idi.png)
 
-### [`8vnb_palette`](8vnb_palette.hexplt)
+### [`8vnb`](8vnb.hexplt)
 
-[ ![8vnb_palette.png](8vnb_palette.png) ](8vnb_palette.png)
+[ ![8vnb.png](8vnb.png) ](8vnb.png)
 
-### [`68da_palette`](68da_palette.hexplt)
+### [`68da`](68da.hexplt)
 
-[ ![68da_palette.png](68da_palette.png) ](68da_palette.png)
+[ ![68da.png](68da.png) ](68da.png)
 
-### [`92ab_palette`](92ab_palette.hexplt)
+### [`92ab`](92ab.hexplt)
 
-[ ![92ab_palette.png](92ab_palette.png) ](92ab_palette.png)
+[ ![92ab.png](92ab.png) ](92ab.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -50,9 +50,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![003_GmUJ2Ran.png](003_GmUJ2Ran.png) ](003_GmUJ2Ran.png)
 
-### [`003_UrDK8Rx3-tweak`](003_UrDK8Rx3-tweak.hexplt)
+### [`003_UrDK8Rx3_tweak`](003_UrDK8Rx3_tweak.hexplt)
 
-[ ![003_UrDK8Rx3-tweak.png](003_UrDK8Rx3-tweak.png) ](003_UrDK8Rx3-tweak.png)
+[ ![003_UrDK8Rx3_tweak.png](003_UrDK8Rx3_tweak.png) ](003_UrDK8Rx3_tweak.png)
 
 ### [`003_i7zj9kwR`](003_i7zj9kwR.hexplt)
 

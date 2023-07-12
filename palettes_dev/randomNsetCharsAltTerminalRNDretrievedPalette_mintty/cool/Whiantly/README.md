@@ -2,88 +2,88 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Whiantly_palettes_grid`](Whiantly_palettes_grid.hexplt)
+### [`Whiantly_Palettes_Grid`](Whiantly_Palettes_Grid.hexplt)
 
-[ ![Whiantly_palettes_grid.png](Whiantly_palettes_grid.png) ](Whiantly_palettes_grid.png)
+[ ![Whiantly_Palettes_Grid.png](Whiantly_Palettes_Grid.png) ](Whiantly_Palettes_Grid.png)
 
-### [`01_2ypwz_palette`](01_2ypwz_palette.hexplt)
+### [`01_2ypwz`](01_2ypwz.hexplt)
 
-[ ![01_2ypwz_palette.png](01_2ypwz_palette.png) ](01_2ypwz_palette.png)
+[ ![01_2ypwz.png](01_2ypwz.png) ](01_2ypwz.png)
 
-### [`02_5bg9g_palette`](02_5bg9g_palette.hexplt)
+### [`02_5bg9g`](02_5bg9g.hexplt)
 
-[ ![02_5bg9g_palette.png](02_5bg9g_palette.png) ](02_5bg9g_palette.png)
+[ ![02_5bg9g.png](02_5bg9g.png) ](02_5bg9g.png)
 
-### [`03_ciw78_palette`](03_ciw78_palette.hexplt)
+### [`03_Ciw78`](03_Ciw78.hexplt)
 
-[ ![03_ciw78_palette.png](03_ciw78_palette.png) ](03_ciw78_palette.png)
+[ ![03_Ciw78.png](03_Ciw78.png) ](03_Ciw78.png)
 
-### [`04_ehzaa_palette`](04_ehzaa_palette.hexplt)
+### [`04_Ehzaa`](04_Ehzaa.hexplt)
 
-[ ![04_ehzaa_palette.png](04_ehzaa_palette.png) ](04_ehzaa_palette.png)
+[ ![04_Ehzaa.png](04_Ehzaa.png) ](04_Ehzaa.png)
 
-### [`05_5zpbk_palette`](05_5zpbk_palette.hexplt)
+### [`05_5zpbk`](05_5zpbk.hexplt)
 
-[ ![05_5zpbk_palette.png](05_5zpbk_palette.png) ](05_5zpbk_palette.png)
+[ ![05_5zpbk.png](05_5zpbk.png) ](05_5zpbk.png)
 
-### [`06_vgqbc_palette`](06_vgqbc_palette.hexplt)
+### [`06_Vgqbc`](06_Vgqbc.hexplt)
 
-[ ![06_vgqbc_palette.png](06_vgqbc_palette.png) ](06_vgqbc_palette.png)
+[ ![06_Vgqbc.png](06_Vgqbc.png) ](06_Vgqbc.png)
 
-### [`07_u4nta_palette`](07_u4nta_palette.hexplt)
+### [`07_U4nta`](07_U4nta.hexplt)
 
-[ ![07_u4nta_palette.png](07_u4nta_palette.png) ](07_u4nta_palette.png)
+[ ![07_U4nta.png](07_U4nta.png) ](07_U4nta.png)
 
-### [`08_8245p_palette`](08_8245p_palette.hexplt)
+### [`08_8245p`](08_8245p.hexplt)
 
-[ ![08_8245p_palette.png](08_8245p_palette.png) ](08_8245p_palette.png)
+[ ![08_8245p.png](08_8245p.png) ](08_8245p.png)
 
-### [`09_84rus_palette`](09_84rus_palette.hexplt)
+### [`09_84rus`](09_84rus.hexplt)
 
-[ ![09_84rus_palette.png](09_84rus_palette.png) ](09_84rus_palette.png)
+[ ![09_84rus.png](09_84rus.png) ](09_84rus.png)
 
-### [`10_r48b2_palette`](10_r48b2_palette.hexplt)
+### [`10_R48b2`](10_R48b2.hexplt)
 
-[ ![10_r48b2_palette.png](10_r48b2_palette.png) ](10_r48b2_palette.png)
+[ ![10_R48b2.png](10_R48b2.png) ](10_R48b2.png)
 
-### [`11_eyiq9_palette`](11_eyiq9_palette.hexplt)
+### [`11_Eyiq9`](11_Eyiq9.hexplt)
 
-[ ![11_eyiq9_palette.png](11_eyiq9_palette.png) ](11_eyiq9_palette.png)
+[ ![11_Eyiq9.png](11_Eyiq9.png) ](11_Eyiq9.png)
 
-### [`12_5m64r_palette`](12_5m64r_palette.hexplt)
+### [`12_5m64r`](12_5m64r.hexplt)
 
-[ ![12_5m64r_palette.png](12_5m64r_palette.png) ](12_5m64r_palette.png)
+[ ![12_5m64r.png](12_5m64r.png) ](12_5m64r.png)
 
-### [`13_hzzad_palette`](13_hzzad_palette.hexplt)
+### [`13_Hzzad`](13_Hzzad.hexplt)
 
-[ ![13_hzzad_palette.png](13_hzzad_palette.png) ](13_hzzad_palette.png)
+[ ![13_Hzzad.png](13_Hzzad.png) ](13_Hzzad.png)
 
-### [`14_p9ysw_palette`](14_p9ysw_palette.hexplt)
+### [`14_P9ysw`](14_P9ysw.hexplt)
 
-[ ![14_p9ysw_palette.png](14_p9ysw_palette.png) ](14_p9ysw_palette.png)
+[ ![14_P9ysw.png](14_P9ysw.png) ](14_P9ysw.png)
 
-### [`15_a89iy_palette`](15_a89iy_palette.hexplt)
+### [`15_A89iy`](15_A89iy.hexplt)
 
-[ ![15_a89iy_palette.png](15_a89iy_palette.png) ](15_a89iy_palette.png)
+[ ![15_A89iy.png](15_A89iy.png) ](15_A89iy.png)
 
-### [`16_pw43h_palette`](16_pw43h_palette.hexplt)
+### [`16_Pw43h`](16_Pw43h.hexplt)
 
-[ ![16_pw43h_palette.png](16_pw43h_palette.png) ](16_pw43h_palette.png)
+[ ![16_Pw43h.png](16_Pw43h.png) ](16_Pw43h.png)
 
-### [`17_k7kmx_palette`](17_k7kmx_palette.hexplt)
+### [`17_K7kmx`](17_K7kmx.hexplt)
 
-[ ![17_k7kmx_palette.png](17_k7kmx_palette.png) ](17_k7kmx_palette.png)
+[ ![17_K7kmx.png](17_K7kmx.png) ](17_K7kmx.png)
 
-### [`18_gi87a_palette`](18_gi87a_palette.hexplt)
+### [`18_Gi87a`](18_Gi87a.hexplt)
 
-[ ![18_gi87a_palette.png](18_gi87a_palette.png) ](18_gi87a_palette.png)
+[ ![18_Gi87a.png](18_Gi87a.png) ](18_Gi87a.png)
 
-### [`19_fei26_palette`](19_fei26_palette.hexplt)
+### [`19_Fei26`](19_Fei26.hexplt)
 
-[ ![19_fei26_palette.png](19_fei26_palette.png) ](19_fei26_palette.png)
+[ ![19_Fei26.png](19_Fei26.png) ](19_Fei26.png)
 
-### [`20_3aiay_palette`](20_3aiay_palette.hexplt)
+### [`20_3aiay`](20_3aiay.hexplt)
 
-[ ![20_3aiay_palette.png](20_3aiay_palette.png) ](20_3aiay_palette.png)
+[ ![20_3aiay.png](20_3aiay.png) ](20_3aiay.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

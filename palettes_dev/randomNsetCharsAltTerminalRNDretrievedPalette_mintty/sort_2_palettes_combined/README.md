@@ -2,140 +2,140 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`c5kr_palette`](c5kr_palette.hexplt)
+### [`C5kr`](C5kr.hexplt)
 
-[ ![c5kr_palette.png](c5kr_palette.png) ](c5kr_palette.png)
+[ ![C5kr.png](C5kr.png) ](C5kr.png)
 
-### [`cavj_palette`](cavj_palette.hexplt)
+### [`Cavj`](Cavj.hexplt)
 
-[ ![cavj_palette.png](cavj_palette.png) ](cavj_palette.png)
+[ ![Cavj.png](Cavj.png) ](Cavj.png)
 
-### [`cq5e_palette`](cq5e_palette.hexplt)
+### [`Cq5e`](Cq5e.hexplt)
 
-[ ![cq5e_palette.png](cq5e_palette.png) ](cq5e_palette.png)
+[ ![Cq5e.png](Cq5e.png) ](Cq5e.png)
 
-### [`d8tj_palette`](d8tj_palette.hexplt)
+### [`D8tj`](D8tj.hexplt)
 
-[ ![d8tj_palette.png](d8tj_palette.png) ](d8tj_palette.png)
+[ ![D8tj.png](D8tj.png) ](D8tj.png)
 
-### [`dfig_palette`](dfig_palette.hexplt)
+### [`Dfig`](Dfig.hexplt)
 
-[ ![dfig_palette.png](dfig_palette.png) ](dfig_palette.png)
+[ ![Dfig.png](Dfig.png) ](Dfig.png)
 
-### [`dy2i_palette`](dy2i_palette.hexplt)
+### [`Dy2i`](Dy2i.hexplt)
 
-[ ![dy2i_palette.png](dy2i_palette.png) ](dy2i_palette.png)
+[ ![Dy2i.png](Dy2i.png) ](Dy2i.png)
 
-### [`g6dg_palette`](g6dg_palette.hexplt)
+### [`G6dg`](G6dg.hexplt)
 
-[ ![g6dg_palette.png](g6dg_palette.png) ](g6dg_palette.png)
+[ ![G6dg.png](G6dg.png) ](G6dg.png)
 
-### [`gr7p_palette`](gr7p_palette.hexplt)
+### [`Gr7p`](Gr7p.hexplt)
 
-[ ![gr7p_palette.png](gr7p_palette.png) ](gr7p_palette.png)
+[ ![Gr7p.png](Gr7p.png) ](Gr7p.png)
 
-### [`hhua_palette`](hhua_palette.hexplt)
+### [`Hhua`](Hhua.hexplt)
 
-[ ![hhua_palette.png](hhua_palette.png) ](hhua_palette.png)
+[ ![Hhua.png](Hhua.png) ](Hhua.png)
 
-### [`kmfc_palette`](kmfc_palette.hexplt)
+### [`Kmfc`](Kmfc.hexplt)
 
-[ ![kmfc_palette.png](kmfc_palette.png) ](kmfc_palette.png)
+[ ![Kmfc.png](Kmfc.png) ](Kmfc.png)
 
-### [`knpw_palette`](knpw_palette.hexplt)
+### [`Knpw`](Knpw.hexplt)
 
-[ ![knpw_palette.png](knpw_palette.png) ](knpw_palette.png)
+[ ![Knpw.png](Knpw.png) ](Knpw.png)
 
-### [`nnnp_palette`](nnnp_palette.hexplt)
+### [`Nnnp`](Nnnp.hexplt)
 
-[ ![nnnp_palette.png](nnnp_palette.png) ](nnnp_palette.png)
+[ ![Nnnp.png](Nnnp.png) ](Nnnp.png)
 
-### [`nq4g_palette`](nq4g_palette.hexplt)
+### [`Nq4g`](Nq4g.hexplt)
 
-[ ![nq4g_palette.png](nq4g_palette.png) ](nq4g_palette.png)
+[ ![Nq4g.png](Nq4g.png) ](Nq4g.png)
 
-### [`phh2_palette`](phh2_palette.hexplt)
+### [`Phh2`](Phh2.hexplt)
 
-[ ![phh2_palette.png](phh2_palette.png) ](phh2_palette.png)
+[ ![Phh2.png](Phh2.png) ](Phh2.png)
 
-### [`q3xd_palette`](q3xd_palette.hexplt)
+### [`Q3xd`](Q3xd.hexplt)
 
-[ ![q3xd_palette.png](q3xd_palette.png) ](q3xd_palette.png)
+[ ![Q3xd.png](Q3xd.png) ](Q3xd.png)
 
-### [`qs8y_palette`](qs8y_palette.hexplt)
+### [`Qs8y`](Qs8y.hexplt)
 
-[ ![qs8y_palette.png](qs8y_palette.png) ](qs8y_palette.png)
+[ ![Qs8y.png](Qs8y.png) ](Qs8y.png)
 
-### [`saq4_palette`](saq4_palette.hexplt)
+### [`Saq4`](Saq4.hexplt)
 
-[ ![saq4_palette.png](saq4_palette.png) ](saq4_palette.png)
+[ ![Saq4.png](Saq4.png) ](Saq4.png)
 
-### [`t4hv_palette`](t4hv_palette.hexplt)
+### [`T4hv`](T4hv.hexplt)
 
-[ ![t4hv_palette.png](t4hv_palette.png) ](t4hv_palette.png)
+[ ![T4hv.png](T4hv.png) ](T4hv.png)
 
-### [`tz29_palette`](tz29_palette.hexplt)
+### [`Tz29`](Tz29.hexplt)
 
-[ ![tz29_palette.png](tz29_palette.png) ](tz29_palette.png)
+[ ![Tz29.png](Tz29.png) ](Tz29.png)
 
-### [`ui7e_palette`](ui7e_palette.hexplt)
+### [`Ui7e`](Ui7e.hexplt)
 
-[ ![ui7e_palette.png](ui7e_palette.png) ](ui7e_palette.png)
+[ ![Ui7e.png](Ui7e.png) ](Ui7e.png)
 
-### [`uywx_palette`](uywx_palette.hexplt)
+### [`Uywx`](Uywx.hexplt)
 
-[ ![uywx_palette.png](uywx_palette.png) ](uywx_palette.png)
+[ ![Uywx.png](Uywx.png) ](Uywx.png)
 
-### [`vqyk_palette`](vqyk_palette.hexplt)
+### [`Vqyk`](Vqyk.hexplt)
 
-[ ![vqyk_palette.png](vqyk_palette.png) ](vqyk_palette.png)
+[ ![Vqyk.png](Vqyk.png) ](Vqyk.png)
 
-### [`w99a_palette`](w99a_palette.hexplt)
+### [`W99a`](W99a.hexplt)
 
-[ ![w99a_palette.png](w99a_palette.png) ](w99a_palette.png)
+[ ![W99a.png](W99a.png) ](W99a.png)
 
-### [`xbw5_palette`](xbw5_palette.hexplt)
+### [`Xbw5`](Xbw5.hexplt)
 
-[ ![xbw5_palette.png](xbw5_palette.png) ](xbw5_palette.png)
+[ ![Xbw5.png](Xbw5.png) ](Xbw5.png)
 
-### [`xruc_palette`](xruc_palette.hexplt)
+### [`Xruc`](Xruc.hexplt)
 
-[ ![xruc_palette.png](xruc_palette.png) ](xruc_palette.png)
+[ ![Xruc.png](Xruc.png) ](Xruc.png)
 
-### [`y5e7_palette`](y5e7_palette.hexplt)
+### [`Y5e7`](Y5e7.hexplt)
 
-[ ![y5e7_palette.png](y5e7_palette.png) ](y5e7_palette.png)
+[ ![Y5e7.png](Y5e7.png) ](Y5e7.png)
 
-### [`2kqp_palette`](2kqp_palette.hexplt)
+### [`2kqp`](2kqp.hexplt)
 
-[ ![2kqp_palette.png](2kqp_palette.png) ](2kqp_palette.png)
+[ ![2kqp.png](2kqp.png) ](2kqp.png)
 
-### [`2z38_palette`](2z38_palette.hexplt)
+### [`2z38`](2z38.hexplt)
 
-[ ![2z38_palette.png](2z38_palette.png) ](2z38_palette.png)
+[ ![2z38.png](2z38.png) ](2z38.png)
 
-### [`5ja3_palette`](5ja3_palette.hexplt)
+### [`5ja3`](5ja3.hexplt)
 
-[ ![5ja3_palette.png](5ja3_palette.png) ](5ja3_palette.png)
+[ ![5ja3.png](5ja3.png) ](5ja3.png)
 
-### [`6m5t_palette`](6m5t_palette.hexplt)
+### [`6m5t`](6m5t.hexplt)
 
-[ ![6m5t_palette.png](6m5t_palette.png) ](6m5t_palette.png)
+[ ![6m5t.png](6m5t.png) ](6m5t.png)
 
-### [`6s8z_palette`](6s8z_palette.hexplt)
+### [`6s8z`](6s8z.hexplt)
 
-[ ![6s8z_palette.png](6s8z_palette.png) ](6s8z_palette.png)
+[ ![6s8z.png](6s8z.png) ](6s8z.png)
 
-### [`7zb4_palette`](7zb4_palette.hexplt)
+### [`7zb4`](7zb4.hexplt)
 
-[ ![7zb4_palette.png](7zb4_palette.png) ](7zb4_palette.png)
+[ ![7zb4.png](7zb4.png) ](7zb4.png)
 
-### [`8q87_palette`](8q87_palette.hexplt)
+### [`8q87`](8q87.hexplt)
 
-[ ![8q87_palette.png](8q87_palette.png) ](8q87_palette.png)
+[ ![8q87.png](8q87.png) ](8q87.png)
 
-### [`9vcv_palette`](9vcv_palette.hexplt)
+### [`9vcv`](9vcv.hexplt)
 
-[ ![9vcv_palette.png](9vcv_palette.png) ](9vcv_palette.png)
+[ ![9vcv.png](9vcv.png) ](9vcv.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
