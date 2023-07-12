@@ -38,9 +38,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Soil_Pigments_Darker_and_Dark_Backgrounds_Tweak_Gradient.png](Soil_Pigments_Darker_and_Dark_Backgrounds_Tweak_Gradient.png) ](Soil_Pigments_Darker_and_Dark_Backgrounds_Tweak_Gradient.png)
 
-### [`The_Plant_Mage_and_The_Mystic`](The_Plant_Mage_and_The_Mystic.hexplt)
+### [`The_Plant_Mage_and_the_Mystic`](The_Plant_Mage_and_the_Mystic.hexplt)
 
-[ ![The_Plant_Mage_and_The_Mystic.png](The_Plant_Mage_and_The_Mystic.png) ](The_Plant_Mage_and_The_Mystic.png)
+[ ![The_Plant_Mage_and_the_Mystic.png](The_Plant_Mage_and_the_Mystic.png) ](The_Plant_Mage_and_the_Mystic.png)
 
 ### [`Wool_Faded_to_Tyrian_Purple`](Wool_Faded_to_Tyrian_Purple.hexplt)
 
