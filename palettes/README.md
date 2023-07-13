@@ -318,6 +318,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Light_Lively_Moss_to_Buttery_Orange_Yellow.png](Light_Lively_Moss_to_Buttery_Orange_Yellow.png) ](Light_Lively_Moss_to_Buttery_Orange_Yellow.png)
 
+### [`Light_and_Dusty_Jades`](Light_and_Dusty_Jades.hexplt)
+
+[ ![Light_and_Dusty_Jades.png](Light_and_Dusty_Jades.png) ](Light_and_Dusty_Jades.png)
+
 ### [`Lively_Moss_and_Buttery_Orange_Yellow`](Lively_Moss_and_Buttery_Orange_Yellow.hexplt)
 
 [ ![Lively_Moss_and_Buttery_Orange_Yellow.png](Lively_Moss_and_Buttery_Orange_Yellow.png) ](Lively_Moss_and_Buttery_Orange_Yellow.png)
