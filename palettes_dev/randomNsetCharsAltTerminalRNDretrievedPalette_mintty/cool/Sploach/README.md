@@ -6,9 +6,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sploach_Augmented_1x1-grid.png](Sploach_Augmented_1x1-grid.png) ](Sploach_Augmented_1x1-grid.png)
 
-### [`Sploach_Palettes_Grid`](Sploach_Palettes_Grid.hexplt)
+### [`Sploach_palettes_grid`](Sploach_palettes_grid.hexplt)
 
-[ ![Sploach_Palettes_Grid.png](Sploach_Palettes_Grid.png) ](Sploach_Palettes_Grid.png)
+[ ![Sploach_palettes_grid.png](Sploach_palettes_grid.png) ](Sploach_palettes_grid.png)
 
 ### [`02_Xr486`](02_Xr486.hexplt)
 
@@ -22,9 +22,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![06_Jn3xq.png](06_Jn3xq.png) ](06_Jn3xq.png)
 
-### [`06b_Hand_Picked_Cool`](06b_Hand_Picked_Cool.hexplt)
+### [`06b_hand_picked_cool`](06b_hand_picked_cool.hexplt)
 
-[ ![06b_Hand_Picked_Cool.png](06b_Hand_Picked_Cool.png) ](06b_Hand_Picked_Cool.png)
+[ ![06b_hand_picked_cool.png](06b_hand_picked_cool.png) ](06b_hand_picked_cool.png)
 
 ### [`07_Ni2dj`](07_Ni2dj.hexplt)
 

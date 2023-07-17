@@ -6,12 +6,12 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Tyre_Augmented-1-grid.png](Tyre_Augmented-1-grid.png) ](Tyre_Augmented-1-grid.png)
 
-### [`Tyre_Palettes_Grid`](Tyre_Palettes_Grid.hexplt)
-
-[ ![Tyre_Palettes_Grid.png](Tyre_Palettes_Grid.png) ](Tyre_Palettes_Grid.png)
-
 ### [`Tyre_palettesColumnsOklabSortGrid_n8_s000000`](Tyre_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
 [ ![Tyre_palettesColumnsOklabSortGrid_n8_s000000.png](Tyre_palettesColumnsOklabSortGrid_n8_s000000.png) ](Tyre_palettesColumnsOklabSortGrid_n8_s000000.png)
+
+### [`Tyre_palettes_grid`](Tyre_palettes_grid.hexplt)
+
+[ ![Tyre_palettes_grid.png](Tyre_palettes_grid.png) ](Tyre_palettes_grid.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

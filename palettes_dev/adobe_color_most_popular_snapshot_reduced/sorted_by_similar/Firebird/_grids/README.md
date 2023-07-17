@@ -6,12 +6,12 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Firebird_Augmented-1-grid.png](Firebird_Augmented-1-grid.png) ](Firebird_Augmented-1-grid.png)
 
-### [`Firebird_Palettes_Grid`](Firebird_Palettes_Grid.hexplt)
-
-[ ![Firebird_Palettes_Grid.png](Firebird_Palettes_Grid.png) ](Firebird_Palettes_Grid.png)
-
 ### [`Firebird_palettesColumnsOklabSortGrid_n8_s000000`](Firebird_palettesColumnsOklabSortGrid_n8_s000000.hexplt)
 
 [ ![Firebird_palettesColumnsOklabSortGrid_n8_s000000.png](Firebird_palettesColumnsOklabSortGrid_n8_s000000.png) ](Firebird_palettesColumnsOklabSortGrid_n8_s000000.png)
+
+### [`Firebird_palettes_grid`](Firebird_palettes_grid.hexplt)
+
+[ ![Firebird_palettes_grid.png](Firebird_palettes_grid.png) ](Firebird_palettes_grid.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
