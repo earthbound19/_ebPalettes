@@ -502,10 +502,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Tiger_Dog_Rabbit.png](Tiger_Dog_Rabbit.png) ](Tiger_Dog_Rabbit.png)
 
-### [`Tropical`](Tropical.hexplt)
-
-[ ![Tropical.png](Tropical.png) ](Tropical.png)
-
 ### [`Turtle_Green_Tetradic_etc`](Turtle_Green_Tetradic_etc.hexplt)
 
 [ ![Turtle_Green_Tetradic_etc.png](Turtle_Green_Tetradic_etc.png) ](Turtle_Green_Tetradic_etc.png)
