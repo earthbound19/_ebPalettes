@@ -2,13 +2,13 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid`](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.hexplt)
+### [`Cool_Cats_Terraformed_and_Faux_Oatmeal_Augmented_3-grid`](Cool_Cats_Terraformed_and_Faux_Oatmeal_Augmented_3-grid.hexplt)
 
-[ ![Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png) ](Cool_Cats__Terraformed_and_Faux_Oatmeal_augmented_3_grid.png)
+[ ![Cool_Cats_Terraformed_and_Faux_Oatmeal_Augmented_3-grid.png](Cool_Cats_Terraformed_and_Faux_Oatmeal_Augmented_3-grid.png) ](Cool_Cats_Terraformed_and_Faux_Oatmeal_Augmented_3-grid.png)
 
-### [`Sunflower_and_Sunburn_augmented_11_grid`](Sunflower_and_Sunburn_augmented_11_grid.hexplt)
+### [`Sunflower_and_Sunburn_Augmented_11-grid`](Sunflower_and_Sunburn_Augmented_11-grid.hexplt)
 
-[ ![Sunflower_and_Sunburn_augmented_11_grid.png](Sunflower_and_Sunburn_augmented_11_grid.png) ](Sunflower_and_Sunburn_augmented_11_grid.png)
+[ ![Sunflower_and_Sunburn_Augmented_11-grid.png](Sunflower_and_Sunburn_Augmented_11-grid.png) ](Sunflower_and_Sunburn_Augmented_11-grid.png)
 
 ### [`The_Plant_Mage_and_The_Mystic_Augmented_Grid`](The_Plant_Mage_and_The_Mystic_Augmented_Grid.hexplt)
 

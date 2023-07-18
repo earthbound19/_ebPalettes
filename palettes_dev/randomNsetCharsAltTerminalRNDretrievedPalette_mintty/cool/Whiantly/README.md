@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Whiantly_palettes_grid`](Whiantly_palettes_grid.hexplt)
+### [`Whiantly_Palettes_Grid`](Whiantly_Palettes_Grid.hexplt)
 
-[ ![Whiantly_palettes_grid.png](Whiantly_palettes_grid.png) ](Whiantly_palettes_grid.png)
+[ ![Whiantly_Palettes_Grid.png](Whiantly_Palettes_Grid.png) ](Whiantly_Palettes_Grid.png)
 
 ### [`01_2ypwz`](01_2ypwz.hexplt)
 

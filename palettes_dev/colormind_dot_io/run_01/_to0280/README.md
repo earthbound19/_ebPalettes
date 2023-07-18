@@ -6,9 +6,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![01_colormind_dot_io_06232A_646D11_F8AF0E_F1400C_A80F1E.png](01_colormind_dot_io_06232A_646D11_F8AF0E_F1400C_A80F1E.png) ](01_colormind_dot_io_06232A_646D11_F8AF0E_F1400C_A80F1E.png)
 
-### [`02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_yummy_like_fall`](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_yummy_like_fall.hexplt)
+### [`02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_Yummy_Like_Fall`](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_Yummy_Like_Fall.hexplt)
 
-[ ![02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_yummy_like_fall.png](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_yummy_like_fall.png) ](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_yummy_like_fall.png)
+[ ![02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_Yummy_Like_Fall.png](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_Yummy_Like_Fall.png) ](02_colormind_dot_io_1A262A_4C3725_C95021_DA9714_D7B80C_Yummy_Like_Fall.png)
 
 ### [`03_colormind_dot_io_063B5B_239E87_D2DF79_F6E626_E9A042`](03_colormind_dot_io_063B5B_239E87_D2DF79_F6E626_E9A042.hexplt)
 
@@ -330,9 +330,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![82_colormind_dot_io_172359_253563_41677F_4AB096_34E0A8.png](82_colormind_dot_io_172359_253563_41677F_4AB096_34E0A8.png) ](82_colormind_dot_io_172359_253563_41677F_4AB096_34E0A8.png)
 
-### [`83_colormind_dot_io_mech_suit_091D41_3F7297_D7DAD2_07435A_82181C`](83_colormind_dot_io_mech_suit_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
+### [`83_colormind_dot_io_Mech_Suit_091D41_3F7297_D7DAD2_07435A_82181C`](83_colormind_dot_io_Mech_Suit_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
 
-[ ![83_colormind_dot_io_mech_suit_091D41_3F7297_D7DAD2_07435A_82181C.png](83_colormind_dot_io_mech_suit_091D41_3F7297_D7DAD2_07435A_82181C.png) ](83_colormind_dot_io_mech_suit_091D41_3F7297_D7DAD2_07435A_82181C.png)
+[ ![83_colormind_dot_io_Mech_Suit_091D41_3F7297_D7DAD2_07435A_82181C.png](83_colormind_dot_io_Mech_Suit_091D41_3F7297_D7DAD2_07435A_82181C.png) ](83_colormind_dot_io_Mech_Suit_091D41_3F7297_D7DAD2_07435A_82181C.png)
 
 ### [`84_colormind_dot_io_131534_26485D_067D86_E9DFC0_ED420F`](84_colormind_dot_io_131534_26485D_067D86_E9DFC0_ED420F.hexplt)
 
@@ -394,8 +394,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![98_colormind_dot_io_0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png](98_colormind_dot_io_0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png) ](98_colormind_dot_io_0C3E95_4586C4_D6DEC2_ECC62A_DD650E.png)
 
-### [`270_colormind_dot_io_mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C`](270_colormind_dot_io_mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
+### [`270_colormind_dot_io_Mech_Suit_Faded_Variant_091D41_3F7297_D7DAD2_07435A_82181C`](270_colormind_dot_io_Mech_Suit_Faded_Variant_091D41_3F7297_D7DAD2_07435A_82181C.hexplt)
 
-[ ![270_colormind_dot_io_mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png](270_colormind_dot_io_mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png) ](270_colormind_dot_io_mech_suit_faded_variant_091D41_3F7297_D7DAD2_07435A_82181C.png)
+[ ![270_colormind_dot_io_Mech_Suit_Faded_Variant_091D41_3F7297_D7DAD2_07435A_82181C.png](270_colormind_dot_io_Mech_Suit_Faded_Variant_091D41_3F7297_D7DAD2_07435A_82181C.png) ](270_colormind_dot_io_Mech_Suit_Faded_Variant_091D41_3F7297_D7DAD2_07435A_82181C.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

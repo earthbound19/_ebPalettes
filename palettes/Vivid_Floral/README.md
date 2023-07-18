@@ -2,17 +2,17 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Rose_and_Red_Flowers_palettes_grid_v3`](Rose_and_Red_Flowers_palettes_grid_v3.hexplt)
+### [`Rose_and_Red_Flowers_Palettes_Grid_v3`](Rose_and_Red_Flowers_Palettes_Grid_v3.hexplt)
 
-[ ![Rose_and_Red_Flowers_palettes_grid_v3.png](Rose_and_Red_Flowers_palettes_grid_v3.png) ](Rose_and_Red_Flowers_palettes_grid_v3.png)
+[ ![Rose_and_Red_Flowers_Palettes_Grid_v3.png](Rose_and_Red_Flowers_Palettes_Grid_v3.png) ](Rose_and_Red_Flowers_Palettes_Grid_v3.png)
 
 ### [`01_Rose_to_Yellow_Yellow_Orange_Flower`](01_Rose_to_Yellow_Yellow_Orange_Flower.hexplt)
 
 [ ![01_Rose_to_Yellow_Yellow_Orange_Flower.png](01_Rose_to_Yellow_Yellow_Orange_Flower.png) ](01_Rose_to_Yellow_Yellow_Orange_Flower.png)
 
-### [`03_Rose_to_light_yellow_flower`](03_Rose_to_light_yellow_flower.hexplt)
+### [`03_Rose_to_Light_Yellow_Flower`](03_Rose_to_Light_Yellow_Flower.hexplt)
 
-[ ![03_Rose_to_light_yellow_flower.png](03_Rose_to_light_yellow_flower.png) ](03_Rose_to_light_yellow_flower.png)
+[ ![03_Rose_to_Light_Yellow_Flower.png](03_Rose_to_Light_Yellow_Flower.png) ](03_Rose_to_Light_Yellow_Flower.png)
 
 ### [`04_Red_to_Light_Pink_Flower`](04_Red_to_Light_Pink_Flower.hexplt)
 
@@ -46,9 +46,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![10_Orange_Flower.png](10_Orange_Flower.png) ](10_Orange_Flower.png)
 
-### [`11_Orange-Mustard_to_Mustard_flower`](11_Orange-Mustard_to_Mustard_flower.hexplt)
+### [`11_Orange-Mustard_to_Mustard_Flower`](11_Orange-Mustard_to_Mustard_Flower.hexplt)
 
-[ ![11_Orange-Mustard_to_Mustard_flower.png](11_Orange-Mustard_to_Mustard_flower.png) ](11_Orange-Mustard_to_Mustard_flower.png)
+[ ![11_Orange-Mustard_to_Mustard_Flower.png](11_Orange-Mustard_to_Mustard_Flower.png) ](11_Orange-Mustard_to_Mustard_Flower.png)
 
 ### [`12_Deep_Rose_to_Rose_Flower`](12_Deep_Rose_to_Rose_Flower.hexplt)
 
