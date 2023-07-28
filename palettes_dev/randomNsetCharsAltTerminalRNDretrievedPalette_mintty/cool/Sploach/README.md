@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Sploach_Augmented_1x1-grid`](Sploach_Augmented_1x1-grid.hexplt)
+### [`Sploach_Augmented-1x1-grid`](Sploach_Augmented-1x1-grid.hexplt)
 
-[ ![Sploach_Augmented_1x1-grid.png](Sploach_Augmented_1x1-grid.png) ](Sploach_Augmented_1x1-grid.png)
+[ ![Sploach_Augmented-1x1-grid.png](Sploach_Augmented-1x1-grid.png) ](Sploach_Augmented-1x1-grid.png)
 
 ### [`Sploach_Palettes_Grid`](Sploach_Palettes_Grid.hexplt)
 
