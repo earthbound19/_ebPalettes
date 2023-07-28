@@ -6,9 +6,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Navy_Charcoal_and_Vine_Augmented-1-grid.png](Navy_Charcoal_and_Vine_Augmented-1-grid.png) ](Navy_Charcoal_and_Vine_Augmented-1-grid.png)
 
-### [`Navy_Charcoal_and_Vine_Augmented-3-Grid`](Navy_Charcoal_and_Vine_Augmented-3-Grid.hexplt)
+### [`Navy_Charcoal_and_Vine_Augmented-3-grid`](Navy_Charcoal_and_Vine_Augmented-3-grid.hexplt)
 
-[ ![Navy_Charcoal_and_Vine_Augmented-3-Grid.png](Navy_Charcoal_and_Vine_Augmented-3-Grid.png) ](Navy_Charcoal_and_Vine_Augmented-3-Grid.png)
+[ ![Navy_Charcoal_and_Vine_Augmented-3-grid.png](Navy_Charcoal_and_Vine_Augmented-3-grid.png) ](Navy_Charcoal_and_Vine_Augmented-3-grid.png)
 
 ### [`Navy_Charcoal_and_Vine_PalettesColumnsOklabSortGrid_n8_S000000`](Navy_Charcoal_and_Vine_PalettesColumnsOklabSortGrid_n8_S000000.hexplt)
 

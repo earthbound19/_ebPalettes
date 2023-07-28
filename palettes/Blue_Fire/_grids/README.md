@@ -2,25 +2,25 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Blue_Fire_Augmented_1-grid`](Blue_Fire_Augmented_1-grid.hexplt)
+### [`Blue_Fire_Augmented-1-grid`](Blue_Fire_Augmented-1-grid.hexplt)
 
-[ ![Blue_Fire_Augmented_1-grid.png](Blue_Fire_Augmented_1-grid.png) ](Blue_Fire_Augmented_1-grid.png)
+[ ![Blue_Fire_Augmented-1-grid.png](Blue_Fire_Augmented-1-grid.png) ](Blue_Fire_Augmented-1-grid.png)
 
-### [`Blue_Fire_Augmented_10-grid`](Blue_Fire_Augmented_10-grid.hexplt)
+### [`Blue_Fire_Augmented-10-grid`](Blue_Fire_Augmented-10-grid.hexplt)
 
-[ ![Blue_Fire_Augmented_10-grid.png](Blue_Fire_Augmented_10-grid.png) ](Blue_Fire_Augmented_10-grid.png)
+[ ![Blue_Fire_Augmented-10-grid.png](Blue_Fire_Augmented-10-grid.png) ](Blue_Fire_Augmented-10-grid.png)
 
-### [`Blue_Fire_Augmented_3-grid`](Blue_Fire_Augmented_3-grid.hexplt)
+### [`Blue_Fire_Augmented-3-grid`](Blue_Fire_Augmented-3-grid.hexplt)
 
-[ ![Blue_Fire_Augmented_3-grid.png](Blue_Fire_Augmented_3-grid.png) ](Blue_Fire_Augmented_3-grid.png)
+[ ![Blue_Fire_Augmented-3-grid.png](Blue_Fire_Augmented-3-grid.png) ](Blue_Fire_Augmented-3-grid.png)
 
 ### [`Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000`](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000.hexplt)
 
 [ ![Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000.png](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000.png) ](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000.png)
 
-### [`Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented_1-grid`](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented_1-grid.hexplt)
+### [`Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented-1-grid`](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented-1-grid.hexplt)
 
-[ ![Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented_1-grid.png](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented_1-grid.png) ](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented_1-grid.png)
+[ ![Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented-1-grid.png](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented-1-grid.png) ](Blue_Fire_PalettesColumnsOklabSortGrid_n8_S000000_Augmented-1-grid.png)
 
 ### [`Blue_Fire_Palettes_Grid`](Blue_Fire_Palettes_Grid.hexplt)
 

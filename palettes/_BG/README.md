@@ -26,9 +26,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Cool_Cats_Terraformed_Faux_Oatmeal_BG.png](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png) ](Cool_Cats_Terraformed_Faux_Oatmeal_BG.png)
 
-### [`Dead_Maple_Bg`](Dead_Maple_Bg.hexplt)
+### [`Dead_Maple_BG`](Dead_Maple_BG.hexplt)
 
-[ ![Dead_Maple_Bg.png](Dead_Maple_Bg.png) ](Dead_Maple_Bg.png)
+[ ![Dead_Maple_BG.png](Dead_Maple_BG.png) ](Dead_Maple_BG.png)
 
 ### [`Elements_and_Tea_BG`](Elements_and_Tea_BG.hexplt)
 
@@ -54,9 +54,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Light_and_Dusty_Jades_BG.png](Light_and_Dusty_Jades_BG.png) ](Light_and_Dusty_Jades_BG.png)
 
-### [`Magenta_Rose_Zinnia_Deadhead_Bg`](Magenta_Rose_Zinnia_Deadhead_Bg.hexplt)
+### [`Magenta_Rose_Zinnia_Deadhead_BG`](Magenta_Rose_Zinnia_Deadhead_BG.hexplt)
 
-[ ![Magenta_Rose_Zinnia_Deadhead_Bg.png](Magenta_Rose_Zinnia_Deadhead_Bg.png) ](Magenta_Rose_Zinnia_Deadhead_Bg.png)
+[ ![Magenta_Rose_Zinnia_Deadhead_BG.png](Magenta_Rose_Zinnia_Deadhead_BG.png) ](Magenta_Rose_Zinnia_Deadhead_BG.png)
 
 ### [`Paradise_BG`](Paradise_BG.hexplt)
 

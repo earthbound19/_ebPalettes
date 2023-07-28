@@ -2,9 +2,9 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Murky_Forest_Augmented_1-grid`](Murky_Forest_Augmented_1-grid.hexplt)
+### [`Murky_Forest_Augmented-1-grid`](Murky_Forest_Augmented-1-grid.hexplt)
 
-[ ![Murky_Forest_Augmented_1-grid.png](Murky_Forest_Augmented_1-grid.png) ](Murky_Forest_Augmented_1-grid.png)
+[ ![Murky_Forest_Augmented-1-grid.png](Murky_Forest_Augmented-1-grid.png) ](Murky_Forest_Augmented-1-grid.png)
 
 ### [`Murky_Forest_PalettesColumnsOklabSortGrid_n8_S000000`](Murky_Forest_PalettesColumnsOklabSortGrid_n8_S000000.hexplt)
 
