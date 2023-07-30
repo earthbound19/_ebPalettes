@@ -14,6 +14,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Banana_Split.png](Banana_Split.png) ](Banana_Split.png)
 
+### [`Barbenheimer`](Barbenheimer.hexplt)
+
+[ ![Barbenheimer.png](Barbenheimer.png) ](Barbenheimer.png)
+
+### [`Barbie`](Barbie.hexplt)
+
+[ ![Barbie.png](Barbie.png) ](Barbie.png)
+
 ### [`Boba_Fett_Armor`](Boba_Fett_Armor.hexplt)
 
 [ ![Boba_Fett_Armor.png](Boba_Fett_Armor.png) ](Boba_Fett_Armor.png)
@@ -361,6 +369,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Old_3D_Glasses`](Old_3D_Glasses.hexplt)
 
 [ ![Old_3D_Glasses.png](Old_3D_Glasses.png) ](Old_3D_Glasses.png)
+
+### [`Oppenheimer`](Oppenheimer.hexplt)
+
+[ ![Oppenheimer.png](Oppenheimer.png) ](Oppenheimer.png)
 
 ### [`Organic_Byproduct_Dyes`](Organic_Byproduct_Dyes.hexplt)
 
