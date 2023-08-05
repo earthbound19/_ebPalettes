@@ -47,6 +47,23 @@ If you look at that file at this writing, it actually mixes a comment with that 
 
 You can also have color codes in any layout and use a layout comment (or columns and rows descriptor), and a render script I have will honor the intended layout of the layout comment, whatever arrangment the color codes are in.
 
+## Automation
+
+Every time one or more palettes are added to the production (/palettes) subfolder in this repository, before they are added, committed and pushed to git, run the `palettesMarkdownGalleries.sh` (detailed further below). This affects changes to be used by updating the SHA_TREE hash of the production palettes folder both need update:
+
+### Environment variables for automated retrieval of random palette
+The script `setEBpalettesEnvVars.sh` updates or sets export commands in ~/.bashrc which allow:
+- retrieval of the contents and file name of any production palette from a local install of this repository (or, via scripting, any random selection from it)
+- retrieval of the contents and file name of a random production palette from the GitHub repository via API call
+
+See comments in that script for details.
+
+Retrieval of a specific palette was previously first done with createPalettesRootDirTXT.sh, which wrote to a file in the home directory, which file contained a path that scripts read. Now that path is stored in an exported variable in ~/.bashrc (and createPalettesRootDirTXT.sh and the file it created, palettesRootDir.txt, are removed and no longer used).
+
+## Scripts that render palettes and galleries
+
+Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are [renderAllHexPalettes.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
+
 ## Markdown galleries
 
 If you're viewing this repository at a web site such as GitHub or other context that renders HTML from the README.md, you may navigate the folders to see previews of palettes (rendered as .png images) via that README. You'll find palettes displayed like the below:
@@ -65,10 +82,6 @@ If you're viewing this repository at a web site such as GitHub or other context 
 There may be sub-subfolder name overlap in those folders, as things of the same topic/project are worked on or referenced.
 
 The reason for Title Case is the intent to make palette names and contents available over the internet via API calls that reference or are derived from this repository, and that naming style is what I prefer for palette reference/display in projects that use these palettes.
-
-## Scripts that render palettes and galleries
-
-Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are [renderAllHexPalettes.sh]( https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
 
 ## Sources of Maths
 
