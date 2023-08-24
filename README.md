@@ -68,9 +68,9 @@ Some scripts I have developed that created the palettes, palette renders and mar
 
 If you're viewing this repository at a web site such as GitHub or other context that renders HTML from the README.md, you may navigate the folders to see previews of palettes (rendered as .png images) via that README. You'll find palettes displayed like the below:
 
-### [`palettes/eb_favorites_v2`](palettes/eb_favorites_v2.hexplt)
+### [`palettes/EB_Favorites_v2`](palettes/EB_Favorites_v2.hexplt)
 
-[ ![palettes/eb_favorites_v2.png](palettes/eb_favorites_v2.png) ](palettes/eb_favorites_v2.png)
+[ ![palettes/EB_Favorites_v2.png](palettes/EB_Favorites_v2.png) ](palettes/EB_Favorites_v2.png)
 
 -- where the title over the image links to the source `.hexplt` file, and the rendered image links to the image file.
 
