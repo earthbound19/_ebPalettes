@@ -34,12 +34,20 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Open_B.png](Open_B.png) ](Open_B.png)
 
-### [`Sublime`](Sublime.hexplt)
+### [`Sublime_A`](Sublime_A.hexplt)
 
-[ ![Sublime.png](Sublime.png) ](Sublime.png)
+[ ![Sublime_A.png](Sublime_A.png) ](Sublime_A.png)
+
+### [`Sublime_B`](Sublime_B.hexplt)
+
+[ ![Sublime_B.png](Sublime_B.png) ](Sublime_B.png)
 
 ### [`Sweet_Sour`](Sweet_Sour.hexplt)
 
 [ ![Sweet_Sour.png](Sweet_Sour.png) ](Sweet_Sour.png)
+
+### [`Tasty`](Tasty.hexplt)
+
+[ ![Tasty.png](Tasty.png) ](Tasty.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
