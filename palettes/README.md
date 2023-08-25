@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`Abstract_Browser_Addon`](Abstract_Browser_Addon.hexplt)
-
-[ ![Abstract_Browser_Addon.png](Abstract_Browser_Addon.png) ](Abstract_Browser_Addon.png)
-
 ### [`Adobe_Swatch_Pure_16`](Adobe_Swatch_Pure_16.hexplt)
 
 [ ![Adobe_Swatch_Pure_16.png](Adobe_Swatch_Pure_16.png) ](Adobe_Swatch_Pure_16.png)
@@ -317,6 +313,14 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Huntington_Library_Botanical_Garden_01`](Huntington_Library_Botanical_Garden_01.hexplt)
 
 [ ![Huntington_Library_Botanical_Garden_01.png](Huntington_Library_Botanical_Garden_01.png) ](Huntington_Library_Botanical_Garden_01.png)
+
+### [`Integration_5-Hues`](Integration_5-Hues.hexplt)
+
+[ ![Integration_5-Hues.png](Integration_5-Hues.png) ](Integration_5-Hues.png)
+
+### [`Integration_9-Hues`](Integration_9-Hues.hexplt)
+
+[ ![Integration_9-Hues.png](Integration_9-Hues.png) ](Integration_9-Hues.png)
 
 ### [`Juniper_Bark_and_Desert_Soil`](Juniper_Bark_and_Desert_Soil.hexplt)
 

@@ -1,0 +1,33 @@
+#8c5eae #9d639f #ae6790 #bf6a7e #d16b6b #de8574 #e99e7e #f5b887 #ffd190 #fcd69d #f9dcaa #f6e1b6 #f3e6c2 #e2edd1 #d0f3e0 #bcf9ee #a5fefc  columns: 17 rows: 17
+#8c5ead #9d639e #ae678f #bf6a7e #d16b6b #de8574 #e99e7e #f5b888 #ffd291 #fcd79e #f9ddab #f7e2b7 #f4e7c3 #e3edd1 #d1f3e0 #bdf9ee #a7fefc
+#8c5dac #9d629e #ae668f #bf697d #d16a6a #de8574 #e99e7f #f5b988 #ffd292 #fcd79f #faddab #f7e2b7 #f4e7c3 #e4eed2 #d2f4e1 #bff9ef #a8fefc
+#8c5dac #9d629d #ae668e #bf697d #d16a6a #de8574 #e99e7f #f5b989 #ffd393 #fdd89f #fadeac #f8e3b8 #f5e8c4 #e5eed2 #d3f4e1 #c0faef #aafefd
+#8c5cab #9d629c #ae668e #bf697c #d16a6a #de8574 #e99f7f #f5b989 #ffd394 #fdd8a0 #fbdead #f8e3b9 #f6e8c4 #e6efd3 #d4f4e1 #c1faef #acfefd
+#8c5caa #9d619c #ae658d #bf687c #d16969 #de8574 #e99f7f #f5ba8a #ffd494 #fdd9a1 #fbdfad #f9e4b9 #f7e9c5 #e7efd3 #d5f5e2 #c3faf0 #adfefd
+#8c5ba9 #9d619b #ae658d #bf687b #d16969 #de8574 #e99f80 #f5ba8a #ffd495 #fddaa2 #fbdfae #f9e5ba #f7eac6 #e8f0d4 #d6f5e2 #c4faf0 #affefd
+#8c5ba8 #9d609a #ae648c #bf677b #d16969 #de8574 #e99f80 #f5ba8b #ffd596 #fddaa3 #fce0af #fae5bb #f8eac6 #e9f0d4 #d7f5e3 #c5faf0 #b1fefd
+#8c5ba7 #9d6099 #ae648b #bf677a #d16969 #de8574 #ea9f80 #f5bb8c #ffd697 #fedba4 #fce0af #fae6bb #f9ebc7 #eaf1d5 #d9f6e3 #c7fbf0 #b2fffe
+#8c5aa7 #9d6099 #ae648b #bf677a #d16868 #de8474 #ea9f80 #f5bb8c #ffd698 #fedca4 #fce1b0 #fbe7bc #faecc8 #eaf1d5 #daf6e3 #c8fbf1 #b4fffe
+#8c5aa6 #9d5f98 #ae638a #bf667a #d16868 #de8474 #ea9f81 #f5bb8d #ffd799 #fedca5 #fde2b1 #fce7bd #faecc8 #ebf1d6 #dbf6e4 #c9fbf1 #b6fffe
+#8c59a5 #9d5f97 #ae638a #bf6679 #d16868 #de8474 #ea9f81 #f5bb8d #ffd79a #fedda6 #fde2b2 #fce8be #fbedc9 #ecf2d6 #dcf6e4 #cbfbf1 #b7fffe
+#8c59a4 #9d5f97 #ae6389 #bf6679 #d16767 #de8474 #eaa081 #f5bc8e #ffd89b #fedda7 #fee3b2 #fde8be #fcedc9 #edf2d7 #ddf7e4 #ccfbf2 #b9fffe
+#8c58a3 #9d5e96 #ae6289 #bf6578 #d16767 #de8474 #eaa081 #f5bc8e #ffd89b #fedea8 #fee3b3 #fde9bf #fdeeca #eef3d7 #def7e5 #cdfbf2 #bafffe
+#8c58a3 #9d5e95 #ae6288 #bf6578 #d16767 #de8474 #eaa082 #f5bc8f #ffd99c #ffdfa8 #fee4b4 #feeac0 #fdefcb #eff3d8 #dff7e5 #cefcf2 #bcffff
+#8c57a2 #9d5d95 #ae6188 #bf6477 #d16666 #de8474 #eaa082 #f5bd8f #ffd99d #ffdfa9 #ffe4b4 #feeac0 #feefcb #f0f4d8 #e0f8e6 #d0fcf3 #bdffff
+#8c57a1 #9d5d94 #ae6187 #bf6477 #d16666 #de8474 #eaa082 #f5bd90 #ffda9e #ffe0aa #ffe5b5 #ffebc1 #fff0cc #f1f4d9 #e1f8e6 #d1fcf3 #bfffff
+
+This palette is an augmentation of palettes originally named Childlike, after perception.io validation keywords from colors.
+
+ChatGPT keyword concept refinement/unification for a subset of these, being 8C59A4, D16868, FFD697, FFF0CC, AFFEFD - re https://chat.openai.com/c/a3258e4a-b94b-484c-b2cb-e84e0d790782
+    transcendent, lighthearted - relation: spiritual
+    lighthearted, giving - relation: generosity
+    giving, respected - relation: esteem
+    respected, transcendent - relation: admiration
+List of Relational Descriptions:
+spiritual, generosity, esteem, admiration
+List of Unifying Words based on those:
+    reverence
+    interconnectedness
+    honor
+
+Inspired by that, I'm naming the palette Integration_5-Hues.hexplt, and an extended (using some of the above colors) variant of it Integration_9-Hues.hexplt

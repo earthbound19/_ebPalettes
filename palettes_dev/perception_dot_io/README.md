@@ -6,14 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Brilliant.png](Brilliant.png) ](Brilliant.png)
 
-### [`Childlike`](Childlike.hexplt)
-
-[ ![Childlike.png](Childlike.png) ](Childlike.png)
-
-### [`Cute`](Cute.hexplt)
-
-[ ![Cute.png](Cute.png) ](Cute.png)
-
 ### [`Friendly`](Friendly.hexplt)
 
 [ ![Friendly.png](Friendly.png) ](Friendly.png)

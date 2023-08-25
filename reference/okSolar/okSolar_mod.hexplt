@@ -1,0 +1,16 @@
+#3a1d29 dark background (base03) from https://meat.io/oksolar, columns: 8, rows: 2 -- modded from okSolor.hexplt with some colors changed this way: alterAllHexpltsOKLAB.sh '-h 135' (hues rotated 135 degrees) -- hues that I find much more pleasant, but at this writing untested for development usability.
+#482734 dark background highlight (base02)
+#7c676f light emphasis, dark secondary (base01)
+#796c71 light foreground (base00)
+#98a8a8 dark foreground (base0)
+#8faaab light secondary, dark emphasis (base1)
+#f1e9d2 light highlight background (base2)
+#fbf7ef light background (base3)
+#ac8300 yellow
+#d56500 orange
+#f23749 red
+#dd459d magenta
+#7d80d1 violet
+#2b90d8 blue
+#00ad4c "cyan"
+#719b00 "green"
