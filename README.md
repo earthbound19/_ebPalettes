@@ -2,11 +2,23 @@
 
 Collection of palettes in `.hexplt` format.
 
+# Markdown galleries
+
+If you're viewing this someplace that renders Markdown from .md files you may navigate the folders to see palettes rendered like below, where the title header links to the source `.hexplt` file, and a click on the image links to the image file:
+
+### [`palettes/EB_Favorites_v2`](palettes/EB_Favorites_v2.hexplt)
+
+[ ![palettes/EB_Favorites_v2.png](palettes/EB_Favorites_v2.png) ](palettes/EB_Favorites_v2.png)
+
+# Technical details
+
+This repository has many .hexplt palette files and .png format renders of them, organized into folders by finalization status, project, etc.
+
 ## .hexplt spec
 
-hexplt stands for "[sRGB] hex palette," which is a text containing sRGB colors in hex format, separated by any other information (such as text or white space). sRGB colors are a # pound symbol (indicating hex), followed by six hex digits, such as #003153. For simplicity I'm going to refer to those as "color codes."
+hexplt stands for "[sRGB] hex palette," which is a text file containing sRGB colors in six-digit hex format, with any other information, such as whitespace, layout comments, and other comments. sRGB colors are expressed in hex by a `#` pound symbol (indicating hex), followed by six hex digits. For example: `#003153`. For simplicity I'm going to refer to those as "color codes."
 
-Because the only strict requirement for the spec is that it contains color codes, they can be in any layout, such as one per line:
+Because the only strict requirement for the .hexplt spec is that it contains color codes, they can be in any layout, such as one per line:
 
     #002147
     #003153
@@ -30,26 +42,26 @@ Or scattered through a text file with other text in between that functions as co
 
 I invented this format, I think, but I wouldn't be surprised if others have done the same. It is for use in creative coding, for example in writing scripts or generative art that operates on or imports lists of colors.
 
-Any text not in the format #HHHHHH (a pound symbol and six hex digits), on the same line as an sRGB hex color code, are functionally comments which scripts and programs that handle this format should ignore.
+In a .hexplt file, any text not in the format #HHHHHH (a pound symbol and six hex digits), anywhere on the same line as an sRGB hex color code or anywhere else, is functionally a comment, which scripts and programs that handle this format should ignore.
 
-Some of my scripts in another repository (_ebDev) at this writing also read and write layout comments and rearrange color codes to match the description, like this, `from cherry_plum_tree_bloom_reduced_03_impression.hexplt`:
+Some of my scripts in another repository (_ebDev) at this writing also read and write layout comments and rearrange color codes in a layout that matches the columns and rows, like this, from `Cherry_Plum_Tree_in_Bloom_Impression_04.hexplt`:
 
-#FFFBEA #FFF0C7 #FFD8F6 #FFC5F9 #FEBFE6 #FFB5CA #FFC7CA #FFBFA1  columns: 8 rows: 8
-#F69CCC #E8A0D1 #EC8CBD #FF8AC3 #FF8596 #DD829D #E17183 #EB5D90
-#FE4375 #F04648 #F45237 #DB5352 #E43C51 #D54621 #BE2F13 #A61631
-#B21044 #A44053 #A3514F #A54E70 #BA3F73 #C74269 #912C4D #8F0C1C
-#862A1E #6F3933 #5E3B33 #6D2722 #691013 #5B1336 #4C1524 #451808
-#311F1F #2E2438 #341028 #380218 #42002D #562949 #393439 #674A73
-#655574 #775565 #62637C #806C83 #5E95AC #A196BD #BE88B2 #C37DA6
-#BF949F #FF775F #FF7C44 #E1681D #944623 #14112D #78B6EF #E1C4FB
+```
+#fffbea #fff0c7 #ffe5be #ffcfaa #ffbfa1 #ffc7ca #ffb5ca #febfe6  columns: 8 rows: 6
+#ffc5f9 #e1c4fb #ffd8f6 #f69ccc #ff8ac3 #ff87a8 #ff8596 #dd829d
+#c37da6 #bf949f #a196bd #5e95ac #78b6ef #806c83 #775565 #655574
+#5e3b33 #562949 #5b1336 #4c1524 #341028 #380218 #311f1f #2e2438
+#14112d #393439 #691013 #862a1e #912c4d #a61631 #b21044 #a44053
+#a3514f #a54e70 #db5352 #f04648 #f45237 #ff775f #ff7c44 #fe4375
+```
 
-If you look at that file at this writing, it actually mixes a comment with that columns and rows descriptor.
+If you look at that file at this writing, it actually mixes a comment with that columns and rows comment.
 
 You can also have color codes in any layout and use a layout comment (or columns and rows descriptor), and a render script I have will honor the intended layout of the layout comment, whatever arrangment the color codes are in.
 
 ## Automation
 
-Every time one or more palettes are added to the production (/palettes) subfolder in this repository, before they are added, committed and pushed to git, run the `palettesMarkdownGalleries.sh` (detailed further below). This affects changes to be used by updating the SHA_TREE hash of the production palettes folder both need update:
+Every time one or more palettes are added to the production (/palettes) subfolder in this repository, before they are added, committed and pushed to git, run the `palettesMarkdownGalleries.sh` script (detailed further below). This has the effect, technically in the git repository (how it works), of updating the SHA_TREE hash of the production palettes folder, which other scripts read to get a current production state of final palettes to select from:
 
 ### Environment variables for automated retrieval of random palette
 The script `setEBpalettesEnvVars.sh` updates or sets export commands in ~/.bashrc which allow:
@@ -58,26 +70,20 @@ The script `setEBpalettesEnvVars.sh` updates or sets export commands in ~/.bashr
 
 See comments in that script for details.
 
-Retrieval of a specific palette was previously first done with createPalettesRootDirTXT.sh, which wrote to a file in the home directory, which file contained a path that scripts read. Now that path is stored in an exported variable in ~/.bashrc (and createPalettesRootDirTXT.sh and the file it created, palettesRootDir.txt, are removed and no longer used).
+Retrieval of a specific palette was previously first done with createPalettesRootDirTXT.sh, which wrote to a file in the home directory, which file contained a path that scripts read. Now that path is stored in an exported variable in `~/.bashrc` (and that former script and a file it used are removed and no longer used).
 
 ## Scripts that render palettes and galleries
 
-Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are [renderAllHexPalettes.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh) and [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh).
+Some scripts I have developed that created the palettes, palette renders and markdown galleries in this repository are:
+- [renderAllHexPalettes.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/renderAllHexPalettes.sh)
+- [palettesMarkdownGalleries.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGalleries.sh)
 
-## Markdown galleries
-
-If you're viewing this repository at a web site such as GitHub or other context that renders HTML from the README.md, you may navigate the folders to see previews of palettes (rendered as .png images) via that README. You'll find palettes displayed like the below:
-
-### [`palettes/EB_Favorites_v2`](palettes/EB_Favorites_v2.hexplt)
-
-[ ![palettes/EB_Favorites_v2.png](palettes/EB_Favorites_v2.png) ](palettes/EB_Favorites_v2.png)
-
--- where the title over the image links to the source `.hexplt` file, and the rendered image links to the image file.
+There are other scripts that handle `.hexplt` files, subject to high flux, addition and removal.
 
 ## Style and File Locations Guide
 
-- Files are named in Title Case with underscores for spaces (Title_Case), and never camelCase, with exceptions.
-- Palette development goes on in the /palettes_dev subfolder. Finalized (approved for use in art or production) palettes are migrated to /palettes. Reference material is in /reference.
+- `.hexplt` files in this repository are named in Title Case with underscores for spaces (Title_Case), and never camelCase, with exceptions.
+- Palette development goes on in the `/palettes_dev` subfolder. Finalized (approved for use in art or production) palettes are migrated to `/palettes`. Reference material is in `/reference`.
 
 There may be sub-subfolder name overlap in those folders, as things of the same topic/project are worked on or referenced.
 
@@ -87,7 +93,7 @@ The reason for Title Case is the intent to make palette names and contents avail
 
 Palettes in this collection are generated randomly and/or made by me, or may be collected from elsewhere.
 
-Where they are collected from elsewhere, I'm careful to avoid intellectual property concerns by referring only to public domain information (such as sources or times), without using any copyrightable or trademarkeable etc. information. The public domain information I use includes the math of what numbers are concerned with what palettes. You can't exert intellectual property control on numbers.
+Where they are collected from elsewhere, I'm careful to avoid intellectual property concerns by referring only to Public Domain information (such as sources or times), without any misuse of intellectual property associated with colors etc. The Public Domain information I use includes the math of what numbers are concerned with what palettes, because you can't exert intellectual property control on numbers.
 
 ## LICENSE
 
