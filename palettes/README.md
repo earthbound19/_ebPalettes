@@ -362,9 +362,13 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Marker-Like_Darks_and_Lights_Looped.png](Marker-Like_Darks_and_Lights_Looped.png) ](Marker-Like_Darks_and_Lights_Looped.png)
 
-### [`Marker-Like_Lights_mod_`](Marker-Like_Lights_mod_.hexplt)
+### [`Marker-Like_Lights_mod`](Marker-Like_Lights_mod.hexplt)
 
-[ ![Marker-Like_Lights_mod_.png](Marker-Like_Lights_mod_.png) ](Marker-Like_Lights_mod_.png)
+[ ![Marker-Like_Lights_mod.png](Marker-Like_Lights_mod.png) ](Marker-Like_Lights_mod.png)
+
+### [`Marker-Like_Lights_mod_HCT_sort`](Marker-Like_Lights_mod_HCT_sort.hexplt)
+
+[ ![Marker-Like_Lights_mod_HCT_sort.png](Marker-Like_Lights_mod_HCT_sort.png) ](Marker-Like_Lights_mod_HCT_sort.png)
 
 ### [`Nasturtium`](Nasturtium.hexplt)
 
