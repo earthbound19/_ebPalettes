@@ -310,6 +310,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Hobby_Art_0001-0003.png](Hobby_Art_0001-0003.png) ](Hobby_Art_0001-0003.png)
 
+### [`Humanae`](Humanae.hexplt)
+
+[ ![Humanae.png](Humanae.png) ](Humanae.png)
+
 ### [`Huntington_Library_Botanical_Garden_01`](Huntington_Library_Botanical_Garden_01.hexplt)
 
 [ ![Huntington_Library_Botanical_Garden_01.png](Huntington_Library_Botanical_Garden_01.png) ](Huntington_Library_Botanical_Garden_01.png)
