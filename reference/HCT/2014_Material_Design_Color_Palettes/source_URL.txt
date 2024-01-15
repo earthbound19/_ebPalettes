@@ -1,0 +1,3 @@
+Copied from the "2014 Material Design color palettes" section of the page at: https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+For the first 16 palettes here (Red, Pink, Purple ... Deep Orange), the last 4 colors are accent colors.
