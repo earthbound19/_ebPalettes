@@ -3,7 +3,7 @@
 
 # USAGE
 # Run from the same directory this script is in as locally invoked (via ./ and not by finding it in any PATH), without any parameters:
-#    ./setBASHRC_palettesTreeHash.sh
+#    ./setEBpalettesEnvVars.sh
 # The reason for that recommendation to invoke it with ./ is that if you don't and you have this folder set up as a junction on Windows, it writes the absolute junction path, which in my setup can cause access/permission problems; but if you call this with ./ it uses the junction source path, not destination, with no access problems.
 
 # CODE
