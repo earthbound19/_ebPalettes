@@ -250,9 +250,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![EB_Favorites_v2_Alt.png](EB_Favorites_v2_Alt.png) ](EB_Favorites_v2_Alt.png)
 
-### [`EB_Favorites_v2_Alt_Sort_2`](EB_Favorites_v2_Alt_Sort_2.hexplt)
+### [`EB_Favorites_v2_Alt_2`](EB_Favorites_v2_Alt_2.hexplt)
 
-[ ![EB_Favorites_v2_Alt_Sort_2.png](EB_Favorites_v2_Alt_Sort_2.png) ](EB_Favorites_v2_Alt_Sort_2.png)
+[ ![EB_Favorites_v2_Alt_2.png](EB_Favorites_v2_Alt_2.png) ](EB_Favorites_v2_Alt_2.png)
 
 ### [`EB_Favorites_v2_Alt_Very_Dark_Alts`](EB_Favorites_v2_Alt_Very_Dark_Alts.hexplt)
 
