@@ -14,6 +14,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Barbenheimer.png](Barbenheimer.png) ](Barbenheimer.png)
 
+### [`Barbenheimer_Augmented_3`](Barbenheimer_Augmented_3.hexplt)
+
+[ ![Barbenheimer_Augmented_3.png](Barbenheimer_Augmented_3.png) ](Barbenheimer_Augmented_3.png)
+
 ### [`Barbie`](Barbie.hexplt)
 
 [ ![Barbie.png](Barbie.png) ](Barbie.png)
