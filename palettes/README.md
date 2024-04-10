@@ -54,10 +54,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Collected_01.png](Collected_01.png) ](Collected_01.png)
 
-### [`Commodore_VIC`](Commodore_VIC.hexplt)
-
-[ ![Commodore_VIC.png](Commodore_VIC.png) ](Commodore_VIC.png)
-
 ### [`Cool_Cats`](Cool_Cats.hexplt)
 
 [ ![Cool_Cats.png](Cool_Cats.png) ](Cool_Cats.png)
@@ -318,10 +314,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Hobby_Art_0001-0003.png](Hobby_Art_0001-0003.png) ](Hobby_Art_0001-0003.png)
 
-### [`Humanae`](Humanae.hexplt)
-
-[ ![Humanae.png](Humanae.png) ](Humanae.png)
-
 ### [`Huntington_Library_Botanical_Garden_01`](Huntington_Library_Botanical_Garden_01.hexplt)
 
 [ ![Huntington_Library_Botanical_Garden_01.png](Huntington_Library_Botanical_Garden_01.png) ](Huntington_Library_Botanical_Garden_01.png)
@@ -502,10 +494,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Still_Life_Apron.png](Still_Life_Apron.png) ](Still_Life_Apron.png)
 
-### [`Subset_of_Collections_01-03_for_Art_Projects`](Subset_of_Collections_01-03_for_Art_Projects.hexplt)
-
-[ ![Subset_of_Collections_01-03_for_Art_Projects.png](Subset_of_Collections_01-03_for_Art_Projects.png) ](Subset_of_Collections_01-03_for_Art_Projects.png)
-
 ### [`Summer_of_Vampires`](Summer_of_Vampires.hexplt)
 
 [ ![Summer_of_Vampires.png](Summer_of_Vampires.png) ](Summer_of_Vampires.png)
@@ -562,10 +550,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Yum_2.png](Yum_2.png) ](Yum_2.png)
 
-### [`12_Wheel`](12_Wheel.hexplt)
-
-[ ![12_Wheel.png](12_Wheel.png) ](12_Wheel.png)
-
 ### [`16_Max_Chroma_Medium_Light`](16_Max_Chroma_Medium_Light.hexplt)
 
 [ ![16_Max_Chroma_Medium_Light.png](16_Max_Chroma_Medium_Light.png) ](16_Max_Chroma_Medium_Light.png)
@@ -589,9 +573,5 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`50s_Machine_Shop_Extended`](50s_Machine_Shop_Extended.hexplt)
 
 [ ![50s_Machine_Shop_Extended.png](50s_Machine_Shop_Extended.png) ](50s_Machine_Shop_Extended.png)
-
-### [`256_Terminal`](256_Terminal.hexplt)
-
-[ ![256_Terminal.png](256_Terminal.png) ](256_Terminal.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
