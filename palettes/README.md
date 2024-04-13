@@ -238,10 +238,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Din_Djarin_Armor.png](Din_Djarin_Armor.png) ](Din_Djarin_Armor.png)
 
-### [`EB_Favorites_v1`](EB_Favorites_v1.hexplt)
-
-[ ![EB_Favorites_v1.png](EB_Favorites_v1.png) ](EB_Favorites_v1.png)
-
 ### [`EB_Favorites_v2`](EB_Favorites_v2.hexplt)
 
 [ ![EB_Favorites_v2.png](EB_Favorites_v2.png) ](EB_Favorites_v2.png)
@@ -358,22 +354,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Magenta_Rose_Zinnia_Deadhead.png](Magenta_Rose_Zinnia_Deadhead.png) ](Magenta_Rose_Zinnia_Deadhead.png)
 
-### [`Marker-Like_BG`](Marker-Like_BG.hexplt)
-
-[ ![Marker-Like_BG.png](Marker-Like_BG.png) ](Marker-Like_BG.png)
-
-### [`Marker-Like_Darks_and_Lights_Looped`](Marker-Like_Darks_and_Lights_Looped.hexplt)
-
-[ ![Marker-Like_Darks_and_Lights_Looped.png](Marker-Like_Darks_and_Lights_Looped.png) ](Marker-Like_Darks_and_Lights_Looped.png)
-
-### [`Marker-Like_Lights_mod`](Marker-Like_Lights_mod.hexplt)
-
-[ ![Marker-Like_Lights_mod.png](Marker-Like_Lights_mod.png) ](Marker-Like_Lights_mod.png)
-
-### [`Marker-Like_Lights_mod_HCT_sort`](Marker-Like_Lights_mod_HCT_sort.hexplt)
-
-[ ![Marker-Like_Lights_mod_HCT_sort.png](Marker-Like_Lights_mod_HCT_sort.png) ](Marker-Like_Lights_mod_HCT_sort.png)
-
 ### [`Nasturtium`](Nasturtium.hexplt)
 
 [ ![Nasturtium.png](Nasturtium.png) ](Nasturtium.png)
@@ -390,21 +370,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Organic_Byproduct_Dyes.png](Organic_Byproduct_Dyes.png) ](Organic_Byproduct_Dyes.png)
 
-### [`Pantone_2015_Womens_Spring_More_Vivid`](Pantone_2015_Womens_Spring_More_Vivid.hexplt)
-
-[ ![Pantone_2015_Womens_Spring_More_Vivid.png](Pantone_2015_Womens_Spring_More_Vivid.png) ](Pantone_2015_Womens_Spring_More_Vivid.png)
-
-### [`Pantone_2015_Womens_Spring_More_Vivid_Alt`](Pantone_2015_Womens_Spring_More_Vivid_Alt.hexplt)
-
-[ ![Pantone_2015_Womens_Spring_More_Vivid_Alt.png](Pantone_2015_Womens_Spring_More_Vivid_Alt.png) ](Pantone_2015_Womens_Spring_More_Vivid_Alt.png)
-
 ### [`Pantone_2015_Womens_Spring_Vivid_Pair`](Pantone_2015_Womens_Spring_Vivid_Pair.hexplt)
 
 [ ![Pantone_2015_Womens_Spring_Vivid_Pair.png](Pantone_2015_Womens_Spring_Vivid_Pair.png) ](Pantone_2015_Womens_Spring_Vivid_Pair.png)
-
-### [`Paradise`](Paradise.hexplt)
-
-[ ![Paradise.png](Paradise.png) ](Paradise.png)
 
 ### [`Perplexing_001`](Perplexing_001.hexplt)
 
@@ -417,10 +385,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Prismacolor_Markers`](Prismacolor_Markers.hexplt)
 
 [ ![Prismacolor_Markers.png](Prismacolor_Markers.png) ](Prismacolor_Markers.png)
-
-### [`RGB_Combos_of_255_127_and_0_Repetition_Allowed`](RGB_Combos_of_255_127_and_0_Repetition_Allowed.hexplt)
-
-[ ![RGB_Combos_of_255_127_and_0_Repetition_Allowed.png](RGB_Combos_of_255_127_and_0_Repetition_Allowed.png) ](RGB_Combos_of_255_127_and_0_Repetition_Allowed.png)
 
 ### [`Recreated_00001_Narmth`](Recreated_00001_Narmth.hexplt)
 
@@ -533,10 +497,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`USA_Soil`](USA_Soil.hexplt)
 
 [ ![USA_Soil.png](USA_Soil.png) ](USA_Soil.png)
-
-### [`Watercolor_Pigments`](Watercolor_Pigments.hexplt)
-
-[ ![Watercolor_Pigments.png](Watercolor_Pigments.png) ](Watercolor_Pigments.png)
 
 ### [`Winter_Sunrise_260ft`](Winter_Sunrise_260ft.hexplt)
 

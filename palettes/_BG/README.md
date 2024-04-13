@@ -58,14 +58,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Magenta_Rose_Zinnia_Deadhead_BG.png](Magenta_Rose_Zinnia_Deadhead_BG.png) ](Magenta_Rose_Zinnia_Deadhead_BG.png)
 
-### [`Paradise_BG`](Paradise_BG.hexplt)
-
-[ ![Paradise_BG.png](Paradise_BG.png) ](Paradise_BG.png)
-
-### [`Paradise_Darks_BG`](Paradise_Darks_BG.hexplt)
-
-[ ![Paradise_Darks_BG.png](Paradise_Darks_BG.png) ](Paradise_Darks_BG.png)
-
 ### [`Plant_Mage_BG`](Plant_Mage_BG.hexplt)
 
 [ ![Plant_Mage_BG.png](Plant_Mage_BG.png) ](Plant_Mage_BG.png)
