@@ -14,9 +14,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Barbenheimer.png](Barbenheimer.png) ](Barbenheimer.png)
 
-### [`Barbenheimer_Augmented_3`](Barbenheimer_Augmented_3.hexplt)
+### [`Barbenheimer_Augmented_2`](Barbenheimer_Augmented_2.hexplt)
 
-[ ![Barbenheimer_Augmented_3.png](Barbenheimer_Augmented_3.png) ](Barbenheimer_Augmented_3.png)
+[ ![Barbenheimer_Augmented_2.png](Barbenheimer_Augmented_2.png) ](Barbenheimer_Augmented_2.png)
 
 ### [`Barbie`](Barbie.hexplt)
 
@@ -378,10 +378,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Perplexing_001.png](Perplexing_001.png) ](Perplexing_001.png)
 
-### [`Plant_Mage`](Plant_Mage.hexplt)
-
-[ ![Plant_Mage.png](Plant_Mage.png) ](Plant_Mage.png)
-
 ### [`Prismacolor_Markers`](Prismacolor_Markers.hexplt)
 
 [ ![Prismacolor_Markers.png](Prismacolor_Markers.png) ](Prismacolor_Markers.png)
@@ -477,10 +473,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Terraformed`](Terraformed.hexplt)
 
 [ ![Terraformed.png](Terraformed.png) ](Terraformed.png)
-
-### [`The_Mystic`](The_Mystic.hexplt)
-
-[ ![The_Mystic.png](The_Mystic.png) ](The_Mystic.png)
 
 ### [`Tiger_Dog_Rabbit`](Tiger_Dog_Rabbit.hexplt)
 
