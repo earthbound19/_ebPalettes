@@ -46,9 +46,9 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H087.906+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H087.906+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H087.906+-4.186.png)
 
-### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279+-4.186.hexplt)
+### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279_etc_single_color_results_consolidated`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279_etc_single_color_results_consolidated.hexplt)
 
-[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279+-4.186.png)
+[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279_etc_single_color_results_consolidated.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279_etc_single_color_results_consolidated.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H096.279_etc_single_color_results_consolidated.png)
 
 ### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H104.651+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H104.651+-4.186.hexplt)
 
@@ -57,22 +57,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H113.023+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H113.023+-4.186.hexplt)
 
 [ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H113.023+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H113.023+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H113.023+-4.186.png)
-
-### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H121.395+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H121.395+-4.186.hexplt)
-
-[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H121.395+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H121.395+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H121.395+-4.186.png)
-
-### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H205.116+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H205.116+-4.186.hexplt)
-
-[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H205.116+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H205.116+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H205.116+-4.186.png)
-
-### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H230.232+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H230.232+-4.186.hexplt)
-
-[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H230.232+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H230.232+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H230.232+-4.186.png)
-
-### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H238.604+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H238.604+-4.186.hexplt)
-
-[ ![Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H238.604+-4.186.png](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H238.604+-4.186.png) ](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H238.604+-4.186.png)
 
 ### [`Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H246.976+-4.186`](Cherry_Plum_Tree_in_Bloom_Impression_Oklab_LCh_H246.976+-4.186.hexplt)
 
