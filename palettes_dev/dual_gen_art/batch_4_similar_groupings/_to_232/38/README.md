@@ -10,8 +10,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![082_5znvtrij_palette.png](082_5znvtrij_palette.png) ](082_5znvtrij_palette.png)
 
-### [`083_avk2b2fh_palette`](083_avk2b2fh_palette.hexplt)
-
-[ ![083_avk2b2fh_palette.png](083_avk2b2fh_palette.png) ](083_avk2b2fh_palette.png)
-
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

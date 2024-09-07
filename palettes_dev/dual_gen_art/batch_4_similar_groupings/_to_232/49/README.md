@@ -2,10 +2,6 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`115_d87qpvri_palette`](115_d87qpvri_palette.hexplt)
-
-[ ![115_d87qpvri_palette.png](115_d87qpvri_palette.png) ](115_d87qpvri_palette.png)
-
 ### [`116_dgjr6fp7_palette`](116_dgjr6fp7_palette.hexplt)
 
 [ ![116_dgjr6fp7_palette.png](116_dgjr6fp7_palette.png) ](116_dgjr6fp7_palette.png)

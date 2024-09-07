@@ -6,10 +6,6 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![151_9vwkym78_palette.png](151_9vwkym78_palette.png) ](151_9vwkym78_palette.png)
 
-### [`152_cjph9rji_palette`](152_cjph9rji_palette.hexplt)
-
-[ ![152_cjph9rji_palette.png](152_cjph9rji_palette.png) ](152_cjph9rji_palette.png)
-
 ### [`153_c7e758xj_palette`](153_c7e758xj_palette.hexplt)
 
 [ ![153_c7e758xj_palette.png](153_c7e758xj_palette.png) ](153_c7e758xj_palette.png)

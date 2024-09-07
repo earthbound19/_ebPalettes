@@ -18,8 +18,4 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![097_57dtdft6_palette.png](097_57dtdft6_palette.png) ](097_57dtdft6_palette.png)
 
-### [`102_3zmr4jw9_palette`](102_3zmr4jw9_palette.hexplt)
-
-[ ![102_3zmr4jw9_palette.png](102_3zmr4jw9_palette.png) ](102_3zmr4jw9_palette.png)
-
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
