@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`27_6bsmdhde`](27_6bsmdhde.hexplt)
+
+[ ![27_6bsmdhde.png](27_6bsmdhde.png) ](27_6bsmdhde.png)
+
 ### [`032_2ugf9jk6_palette`](032_2ugf9jk6_palette.hexplt)
 
 [ ![032_2ugf9jk6_palette.png](032_2ugf9jk6_palette.png) ](032_2ugf9jk6_palette.png)
@@ -21,5 +25,9 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`036_44ajkhsc_palette`](036_44ajkhsc_palette.hexplt)
 
 [ ![036_44ajkhsc_palette.png](036_44ajkhsc_palette.png) ](036_44ajkhsc_palette.png)
+
+### [`063_8dk7bf58_palette`](063_8dk7bf58_palette.hexplt)
+
+[ ![063_8dk7bf58_palette.png](063_8dk7bf58_palette.png) ](063_8dk7bf58_palette.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

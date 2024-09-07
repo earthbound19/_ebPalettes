@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`33_izjkckmt`](33_izjkckmt.hexplt)
+
+[ ![33_izjkckmt.png](33_izjkckmt.png) ](33_izjkckmt.png)
+
 ### [`158_8ckrdvtu_palette`](158_8ckrdvtu_palette.hexplt)
 
 [ ![158_8ckrdvtu_palette.png](158_8ckrdvtu_palette.png) ](158_8ckrdvtu_palette.png)
