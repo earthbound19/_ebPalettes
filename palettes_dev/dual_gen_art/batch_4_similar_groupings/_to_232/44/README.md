@@ -2,20 +2,20 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`103_dzrke5pr_palette`](103_dzrke5pr_palette.hexplt)
+### [`1_P4PAQUS3`](1_P4PAQUS3.hexplt)
 
-[ ![103_dzrke5pr_palette.png](103_dzrke5pr_palette.png) ](103_dzrke5pr_palette.png)
+[ ![1_P4PAQUS3.png](1_P4PAQUS3.png) ](1_P4PAQUS3.png)
 
-### [`104_8rfaes94_palette`](104_8rfaes94_palette.hexplt)
+### [`2_bepap4dz`](2_bepap4dz.hexplt)
 
-[ ![104_8rfaes94_palette.png](104_8rfaes94_palette.png) ](104_8rfaes94_palette.png)
+[ ![2_bepap4dz.png](2_bepap4dz.png) ](2_bepap4dz.png)
 
-### [`105_5n7nb2r3_palette`](105_5n7nb2r3_palette.hexplt)
+### [`3_ZQMjkUbu`](3_ZQMjkUbu.hexplt)
 
-[ ![105_5n7nb2r3_palette.png](105_5n7nb2r3_palette.png) ](105_5n7nb2r3_palette.png)
+[ ![3_ZQMjkUbu.png](3_ZQMjkUbu.png) ](3_ZQMjkUbu.png)
 
-### [`106_akb5bwc5_palette`](106_akb5bwc5_palette.hexplt)
+### [`4_4qrK7QRt`](4_4qrK7QRt.hexplt)
 
-[ ![106_akb5bwc5_palette.png](106_akb5bwc5_palette.png) ](106_akb5bwc5_palette.png)
+[ ![4_4qrK7QRt.png](4_4qrK7QRt.png) ](4_4qrK7QRt.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

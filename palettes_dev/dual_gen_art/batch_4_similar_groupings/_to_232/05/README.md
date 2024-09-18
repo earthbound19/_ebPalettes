@@ -2,44 +2,44 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`21_vrqvm2wn`](21_vrqvm2wn.hexplt)
+### [`01_bvKeAecs`](01_bvKeAecs.hexplt)
 
-[ ![21_vrqvm2wn.png](21_vrqvm2wn.png) ](21_vrqvm2wn.png)
+[ ![01_bvKeAecs.png](01_bvKeAecs.png) ](01_bvKeAecs.png)
 
-### [`22_dyrku6d8`](22_dyrku6d8.hexplt)
+### [`02_3b7ruy3F`](02_3b7ruy3F.hexplt)
 
-[ ![22_dyrku6d8.png](22_dyrku6d8.png) ](22_dyrku6d8.png)
+[ ![02_3b7ruy3F.png](02_3b7ruy3F.png) ](02_3b7ruy3F.png)
 
-### [`026_97tf5dzy_palette`](026_97tf5dzy_palette.hexplt)
+### [`03_sQymy36C`](03_sQymy36C.hexplt)
 
-[ ![026_97tf5dzy_palette.png](026_97tf5dzy_palette.png) ](026_97tf5dzy_palette.png)
+[ ![03_sQymy36C.png](03_sQymy36C.png) ](03_sQymy36C.png)
 
-### [`027_5cuv9dmt_palette`](027_5cuv9dmt_palette.hexplt)
+### [`04_vzxzSJgT`](04_vzxzSJgT.hexplt)
 
-[ ![027_5cuv9dmt_palette.png](027_5cuv9dmt_palette.png) ](027_5cuv9dmt_palette.png)
+[ ![04_vzxzSJgT.png](04_vzxzSJgT.png) ](04_vzxzSJgT.png)
 
-### [`028_328fdp8g_palette`](028_328fdp8g_palette.hexplt)
+### [`05_yRaX794Y`](05_yRaX794Y.hexplt)
 
-[ ![028_328fdp8g_palette.png](028_328fdp8g_palette.png) ](028_328fdp8g_palette.png)
+[ ![05_yRaX794Y.png](05_yRaX794Y.png) ](05_yRaX794Y.png)
 
-### [`029_2pvkfuqv_palette`](029_2pvkfuqv_palette.hexplt)
+### [`06_G3cAYcVQ`](06_G3cAYcVQ.hexplt)
 
-[ ![029_2pvkfuqv_palette.png](029_2pvkfuqv_palette.png) ](029_2pvkfuqv_palette.png)
+[ ![06_G3cAYcVQ.png](06_G3cAYcVQ.png) ](06_G3cAYcVQ.png)
 
-### [`030_58x65fuj_palette`](030_58x65fuj_palette.hexplt)
+### [`07_86j5pyrQ`](07_86j5pyrQ.hexplt)
 
-[ ![030_58x65fuj_palette.png](030_58x65fuj_palette.png) ](030_58x65fuj_palette.png)
+[ ![07_86j5pyrQ.png](07_86j5pyrQ.png) ](07_86j5pyrQ.png)
 
-### [`031_8sr8yjhx_palette`](031_8sr8yjhx_palette.hexplt)
+### [`08_gkxF4BYJ`](08_gkxF4BYJ.hexplt)
 
-[ ![031_8sr8yjhx_palette.png](031_8sr8yjhx_palette.png) ](031_8sr8yjhx_palette.png)
+[ ![08_gkxF4BYJ.png](08_gkxF4BYJ.png) ](08_gkxF4BYJ.png)
 
-### [`37_63k9erme`](37_63k9erme.hexplt)
+### [`09_9jgJRmCq`](09_9jgJRmCq.hexplt)
 
-[ ![37_63k9erme.png](37_63k9erme.png) ](37_63k9erme.png)
+[ ![09_9jgJRmCq.png](09_9jgJRmCq.png) ](09_9jgJRmCq.png)
 
-### [`064_2vzhgav9_palette`](064_2vzhgav9_palette.hexplt)
+### [`10_Vzmwb9nk`](10_Vzmwb9nk.hexplt)
 
-[ ![064_2vzhgav9_palette.png](064_2vzhgav9_palette.png) ](064_2vzhgav9_palette.png)
+[ ![10_Vzmwb9nk.png](10_Vzmwb9nk.png) ](10_Vzmwb9nk.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

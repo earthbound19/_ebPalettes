@@ -2,20 +2,20 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`093_7qhq6t63_palette`](093_7qhq6t63_palette.hexplt)
+### [`1_BNUNzkBX`](1_BNUNzkBX.hexplt)
 
-[ ![093_7qhq6t63_palette.png](093_7qhq6t63_palette.png) ](093_7qhq6t63_palette.png)
+[ ![1_BNUNzkBX.png](1_BNUNzkBX.png) ](1_BNUNzkBX.png)
 
-### [`094_9nt25s8w_palette`](094_9nt25s8w_palette.hexplt)
+### [`2_E2RpUPXm`](2_E2RpUPXm.hexplt)
 
-[ ![094_9nt25s8w_palette.png](094_9nt25s8w_palette.png) ](094_9nt25s8w_palette.png)
+[ ![2_E2RpUPXm.png](2_E2RpUPXm.png) ](2_E2RpUPXm.png)
 
-### [`096_d9n8wiiy_palette`](096_d9n8wiiy_palette.hexplt)
+### [`3_GjXfNYHD`](3_GjXfNYHD.hexplt)
 
-[ ![096_d9n8wiiy_palette.png](096_d9n8wiiy_palette.png) ](096_d9n8wiiy_palette.png)
+[ ![3_GjXfNYHD.png](3_GjXfNYHD.png) ](3_GjXfNYHD.png)
 
-### [`097_57dtdft6_palette`](097_57dtdft6_palette.hexplt)
+### [`4_vTt2nExq`](4_vTt2nExq.hexplt)
 
-[ ![097_57dtdft6_palette.png](097_57dtdft6_palette.png) ](097_57dtdft6_palette.png)
+[ ![4_vTt2nExq.png](4_vTt2nExq.png) ](4_vTt2nExq.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -2,28 +2,28 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`054_2wikdu79_palette`](054_2wikdu79_palette.hexplt)
+### [`1_j4yA7HXn`](1_j4yA7HXn.hexplt)
 
-[ ![054_2wikdu79_palette.png](054_2wikdu79_palette.png) ](054_2wikdu79_palette.png)
+[ ![1_j4yA7HXn.png](1_j4yA7HXn.png) ](1_j4yA7HXn.png)
 
-### [`055_2vhpez53_palette`](055_2vhpez53_palette.hexplt)
+### [`2_pYdy2FRV`](2_pYdy2FRV.hexplt)
 
-[ ![055_2vhpez53_palette.png](055_2vhpez53_palette.png) ](055_2vhpez53_palette.png)
+[ ![2_pYdy2FRV.png](2_pYdy2FRV.png) ](2_pYdy2FRV.png)
 
-### [`056_87j2ukav_palette`](056_87j2ukav_palette.hexplt)
+### [`3_UrYVkPcR`](3_UrYVkPcR.hexplt)
 
-[ ![056_87j2ukav_palette.png](056_87j2ukav_palette.png) ](056_87j2ukav_palette.png)
+[ ![3_UrYVkPcR.png](3_UrYVkPcR.png) ](3_UrYVkPcR.png)
 
-### [`057_4i5n6k4h_palette`](057_4i5n6k4h_palette.hexplt)
+### [`4_m2k5EMfJ`](4_m2k5EMfJ.hexplt)
 
-[ ![057_4i5n6k4h_palette.png](057_4i5n6k4h_palette.png) ](057_4i5n6k4h_palette.png)
+[ ![4_m2k5EMfJ.png](4_m2k5EMfJ.png) ](4_m2k5EMfJ.png)
 
-### [`058_e37arpjp_palette`](058_e37arpjp_palette.hexplt)
+### [`5_TznGJVhC`](5_TznGJVhC.hexplt)
 
-[ ![058_e37arpjp_palette.png](058_e37arpjp_palette.png) ](058_e37arpjp_palette.png)
+[ ![5_TznGJVhC.png](5_TznGJVhC.png) ](5_TznGJVhC.png)
 
-### [`059_3g8znddr_palette`](059_3g8znddr_palette.hexplt)
+### [`6_DFRjGrKR`](6_DFRjGrKR.hexplt)
 
-[ ![059_3g8znddr_palette.png](059_3g8znddr_palette.png) ](059_3g8znddr_palette.png)
+[ ![6_DFRjGrKR.png](6_DFRjGrKR.png) ](6_DFRjGrKR.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

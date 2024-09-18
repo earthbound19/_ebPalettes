@@ -2,12 +2,12 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`23_hzim3t25`](23_hzim3t25.hexplt)
+### [`1_T6xxMpNu`](1_T6xxMpNu.hexplt)
 
-[ ![23_hzim3t25.png](23_hzim3t25.png) ](23_hzim3t25.png)
+[ ![1_T6xxMpNu.png](1_T6xxMpNu.png) ](1_T6xxMpNu.png)
 
-### [`24_26dxmxxm`](24_26dxmxxm.hexplt)
+### [`2_jtewwpBA`](2_jtewwpBA.hexplt)
 
-[ ![24_26dxmxxm.png](24_26dxmxxm.png) ](24_26dxmxxm.png)
+[ ![2_jtewwpBA.png](2_jtewwpBA.png) ](2_jtewwpBA.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

@@ -2,20 +2,20 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`037_3qhi9mtv_palette`](037_3qhi9mtv_palette.hexplt)
+### [`1_Mz4FNbfy`](1_Mz4FNbfy.hexplt)
 
-[ ![037_3qhi9mtv_palette.png](037_3qhi9mtv_palette.png) ](037_3qhi9mtv_palette.png)
+[ ![1_Mz4FNbfy.png](1_Mz4FNbfy.png) ](1_Mz4FNbfy.png)
 
-### [`038_aja2aihm_palette`](038_aja2aihm_palette.hexplt)
+### [`2_Xr7jYsCQ`](2_Xr7jYsCQ.hexplt)
 
-[ ![038_aja2aihm_palette.png](038_aja2aihm_palette.png) ](038_aja2aihm_palette.png)
+[ ![2_Xr7jYsCQ.png](2_Xr7jYsCQ.png) ](2_Xr7jYsCQ.png)
 
-### [`039_7xs5h8d9_palette`](039_7xs5h8d9_palette.hexplt)
+### [`3_QD957HGu`](3_QD957HGu.hexplt)
 
-[ ![039_7xs5h8d9_palette.png](039_7xs5h8d9_palette.png) ](039_7xs5h8d9_palette.png)
+[ ![3_QD957HGu.png](3_QD957HGu.png) ](3_QD957HGu.png)
 
-### [`040_75ay5i9p_palette`](040_75ay5i9p_palette.hexplt)
+### [`4_mCCTSBYU`](4_mCCTSBYU.hexplt)
 
-[ ![040_75ay5i9p_palette.png](040_75ay5i9p_palette.png) ](040_75ay5i9p_palette.png)
+[ ![4_mCCTSBYU.png](4_mCCTSBYU.png) ](4_mCCTSBYU.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

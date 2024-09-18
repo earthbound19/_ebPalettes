@@ -2,16 +2,16 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`142_8rnubtxu_palette`](142_8rnubtxu_palette.hexplt)
+### [`1_DfHVYz7a`](1_DfHVYz7a.hexplt)
 
-[ ![142_8rnubtxu_palette.png](142_8rnubtxu_palette.png) ](142_8rnubtxu_palette.png)
+[ ![1_DfHVYz7a.png](1_DfHVYz7a.png) ](1_DfHVYz7a.png)
 
-### [`143_4yf9u9e6_palette`](143_4yf9u9e6_palette.hexplt)
+### [`2_4E5jRtBx`](2_4E5jRtBx.hexplt)
 
-[ ![143_4yf9u9e6_palette.png](143_4yf9u9e6_palette.png) ](143_4yf9u9e6_palette.png)
+[ ![2_4E5jRtBx.png](2_4E5jRtBx.png) ](2_4E5jRtBx.png)
 
-### [`144_4u66b5un_palette`](144_4u66b5un_palette.hexplt)
+### [`3_EkNXsxh4`](3_EkNXsxh4.hexplt)
 
-[ ![144_4u66b5un_palette.png](144_4u66b5un_palette.png) ](144_4u66b5un_palette.png)
+[ ![3_EkNXsxh4.png](3_EkNXsxh4.png) ](3_EkNXsxh4.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).

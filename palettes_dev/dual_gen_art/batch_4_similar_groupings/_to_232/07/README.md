@@ -2,20 +2,20 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
-### [`46_ztap4c6h`](46_ztap4c6h.hexplt)
+### [`1_h9gttJM9`](1_h9gttJM9.hexplt)
 
-[ ![46_ztap4c6h.png](46_ztap4c6h.png) ](46_ztap4c6h.png)
+[ ![1_h9gttJM9.png](1_h9gttJM9.png) ](1_h9gttJM9.png)
 
-### [`187_97typkyv_palette`](187_97typkyv_palette.hexplt)
+### [`2_RRQTwAvq`](2_RRQTwAvq.hexplt)
 
-[ ![187_97typkyv_palette.png](187_97typkyv_palette.png) ](187_97typkyv_palette.png)
+[ ![2_RRQTwAvq.png](2_RRQTwAvq.png) ](2_RRQTwAvq.png)
 
-### [`188_59wa5reg_palette`](188_59wa5reg_palette.hexplt)
+### [`3_YS44aAPE`](3_YS44aAPE.hexplt)
 
-[ ![188_59wa5reg_palette.png](188_59wa5reg_palette.png) ](188_59wa5reg_palette.png)
+[ ![3_YS44aAPE.png](3_YS44aAPE.png) ](3_YS44aAPE.png)
 
-### [`189_9etix872_palette`](189_9etix872_palette.hexplt)
+### [`4_DaZCneP2`](4_DaZCneP2.hexplt)
 
-[ ![189_9etix872_palette.png](189_9etix872_palette.png) ](189_9etix872_palette.png)
+[ ![4_DaZCneP2.png](4_DaZCneP2.png) ](4_DaZCneP2.png)
 
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
