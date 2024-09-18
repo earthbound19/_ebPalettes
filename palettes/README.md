@@ -534,4 +534,8 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![50s_Machine_Shop_Extended.png](50s_Machine_Shop_Extended.png) ](50s_Machine_Shop_Extended.png)
 
+### [`70s_curtains_gold_and_white`](70s_curtains_gold_and_white.hexplt)
+
+[ ![70s_curtains_gold_and_white.png](70s_curtains_gold_and_white.png) ](70s_curtains_gold_and_white.png)
+
 Created with [palettesMarkdownGallery.sh](https://github.com/earthbound19/_ebDev/blob/master/scripts/imgAndVideo/palettesMarkdownGallery.sh).
