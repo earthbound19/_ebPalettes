@@ -2,4 +2,5 @@ paletteDifferenceRankings.txt
 paletteDifferencesBelowThreshold.txt
 deletePalettesDifferentBelowThresholdLog.txt
 similar_palettes_deleted.txt
+palettesListByMostSimilar.txt
 Thumbs.db
