@@ -518,6 +518,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![16_Max_Chroma_Medium_Light_More_Lively_Greens.png](16_Max_Chroma_Medium_Light_More_Lively_Greens.png) ](16_Max_Chroma_Medium_Light_More_Lively_Greens.png)
 
+### [`29_Max_Chroma`](29_Max_Chroma.hexplt)
+
+[ ![29_Max_Chroma.png](29_Max_Chroma.png) ](29_Max_Chroma.png)
+
 ### [`32_Max_Chroma_Medium_Light`](32_Max_Chroma_Medium_Light.hexplt)
 
 [ ![32_Max_Chroma_Medium_Light.png](32_Max_Chroma_Medium_Light.png) ](32_Max_Chroma_Medium_Light.png)
