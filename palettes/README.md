@@ -50,6 +50,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Butter_and_Light_Jade.png](Butter_and_Light_Jade.png) ](Butter_and_Light_Jade.png)
 
+### [`Candy_Shop`](Candy_Shop.hexplt)
+
+[ ![Candy_Shop.png](Candy_Shop.png) ](Candy_Shop.png)
+
 ### [`Collected_01`](Collected_01.hexplt)
 
 [ ![Collected_01.png](Collected_01.png) ](Collected_01.png)
