@@ -370,6 +370,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Old_Glory.png](Old_Glory.png) ](Old_Glory.png)
 
+### [`Old_Glory_More_Vibrant`](Old_Glory_More_Vibrant.hexplt)
+
+[ ![Old_Glory_More_Vibrant.png](Old_Glory_More_Vibrant.png) ](Old_Glory_More_Vibrant.png)
+
 ### [`Oppenheimer`](Oppenheimer.hexplt)
 
 [ ![Oppenheimer.png](Oppenheimer.png) ](Oppenheimer.png)
