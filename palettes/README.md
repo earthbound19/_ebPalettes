@@ -366,6 +366,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Old_3D_Glasses.png](Old_3D_Glasses.png) ](Old_3D_Glasses.png)
 
+### [`Old_Glory`](Old_Glory.hexplt)
+
+[ ![Old_Glory.png](Old_Glory.png) ](Old_Glory.png)
+
 ### [`Oppenheimer`](Oppenheimer.hexplt)
 
 [ ![Oppenheimer.png](Oppenheimer.png) ](Oppenheimer.png)
@@ -393,10 +397,6 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Recreated_00001_Narmth`](Recreated_00001_Narmth.hexplt)
 
 [ ![Recreated_00001_Narmth.png](Recreated_00001_Narmth.png) ](Recreated_00001_Narmth.png)
-
-### [`Red_White_and_Blue`](Red_White_and_Blue.hexplt)
-
-[ ![Red_White_and_Blue.png](Red_White_and_Blue.png) ](Red_White_and_Blue.png)
 
 ### [`Rusty_Vintage_Vehicle`](Rusty_Vintage_Vehicle.hexplt)
 
