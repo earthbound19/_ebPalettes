@@ -466,6 +466,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sparkle_Heart_Reduced_Faded.png](Sparkle_Heart_Reduced_Faded.png) ](Sparkle_Heart_Reduced_Faded.png)
 
+### [`Sparkle_Heart_Reduced_and_Faded_Yum_Custom`](Sparkle_Heart_Reduced_and_Faded_Yum_Custom.hexplt)
+
+[ ![Sparkle_Heart_Reduced_and_Faded_Yum_Custom.png](Sparkle_Heart_Reduced_and_Faded_Yum_Custom.png) ](Sparkle_Heart_Reduced_and_Faded_Yum_Custom.png)
+
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
 [ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
