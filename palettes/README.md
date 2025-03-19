@@ -458,6 +458,14 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Sparkle_Heart.png](Sparkle_Heart.png) ](Sparkle_Heart.png)
 
+### [`Sparkle_Heart_Reduced`](Sparkle_Heart_Reduced.hexplt)
+
+[ ![Sparkle_Heart_Reduced.png](Sparkle_Heart_Reduced.png) ](Sparkle_Heart_Reduced.png)
+
+### [`Sparkle_Heart_Reduced_Faded`](Sparkle_Heart_Reduced_Faded.hexplt)
+
+[ ![Sparkle_Heart_Reduced_Faded.png](Sparkle_Heart_Reduced_Faded.png) ](Sparkle_Heart_Reduced_Faded.png)
+
 ### [`Stickers_00001`](Stickers_00001.hexplt)
 
 [ ![Stickers_00001.png](Stickers_00001.png) ](Stickers_00001.png)
