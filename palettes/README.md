@@ -518,6 +518,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![USA_Soil.png](USA_Soil.png) ](USA_Soil.png)
 
+### [`USA_Southwest`](USA_Southwest.hexplt)
+
+[ ![USA_Southwest.png](USA_Southwest.png) ](USA_Southwest.png)
+
 ### [`Winter_Sunrise_260ft`](Winter_Sunrise_260ft.hexplt)
 
 [ ![Winter_Sunrise_260ft.png](Winter_Sunrise_260ft.png) ](Winter_Sunrise_260ft.png)
