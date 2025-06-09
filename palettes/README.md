@@ -402,6 +402,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Recreated_00001_Narmth.png](Recreated_00001_Narmth.png) ](Recreated_00001_Narmth.png)
 
+### [`Rune_of_Growth_Rainbow`](Rune_of_Growth_Rainbow.hexplt)
+
+[ ![Rune_of_Growth_Rainbow.png](Rune_of_Growth_Rainbow.png) ](Rune_of_Growth_Rainbow.png)
+
 ### [`Rusty_Vintage_Vehicle`](Rusty_Vintage_Vehicle.hexplt)
 
 [ ![Rusty_Vintage_Vehicle.png](Rusty_Vintage_Vehicle.png) ](Rusty_Vintage_Vehicle.png)
