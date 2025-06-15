@@ -1,4 +1,4 @@
-#110f10 columns 47, rows 47
+#110f10 columns 47, rows 47. Project state 2024-01-10, sorted in HCT space starting on Black. 2,196 colors. (Previously mistakenly given as more, but now _correctly_ deduplicated.) These are all the human skin colors which I could find from the Humanae project (portraits of people around the world improbably reducing their skin to one color based on the bridge of their nose), sorted in HCT color space starting on Black. I did some web scraping to find all the images I could from the project, then a lot of automation and sorting to sample, de-duplicate and sort the colors these portraits were reduced to by the photographer. I share this notwithstanding that I strongly suspect the sample is highly skewed.
 #121212
 #14110c
 #29201b
