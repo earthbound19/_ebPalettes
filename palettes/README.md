@@ -526,6 +526,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![USA_Southwest.png](USA_Southwest.png) ](USA_Southwest.png)
 
+### [`USA_Southwest_Vivid`](USA_Southwest_Vivid.hexplt)
+
+[ ![USA_Southwest_Vivid.png](USA_Southwest_Vivid.png) ](USA_Southwest_Vivid.png)
+
 ### [`Winter_Sunrise_260ft`](Winter_Sunrise_260ft.hexplt)
 
 [ ![Winter_Sunrise_260ft.png](Winter_Sunrise_260ft.png) ](Winter_Sunrise_260ft.png)
