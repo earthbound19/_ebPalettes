@@ -126,6 +126,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Craft_Paper_00023.png](Craft_Paper_00023.png) ](Craft_Paper_00023.png)
 
+### [`Craft_Paper_00023_Abridged`](Craft_Paper_00023_Abridged.hexplt)
+
+[ ![Craft_Paper_00023_Abridged.png](Craft_Paper_00023_Abridged.png) ](Craft_Paper_00023_Abridged.png)
+
 ### [`Craft_Paper_00024`](Craft_Paper_00024.hexplt)
 
 [ ![Craft_Paper_00024.png](Craft_Paper_00024.png) ](Craft_Paper_00024.png)
@@ -541,6 +545,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`Yum_2`](Yum_2.hexplt)
 
 [ ![Yum_2.png](Yum_2.png) ](Yum_2.png)
+
+### [`08_2x_Red_Oranges_Abridged`](08_2x_Red_Oranges_Abridged.hexplt)
+
+[ ![08_2x_Red_Oranges_Abridged.png](08_2x_Red_Oranges_Abridged.png) ](08_2x_Red_Oranges_Abridged.png)
 
 ### [`16_Max_Chroma_Medium_Light`](16_Max_Chroma_Medium_Light.hexplt)
 
