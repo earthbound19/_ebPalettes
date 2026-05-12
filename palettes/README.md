@@ -362,6 +362,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Magenta_Rose_Zinnia_Deadhead.png](Magenta_Rose_Zinnia_Deadhead.png) ](Magenta_Rose_Zinnia_Deadhead.png)
 
+### [`Mondrian_ROYW-BLA-BLU-DRAB-GRAY`](Mondrian_ROYW-BLA-BLU-DRAB-GRAY.hexplt)
+
+[ ![Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png](Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png) ](Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png)
+
 ### [`Nasturtium`](Nasturtium.hexplt)
 
 [ ![Nasturtium.png](Nasturtium.png) ](Nasturtium.png)

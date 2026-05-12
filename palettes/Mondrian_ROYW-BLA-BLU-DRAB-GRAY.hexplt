@@ -1,0 +1,17 @@
+These are my best guesses at possible colors used in Piet Mondrian's paintings, based on looking closely at various poorly or well-done photographs of them, and eye white balancing them and toying with color pickers etc. Palette v1 completed 2026/05/11 22:25:03
+columns: 4
+#f22a27 Mondrian Red v2, tweaked in okhsv picker from v1
+e84a30 Mondrian Red v1, derived from hand-pick of composition-a-1920-mondrian-90x91-1_adj, then eyeball adjusted in okhsv picker
+    hist.: ff8c00 Mondrian Orange attempt; discarded: from HCT interpolation between ~Red and ~Yellow
+    hist.: f3932f Mondrian Orange attempt; discarded: hand picked in okhsv picker
+    hist.: f79f23 Mondrian Orange v1; from okhsv interpolation between ~Red v1 and ~Yellow
+#f89027 Mondrian Orange v2; from okhsv interpolation between ~Red v2 and ~Yellow
+#ffcf30 Mondrian Yellow, sampled from hand-white-balanced / sat. Tableau_I_by_Piet_Mondriaan_adj_v2.kra
+    hist.: f6efee Mondrian White v1, sampled from hand-white-balanced / sat. Tableau_I_by_Piet_Mondriaan_adj_v2.kra
+#f6f6f6 Mondrian White v2, hue-shifted from v1 to the same "hue" as Mondrian Blue v2, then totally desaturated, in okhsv
+#050506 Mondrian Black, derived by shading Mondrian Blue in okhsv space
+    hist.: 1c209a Mondrian Blue v1, sampled from hand-white-balanced / sat. Tableau_I_by_Piet_Mondriaan_adj_v2.kra
+#0f0c9b Mondrian Blue v2, eyeball tweaked from v1 in okhsv picker
+#5168a3 Mondrian Drab Blue, maybe similar to a color he used in one painting, too poorly photographed to get a good idea of it, guessed by okhsv interpolation between Mondrian Gray and Mondrian Blue
+    hist.: 777271 Mondrian Gray attempt, average of interpolation of ~White and Black in HCT and okhsv spaces (both were almost exactly the same
+#b1b1b1 Mondrian Gray, eyeballed from Piet-Mondrian-Artworks.webp and Piet-Mondrian-and-De-Stijl.webp looking at an okhsv color picker
