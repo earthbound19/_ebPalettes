@@ -2,6 +2,10 @@
 
 Click any image to go to the source image; the text line above the image to go to the source .hexplt file.
 
+### [`Abstract_Browser_Addon`](Abstract_Browser_Addon.hexplt)
+
+[ ![Abstract_Browser_Addon.png](Abstract_Browser_Addon.png) ](Abstract_Browser_Addon.png)
+
 ### [`Commodore_VIC`](Commodore_VIC.hexplt)
 
 [ ![Commodore_VIC.png](Commodore_VIC.png) ](Commodore_VIC.png)
@@ -61,6 +65,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`12_Wheel_source_unknown`](12_Wheel_source_unknown.hexplt)
 
 [ ![12_Wheel_source_unknown.png](12_Wheel_source_unknown.png) ](12_Wheel_source_unknown.png)
+
+### [`29_Max_Chroma`](29_Max_Chroma.hexplt)
+
+[ ![29_Max_Chroma.png](29_Max_Chroma.png) ](29_Max_Chroma.png)
 
 ### [`256_Terminal`](256_Terminal.hexplt)
 

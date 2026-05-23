@@ -366,6 +366,10 @@ Click any image to go to the source image; the text line above the image to go t
 
 [ ![Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png](Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png) ](Mondrian_ROYW-BLA-BLU-DRAB-GRAY.png)
 
+### [`Murky_Plant_Mage`](Murky_Plant_Mage.hexplt)
+
+[ ![Murky_Plant_Mage.png](Murky_Plant_Mage.png) ](Murky_Plant_Mage.png)
+
 ### [`Nasturtium`](Nasturtium.hexplt)
 
 [ ![Nasturtium.png](Nasturtium.png) ](Nasturtium.png)
@@ -573,6 +577,10 @@ Click any image to go to the source image; the text line above the image to go t
 ### [`32_Max_Chroma_Medium_Light_More_Lively_Greens`](32_Max_Chroma_Medium_Light_More_Lively_Greens.hexplt)
 
 [ ![32_Max_Chroma_Medium_Light_More_Lively_Greens.png](32_Max_Chroma_Medium_Light_More_Lively_Greens.png) ](32_Max_Chroma_Medium_Light_More_Lively_Greens.png)
+
+### [`32_Max_Chroma_Medium_Light_Tropical_Subset`](32_Max_Chroma_Medium_Light_Tropical_Subset.hexplt)
+
+[ ![32_Max_Chroma_Medium_Light_Tropical_Subset.png](32_Max_Chroma_Medium_Light_Tropical_Subset.png) ](32_Max_Chroma_Medium_Light_Tropical_Subset.png)
 
 ### [`50s_Machine_Shop`](50s_Machine_Shop.hexplt)
 
