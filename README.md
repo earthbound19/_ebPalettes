@@ -64,13 +64,15 @@ You can also have color codes in any layout and use a layout comment (or columns
 Every time one or more palettes are added to the production (/palettes) subfolder in this repository, before they are added, committed and pushed to git, run the `palettesMarkdownGalleries.sh` script (detailed further below). This has the effect, technically in the git repository (how it works), of updating the SHA_TREE hash of the production palettes folder, which other scripts read to get a current production state of final palettes to select from:
 
 ### Environment variables for automated retrieval of random palette
-The script `setEBpalettesEnvVars.sh` updates or sets export commands in ~/.bashrc which allow:
+The script `setEBpalettesEnvVars.sh` updates or sets export commands in ~/.bashrc (for any setup that uses those, such as linux or MSYS2 bash), which allow:
 - retrieval of the contents and file name of any production palette from a local install of this repository (or, via scripting, any random selection from it)
 - retrieval of the contents and file name of a random production palette from the GitHub repository via API call
 
 See comments in that script for details.
 
 Retrieval of a specific palette was previously first done with createPalettesRootDirTXT.sh, which wrote to a file in the home directory, which file contained a path that scripts read. Now that path is stored in an exported variable in `~/.bashrc` (and that former script and a file it used are removed and no longer used).
+
+The script `setEBpalettesEnvVars.bat` does the same for Windows cmd / system environment.
 
 ## Scripts that render palettes and galleries
 
@@ -83,7 +85,7 @@ There are other scripts that handle `.hexplt` files, subject to high flux, addit
 ## Style and File Locations Guide
 
 - `.hexplt` files in this repository are named in Title Case with underscores for spaces (Title_Case), and never camelCase, with exceptions.
-- Palette development goes on in the `/palettes_dev` subfolder. Finalized (approved for use in art or production) palettes are migrated to `/palettes`. Reference material is in `/reference`.
+- Palette development and other things go in the `/palettes_dev_and_reference` subfolder. Finalized (approved for use in art or production) palettes are migrated to `/palettes`.
 
 There may be sub-subfolder name overlap in those folders, as things of the same topic/project are worked on or referenced.
 
